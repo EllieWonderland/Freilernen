@@ -153,7 +153,7 @@ function seiteStart() {
   const tiles = FAECHER.map(f => f.datei
     ? `<a class="tile" style="--c:${f.farbe}" href="#/fach/${f.id}"><span class="sym">${f.sym}</span><span class="name">${esc(f.name)}</span></a>`
     : `<div class="tile soon" style="--c:${f.farbe}" aria-disabled="true"><span class="sym">${f.sym}</span><span><span class="name">${esc(f.name)}</span><br><span class="muted">kommt bald</span></span></div>`
-  ).join("");
+  ).join("") + `<a class="tile finden" href="#/finden"><span class="sym">🎲</span><span class="name">Thema finden</span></a>`;
   app.innerHTML = `
     <div class="topbar"><h1>Freilernen</h1><a class="iconbtn" href="#/einstellungen" aria-label="Einstellungen">⚙︎</a></div>
     <section class="card week">
@@ -329,6 +329,140 @@ async function seiteEinstellungen() {
   });
 }
 
+/* ---------- Thema finden ---------- */
+async function alleThemen() {
+  const ds = await Promise.all(FAECHER.filter(f => f.datei).map(f => ladeFach(f.id)));
+  return ds.filter(Boolean).flatMap(d => d.themen.map(t => ({ t, fach: d })));
+}
+const istBereit = x => !istFertig(x.t.id) && !offeneVorstufen(x.fach, x.t).length;
+const zufall = arr => arr[Math.floor(Math.random() * arr.length)];
+const wenigBewegung = () => window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+
+function vorschlag(x) {
+  const m = x.fach.meta;
+  return `<a class="topic" href="#/thema/${x.t.fach}/${x.t.id}">${marker(x.fach, x.t)}<span class="txt"><span class="t">${esc(x.t.titel)}</span><br><span class="s">${m.sym} ${esc(m.name)} · ${esc(x.t.satz)}</span></span></a>`;
+}
+
+function seiteFinden() {
+  app.innerHTML = `
+    <div class="topbar"><a class="iconbtn" href="#/" aria-label="Zurück">←</a><h1>Thema finden</h1></div>
+    <section class="card">
+      <h2 style="margin-top:0">🎲 Überrasch mich</h2>
+      <p class="muted">Alle Themen wirbeln durch, und am Ende bleibt eins stehen, das du noch nicht abgehakt hast.</p>
+      <div class="spin" id="spin" aria-live="polite"><span class="spin-sym">🎲</span><span class="spin-t">Drück auf den Knopf!</span></div>
+      <button class="primary" id="drehen">Los geht's!</button>
+      <div id="ergebnis"></div>
+    </section>
+    <section class="card" style="margin-top:16px">
+      <h2 style="margin-top:0">💬 Was passt heute zu mir?</h2>
+      <p class="muted">Beantworte ein paar kurze Fragen, dann bekommst du Vorschläge, die zu deiner Laune passen.</p>
+      <p style="margin-top:12px"><a class="secondary" href="#/finden/fragen" style="display:inline-block;text-decoration:none;color:var(--text)">Fragen starten</a></p>
+    </section>`;
+  const knopf = document.getElementById("drehen");
+  knopf.addEventListener("click", async () => {
+    knopf.disabled = true;
+    document.getElementById("ergebnis").innerHTML = "";
+    const alle = await alleThemen();
+    const offen = alle.filter(x => !istFertig(x.t.id));
+    const spin = document.getElementById("spin");
+    if (!offen.length) {
+      spin.innerHTML = `<span class="spin-sym">🏆</span><span class="spin-t">Du hast alle Themen abgehakt!</span>`;
+      knopf.disabled = false;
+      return;
+    }
+    const bereit = offen.filter(istBereit);
+    const ziel = zufall(bereit.length ? bereit : offen);
+    const zeige = x => { spin.style.setProperty("--c", x.fach.meta.farbe); spin.innerHTML = `<span class="spin-sym">${x.fach.meta.sym}</span><span class="spin-t">${esc(x.t.titel)}</span>`; };
+    const schritte = wenigBewegung() ? 0 : 26;
+    spin.classList.add("dreht");
+    for (let i = 0; i < schritte; i++) {
+      zeige(zufall(alle));
+      await new Promise(r => setTimeout(r, 45 + i * i * 0.6));
+    }
+    zeige(ziel);
+    spin.classList.remove("dreht");
+    spin.classList.add("stopp");
+    setTimeout(() => spin.classList.remove("stopp"), 600);
+    document.getElementById("ergebnis").innerHTML = `
+      <p style="margin:14px 0 8px"><strong>Wie wär's damit?</strong></p>
+      ${vorschlag(ziel)}`;
+    knopf.textContent = "Nochmal drehen";
+    knopf.disabled = false;
+  });
+}
+
+const FRAGEN = [
+  { key: "lust", frage: "Worauf hast du heute Lust?", optionen: [
+    ["🔢 Zahlen und Knobeln", ["mathe"]],
+    ["📖 Lesen, Schreiben, Geschichten", ["deutsch"]],
+    ["🗣️ Andere Sprachen", ["englisch", "spanisch"]],
+    ["🔬 Natur und Experimente", ["nawi"]],
+    ["🌍 Menschen, Länder und früher", ["gl"]],
+    ["🎵 Musik", ["musik"]],
+    ["🤷 Weiß nicht, alles ist okay", null]] },
+  { key: "kopf", frage: "Wie fühlt sich dein Kopf gerade an?", optionen: [
+    ["⚡ Hellwach, ich will was Kniffliges", "schwer"],
+    ["🙂 Ganz normal", null],
+    ["😴 Eher müde, lieber was Leichtes", "leicht"]] },
+  { key: "weg", frage: "Wie möchtest du heute lernen?", optionen: [
+    ["▶️ Mit einem Video", "video"],
+    ["✏️ Lesen und selbst ausprobieren", null],
+    ["🤷 Egal", null]] },
+  { key: "neu", frage: "Was ist dir heute lieber?", optionen: [
+    ["🔁 Weitermachen, wo ich schon angefangen habe", "weiter"],
+    ["✨ Etwas ganz Neues entdecken", "neu"],
+    ["🤷 Egal", null]] }
+];
+let antworten = {};
+
+function passendeThemen(alle) {
+  const offen = alle.filter(x => !istFertig(x.t.id));
+  let pool = offen.filter(istBereit);
+  if (!pool.length) pool = offen;
+  if (antworten.lust) {
+    const nurFach = pool.filter(x => antworten.lust.includes(x.t.fach));
+    if (nurFach.length) pool = nurFach;
+  }
+  const bereichAngefangen = new Set(alle.filter(x => istFertig(x.t.id)).map(x => x.t.fach + "|" + x.t.bereich));
+  return pool.map(x => {
+    const t = x.t;
+    let p = Math.random() * 1.5;
+    if (antworten.kopf === "schwer") p += Math.min(t.stufe, 5) * 0.6;
+    if (antworten.kopf === "leicht") p += (t.stufe === 1 ? 2 : 0) + (t.einzel ? 1 : 0);
+    if (antworten.weg === "video" && t.videos && t.videos.length) p += 2;
+    if (antworten.neu === "weiter" && t.baut_auf.some(istFertig)) p += 3;
+    if (antworten.neu === "neu" && !bereichAngefangen.has(t.fach + "|" + t.bereich)) p += 2;
+    return { x, p };
+  }).sort((a, b) => b.p - a.p).map(e => e.x);
+}
+
+async function seiteFragen(schritt) {
+  const n = Number(schritt) || 0;
+  if (n === 0) antworten = {};
+  const kopf = `<div class="topbar"><a class="iconbtn" href="#/finden" aria-label="Zurück">←</a><h1>Was passt heute?</h1></div>`;
+  if (n < FRAGEN.length) {
+    const f = FRAGEN[n];
+    app.innerHTML = `${kopf}
+      <p class="muted">Frage ${n + 1} von ${FRAGEN.length}</p>
+      <h2>${esc(f.frage)}</h2>
+      <div class="opts">${f.optionen.map((o, i) => `<button class="opt" data-i="${i}">${esc(o[0])}</button>`).join("")}</div>`;
+    app.querySelectorAll(".opt").forEach(b => b.addEventListener("click", () => {
+      antworten[f.key] = f.optionen[Number(b.dataset.i)][1];
+      location.hash = `#/finden/fragen/${n + 1}`;
+    }));
+    return;
+  }
+  const liste = passendeThemen(await alleThemen()).slice(0, 3);
+  app.innerHTML = `${kopf}
+    <h2>Das könnte heute zu dir passen:</h2>
+    ${liste.length ? liste.map(vorschlag).join("") : '<p class="muted">Du hast schon alles abgehakt. Stark!</p>'}
+    <p style="display:flex;gap:8px;flex-wrap:wrap;margin-top:14px">
+      <button class="secondary" id="andere">Andere Vorschläge</button>
+      <a class="secondary" href="#/finden/fragen" style="text-decoration:none;color:var(--text)">Nochmal fragen</a>
+    </p>`;
+  document.getElementById("andere").addEventListener("click", () => seiteFragen(FRAGEN.length));
+}
+
 /* ---------- Router ---------- */
 function route() {
   schliesseSheet();
@@ -337,6 +471,7 @@ function route() {
   if (teile[0] === "fach") return seiteFach(teile[1]);
   if (teile[0] === "thema") return seiteThema(teile[1], teile[2]);
   if (teile[0] === "einstellungen") return seiteEinstellungen();
+  if (teile[0] === "finden") return teile[1] === "fragen" ? seiteFragen(teile[2]) : seiteFinden();
   return seiteStart();
 }
 window.addEventListener("hashchange", route);
