@@ -98,7 +98,8 @@ function videoLinks(t) {
   const q = encodeURIComponent;
   return [
     { titel: "Lehrerschmidt", url: `https://www.youtube.com/results?search_query=${q("Lehrerschmidt " + t.suche)}` },
-    { titel: "simpleclub", url: `https://www.youtube.com/results?search_query=${q("simpleclub " + t.suche)}` }
+    { titel: "einfach Schule", url: `https://www.youtube.com/results?search_query=${q("einfach Schule " + t.suche)}` },
+    { titel: "Die Merkhilfe", url: `https://www.youtube.com/results?search_query=${q("Die Merkhilfe " + t.suche)}` }
   ];
 }
 
