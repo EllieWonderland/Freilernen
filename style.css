@@ -170,4 +170,27 @@ ul.ex li { margin: 6px 0; }
   cursor: pointer; font-size: 1.05rem;
 }
 .opt:active { transform: scale(.98); }
+/* Merkliste, Lerntagebuch */
+.stern { font-size: 1.4rem; color: var(--orange); }
+.tagebuch-link {
+  display: flex; gap: 12px; align-items: center; margin-top: 12px; padding: 14px 16px; border-radius: var(--radius);
+  background: var(--card); box-shadow: var(--shadow); text-decoration: none; color: var(--text); font-size: 1.6rem;
+}
+.tagebuch-link span { font-size: 1rem; }
+.notiz {
+  width: 100%; font: inherit; color: var(--text); background: var(--card); border: 2px solid var(--line);
+  border-radius: 12px; padding: 10px 12px; resize: vertical;
+}
+.notiz:focus { outline: none; border-color: var(--blue); }
+.fotos { display: flex; flex-wrap: wrap; gap: 8px; margin: 8px 0; }
+.fotos:empty { display: none; }
+.foto { position: relative; }
+.foto img { width: 96px; height: 96px; object-fit: cover; border-radius: 10px; display: block; }
+.foto button {
+  position: absolute; top: -6px; right: -6px; width: 28px; height: 28px; border-radius: 50%; border: 0;
+  background: var(--text); color: var(--bg); font-size: 1.1rem; line-height: 1; cursor: pointer;
+}
+.eintrag { margin-bottom: 10px; }
+.eintrag-kopf { display: flex; gap: 12px; align-items: center; text-decoration: none; color: var(--text); }
+.notiztext { white-space: pre-wrap; margin-top: 10px; }
 [hidden] { display: none !important; }
