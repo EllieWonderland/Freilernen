@@ -31,14 +31,19 @@
    "suche": "spanisches Alphabet",
    "videos": [
     {
+     "titel": "Spanish ABC song: El abecedario",
+     "kanal": "Rockalingua",
+     "url": "https://www.yout-ube.com/watch?v=_eC3pqpRQRg"
+    },
+    {
+     "titel": "El Alfabeto: Alphabet und Vokale",
+     "kanal": "BASHO & FRIENDS",
+     "url": "https://www.yout-ube.com/watch?v=9LT9ltzFJTQ"
+    },
+    {
      "titel": "ABC... Das Spanische Alphabet | Spanisch für Anfänger",
      "kanal": "Spanisch mit Vicky",
      "url": "https://www.yout-ube.com/watch?v=EpxP7nCnBFk"
-    },
-    {
-     "titel": "La pronunciación - Aussprache & Betonung in Spanisch - Alphabet & Buchstaben einfach erklärt",
-     "kanal": "Die Merkhilfe Spanisch",
-     "url": "https://www.yout-ube.com/watch?v=mz4nU05GA2s"
     }
    ]
   },
@@ -62,14 +67,19 @@
    "suche": "spanische Aussprache Anfänger",
    "videos": [
     {
+     "titel": "Spanish vowels: Las vocales",
+     "kanal": "Rockalingua",
+     "url": "https://www.yout-ube.com/watch?v=PXFMC-g0Jt8"
+    },
+    {
+     "titel": "Las Vocales",
+     "kanal": "Calico Spanish",
+     "url": "https://www.yout-ube.com/watch?v=td-CgJHNF1U"
+    },
+    {
      "titel": "Spanische Aussprache - Einfach und schnell auf Deutsch erklärt - Spanisch für Anfänger",
      "kanal": "Spanisch mit Vicky",
      "url": "https://www.yout-ube.com/watch?v=rbF2eGIeTxA"
-    },
-    {
-     "titel": "La pronunciación - Aussprache & Betonung in Spanisch - Alphabet & Buchstaben einfach erklärt",
-     "kanal": "Die Merkhilfe Spanisch",
-     "url": "https://www.yout-ube.com/watch?v=mz4nU05GA2s"
     }
    ]
   },
@@ -96,11 +106,6 @@
      "titel": "Das R rollen: der ultimative Crashkurs | Karambolage España | ARTE",
      "kanal": "Irgendwas mit ARTE und Kultur",
      "url": "https://www.yout-ube.com/watch?v=3wAaZ6udV2E"
-    },
-    {
-     "titel": "Das R ROLLEN - Spanisch SPRECHEN und schreiben",
-     "kanal": "Spanisch mit Tomás",
-     "url": "https://www.yout-ube.com/watch?v=1OIE6XUbV98"
     }
    ]
   },
@@ -177,14 +182,24 @@
    "suche": "spanisch begrüßen verabschieden",
    "videos": [
     {
-     "titel": "Spanisch lernen für Anfänger: Spanischkurs auf DEUTSCH | Erste Worte - begrüßen & verabschieden",
-     "kanal": "Vamos Español",
-     "url": "https://www.yout-ube.com/watch?v=q7L0peSPZXw"
+     "titel": "Spanisch für Kinder, Niveau 1, Lección 1",
+     "kanal": "PolyKids",
+     "url": "https://www.yout-ube.com/watch?v=01icsBtZfk0"
     },
     {
-     "titel": "10 Verabschiedungsformen auf Spanisch, die du kennen solltest!",
-     "kanal": "Conjaki",
-     "url": "https://www.yout-ube.com/watch?v=CAp-hNwmM10"
+     "titel": "Hola Amigo: Spanish Greetings",
+     "kanal": "BASHO & FRIENDS",
+     "url": "https://www.yout-ube.com/watch?v=NMZzGZu15vk"
+    },
+    {
+     "titel": "¡Buenos días! Song",
+     "kanal": "Rockalingua",
+     "url": "https://www.yout-ube.com/watch?v=kdDu8pFbnRc"
+    },
+    {
+     "titel": "Spanisch für Kinder: alle Lektionen (Playlist)",
+     "kanal": "PolyKids",
+     "url": "https://www.youtube.com/playlist?list=PLSulstUMLlmZW6ZpKx_zkLiXGhSs6MBgf"
     }
    ]
   },
@@ -209,14 +224,19 @@
    "suche": "spanisch sich vorstellen Anfänger",
    "videos": [
     {
-     "titel": "Wie heißt du? Woher kommst du? - Vorstellen auf Spanisch",
-     "kanal": "Conjaki",
-     "url": "https://www.yout-ube.com/watch?v=jyQ1OjoZKP8"
+     "titel": "Spanisch für Kinder, Niveau 1, Lección 2",
+     "kanal": "PolyKids",
+     "url": "https://www.yout-ube.com/watch?v=7TP6nOeX_Q4"
     },
     {
-     "titel": "Auf Spanisch sich einander vorstellen und begrüßen 👋🏻 🇪🇸",
-     "kanal": "Vamos Español",
-     "url": "https://www.yout-ube.com/watch?v=g2Y-8s21o5Q"
+     "titel": "¿Cómo te llamas? Song",
+     "kanal": "Rockalingua",
+     "url": "https://www.yout-ube.com/watch?v=wmKr1rIbrHQ"
+    },
+    {
+     "titel": "Introduction, Age, Meeting Someone",
+     "kanal": "Calico Spanish",
+     "url": "https://www.yout-ube.com/watch?v=4V9pJ2tgFIw"
     }
    ]
   },
@@ -240,9 +260,19 @@
    "suche": "spanisch wie geht es dir",
    "videos": [
     {
-     "titel": "Das erste Gespräch auf Spanisch führen! Spanisch in der Schule einfach erklärt.",
-     "kanal": "schulspanisch",
-     "url": "https://www.yout-ube.com/watch?v=fIL7il26Unk"
+     "titel": "Spanisch für Kinder, Niveau 3, Lección 1.1: ¿Cómo estás?",
+     "kanal": "PolyKids",
+     "url": "https://www.yout-ube.com/watch?v=b_ExPhuJcbA"
+    },
+    {
+     "titel": "6 answers to ¿Cómo estás?",
+     "kanal": "Calico Spanish",
+     "url": "https://www.yout-ube.com/watch?v=PDjQUBnrCT0"
+    },
+    {
+     "titel": "¿Cómo estás? Sing-Along",
+     "kanal": "BASHO & FRIENDS",
+     "url": "https://www.yout-ube.com/watch?v=U3_DWJvdaKM"
     }
    ]
   },
@@ -266,14 +296,9 @@
    "suche": "spanisch bitte danke Entschuldigung",
    "videos": [
     {
-     "titel": "20 Spanische Alternativen zu “gracias” – Danke sagen auf Spanisch #spanischlernen",
-     "kanal": "Vamos Español",
-     "url": "https://www.yout-ube.com/watch?v=YWQxqLAnVgw"
-    },
-    {
-     "titel": "3 Arten, wie man „Entschuldigung“ auf Spanisch sagen kann! 🙏",
-     "kanal": "Vamos Español",
-     "url": "https://www.yout-ube.com/watch?v=gONBuO5Gdsw"
+     "titel": "¿Qué quieres? Courtesy phrases",
+     "kanal": "BASHO & FRIENDS",
+     "url": "https://www.yout-ube.com/watch?v=c47jeVLAm-g"
     }
    ]
   },
@@ -295,7 +320,18 @@
    ],
    "quelle": "S. 17, 51",
    "suche": "spanisch nachfragen nicht verstehen",
-   "videos": []
+   "videos": [
+    {
+     "titel": "Classroom Phrases Sing-Along",
+     "kanal": "BASHO & FRIENDS",
+     "url": "https://www.yout-ube.com/watch?v=jT6hB0We-y8"
+    },
+    {
+     "titel": "60 Second Spanish: Classroom Phrases",
+     "kanal": "BASHO & FRIENDS",
+     "url": "https://www.yout-ube.com/watch?v=qMe8ngqR86k"
+    }
+   ]
   },
   {
    "id": "sp11",
@@ -319,14 +355,14 @@
    "suche": "spanisch einfaches Gespräch Anfänger",
    "videos": [
     {
-     "titel": "Einfache Konversation auf Spanisch für Beginner | Vamos Español",
-     "kanal": "Vamos Español",
-     "url": "https://www.yout-ube.com/watch?v=1Uwg1eTAZFc"
+     "titel": "Das erste Gespräch auf Spanisch führen! Spanisch in der Schule einfach erklärt.",
+     "kanal": "schulspanisch",
+     "url": "https://www.yout-ube.com/watch?v=fIL7il26Unk"
     },
     {
-     "titel": "Spanisch Sätze für Anfänger - die musst du kennen!",
-     "kanal": "Vamos Español",
-     "url": "https://www.yout-ube.com/watch?v=RS4vF0UW9x8"
+     "titel": "¿Adónde vas? Questions song",
+     "kanal": "Rockalingua",
+     "url": "https://www.yout-ube.com/watch?v=4KzO0Is3VhI"
     }
    ]
   },
@@ -383,11 +419,6 @@
      "titel": "Einkaufen auf Spanisch 1 - Geschäfte & Mengenangaben - Hacer la compra / comprar alimentos (Deutsch)",
      "kanal": "Die Merkhilfe Spanisch",
      "url": "https://www.yout-ube.com/watch?v=gp7p1RiP0TE"
-    },
-    {
-     "titel": "Einkaufen auf Spanisch 2 - Einkaufsdialog - Hacer la compra / comprar alimentos",
-     "kanal": "Die Merkhilfe Spanisch",
-     "url": "https://www.yout-ube.com/watch?v=LNc8HWOrE1A"
     }
    ]
   },
@@ -413,14 +444,14 @@
    "suche": "spanisch im Restaurant bestellen",
    "videos": [
     {
+     "titel": "¡Tengo Hambre! Food Song",
+     "kanal": "BASHO & FRIENDS",
+     "url": "https://www.yout-ube.com/watch?v=uu5gm6LgCzo"
+    },
+    {
      "titel": "⚡ [FAST-TRACK] Spanisch für Anfänger🥘 Im Restaurant bestellen",
      "kanal": "Spanisch mit Vicky",
      "url": "https://www.yout-ube.com/watch?v=2qFI1rs3pGg"
-    },
-    {
-     "titel": "So bestellst du Getränke im Restaurant und Café wie ein Spanisch-Profi!",
-     "kanal": "Conjaki",
-     "url": "https://www.yout-ube.com/watch?v=Y1Fz-fdu-Ew"
     }
    ]
   },
@@ -473,9 +504,14 @@
    "suche": "spanisch sich vorstellen Präsentation",
    "videos": [
     {
-     "titel": "Wie heißt du? Woher kommst du? - Vorstellen auf Spanisch",
-     "kanal": "Conjaki",
-     "url": "https://www.yout-ube.com/watch?v=jyQ1OjoZKP8"
+     "titel": "My Name Is (Spanish)",
+     "kanal": "BASHO & FRIENDS",
+     "url": "https://www.yout-ube.com/watch?v=5UYeKXHJ2E8"
+    },
+    {
+     "titel": "¿De dónde eres tú?",
+     "kanal": "Calico Spanish",
+     "url": "https://www.yout-ube.com/watch?v=XNu1PTiJURY"
     }
    ]
   },
@@ -497,14 +533,14 @@
    "suche": "spanische Zahlen 1 bis 20",
    "videos": [
     {
-     "titel": "Zahlen auf Spanisch - Spanisch lernen für Anfänger",
-     "kanal": "Conjaki",
-     "url": "https://www.yout-ube.com/watch?v=Rb58NysiOg8"
+     "titel": "Los números. Song",
+     "kanal": "Rockalingua",
+     "url": "https://www.yout-ube.com/watch?v=oUvyhStbFy8"
     },
     {
-     "titel": "Die Zahlen 1-100 auf Spanisch lernen (für Anfänger) - plus drei, die du immer vergisst",
-     "kanal": "Spanisch mit Tomás",
-     "url": "https://www.yout-ube.com/watch?v=hUrWlxZJsLo"
+     "titel": "Count from 1 to 20",
+     "kanal": "BASHO & FRIENDS",
+     "url": "https://www.yout-ube.com/watch?v=i0dQTRwW--8"
     }
    ]
   },
@@ -528,14 +564,14 @@
    "suche": "spanische Zahlen bis 100",
    "videos": [
     {
+     "titel": "Números del 10 al 1000. Song",
+     "kanal": "Rockalingua",
+     "url": "https://www.yout-ube.com/watch?v=rjD5gson8Eo"
+    },
+    {
      "titel": "Los números / Zahlen 0 bis 100 - Spanisch Grundzahlen / Kardinalzahlen auf Deutsch einfach erklärt",
      "kanal": "Die Merkhilfe Spanisch",
      "url": "https://www.yout-ube.com/watch?v=5rAra8cTCP8"
-    },
-    {
-     "titel": "Spanisch: Zahlen 20-100 | Spanische Zahlen von 20 bis 100 einfach lernen | 21 bis 29 | 100 Spanisch",
-     "kanal": "BesserEinfachErklärt",
-     "url": "https://www.yout-ube.com/watch?v=me1FUX0Wvlg"
     }
    ]
   },
@@ -557,14 +593,14 @@
    "suche": "spanisch Farben lernen",
    "videos": [
     {
-     "titel": "Spanische Adjektive mit Farben lernen",
-     "kanal": "Spanisch mit Tomás",
-     "url": "https://www.yout-ube.com/watch?v=eT4ZbECC6Nc"
+     "titel": "Colores y números. Song",
+     "kanal": "Rockalingua",
+     "url": "https://www.yout-ube.com/watch?v=ZiNFXntWOJw"
     },
     {
-     "titel": "Lerne spanische Grundlagen in 10 Minuten! | Monate, Farben, Wochentage u.v.m.!",
-     "kanal": "Conjaki",
-     "url": "https://www.yout-ube.com/watch?v=Ouo3ys0Su1I"
+     "titel": "Colores",
+     "kanal": "BASHO & FRIENDS",
+     "url": "https://www.yout-ube.com/watch?v=-jf5WnqcePQ"
     }
    ]
   },
@@ -588,14 +624,14 @@
    "suche": "spanisch Wochentage Monate Datum",
    "videos": [
     {
-     "titel": "Der spanische Kalender - Wochentage Monate und Jahreszeiten auf Spanisch || vamos espanol",
-     "kanal": "Vamos Español",
-     "url": "https://www.yout-ube.com/watch?v=ZdTyArdGW5U"
+     "titel": "Los días de la semana",
+     "kanal": "Rockalingua",
+     "url": "https://www.yout-ube.com/watch?v=es9L2df7mK8"
     },
     {
-     "titel": "die Wochentage und Planeten auf Spanisch lernen",
-     "kanal": "Spanisch mit Tomás",
-     "url": "https://www.yout-ube.com/watch?v=FydBOVaQVF4"
+     "titel": "Los meses del año",
+     "kanal": "Rockalingua",
+     "url": "https://www.yout-ube.com/watch?v=CmvzgfnAHiM"
     }
    ]
   },
@@ -619,14 +655,14 @@
    "suche": "spanisch Uhrzeit lernen",
    "videos": [
     {
+     "titel": "¿Qué hora es?",
+     "kanal": "BASHO & FRIENDS",
+     "url": "https://www.yout-ube.com/watch?v=IQhugB3CNYU"
+    },
+    {
      "titel": "Die Uhrzeit auf Spanisch | La hora – einfach erklärt | Spanisch lernen A1 | schulspanisch.de",
      "kanal": "schulspanisch",
      "url": "https://www.yout-ube.com/watch?v=q9kB80j8lls"
-    },
-    {
-     "titel": "La hora 1: Uhrzeit auf Spanisch ausdrücken - Zeitangaben, nach Uhrzeit fragen, Vokabeln & Wortschatz",
-     "kanal": "Die Merkhilfe Spanisch",
-     "url": "https://www.yout-ube.com/watch?v=8FnGvBCoyoQ"
     }
    ]
   },
@@ -651,14 +687,14 @@
    "suche": "spanisch Familie Wörter",
    "videos": [
     {
-     "titel": "Lerne Spanisch - Familienstammbaum | Nützliche Sätze und Wortschatz",
-     "kanal": "Conjaki",
-     "url": "https://www.yout-ube.com/watch?v=VYzkp_rGivA"
+     "titel": "La Familia. Song",
+     "kanal": "Rockalingua",
+     "url": "https://www.yout-ube.com/watch?v=_T1svGpYS28"
     },
     {
-     "titel": "Auf Spanisch die Beziehung angeben - Familie und Verwandtschaft",
-     "kanal": "Vamos Español",
-     "url": "https://www.yout-ube.com/watch?v=vKUA9w6CNYM"
+     "titel": "Mi Familia Sing-Along",
+     "kanal": "BASHO & FRIENDS",
+     "url": "https://www.yout-ube.com/watch?v=IvYZ9C-5mZg"
     }
    ]
   },
@@ -683,9 +719,24 @@
    "suche": "spanisch Tiere lernen",
    "videos": [
     {
-     "titel": "Spanische Tierbezeichnungen - Wörter lernen",
-     "kanal": "Vamos Español",
-     "url": "https://www.yout-ube.com/watch?v=QMTzGlxNOxw"
+     "titel": "Spanisch für Kinder, Niveau 1, Lección 2.3 (Haustiere)",
+     "kanal": "PolyKids",
+     "url": "https://www.yout-ube.com/watch?v=Gg5plrg9KQA"
+    },
+    {
+     "titel": "Spanisch für Kinder, Niveau 1, Lección 2.2 (Begrüßung, Haustiere)",
+     "kanal": "PolyKids",
+     "url": "https://www.yout-ube.com/watch?v=wR_FYT-CRA4"
+    },
+    {
+     "titel": "Aprende Animales",
+     "kanal": "BASHO & FRIENDS",
+     "url": "https://www.yout-ube.com/watch?v=0gERuld-iRM"
+    },
+    {
+     "titel": "Describe an Animal",
+     "kanal": "Calico Spanish",
+     "url": "https://www.yout-ube.com/watch?v=iSdKWKbq6lM"
     }
    ]
   },
@@ -711,14 +762,14 @@
    "suche": "spanisch Personen beschreiben",
    "videos": [
     {
-     "titel": "die Personenbeschreibung auf Spanisch lernen (Thema für die Klausur)",
-     "kanal": "Spanisch mit Tomás",
-     "url": "https://www.yout-ube.com/watch?v=5bFBXCFRLXY"
+     "titel": "Adjectives and descriptions. Song",
+     "kanal": "Rockalingua",
+     "url": "https://www.yout-ube.com/watch?v=z-BP-6_R4Js"
     },
     {
-     "titel": "Spanisch: Adjektive - einfach erklärt | #spanischfüranfänger #spanisch #spanischunterricht #español",
-     "kanal": "BesserEinfachErklärt",
-     "url": "https://www.yout-ube.com/watch?v=ynNtSMoMIvE"
+     "titel": "Adjectives in Spanish: Soy …",
+     "kanal": "BASHO & FRIENDS",
+     "url": "https://www.yout-ube.com/watch?v=8eIIHslU-B4"
     }
    ]
   },
@@ -742,9 +793,9 @@
    "suche": "spanisch Freunde beschreiben",
    "videos": [
     {
-     "titel": "die Personenbeschreibung auf Spanisch lernen (Thema für die Klausur)",
-     "kanal": "Spanisch mit Tomás",
-     "url": "https://www.yout-ube.com/watch?v=5bFBXCFRLXY"
+     "titel": "Amigos. Song about friendship",
+     "kanal": "Rockalingua",
+     "url": "https://www.yout-ube.com/watch?v=xwLvFOE_VdA"
     }
    ]
   },
@@ -769,14 +820,19 @@
    "suche": "spanisch mein Zimmer beschreiben",
    "videos": [
     {
-     "titel": "Zimmer beschreiben und Adjektive auf Spanisch || vamos espanol",
-     "kanal": "Vamos Español",
-     "url": "https://www.yout-ube.com/watch?v=o_iJ8cuq9JY"
+     "titel": "Mi casa: Rooms of the house",
+     "kanal": "Rockalingua",
+     "url": "https://www.yout-ube.com/watch?v=79-hC081Qhw"
     },
     {
-     "titel": "Auf Spanisch den Ort angeben - vor, hinter, neben, rechts, links || Vamos Español",
-     "kanal": "Vamos Español",
-     "url": "https://www.yout-ube.com/watch?v=bSmxx4YfjMA"
+     "titel": "Pañuelito: prepositions of location",
+     "kanal": "Calico Spanish",
+     "url": "https://www.yout-ube.com/watch?v=yBTYt2vSVBI"
+    },
+    {
+     "titel": "Botas perdidas: prepositions",
+     "kanal": "BASHO & FRIENDS",
+     "url": "https://www.yout-ube.com/watch?v=4uzfwLKevUU"
     }
    ]
   },
@@ -798,7 +854,18 @@
    ],
    "quelle": "S. 56",
    "suche": "spanisch Stadt Dorf Verkehrsmittel",
-   "videos": []
+   "videos": [
+    {
+     "titel": "Medios de Transporte",
+     "kanal": "Rockalingua",
+     "url": "https://www.yout-ube.com/watch?v=ldU__znk4IU"
+    },
+    {
+     "titel": "Como Vamos: transportation",
+     "kanal": "BASHO & FRIENDS",
+     "url": "https://www.yout-ube.com/watch?v=ih89dsX1HBc"
+    }
+   ]
   },
   {
    "id": "sp28",
@@ -820,7 +887,18 @@
    ],
    "quelle": "S. 57",
    "suche": "spanisch Schulfächer Stundenplan",
-   "videos": []
+   "videos": [
+    {
+     "titel": "Cosas y asignaturas de la escuela",
+     "kanal": "Rockalingua",
+     "url": "https://www.yout-ube.com/watch?v=fP2Qbwv4d00"
+    },
+    {
+     "titel": "¿Cuál es tu materia favorita?",
+     "kanal": "Calico Spanish",
+     "url": "https://www.yout-ube.com/watch?v=m5fdWGeHBtM"
+    }
+   ]
   },
   {
    "id": "sp29",
@@ -842,14 +920,14 @@
    "suche": "spanisch Hobbys Freizeit",
    "videos": [
     {
-     "titel": "Lerne spanische Vokabeln zu den Aktivitäten und Hobbys || vamos espanol",
-     "kanal": "Vamos Español",
-     "url": "https://www.yout-ube.com/watch?v=kTTYH_k0n7M"
+     "titel": "¿Qué deporte te gusta?",
+     "kanal": "Calico Spanish",
+     "url": "https://www.yout-ube.com/watch?v=eU08NsctMf4"
     },
     {
-     "titel": "Diese Sätze dürfen in deinem spanischen Wortschatz nicht fehlen! | Über Hobbys sprechen",
-     "kanal": "Conjaki",
-     "url": "https://www.yout-ube.com/watch?v=xr82x8sh_dc"
+     "titel": "Days of the Week + Hobbies",
+     "kanal": "Rockalingua",
+     "url": "https://www.yout-ube.com/watch?v=UMM3c42wnRw"
     }
    ]
   },
@@ -874,14 +952,9 @@
    "suche": "spanisch Tagesablauf",
    "videos": [
     {
-     "titel": "Routine auf Spanisch beschreiben",
-     "kanal": "Vamos Español",
-     "url": "https://www.yout-ube.com/watch?v=vVfNfL7tVFY"
-    },
-    {
-     "titel": "1 Tag in Spanien – So ist der spanische Tagesablauf",
-     "kanal": "Vamos Español",
-     "url": "https://www.yout-ube.com/watch?v=hAD9f-LgIXg"
+     "titel": "Un día de escuela: daily routines",
+     "kanal": "Rockalingua",
+     "url": "https://www.yout-ube.com/watch?v=Nc9HXvI4x9c"
     }
    ]
   },
@@ -905,9 +978,14 @@
    "suche": "spanisch Essen Trinken Wörter",
    "videos": [
     {
-     "titel": "Vokabeln ESSEN und TRINKEN | Spanisch für Anfänger |  Deutsch / Spanisch",
-     "kanal": "Spanisch mit Vicky",
-     "url": "https://www.yout-ube.com/watch?v=CrtO0ULtCWM"
+     "titel": "¡Qué asco! Me gusta und me gustan",
+     "kanal": "Señor Wooly",
+     "url": "https://www.yout-ube.com/watch?v=xjRSiIJQzD0"
+    },
+    {
+     "titel": "Comida",
+     "kanal": "Calico Spanish",
+     "url": "https://www.yout-ube.com/watch?v=xQySL95OIzM"
     }
    ]
   },
@@ -932,14 +1010,14 @@
    "suche": "spanisch Kleidung lernen",
    "videos": [
     {
-     "titel": "Spanisch lernen: Kleidung leicht gemacht! (Ropa en Español) 👕👗👟",
-     "kanal": "Spanisch mit Tomás",
-     "url": "https://www.yout-ube.com/watch?v=OujXbWistHc"
+     "titel": "La Ropa",
+     "kanal": "BASHO & FRIENDS",
+     "url": "https://www.yout-ube.com/watch?v=sOs1v4UK5Zo"
     },
     {
-     "titel": "Spanische Wörter beim Einkaufen - im Kleiderladen: Pulli, Hose...",
-     "kanal": "Vamos Español",
-     "url": "https://www.yout-ube.com/watch?v=M_OlIsVsCrM"
+     "titel": "Ulala La Ropa",
+     "kanal": "Rockalingua",
+     "url": "https://www.yout-ube.com/watch?v=gMesthArNxg"
     }
    ]
   },
@@ -963,14 +1041,14 @@
    "suche": "spanisch Wetter lernen",
    "videos": [
     {
-     "titel": "das WETTER und die Jahreszeiten auf SPANISCH lernen",
-     "kanal": "Spanisch mit Tomás",
-     "url": "https://www.yout-ube.com/watch?v=9Qdh6_aAPFk"
+     "titel": "Seasons and weather",
+     "kanal": "BASHO & FRIENDS",
+     "url": "https://www.yout-ube.com/watch?v=U7W5oKx6g2I"
     },
     {
-     "titel": "Wie ist das Wetter? | Das Wetter auf Spanisch beschreiben",
-     "kanal": "Conjaki",
-     "url": "https://www.yout-ube.com/watch?v=SSAUvbaNdRM"
+     "titel": "Las 4 estaciones",
+     "kanal": "Rockalingua",
+     "url": "https://www.yout-ube.com/watch?v=tRRfqDj8yqI"
     }
    ]
   },
@@ -995,9 +1073,9 @@
    "suche": "spanisch Wochenende Ferien Pläne",
    "videos": [
     {
-     "titel": "Spanisch für den Urlaub",
-     "kanal": "Vamos Español",
-     "url": "https://www.yout-ube.com/watch?v=lG8Bz-e81Io"
+     "titel": "Vamos a la Playa",
+     "kanal": "BASHO & FRIENDS",
+     "url": "https://www.yout-ube.com/watch?v=qenTJB2vyIw"
     }
    ]
   },
@@ -1019,13 +1097,7 @@
    ],
    "quelle": "S. 57",
    "suche": "spanisch Handy Medien Wörter",
-   "videos": [
-    {
-     "titel": "\"El móvil\" oder \"el celular\"? Latino versus castellano",
-     "kanal": "Vamos Español",
-     "url": "https://www.yout-ube.com/watch?v=SsGyXfaX9_U"
-    }
-   ]
+   "videos": []
   },
   {
    "id": "sp36",
@@ -1046,7 +1118,13 @@
    ],
    "quelle": "S. 57",
    "suche": "spanisch Geburtstag feiern",
-   "videos": []
+   "videos": [
+    {
+     "titel": "El cumpleaños de Pepe (Storybook)",
+     "kanal": "Calico Spanish",
+     "url": "https://www.yout-ube.com/watch?v=mOtdG5lLfcA"
+    }
+   ]
   },
   {
    "id": "sp37",
@@ -1069,11 +1147,6 @@
      "titel": "Bestimmte Artikel el, la, los, las - Singular, Plural, Endung einfach erklärt - Spanisch Grammatik",
      "kanal": "Die Merkhilfe Spanisch",
      "url": "https://www.yout-ube.com/watch?v=XoSdNcKgDwo"
-    },
-    {
-     "titel": "Unbestimmte Artikel un, una, unos, unas - Singular, Plural, Endungen einfach erklärt - Spanisch",
-     "kanal": "Die Merkhilfe Spanisch",
-     "url": "https://www.yout-ube.com/watch?v=2-yocQsA5aI"
     }
    ]
   },
@@ -1100,11 +1173,6 @@
      "titel": "Endungen bei Nomen im Singular & Plural - Geschlecht, Bildung, Beispiele einfach erklärt - Spanisch",
      "kanal": "Die Merkhilfe Spanisch",
      "url": "https://www.yout-ube.com/watch?v=uWmmI-jsjRA"
-    },
-    {
-     "titel": "Spanisch: Nomen - einfach erklärt | #spanischfüranfänger #spanisch #spanischunterricht #español",
-     "kanal": "BesserEinfachErklärt",
-     "url": "https://www.yout-ube.com/watch?v=oA2OnCB9jwo"
     }
    ]
   },
@@ -1126,14 +1194,14 @@
    "suche": "spanisch Personalpronomen",
    "videos": [
     {
+     "titel": "Verb conjugation and subject pronouns. Song",
+     "kanal": "Rockalingua",
+     "url": "https://www.yout-ube.com/watch?v=aKuYcPmd3_0"
+    },
+    {
      "titel": "Spanische Personalpronomen - pronombres personales auf Deutsch einfach erklärt - Spanisch Grammatik",
      "kanal": "Die Merkhilfe Spanisch",
      "url": "https://www.yout-ube.com/watch?v=DNppMSpf2A8"
-    },
-    {
-     "titel": "Spanisch: Personalpronomen - Subjektpronomen - pronombres personales auf Deutsch einfach erklärt",
-     "kanal": "BesserEinfachErklärt",
-     "url": "https://www.yout-ube.com/watch?v=FCVtC0RUj7Y"
     }
    ]
   },
@@ -1188,11 +1256,6 @@
    "suche": "spanisch hay es gibt",
    "videos": [
     {
-     "titel": "Spanisch für Anfänger: Das Verb HAY | Was heißt auf Spanisch hay? Verwendung einfach erklärt | HABER",
-     "kanal": "BesserEinfachErklärt",
-     "url": "https://www.yout-ube.com/watch?v=9MLBFtyu4CA"
-    },
-    {
      "titel": "Ser - Estar - Hay - Wann verwendet man was? Unterschiede, Bildung & Beispiele - Spanische Grammatik",
      "kanal": "Die Merkhilfe Spanisch",
      "url": "https://www.yout-ube.com/watch?v=sN4ydIBFjCg"
@@ -1217,7 +1280,18 @@
    ],
    "quelle": "S. 51",
    "suche": "spanisch tener konjugieren",
-   "videos": []
+   "videos": [
+    {
+     "titel": "¿Cuántos años tienes?",
+     "kanal": "Calico Spanish",
+     "url": "https://www.yout-ube.com/watch?v=JfpFDOS34yU"
+    },
+    {
+     "titel": "Conjugations song",
+     "kanal": "BASHO & FRIENDS",
+     "url": "https://www.yout-ube.com/watch?v=ECJY8nzAELE"
+    }
+   ]
   },
   {
    "id": "sp43",
@@ -1239,14 +1313,14 @@
    "suche": "spanisch ser estar Unterschied",
    "videos": [
     {
+     "titel": "¿Cómo estás? Greetings, feelings, locations",
+     "kanal": "BASHO & FRIENDS",
+     "url": "https://www.yout-ube.com/watch?v=bFIJN5mkRG4"
+    },
+    {
      "titel": "Ser - Estar - Hay - Wann verwendet man was? Unterschiede, Bildung & Beispiele - Spanische Grammatik",
      "kanal": "Die Merkhilfe Spanisch",
      "url": "https://www.yout-ube.com/watch?v=sN4ydIBFjCg"
-    },
-    {
-     "titel": "Spanisch: Wann verwendet man ser und estar (sein)? Unterschiede, Bildung, Beispiele, Konjugation",
-     "kanal": "BesserEinfachErklärt",
-     "url": "https://www.yout-ube.com/watch?v=V3d7mWPbRMQ"
     }
    ]
   },
@@ -1270,14 +1344,14 @@
    "suche": "spanisch Adjektive Angleichung",
    "videos": [
     {
-     "titel": "Spanisch: Adjektive - einfach erklärt | #spanischfüranfänger #spanisch #spanischunterricht #español",
-     "kanal": "BesserEinfachErklärt",
-     "url": "https://www.yout-ube.com/watch?v=ynNtSMoMIvE"
-    },
-    {
      "titel": "los adjetivos - Stellung der Adjektive in Spanisch - Endungen, Anpassung, Ausnahmen & Beispiele",
      "kanal": "Die Merkhilfe Spanisch",
      "url": "https://www.yout-ube.com/watch?v=QtRzQg6h5uQ"
+    },
+    {
+     "titel": "Los adjetivos – Spanisch lernen | Spanische Adjektive mit Beispielen | schulspanisch.de",
+     "kanal": "schulspanisch",
+     "url": "https://www.yout-ube.com/watch?v=FTsnM_RRujM"
     }
    ]
   },
@@ -1300,11 +1374,6 @@
    "quelle": "S. 51",
    "suche": "spanisch Possessivbegleiter mi tu su",
    "videos": [
-    {
-     "titel": "Spanisch: die Possessivbegleiter im Singular - mein, dein sein einfach erklärt /pronombres posesivos",
-     "kanal": "BesserEinfachErklärt",
-     "url": "https://www.yout-ube.com/watch?v=ldyHKiOcMLU"
-    },
     {
      "titel": "Unbetonte Possessivbegleiter in Spanisch - pronombres posesivos einfach erklärt",
      "kanal": "Die Merkhilfe Spanisch",
@@ -1332,14 +1401,19 @@
    "suche": "spanisch gustar erklärt",
    "videos": [
     {
-     "titel": "Verb gustar im Spanischen richtig verwenden - sagen was man mag | a mí me gusta | einfach erklärt!",
-     "kanal": "BesserEinfachErklärt",
-     "url": "https://www.yout-ube.com/watch?v=E_w1l1K3yCQ"
+     "titel": "¡Qué asco! Me gusta und me gustan",
+     "kanal": "Señor Wooly",
+     "url": "https://www.yout-ube.com/watch?v=xjRSiIJQzD0"
     },
     {
-     "titel": "Was magst du auf Spanisch einfach lernen? - das Verb Gustar Presente und Condicional",
-     "kanal": "Spanisch mit Tomás",
-     "url": "https://www.yout-ube.com/watch?v=JvysgPgYgUI"
+     "titel": "Me gusta / te gusta / le gusta",
+     "kanal": "Calico Spanish",
+     "url": "https://www.yout-ube.com/watch?v=p7PF7h0_VRE"
+    },
+    {
+     "titel": "Me gusta means I like",
+     "kanal": "BASHO & FRIENDS",
+     "url": "https://www.yout-ube.com/watch?v=Nqf1IwZ8gDE"
     }
    ]
   },
@@ -1363,14 +1437,14 @@
    "suche": "spanisch Verben ar konjugieren",
    "videos": [
     {
-     "titel": "Spanisch: regelmäßige Verben auf -ar einfach erklärt | Bildung, Konjugation, Beispiele | #spanisch",
-     "kanal": "BesserEinfachErklärt",
-     "url": "https://www.yout-ube.com/watch?v=w_jwQeRrjWc"
+     "titel": "Verbos: Verb Conjugation Song",
+     "kanal": "BASHO & FRIENDS",
+     "url": "https://www.yout-ube.com/watch?v=zQBNeC8GX44"
     },
     {
-     "titel": "Verben auf -ar im Spanischen | Konjugation einfach erklärt | Spanisch lernen A1 | schulspanisch.de",
-     "kanal": "schulspanisch",
-     "url": "https://www.yout-ube.com/watch?v=VoS3OPlF8b4"
+     "titel": "El presente - Regelmäßige Verben konjugieren im Präsens - Bildung & Beispiele | Spanisch Grammatik",
+     "kanal": "Die Merkhilfe Spanisch",
+     "url": "https://www.yout-ube.com/watch?v=LxnwIz8uBcg"
     }
    ]
   },
@@ -1394,9 +1468,9 @@
    "suche": "spanisch Verben er ir konjugieren",
    "videos": [
     {
-     "titel": "Spanisch: Wie konjugiere ich Verben richtig? | regelmäßige Verben auf -er und -ir einfach erklärt",
-     "kanal": "BesserEinfachErklärt",
-     "url": "https://www.yout-ube.com/watch?v=kucqoU3lMBg"
+     "titel": "El presente - Regelmäßige Verben konjugieren im Präsens - Bildung & Beispiele | Spanisch Grammatik",
+     "kanal": "Die Merkhilfe Spanisch",
+     "url": "https://www.yout-ube.com/watch?v=LxnwIz8uBcg"
     },
     {
      "titel": "Spanisch in der Schule: VERBEN auf -ER und -IR einfach erklärt.Spanisch lernen!",
@@ -1425,9 +1499,9 @@
    "suche": "spanisch reflexive Verben",
    "videos": [
     {
-     "titel": "Spanisch: reflexive Verben | Verben mit se im Präsens | Bildung Beispiele einfach erklärt|#spanisch",
-     "kanal": "BesserEinfachErklärt",
-     "url": "https://www.yout-ube.com/watch?v=GGOKrBc0WKc"
+     "titel": "Verbos Reflexivos",
+     "kanal": "BASHO & FRIENDS",
+     "url": "https://www.yout-ube.com/watch?v=0pkt3mw9U1M"
     },
     {
      "titel": "Reflexive Verben konjugieren in Spanisch im Präsens (El presente) - Bildung, Gebrauch, Beispiele",
@@ -1455,11 +1529,6 @@
    "quelle": "S. 51",
    "suche": "spanisch ir a Infinitiv Zukunft",
    "videos": [
-    {
-     "titel": "SPANISCH IR + A + INFINITIV: Futuro Próximo lernen A1",
-     "kanal": "Spanisch mit Tomás",
-     "url": "https://www.yout-ube.com/watch?v=1tk9NXbcHTg"
-    },
     {
      "titel": "Futur mit ir a - el futuro próximo / inmediato con ir a - Spanisch Zeiten einfach erklärt",
      "kanal": "Die Merkhilfe Spanisch",
@@ -1514,14 +1583,14 @@
    "suche": "spanisch querer poder tener que",
    "videos": [
     {
+     "titel": "¿Puedo ir al baño?",
+     "kanal": "Señor Wooly",
+     "url": "https://www.yout-ube.com/watch?v=n3KbP2OEbW4"
+    },
+    {
      "titel": "QUERER / PODER / TENER QUE: die Modalverben einfach für die Schule erklärt!",
      "kanal": "schulspanisch",
      "url": "https://www.yout-ube.com/watch?v=eIaDs9XuQwE"
-    },
-    {
-     "titel": "Spanisch: Modalverben - verbos modales (tener que, poder,..) Bildung, Beispiele, Übungen| #spanisch",
-     "kanal": "BesserEinfachErklärt",
-     "url": "https://www.yout-ube.com/watch?v=s-4WkzlcEX0"
     }
    ]
   },
@@ -1545,9 +1614,9 @@
    "suche": "spanisch Fragewörter",
    "videos": [
     {
-     "titel": "Spanisch: Fragewörter/Fragepronomen - pronombres interrogativos einfach erklärt | Fragen stellen",
-     "kanal": "BesserEinfachErklärt",
-     "url": "https://www.yout-ube.com/watch?v=ua3Yu43sFkE"
+     "titel": "Qué, Quién, Cómo, Dónde: question words",
+     "kanal": "BASHO & FRIENDS",
+     "url": "https://www.yout-ube.com/watch?v=ydfhqYHKzrQ"
     },
     {
      "titel": "Fragewörter / Fragepronomen in Spanisch - pronombres interrogativos einfach erklärt - Grammatik",
@@ -1579,11 +1648,6 @@
      "titel": "Die Verneinung ❌ mit \"NO\" einfach erklärt | La negación con NO ❌ | Spanisch für Anfänger #spanisch",
      "kanal": "BesserEinfachErklärt",
      "url": "https://www.yout-ube.com/watch?v=gMQFQkZtQSY"
-    },
-    {
-     "titel": "Die Verneinung - spanische Sätze bilden",
-     "kanal": "Spanisch mit Tomás",
-     "url": "https://www.yout-ube.com/watch?v=RTaq6pEgTGQ"
     }
    ]
   },
@@ -1631,13 +1695,7 @@
    ],
    "quelle": "S. 51",
    "suche": "spanisch para que Relativsatz",
-   "videos": [
-    {
-     "titel": "\"Qué\" oder \"que\"? Wann verwendet man was?",
-     "kanal": "Vamos Español",
-     "url": "https://www.yout-ube.com/watch?v=M8fyh7I3OE4"
-    }
-   ]
+   "videos": []
   },
   {
    "id": "sp57",
@@ -1792,14 +1850,14 @@
    "suche": "wo spricht man spanisch Länder",
    "videos": [
     {
+     "titel": "Países hispanohablantes",
+     "kanal": "BASHO & FRIENDS",
+     "url": "https://www.yout-ube.com/watch?v=2ETVGEDEipk"
+    },
+    {
      "titel": "Die spanische Sprache in der Welt | Karambolage España | ARTE",
      "kanal": "Irgendwas mit ARTE und Kultur",
      "url": "https://www.yout-ube.com/watch?v=RlwkTyyllk0"
-    },
-    {
-     "titel": "Spanisch: 1 Sprache, 5 Unterschiede in der Welt",
-     "kanal": "Spanisch mit Tomás",
-     "url": "https://www.yout-ube.com/watch?v=Xf6Sgiiz49E"
     }
    ]
   },
@@ -1880,14 +1938,19 @@
    "suche": "spanische Feste für Kinder",
    "videos": [
     {
+     "titel": "Día de los muertos para niños",
+     "kanal": "BASHO & FRIENDS",
+     "url": "https://www.yout-ube.com/watch?v=y-C5Reb9e1g"
+    },
+    {
+     "titel": "Día de Muertos",
+     "kanal": "Calico Spanish",
+     "url": "https://www.yout-ube.com/watch?v=HppYKsFwv_Y"
+    },
+    {
      "titel": "Weihnachten in Spanien 🎁 - Fakten zur Kultur, Bräuche & Traditionen einfach erklärt",
      "kanal": "Die Merkhilfe Spanisch",
      "url": "https://www.yout-ube.com/watch?v=iyGYvlrNv7o"
-    },
-    {
-     "titel": "Der Tag der unschuldigen Kinder | Karambolage España | ARTE",
-     "kanal": "Irgendwas mit ARTE und Kultur",
-     "url": "https://www.yout-ube.com/watch?v=J6gj98yauT4"
     }
    ]
   },
@@ -1914,11 +1977,6 @@
      "titel": "Tortilla de Patatas: gar nicht so einfach | Karambolage España | ARTE",
      "kanal": "Irgendwas mit ARTE und Kultur",
      "url": "https://www.yout-ube.com/watch?v=V2bD-bjUne0"
-    },
-    {
-     "titel": "Was frühstückt man in Spanien? Wie bestelle ich meinen Kaffee auf Spanisch? || vamos espanol",
-     "kanal": "Vamos Español",
-     "url": "https://www.yout-ube.com/watch?v=qm2xvQnKmRU"
     }
    ]
   },
@@ -2178,7 +2236,7 @@
     },
     {
      "titel": "📖 POCOYÓ en ESPAÑOL - Especial 2020: El cuento de colores |CARICATURAS y DIBUJOS ANIMADOS para niños",
-     "kanal": "Pocoyó 🇪🇸 Español - Canal Oficial",
+     "kanal": "Pocoyó Español Canal Oficial",
      "url": "https://www.yout-ube.com/watch?v=g8KuwGC0QYQ"
     }
    ]

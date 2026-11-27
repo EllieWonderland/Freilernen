@@ -98,7 +98,7 @@ const klasseText = k => k === "ab 7" ? "oft ab Klasse 7" : `oft in Klasse ${k}`;
 const SUCHKANAELE = {
   standard: ["Lehrerschmidt", "einfach Schule", "Die Merkhilfe"],
   englisch: ["Einfach Englisch", "BBC Learning English", "Mr Kay Erklärt Englisch"],
-  spanisch: ["Die Merkhilfe Spanisch", "BesserEinfachErklärt", "Spanisch mit Vicky"],
+  spanisch: ["Rockalingua", "BASHO & FRIENDS", "Die Merkhilfe Spanisch"],
   musik: ["MusikDurchblick", "Musiklehrer", "erklaerung-und-mehr"]
 };
 
