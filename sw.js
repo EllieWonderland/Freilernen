@@ -1,5 +1,5 @@
-const CACHE = "freilernen-v11";
-const DATEIEN = ["./", "index.html", "style.css", "app.js", "manifest.webmanifest", "icon.svg", "icon-192.png", "icon-512.png", "icon-maskable-512.png", "apple-touch-icon.png", "data/mathe.json", "data/deutsch.json", "data/englisch.json", "data/musik.json", "data/spanisch.json", "data/nawi.json"];
+const CACHE = "freilernen-v12";
+const DATEIEN = ["./", "index.html", "style.css", "app.js", "manifest.webmanifest", "icon.svg", "icon-192.png", "icon-512.png", "icon-maskable-512.png", "apple-touch-icon.png", "data/mathe.json", "data/deutsch.json", "data/englisch.json", "data/musik.json", "data/spanisch.json", "data/nawi.json", "data/gewi.json"];
 
 self.addEventListener("install", e => {
   e.waitUntil(caches.open(CACHE).then(c => c.addAll(DATEIEN)).then(() => self.skipWaiting()));

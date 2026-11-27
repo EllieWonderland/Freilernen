@@ -1,0 +1,2889 @@
+{
+ "fach": "gl",
+ "name": "Gesellschaftslehre",
+ "quelle": "Kerncurriculum für die Integrierte Gesamtschule, Schuljahrgänge 5 bis 10, Gesellschaftslehre, Niedersächsisches Kultusministerium 2020",
+ "bereiche": [
+  "Wie Forscher arbeiten",
+  "Essen in aller Welt",
+  "Fairplay: Miteinander und Freizeit",
+  "Natur, Bauernhof und Ernährung",
+  "Vorbilder",
+  "Kinderrechte",
+  "Urlaubsträume",
+  "Unser blauer Planet: Wasser",
+  "Haben oder Sein: Geld"
+ ],
+ "themen": [
+  {
+   "id": "gl01",
+   "nr": 1,
+   "titel": "Nachschlagen und im Internet suchen",
+   "bereich": "Wie Forscher arbeiten",
+   "klasse": "5/6",
+   "satz": "Du suchst in einem Lexikon oder einer Kindersuchmaschine wie fragFINN Antworten auf eine Frage.",
+   "erklaerung": "Wenn du etwas wissen willst, kannst du in einem Lexikon, einem Sachbuch oder im Internet nachschlagen. Für Kinder gibt es eigene Suchmaschinen wie fragFINN, Blinde Kuh oder Helles Köpfchen, die nur geprüfte Seiten zeigen. Am besten suchst du mit wenigen, genauen Suchwörtern und vergleichst zwei Seiten miteinander.",
+   "beispiele": [
+    "Statt „Ich möchte wissen, wie alt die Pyramiden sind“ suchst du: „Pyramiden Alter“.",
+    "Kinderlexika im Netz: Klexikon und Kinderweltreise.",
+    "Schreib dir auf, wo du etwas gefunden hast."
+   ],
+   "baut_auf": [],
+   "quelle": "S. 16",
+   "suche": "Kindersuchmaschine richtig suchen Internet Kinder",
+   "videos": [
+    {
+     "titel": "So sucht man richtig im INTERNET | FINNreporter",
+     "kanal": "fragFINN",
+     "url": "https://www.yout-ube.com/watch?v=mCc9LoEKuBE"
+    },
+    {
+     "titel": "Frag Fred: Wie funktioniert eine Suchmaschine wie z. B. Google? | Kindervideos | SRF Kids",
+     "kanal": "SRF Kids",
+     "url": "https://www.yout-ube.com/watch?v=Rr-uWTO_HAw"
+    }
+   ]
+  },
+  {
+   "id": "gl02",
+   "nr": 2,
+   "titel": "Quellen und Darstellungen",
+   "bereich": "Wie Forscher arbeiten",
+   "klasse": "5/6",
+   "satz": "Du lernst den Unterschied zwischen einer Quelle aus alter Zeit, etwa einem Fundstück, und einem Text, den jemand heute darüber schreibt.",
+   "erklaerung": "Eine Quelle stammt aus der Zeit, um die es geht: ein Fundstück, ein alter Brief, ein Foto oder ein Gebäude. Eine Darstellung hat jemand später geschrieben oder gezeichnet, zum Beispiel ein Schulbuchtext oder ein Film über die Steinzeit. Historiker arbeiten mit Quellen, um herauszufinden, wie es früher wirklich war.",
+   "beispiele": [
+    "Quelle: eine Münze aus dem alten Rom",
+    "Darstellung: ein Kinderbuch über die Römer",
+    "Auch das Tagebuch deiner Oma ist eine Quelle."
+   ],
+   "baut_auf": [],
+   "quelle": "S. 16",
+   "suche": "Quellen Geschichte Kinder erklärt",
+   "videos": [
+    {
+     "titel": "Wonach suchen Archäologen? l WOOZLE GOOZLE",
+     "kanal": "Woozle Goozle",
+     "url": "https://www.yout-ube.com/watch?v=l08UyG62eSg"
+    },
+    {
+     "titel": "Wie arbeiten Archäologen auf einer verlassenen Baustelle? | Die Maus | WDR",
+     "kanal": "Die Maus",
+     "url": "https://www.yout-ube.com/watch?v=wzTEwWMtLj4"
+    }
+   ]
+  },
+  {
+   "id": "gl03",
+   "nr": 3,
+   "titel": "Bilder, Texte und Karten auswerten",
+   "bereich": "Wie Forscher arbeiten",
+   "klasse": "5/6",
+   "satz": "Du schaust ein Bild, einen Text oder eine Karte genau an und beantwortest Fragen dazu.",
+   "erklaerung": "Bilder, Texte und Karten erzählen dir viel, wenn du genau hinschaust. Zuerst beschreibst du, was du siehst oder liest, ohne gleich zu bewerten. Dann beantwortest du Fragen dazu und überlegst, wer das Material gemacht hat und warum.",
+   "beispiele": [
+    "Bild: Was ist im Vordergrund, was im Hintergrund?",
+    "Karte: Was zeigt die Legende? Wohin zeigt Norden?",
+    "Text: Unterstreiche die wichtigsten Wörter."
+   ],
+   "baut_auf": [
+    "gl02"
+   ],
+   "quelle": "S. 16",
+   "suche": "Bilder beschreiben Karte lesen Schule Kinder",
+   "videos": [
+    {
+     "titel": "Warum es verschiedene Weltkarten gibt  – einfach erklärt | Kindervideos | SRF Kids",
+     "kanal": "SRF Kids",
+     "url": "https://www.yout-ube.com/watch?v=3pc5yzr39j4"
+    }
+   ]
+  },
+  {
+   "id": "gl04",
+   "nr": 4,
+   "titel": "Eine Umfrage machen",
+   "bereich": "Wie Forscher arbeiten",
+   "klasse": "5/6",
+   "satz": "Du überlegst dir Fragen, befragst andere Leute und zählst die Antworten aus.",
+   "erklaerung": "Bei einer Umfrage stellst du vielen Menschen die gleichen Fragen. Gute Fragen sind kurz und klar, oft mit Antworten zum Ankreuzen. Am Ende zählst du aus und zeigst das Ergebnis zum Beispiel als Strichliste oder Diagramm.",
+   "beispiele": [
+    "„Wie kommst du zur Schule? Zu Fuß, Rad, Bus, Auto“",
+    "Frag mindestens 10 Leute, damit das Ergebnis etwas aussagt.",
+    "Strichliste: ||||  || = 7"
+   ],
+   "baut_auf": [],
+   "quelle": "S. 16",
+   "suche": "Umfrage machen Kinder Schule",
+   "videos": [
+    {
+     "titel": "Urliste, Strichliste und Häufigkeitstabelle | Daten und Zufall | Mathematik | Lehrerschmidt",
+     "kanal": "Lehrerschmidt",
+     "url": "https://www.yout-ube.com/watch?v=notqFpwVAts"
+    }
+   ]
+  },
+  {
+   "id": "gl05",
+   "nr": 5,
+   "titel": "Ein Plakat oder einen Kurzvortrag gestalten",
+   "bereich": "Wie Forscher arbeiten",
+   "klasse": "5/6",
+   "satz": "Du lernst, worauf es bei einem guten Plakat oder einem kurzen Vortrag ankommt.",
+   "erklaerung": "Ein gutes Plakat hat eine große Überschrift, wenig Text und Bilder, die man von weitem erkennt. Bei einem Kurzvortrag sprichst du frei mit Stichwortkarten und schaust die Zuhörer an. Übe vorher laut, zum Beispiel vor deiner Familie.",
+   "beispiele": [
+    "Plakat: Überschrift, 3 bis 5 Stichpunkte, Bilder",
+    "Vortrag: Einleitung, Hauptteil, Schluss",
+    "Langsam sprechen und Pausen machen"
+   ],
+   "baut_auf": [],
+   "quelle": "S. 16",
+   "suche": "Plakat gestalten Referat halten Kinder Tipps",
+   "videos": [
+    {
+     "titel": "10 Tipps - für ein richtig gutes Referat! | Lehrerschmidt",
+     "kanal": "Lehrerschmidt",
+     "url": "https://www.yout-ube.com/watch?v=qRLQDCyPqYQ"
+    }
+   ]
+  },
+  {
+   "id": "gl06",
+   "nr": 6,
+   "titel": "Die Erde als Globus",
+   "bereich": "Essen in aller Welt",
+   "klasse": "5",
+   "satz": "Du erfährst, dass ein Globus ein verkleinertes Modell der Erde ist, und findest Land und Wasser darauf.",
+   "erklaerung": "Ein Globus ist eine kleine Kugel, die zeigt, wie die Erde aussieht. Weil die Erde rund ist, zeigt ein Globus sie richtiger als eine flache Karte. Darauf siehst du, dass etwa zwei Drittel der Erde mit Wasser bedeckt sind.",
+   "beispiele": [
+    "Blau auf dem Globus: Meere und Ozeane",
+    "Braun und Grün: Land, Gebirge und Tiefland",
+    "Der Globus dreht sich wie die Erde um eine schräge Achse."
+   ],
+   "baut_auf": [],
+   "quelle": "S. 16, 17",
+   "suche": "Globus Erde Kinder erklärt",
+   "videos": [
+    {
+     "titel": "Die Erde - einfach erklärt für Kinder und Schüler: Sonnensystem, Jahreszeiten, Erdrotation, Aufbau..",
+     "kanal": "Kinderweltreise",
+     "url": "https://www.yout-ube.com/watch?v=ZV6CxydqhcM"
+    },
+    {
+     "titel": "Wie groß ist unsere Erde? l WOOZLE GOOZLE",
+     "kanal": "Woozle Goozle",
+     "url": "https://www.yout-ube.com/watch?v=LKC_KTs0l0Y"
+    }
+   ]
+  },
+  {
+   "id": "gl07",
+   "nr": 7,
+   "titel": "Die sieben Kontinente",
+   "bereich": "Essen in aller Welt",
+   "klasse": "5",
+   "satz": "Du kennst die Namen der Kontinente und zeigst sie auf dem Globus und der Weltkarte.",
+   "erklaerung": "Die großen Landmassen der Erde nennt man Kontinente. Man zählt meist sieben: Asien, Afrika, Nordamerika, Südamerika, Antarktika, Europa und Australien. Asien ist der größte, Australien der kleinste.",
+   "beispiele": [
+    "Wir leben in Europa.",
+    "Antarktika liegt am Südpol und ist fast ganz mit Eis bedeckt.",
+    "Merksatz zum Ordnen nach Größe: Asien, Afrika, Nordamerika, Südamerika, Antarktika, Europa, Australien."
+   ],
+   "baut_auf": [
+    "gl06"
+   ],
+   "quelle": "S. 17",
+   "suche": "sieben Kontinente Kinder erklärt",
+   "videos": [
+    {
+     "titel": "Kontinente und Ozeane - Orientierung auf der Erde - einfach erklärt",
+     "kanal": "Kinderweltreise",
+     "url": "https://www.yout-ube.com/watch?v=fTlZbGpfm5I"
+    },
+    {
+     "titel": "Wie viele Länder gibt es auf der Erde? Für Kinder einfach erklärt",
+     "kanal": "Kinderweltreise",
+     "url": "https://www.yout-ube.com/watch?v=47b2o16-osg"
+    }
+   ]
+  },
+  {
+   "id": "gl08",
+   "nr": 8,
+   "titel": "Die Ozeane",
+   "bereich": "Essen in aller Welt",
+   "klasse": "5",
+   "satz": "Du kennst die großen Ozeane und weißt, zwischen welchen Kontinenten sie liegen.",
+   "erklaerung": "Die riesigen Wassermassen zwischen den Kontinenten heißen Ozeane. Die drei größten sind der Pazifik, der Atlantik und der Indische Ozean. Oft zählt man noch das Nordpolarmeer und den Südlichen Ozean dazu.",
+   "beispiele": [
+    "Pazifik: der größte, zwischen Asien und Amerika",
+    "Atlantik: zwischen Europa, Afrika und Amerika",
+    "Die Nordsee ist ein Teil des Atlantiks."
+   ],
+   "baut_auf": [
+    "gl06"
+   ],
+   "quelle": "S. 17",
+   "suche": "Ozeane der Welt Kinder",
+   "videos": [
+    {
+     "titel": "Kontinente und Ozeane - Orientierung auf der Erde - einfach erklärt",
+     "kanal": "Kinderweltreise",
+     "url": "https://www.yout-ube.com/watch?v=fTlZbGpfm5I"
+    },
+    {
+     "titel": "Was kann man im Meer entdecken? l WOOZLE GOOZLE",
+     "kanal": "Woozle Goozle",
+     "url": "https://www.yout-ube.com/watch?v=EAG_4xRYF88"
+    }
+   ]
+  },
+  {
+   "id": "gl09",
+   "nr": 9,
+   "titel": "Die Himmelsrichtungen",
+   "bereich": "Essen in aller Welt",
+   "klasse": "5",
+   "satz": "Du kennst Norden, Osten, Süden und Westen und findest sie mit der Sonne oder einer Windrose.",
+   "erklaerung": "Die vier Haupthimmelsrichtungen sind Norden, Osten, Süden und Westen. Die Sonne geht im Osten auf, steht mittags im Süden und geht im Westen unter. Auf fast allen Karten ist Norden oben.",
+   "beispiele": [
+    "Merksatz im Uhrzeigersinn: Nie Ohne Seife Waschen.",
+    "Mittags zeigt dein Schatten nach Norden.",
+    "Zwischen Norden und Osten liegt Nordosten."
+   ],
+   "baut_auf": [],
+   "quelle": "S. 17",
+   "suche": "Himmelsrichtungen Kinder erklärt",
+   "videos": [
+    {
+     "titel": "Windrose zeichnen | Sachunterricht - Physik | Lehrerschmidt",
+     "kanal": "Lehrerschmidt",
+     "url": "https://www.yout-ube.com/watch?v=PJ6pjXhErlY"
+    },
+    {
+     "titel": "Warum zeigt ein Kompass immer nach Norden? l WOOZLE GOOZLE",
+     "kanal": "Woozle Goozle",
+     "url": "https://www.yout-ube.com/watch?v=KdommGmdu9c"
+    }
+   ]
+  },
+  {
+   "id": "gl10",
+   "nr": 10,
+   "titel": "Woher unser Essen kommt",
+   "bereich": "Essen in aller Welt",
+   "klasse": "5",
+   "satz": "Du findest auf der Karte, wo Bananen, Kakao, Reis oder Kartoffeln wachsen.",
+   "erklaerung": "Viele Lebensmittel, die wir jeden Tag essen, wachsen gar nicht bei uns. Bananen und Kakao brauchen es das ganze Jahr warm und feucht, sie kommen aus Ländern nahe dem Äquator. Kartoffeln, Weizen und Äpfel wachsen auch in Deutschland.",
+   "beispiele": [
+    "Bananen: zum Beispiel aus Ecuador in Südamerika",
+    "Kakao für Schokolade: oft aus der Elfenbeinküste in Afrika",
+    "Reis: vor allem aus Asien"
+   ],
+   "baut_auf": [
+    "gl07",
+    "gl09"
+   ],
+   "quelle": "S. 17",
+   "suche": "Woher kommt unser Essen Kinder",
+   "videos": [
+    {
+     "titel": "Woher kommt Kakao? l WOOZLE GOOZLE",
+     "kanal": "Woozle Goozle",
+     "url": "https://www.yout-ube.com/watch?v=qgjAGNQPp3Y"
+    },
+    {
+     "titel": "Woher kommt unser Lieblingsessen? l WOOZLE GOOZLE",
+     "kanal": "Woozle Goozle",
+     "url": "https://www.yout-ube.com/watch?v=6VmHuwC_PV0"
+    }
+   ]
+  },
+  {
+   "id": "gl11",
+   "nr": 11,
+   "titel": "Typische Gerichte aus aller Welt",
+   "bereich": "Essen in aller Welt",
+   "klasse": "5",
+   "satz": "Du entdeckst, warum in Asien viel Reis und in Mexiko viel Mais gegessen wird.",
+   "erklaerung": "Was Menschen essen, hängt davon ab, was in ihrer Gegend gut wächst. In Asien ist es warm und nass, deshalb gibt es dort viel Reis. In Mexiko wurde Mais schon vor Tausenden Jahren angebaut, deshalb gibt es dort Tortillas aus Mais.",
+   "beispiele": [
+    "Italien: Pasta aus Weizen, Olivenöl, Tomaten",
+    "Japan: Reis und viel Fisch, weil das Meer nah ist",
+    "Deutschland: Kartoffeln und Brot aus Roggen oder Weizen"
+   ],
+   "baut_auf": [
+    "gl10"
+   ],
+   "quelle": "S. 17",
+   "suche": "Essen in anderen Ländern Kinder",
+   "videos": [
+    {
+     "titel": "Was essen Menschen in anderen Ländern? l GANZE FOLGE",
+     "kanal": "Woozle Goozle",
+     "url": "https://www.yout-ube.com/watch?v=nGzdxHtJ6XE"
+    },
+    {
+     "titel": "Was kann man in Japan essen? l WOOZLE GOOZLE",
+     "kanal": "Woozle Goozle",
+     "url": "https://www.yout-ube.com/watch?v=CqOIHgeqBd4"
+    }
+   ]
+  },
+  {
+   "id": "gl12",
+   "nr": 12,
+   "titel": "Essen aus anderen Ländern bei uns",
+   "bereich": "Essen in aller Welt",
+   "klasse": "5",
+   "satz": "Du erfährst, wie Pizza, Döner oder Nudeln zu uns gekommen sind und unser Essen verändert haben.",
+   "erklaerung": "Unser Essen ist eine Mischung aus vielen Ländern. Menschen, die nach Deutschland gezogen sind, haben ihre Gerichte mitgebracht, zum Beispiel Pizza aus Italien oder den Döner, der in Berlin aus türkischen Gerichten entstanden ist. Auch Urlaub und Handel bringen neue Speisen zu uns.",
+   "beispiele": [
+    "Pizza kam mit italienischen Gastarbeitern.",
+    "Der Döner im Brot wurde in Berlin erfunden.",
+    "Sushi, Burger und Falafel kennt heute fast jeder."
+   ],
+   "baut_auf": [
+    "gl11"
+   ],
+   "quelle": "S. 17",
+   "suche": "Pizza Döner Herkunft Kinder",
+   "videos": [
+    {
+     "titel": "Wo wurde der Döner erfunden? l WOOZLE GOOZLE",
+     "kanal": "Woozle Goozle",
+     "url": "https://www.yout-ube.com/watch?v=bqQzgxqlYD4"
+    },
+    {
+     "titel": "Warum ist Pizza so lecker? l WOOZLE GOOZLE",
+     "kanal": "Woozle Goozle",
+     "url": "https://www.yout-ube.com/watch?v=7GoVl_Dsaxo"
+    }
+   ]
+  },
+  {
+   "id": "gl13",
+   "nr": 13,
+   "titel": "Der Zeitstrahl",
+   "bereich": "Essen in aller Welt",
+   "klasse": "5",
+   "satz": "Du ordnest Ereignisse auf einem Zeitstrahl und lernst, was v. Chr. und n. Chr. bedeuten.",
+   "erklaerung": "Auf einem Zeitstrahl ordnest du Ereignisse der Reihe nach, so siehst du, was früher und was später war. Unsere Zeitrechnung zählt von Christi Geburt aus. Alles davor heißt „vor Christus“ (v. Chr.), alles danach „nach Christus“ (n. Chr.).",
+   "beispiele": [
+    "Deine Geburt, dein erster Schultag, heute: ein Zeitstrahl deines Lebens",
+    "Je weiter links, desto früher",
+    "500 v. Chr. ist früher als 100 v. Chr."
+   ],
+   "baut_auf": [],
+   "quelle": "S. 16, 17",
+   "suche": "Zeitstrahl vor nach Christus Kinder",
+   "videos": [
+    {
+     "titel": "Epochen - Eine Übersicht | Lehrerschmidt | Geschichte",
+     "kanal": "Lehrerschmidt",
+     "url": "https://www.yout-ube.com/watch?v=A9bXYAjgL-8"
+    },
+    {
+     "titel": "Der Zeit-Check | Reportage für Kinder | Checker Tobi",
+     "kanal": "CHECKER WELT",
+     "url": "https://www.yout-ube.com/watch?v=MHjHY1UmsWk"
+    }
+   ]
+  },
+  {
+   "id": "gl14",
+   "nr": 14,
+   "titel": "Essen früher",
+   "bereich": "Essen in aller Welt",
+   "klasse": "5",
+   "satz": "Du erfährst, was Menschen früher gegessen haben, und zeigst auf dem Zeitstrahl, wann die Kartoffel nach Europa kam.",
+   "erklaerung": "Was Menschen essen, hat sich über die Jahrhunderte stark verändert. Kartoffeln, Tomaten und Mais kamen erst nach 1500 aus Amerika nach Europa. Vorher aßen die Menschen hier viel Brei, Brot, Rüben und Bohnen.",
+   "beispiele": [
+    "Steinzeit: Wild, Beeren, Nüsse",
+    "Mittelalter: Getreidebrei, Brot, Gemüse aus dem Garten",
+    "Gewürze wie Pfeffer waren früher teurer als Gold."
+   ],
+   "baut_auf": [
+    "gl13",
+    "gl12"
+   ],
+   "quelle": "S. 17",
+   "suche": "Essen im Mittelalter Kinder",
+   "videos": [
+    {
+     "titel": "Wie war das Leben im Mittelalter? l WOOZLE GOOZLE",
+     "kanal": "Woozle Goozle",
+     "url": "https://www.yout-ube.com/watch?v=hSa7Cj3KCV8"
+    },
+    {
+     "titel": "Der Mittelalter-Check | Reportage für Kinder | Checker Tobi als Ritter",
+     "kanal": "CHECKER WELT",
+     "url": "https://www.yout-ube.com/watch?v=eyZqRcgGkiY"
+    }
+   ]
+  },
+  {
+   "id": "gl15",
+   "nr": 15,
+   "titel": "Bräuche rund ums Essen",
+   "bereich": "Essen in aller Welt",
+   "klasse": "5",
+   "satz": "Du lernst Feste und Bräuche kennen, bei denen Essen wichtig ist, zum Beispiel Erntedank oder Fastenbrechen.",
+   "erklaerung": "Zu vielen Festen gehört ein besonderes Essen. Bräuche werden von Generation zu Generation weitergegeben und erzählen, was den Menschen wichtig ist. In jeder Religion und jedem Land gibt es eigene Bräuche.",
+   "beispiele": [
+    "Erntedank: Dank für die Ernte im Herbst",
+    "Ramadan: Muslime fasten tagsüber und essen nach Sonnenuntergang gemeinsam beim Fastenbrechen.",
+    "Ostern: bunte Eier, Weihnachten: Plätzchen"
+   ],
+   "baut_auf": [],
+   "quelle": "S. 17",
+   "suche": "Bräuche Feste Essen Kinder",
+   "videos": [
+    {
+     "titel": "Ramadan: Der islamische Fastenmonat – einfach erklärt | Kindervideos | SRF Kids",
+     "kanal": "SRF Kids",
+     "url": "https://www.yout-ube.com/watch?v=kU7CIR3CjGw"
+    },
+    {
+     "titel": "Alles über den Herbst 🍁🍂 l WOOZLE GOOZLE",
+     "kanal": "Woozle Goozle",
+     "url": "https://www.yout-ube.com/watch?v=xspd9A1mjlo"
+    }
+   ]
+  },
+  {
+   "id": "gl16",
+   "nr": 16,
+   "titel": "Gemeinsam essen",
+   "bereich": "Essen in aller Welt",
+   "klasse": "5",
+   "satz": "Du überlegst, warum gemeinsames Essen Menschen zusammenbringt.",
+   "erklaerung": "Gemeinsames Essen ist mehr als satt werden. Am Tisch erzählt man sich, was passiert ist, und fühlt sich als Gruppe. Deshalb gibt es in fast allen Kulturen gemeinsame Mahlzeiten an Festen.",
+   "beispiele": [
+    "Familienessen am Sonntag",
+    "Picknick mit Freunden",
+    "Hochzeiten und Geburtstage mit großem Essen"
+   ],
+   "baut_auf": [
+    "gl15"
+   ],
+   "quelle": "S. 18",
+   "suche": "gemeinsam essen Familie Kultur Kinder",
+   "videos": [
+    {
+     "titel": "Was essen Menschen in anderen Ländern? l GANZE FOLGE",
+     "kanal": "Woozle Goozle",
+     "url": "https://www.yout-ube.com/watch?v=nGzdxHtJ6XE"
+    }
+   ]
+  },
+  {
+   "id": "gl17",
+   "nr": 17,
+   "titel": "Tischregeln für alle",
+   "bereich": "Essen in aller Welt",
+   "klasse": "5",
+   "satz": "Du entwickelst mit anderen Regeln, damit ein gemeinsames Essen allen Spaß macht.",
+   "erklaerung": "Wenn viele Menschen zusammen essen, helfen Regeln, damit sich alle wohlfühlen. Gute Regeln überlegt man gemeinsam, so dass jeder sie versteht. In anderen Ländern gelten manchmal andere Tischregeln.",
+   "beispiele": [
+    "Warten, bis alle etwas haben",
+    "In Japan isst man mit Stäbchen, in Indien oft mit der rechten Hand.",
+    "Handy weglegen beim Essen"
+   ],
+   "baut_auf": [
+    "gl16"
+   ],
+   "quelle": "S. 17",
+   "suche": "Tischmanieren andere Länder Kinder",
+   "videos": [
+    {
+     "titel": "Wie begrüßt man sich in Japan? l WOOZLE GOOZLE",
+     "kanal": "Woozle Goozle",
+     "url": "https://www.yout-ube.com/watch?v=FbM4xBHreGc"
+    },
+    {
+     "titel": "Was essen Menschen in anderen Ländern? l GANZE FOLGE",
+     "kanal": "Woozle Goozle",
+     "url": "https://www.yout-ube.com/watch?v=nGzdxHtJ6XE"
+    }
+   ]
+  },
+  {
+   "id": "gl18",
+   "nr": 18,
+   "titel": "Vorurteile über andere Länder",
+   "bereich": "Essen in aller Welt",
+   "klasse": "5",
+   "satz": "Du prüfst, ob Sätze wie „Alle Italiener essen Pizza“ stimmen, und wie Medien andere Länder zeigen.",
+   "erklaerung": "Ein Vorurteil ist eine Meinung über eine Gruppe von Menschen, die man sich bildet, ohne sie richtig zu kennen. Klischees wie „Alle Deutschen essen Sauerkraut“ stimmen fast nie. Filme und Werbung zeigen andere Länder oft so, wie man es erwartet, nicht wie es wirklich ist.",
+   "beispiele": [
+    "Nicht alle Mexikaner tragen Sombreros.",
+    "Frag lieber jemanden aus dem Land, wie es dort ist.",
+    "Achte in Filmen darauf, wie Menschen aus anderen Ländern gezeigt werden."
+   ],
+   "baut_auf": [
+    "gl11"
+   ],
+   "quelle": "S. 18",
+   "suche": "Vorurteile Klischees Kinder erklärt",
+   "videos": [
+    {
+     "titel": "Was ist ein Klischee? | SRF Kids – Clip und klar! | Für Kinder erklärt",
+     "kanal": "SRF Kids",
+     "url": "https://www.yout-ube.com/watch?v=z3xGNYhkXxw"
+    },
+    {
+     "titel": "Zusammen gegen Diskriminierung | Erklärvideos für Kinder | SRF Kids – Kindervideos",
+     "kanal": "SRF Kids",
+     "url": "https://www.yout-ube.com/watch?v=ivk607Un45s"
+    }
+   ]
+  },
+  {
+   "id": "gl19",
+   "nr": 19,
+   "titel": "Eine Karte lesen",
+   "bereich": "Fairplay: Miteinander und Freizeit",
+   "klasse": "5",
+   "satz": "Du verstehst Kartenzeichen und Legende und findest dich auf einem Stadtplan zurecht.",
+   "erklaerung": "Eine Karte zeigt eine Gegend von oben und verkleinert. Damit sie übersichtlich bleibt, benutzt sie Zeichen und Farben. Was die bedeuten, steht in der Legende am Rand.",
+   "beispiele": [
+    "Blau: Wasser, Grün: Wald oder Tiefland",
+    "Ein Kreuz kann eine Kirche bedeuten.",
+    "Auf dem Stadtplan sind Straßen weiß oder gelb."
+   ],
+   "baut_auf": [
+    "gl09"
+   ],
+   "quelle": "S. 18",
+   "suche": "Karte lesen Legende Kinder",
+   "videos": [
+    {
+     "titel": "Warum es verschiedene Weltkarten gibt  – einfach erklärt | Kindervideos | SRF Kids",
+     "kanal": "SRF Kids",
+     "url": "https://www.yout-ube.com/watch?v=3pc5yzr39j4"
+    },
+    {
+     "titel": "Der Navigations-Check | Reportage für Kinder | Checkerin Marina",
+     "kanal": "CHECKER WELT",
+     "url": "https://www.yout-ube.com/watch?v=WTWF7OHfuLQ"
+    }
+   ]
+  },
+  {
+   "id": "gl20",
+   "nr": 20,
+   "titel": "Der Maßstab",
+   "bereich": "Fairplay: Miteinander und Freizeit",
+   "klasse": "5",
+   "satz": "Du rechnest aus, wie weit zwei Orte in Wirklichkeit voneinander entfernt sind.",
+   "erklaerung": "Der Maßstab sagt dir, wie stark eine Karte verkleinert ist. Bei 1 : 100 000 ist 1 cm auf der Karte in Wirklichkeit 100 000 cm, also 1 km. Mit einem Lineal kannst du so ausrechnen, wie weit zwei Orte voneinander entfernt sind.",
+   "beispiele": [
+    "1 : 25 000: 4 cm auf der Karte sind 1 km.",
+    "Eine Maßstabsleiste zeigt die Strecke direkt.",
+    "Je größer die Zahl hinter dem Doppelpunkt, desto mehr ist verkleinert."
+   ],
+   "baut_auf": [
+    "gl19"
+   ],
+   "quelle": "S. 18, 19",
+   "suche": "Maßstab Karte berechnen Kinder",
+   "videos": [
+    {
+     "titel": "Maßstab berechnen - Maßstab umrechnen | 1:50.000 / 1:20000 - einfach erklärt | Lehrerschmidt",
+     "kanal": "Lehrerschmidt",
+     "url": "https://www.yout-ube.com/watch?v=GisW8YDnD4s"
+    },
+    {
+     "titel": "Maßstab berechnen - Was bedeutet 1:50.000 oder 1:200.000? | Lehrerschmidt - einfach erklärt!",
+     "kanal": "Lehrerschmidt",
+     "url": "https://www.yout-ube.com/watch?v=FoUPo4y_x3k"
+    }
+   ]
+  },
+  {
+   "id": "gl21",
+   "nr": 21,
+   "titel": "Mit Karte und Kompass unterwegs",
+   "bereich": "Fairplay: Miteinander und Freizeit",
+   "klasse": "5",
+   "satz": "Du findest mit Karte und Kompass einen Weg in deiner Umgebung.",
+   "erklaerung": "Mit Karte und Kompass findest du auch in fremden Gegenden deinen Weg. Zuerst drehst du die Karte so, dass ihr Norden in die Richtung zeigt, in die die Kompassnadel zeigt. Dann vergleichst du, was du siehst, mit der Karte.",
+   "beispiele": [
+    "Karte einnorden: Kartennorden und Kompassnadel zeigen gleich.",
+    "Markante Punkte suchen: Kirchturm, Brücke, Kreuzung",
+    "Beim Geocaching oder Orientierungslauf brauchst du genau das."
+   ],
+   "baut_auf": [
+    "gl20"
+   ],
+   "quelle": "S. 18",
+   "suche": "Karte einnorden Kompass Kinder",
+   "videos": [
+    {
+     "titel": "Kompass - Aufbau und Funktion | Sachunterricht - Physik | Lehrerschmidt",
+     "kanal": "Lehrerschmidt",
+     "url": "https://www.yout-ube.com/watch?v=l0MXeskivD4"
+    },
+    {
+     "titel": "Der Navigations-Check | Reportage für Kinder | Checkerin Marina",
+     "kanal": "CHECKER WELT",
+     "url": "https://www.yout-ube.com/watch?v=WTWF7OHfuLQ"
+    }
+   ]
+  },
+  {
+   "id": "gl22",
+   "nr": 22,
+   "titel": "Mein Schulweg",
+   "bereich": "Fairplay: Miteinander und Freizeit",
+   "klasse": "5",
+   "satz": "Du zeichnest deinen Schulweg und überlegst, wie man sicher mit Bus, Rad oder zu Fuß ankommt.",
+   "erklaerung": "Dein Schulweg ist ein Stück deiner Welt, das du sehr gut kennst. Wenn du ihn als Karte zeichnest, siehst du, welche Straßen, Ampeln und Haltestellen du nutzt. Dabei fällt auch auf, wo es gefährlich ist und was besser sein könnte, zum Beispiel ein Radweg.",
+   "beispiele": [
+    "Zeichne Start, Ziel und wichtige Punkte.",
+    "Wo überquerst du Straßen? Gibt es dort eine Ampel?",
+    "Bus, Fahrrad, zu Fuß: Was dauert wie lange?"
+   ],
+   "baut_auf": [
+    "gl19"
+   ],
+   "quelle": "S. 18",
+   "suche": "Schulweg sicher Kinder",
+   "videos": [
+    {
+     "titel": "Rechts vor Links | Sachunterricht - Verkehrserziehung | Lehrerschmidt",
+     "kanal": "Lehrerschmidt",
+     "url": "https://www.yout-ube.com/watch?v=P8s4ibn4d-U"
+    },
+    {
+     "titel": "Der Straßenverkehrs-Check | Reportage für Kinder | Checker Tobi | BR",
+     "kanal": "CHECKER WELT",
+     "url": "https://www.yout-ube.com/watch?v=80paXDmRNLA"
+    }
+   ]
+  },
+  {
+   "id": "gl23",
+   "nr": 23,
+   "titel": "Freizeit in Stadt und Land",
+   "bereich": "Fairplay: Miteinander und Freizeit",
+   "klasse": "5",
+   "satz": "Du vergleichst, was man in der Stadt und auf dem Land in der Freizeit machen kann.",
+   "erklaerung": "In der Stadt und auf dem Land gibt es unterschiedliche Möglichkeiten für die Freizeit. In der Stadt sind Kino, Schwimmbad und Vereine oft nah, dafür gibt es weniger Natur. Auf dem Land kann man draußen viel erleben, aber die Wege sind länger.",
+   "beispiele": [
+    "Stadt: Museum, Kletterhalle, viele Busse",
+    "Land: Wald, Felder, Reiterhof",
+    "Was gibt es in deiner Gegend?"
+   ],
+   "baut_auf": [
+    "gl19"
+   ],
+   "quelle": "S. 18",
+   "suche": "Leben Stadt Land Unterschied Kinder",
+   "videos": [
+    {
+     "titel": "Wie unterscheiden sich Stadt & Land? | SRF Kids – Clip und klar! | Für Kinder erklärt",
+     "kanal": "SRF Kids",
+     "url": "https://www.yout-ube.com/watch?v=mykPdkP3UVA"
+    },
+    {
+     "titel": "🏘️ Stadt vs. Land: Was ist besser? | Erklär’s mir | planet schule | ARD",
+     "kanal": "planet schule",
+     "url": "https://www.yout-ube.com/watch?v=OfNOIU6vEhE"
+    }
+   ]
+  },
+  {
+   "id": "gl24",
+   "nr": 24,
+   "titel": "Was ich in meiner Freizeit gern mache",
+   "bereich": "Fairplay: Miteinander und Freizeit",
+   "klasse": "5",
+   "satz": "Du beschreibst, was dir in deiner Freizeit wichtig ist und was du brauchst.",
+   "erklaerung": "Freizeit ist die Zeit, in der du selbst entscheidest, was du machst. Manche treiben Sport, andere lesen, malen, spielen oder treffen Freunde. Wichtig ist, dass du merkst, was dir guttut und was du brauchst, um dich zu erholen.",
+   "beispiele": [
+    "Bewegung: Fußball, Reiten, Tanzen",
+    "Ruhe: Lesen, Musik hören",
+    "Mit anderen: Pfadfinder, Feuerwehrjugend, Chor"
+   ],
+   "baut_auf": [],
+   "quelle": "S. 18",
+   "suche": "Freizeit Hobbys Kinder",
+   "videos": []
+  },
+  {
+   "id": "gl25",
+   "nr": 25,
+   "titel": "Epochen: Geschichte einteilen",
+   "bereich": "Fairplay: Miteinander und Freizeit",
+   "klasse": "5",
+   "satz": "Du lernst die großen Zeitabschnitte kennen: Steinzeit, Antike, Mittelalter und Neuzeit.",
+   "erklaerung": "Damit man die lange Geschichte der Menschen besser überblicken kann, teilt man sie in Abschnitte ein, die Epochen. Die wichtigsten sind Steinzeit, Antike, Mittelalter und Neuzeit. Jede Epoche hat ihre Besonderheiten, zum Beispiel Werkzeuge aus Stein in der Steinzeit oder Burgen im Mittelalter.",
+   "beispiele": [
+    "Steinzeit: bis etwa 2000 v. Chr. bei uns",
+    "Antike: alte Griechen und Römer",
+    "Mittelalter: etwa 500 bis 1500 n. Chr., Ritter und Burgen"
+   ],
+   "baut_auf": [
+    "gl13"
+   ],
+   "quelle": "S. 18",
+   "suche": "Epochen Geschichte Kinder erklärt",
+   "videos": [
+    {
+     "titel": "Epochen - Eine Übersicht | Lehrerschmidt | Geschichte",
+     "kanal": "Lehrerschmidt",
+     "url": "https://www.yout-ube.com/watch?v=A9bXYAjgL-8"
+    },
+    {
+     "titel": "Der Zeit-Check | Reportage für Kinder | Checker Tobi",
+     "kanal": "CHECKER WELT",
+     "url": "https://www.yout-ube.com/watch?v=MHjHY1UmsWk"
+    }
+   ]
+  },
+  {
+   "id": "gl26",
+   "nr": 26,
+   "titel": "Spiele früher und heute",
+   "bereich": "Fairplay: Miteinander und Freizeit",
+   "klasse": "5",
+   "satz": "Du vergleichst, womit Kinder früher gespielt haben und womit heute.",
+   "erklaerung": "Kinder haben schon immer gespielt, nur mit anderen Dingen. Im alten Rom gab es Murmeln, Puppen und Würfelspiele, im Mittelalter Kreisel und Stelzen. Heute kommen elektronische Spiele dazu, aber viele alte Spiele kennt man immer noch.",
+   "beispiele": [
+    "Murmeln gab es schon vor 2000 Jahren.",
+    "Fangen und Verstecken spielen Kinder überall auf der Welt.",
+    "Frag deine Großeltern, was sie gespielt haben."
+   ],
+   "baut_auf": [
+    "gl25"
+   ],
+   "quelle": "S. 18",
+   "suche": "Spielzeug früher Kinder Geschichte",
+   "videos": [
+    {
+     "titel": "Der Spiele-Check | Reportage für Kinder | Checkerin Marina | BR",
+     "kanal": "CHECKER WELT",
+     "url": "https://www.yout-ube.com/watch?v=C_BX0SSrzYs"
+    }
+   ]
+  },
+  {
+   "id": "gl27",
+   "nr": 27,
+   "titel": "Olympische Spiele in der Antike",
+   "bereich": "Fairplay: Miteinander und Freizeit",
+   "klasse": "5",
+   "satz": "Du erfährst, wie die alten Griechen in Olympia Wettkämpfe für ihren Gott Zeus feierten.",
+   "erklaerung": "Die ersten Olympischen Spiele fanden vor fast 2800 Jahren in Olympia in Griechenland statt. Sie wurden zu Ehren des Gottes Zeus gefeiert, und während der Spiele herrschte Frieden. Es gab Laufen, Ringen, Wagenrennen und Fünfkampf, und nur freie Männer durften mitmachen.",
+   "beispiele": [
+    "Erste überlieferte Spiele: 776 v. Chr.",
+    "Der Sieger bekam einen Kranz aus Olivenzweigen.",
+    "Frauen durften nicht einmal zuschauen."
+   ],
+   "baut_auf": [
+    "gl25"
+   ],
+   "quelle": "S. 18",
+   "suche": "Olympische Spiele Antike Kinder",
+   "videos": [
+    {
+     "titel": "Der Alte-Griechen-Check | Reportage für Kinder | Checker Tobi",
+     "kanal": "CHECKER WELT",
+     "url": "https://www.yout-ube.com/watch?v=WmTY-tUEA_A"
+    }
+   ]
+  },
+  {
+   "id": "gl28",
+   "nr": 28,
+   "titel": "Olympische Spiele heute",
+   "bereich": "Fairplay: Miteinander und Freizeit",
+   "klasse": "5",
+   "satz": "Du vergleichst die heutigen Spiele mit Fackel und Ringen mit denen von früher.",
+   "erklaerung": "Seit 1896 gibt es wieder Olympische Spiele, inzwischen mit Sportlern aus der ganzen Welt. Das olympische Feuer wird in Olympia entzündet und mit einer Fackel zum Austragungsort gebracht. Die fünf Ringe stehen für die fünf Erdteile, die sich verbinden.",
+   "beispiele": [
+    "Heute machen Frauen und Männer mit.",
+    "Es gibt Sommer- und Winterspiele.",
+    "Bei den Paralympics treten Sportler mit Behinderung an."
+   ],
+   "baut_auf": [
+    "gl27"
+   ],
+   "quelle": "S. 18",
+   "suche": "Olympische Spiele heute Ringe Fackel Kinder",
+   "videos": [
+    {
+     "titel": "Welche Sportarten gibt es bei den Olympischen Spielen? l WOOZLE GOOZLE",
+     "kanal": "Woozle Goozle",
+     "url": "https://www.yout-ube.com/watch?v=RLlVA-3UZ4E"
+    },
+    {
+     "titel": "Die Paralympics – einfach erklärt | Kindervideos | SRF Kids",
+     "kanal": "SRF Kids",
+     "url": "https://www.yout-ube.com/watch?v=rLr7oSQtxAk"
+    }
+   ]
+  },
+  {
+   "id": "gl29",
+   "nr": 29,
+   "titel": "Warum es Regeln gibt",
+   "bereich": "Fairplay: Miteinander und Freizeit",
+   "klasse": "5",
+   "satz": "Du überlegst, wozu Regeln im Spiel, in der Klasse und auf der Straße gut sind.",
+   "erklaerung": "Regeln sagen, was man tun darf und was nicht. Sie sorgen dafür, dass ein Spiel fair ist und dass Menschen gut zusammenleben können. Ohne Regeln würde oft der Stärkere bestimmen.",
+   "beispiele": [
+    "Spielregeln beim Fußball",
+    "Klassenregeln: ausreden lassen",
+    "Verkehrsregeln: Rot heißt stehen"
+   ],
+   "baut_auf": [],
+   "quelle": "S. 18",
+   "suche": "warum gibt es Regeln Kinder",
+   "videos": [
+    {
+     "titel": "Der Demokratie-Check | Reportage für Kinder  | Checker Tobi",
+     "kanal": "CHECKER WELT",
+     "url": "https://www.yout-ube.com/watch?v=Sht-dYI1tqc"
+    }
+   ]
+  },
+  {
+   "id": "gl30",
+   "nr": 30,
+   "titel": "Regeln gemeinsam festlegen",
+   "bereich": "Fairplay: Miteinander und Freizeit",
+   "klasse": "5",
+   "satz": "Du erlebst, wie eine Gruppe Regeln bespricht und darüber abstimmt, zum Beispiel im Klassenrat.",
+   "erklaerung": "In einer Demokratie bestimmen nicht einer oder wenige allein, sondern alle reden mit. Regeln werden besprochen, und dann wird abgestimmt. Im Klassenrat kann jedes Kind Themen einbringen, und die Gruppe sucht gemeinsam eine Lösung.",
+   "beispiele": [
+    "Ein Vorschlag, dann Meinungen, dann Abstimmung",
+    "Mehrheit entscheidet, aber die Minderheit wird gehört.",
+    "Regeln kann man später gemeinsam auch wieder ändern."
+   ],
+   "baut_auf": [
+    "gl29"
+   ],
+   "quelle": "S. 18",
+   "suche": "Klassenrat Demokratie Kinder",
+   "videos": [
+    {
+     "titel": "Was ist Demokratie? l WOOZLE GOOZLE",
+     "kanal": "Woozle Goozle",
+     "url": "https://www.yout-ube.com/watch?v=qW25km7reAI"
+    },
+    {
+     "titel": "Was dürfen Kinder alles mitbestimmen? | Erklärvideos für Kinder | SRF Kids – Kindervideos",
+     "kanal": "SRF Kids",
+     "url": "https://www.yout-ube.com/watch?v=tOJP8boHMCw"
+    }
+   ]
+  },
+  {
+   "id": "gl31",
+   "nr": 31,
+   "titel": "Gewinnen und verlieren",
+   "bereich": "Fairplay: Miteinander und Freizeit",
+   "klasse": "5",
+   "satz": "Du überlegst, wie man fair verliert und wie man Streit im Spiel entschärft.",
+   "erklaerung": "Beim Spielen gibt es Gewinner und Verlierer, und Verlieren tut manchmal weh. Fair verlieren heißt, dem Gewinner zu gratulieren, auch wenn man enttäuscht ist. Wer gewinnt, sollte den anderen nicht auslachen.",
+   "beispiele": [
+    "„Gut gespielt!“ sagen",
+    "Kurz durchatmen, wenn man wütend ist",
+    "Fairplay im Sport: Dem Gegner aufhelfen"
+   ],
+   "baut_auf": [
+    "gl29"
+   ],
+   "quelle": "S. 19",
+   "suche": "fair verlieren Kinder",
+   "videos": [
+    {
+     "titel": "Der Spiele-Check | Reportage für Kinder | Checkerin Marina | BR",
+     "kanal": "CHECKER WELT",
+     "url": "https://www.yout-ube.com/watch?v=C_BX0SSrzYs"
+    }
+   ]
+  },
+  {
+   "id": "gl32",
+   "nr": 32,
+   "titel": "Streit lösen",
+   "bereich": "Fairplay: Miteinander und Freizeit",
+   "klasse": "5",
+   "satz": "Du lernst Wege kennen, einen Streit zu lösen, zum Beispiel mit Ich-Botschaften oder Streitschlichtung.",
+   "erklaerung": "Streit gehört zum Leben, wichtig ist, wie man ihn löst. Mit Ich-Botschaften sagst du, wie es dir geht, ohne den anderen anzugreifen: „Ich bin traurig, weil …“. Wenn es allein nicht klappt, helfen Streitschlichter, eine Lösung zu finden, mit der beide leben können.",
+   "beispiele": [
+    "Statt „Du bist gemein!“: „Ich ärgere mich, weil du mich nicht mitspielen lässt.“",
+    "Erst beide erzählen lassen, dann Lösungen suchen",
+    "Streitschlichter sind oft ältere Schüler."
+   ],
+   "baut_auf": [
+    "gl31"
+   ],
+   "quelle": "S. 19",
+   "suche": "Streit schlichten Ich-Botschaft Kinder",
+   "videos": [
+    {
+     "titel": "Warum streiten wir uns? l WOOZLE GOOZLE",
+     "kanal": "Woozle Goozle",
+     "url": "https://www.yout-ube.com/watch?v=eesuRjXLgWw"
+    },
+    {
+     "titel": "Der Streit-Check | Reportage für Kinder | Checkerin Marina | BR",
+     "kanal": "CHECKER WELT",
+     "url": "https://www.yout-ube.com/watch?v=2wbrvKpB28E"
+    }
+   ]
+  },
+  {
+   "id": "gl33",
+   "nr": 33,
+   "titel": "Regeln für Handy, Spiele und Internet",
+   "bereich": "Fairplay: Miteinander und Freizeit",
+   "klasse": "5",
+   "satz": "Du arbeitest Regeln heraus, damit digitale Medien dir guttun.",
+   "erklaerung": "Handy, Tablet und Spielkonsole machen Spaß, aber zu viel davon kann müde und unruhig machen. Gute Regeln helfen dir, die Zeit selbst im Blick zu behalten. Im Internet gilt außerdem: Persönliche Daten und Fotos teilst du nicht mit Fremden.",
+   "beispiele": [
+    "Bildschirmpausen und handyfreie Zeiten, zum Beispiel beim Essen",
+    "Keine Adresse oder Telefonnummer im Netz",
+    "Wenn dir etwas Angst macht: einem Erwachsenen zeigen"
+   ],
+   "baut_auf": [],
+   "quelle": "S. 16, 19",
+   "suche": "Medienregeln Kinder Handy Internet",
+   "videos": [
+    {
+     "titel": "Wie uns das Handy ablenkt – einfach erklärt | Kindervideos | SRF Kids",
+     "kanal": "SRF Kids",
+     "url": "https://www.yout-ube.com/watch?v=c8hJz0vYe5o"
+    },
+    {
+     "titel": "Der Handy-Check | Reportage für Kinder | Checker Tobi",
+     "kanal": "CHECKER WELT",
+     "url": "https://www.yout-ube.com/watch?v=z7BuHxrclUc"
+    }
+   ]
+  },
+  {
+   "id": "gl34",
+   "nr": 34,
+   "titel": "Jäger und Sammler in der Steinzeit",
+   "bereich": "Natur, Bauernhof und Ernährung",
+   "klasse": "5",
+   "satz": "Du erfährst, wie die Menschen in der Altsteinzeit jagten, sammelten und umherzogen.",
+   "erklaerung": "In der Altsteinzeit lebten die Menschen als Jäger und Sammler. Sie zogen den Tieren hinterher, sammelten Beeren, Nüsse und Wurzeln und wohnten in Zelten oder Höhlen. Ihre Werkzeuge und Waffen machten sie aus Stein, Knochen und Holz.",
+   "beispiele": [
+    "Faustkeil: ein Werkzeug aus Feuerstein",
+    "Feuer zum Wärmen, Kochen und gegen Tiere",
+    "Höhlenmalereien zeigen Tiere, die gejagt wurden."
+   ],
+   "baut_auf": [
+    "gl25"
+   ],
+   "quelle": "S. 19",
+   "suche": "Steinzeit Jäger und Sammler Kinder",
+   "videos": [
+    {
+     "titel": "Jäger und Sammler | Steinzeit | Geschichte | Lehrerschmidt",
+     "kanal": "Lehrerschmidt",
+     "url": "https://www.yout-ube.com/watch?v=9R4vcoz6gtw"
+    },
+    {
+     "titel": "Der Steinzeit-Check | Reportage für Kinder | Checker Tobi",
+     "kanal": "CHECKER WELT",
+     "url": "https://www.yout-ube.com/watch?v=S1UzUcb3o1I"
+    }
+   ]
+  },
+  {
+   "id": "gl35",
+   "nr": 35,
+   "titel": "Vom Jäger zum Bauern",
+   "bereich": "Natur, Bauernhof und Ernährung",
+   "klasse": "5",
+   "satz": "Du verstehst, warum die Menschen sesshaft wurden, Felder anlegten und Tiere hielten.",
+   "erklaerung": "Vor etwa 12 000 Jahren begannen Menschen im Nahen Osten, Getreide anzubauen und Tiere zu halten. Sie wurden sesshaft und bauten feste Häuser und Dörfer. Diese große Veränderung nennt man die neolithische Revolution, sie kam später auch zu uns.",
+   "beispiele": [
+    "Erste Getreide: Weizen und Gerste",
+    "Erste Haustiere: Schaf, Ziege, Rind, Hund",
+    "Neu: Töpfe aus Ton zum Aufbewahren der Vorräte"
+   ],
+   "baut_auf": [
+    "gl34"
+   ],
+   "quelle": "S. 19",
+   "suche": "Jungsteinzeit sesshaft Ackerbau Kinder",
+   "videos": [
+    {
+     "titel": "Wie baut man ein Steinzeithaus? | Die Maus | WDR",
+     "kanal": "Die Maus",
+     "url": "https://www.yout-ube.com/watch?v=duytEfYcP0M"
+    },
+    {
+     "titel": "Der Steinzeit-Check | Reportage für Kinder | Checker Tobi",
+     "kanal": "CHECKER WELT",
+     "url": "https://www.yout-ube.com/watch?v=S1UzUcb3o1I"
+    }
+   ]
+  },
+  {
+   "id": "gl36",
+   "nr": 36,
+   "titel": "Boden, Gelände und Klima",
+   "bereich": "Natur, Bauernhof und Ernährung",
+   "klasse": "5",
+   "satz": "Du erfährst, was ein Ort braucht, damit dort gut Landwirtschaft möglich ist.",
+   "erklaerung": "Ob auf einem Feld viel wächst, hängt vom Boden, vom Gelände und vom Klima ab. Fruchtbarer Boden ist locker und enthält viele Nährstoffe. Flaches Land lässt sich leichter bearbeiten als steile Berge, und Pflanzen brauchen genug Regen und Wärme.",
+   "beispiele": [
+    "Lössboden: sehr fruchtbar, gut für Weizen und Zuckerrüben",
+    "Sandboden: trocken und nährstoffarm",
+    "In den Bergen gibt es eher Wiesen für Kühe als Äcker."
+   ],
+   "baut_auf": [],
+   "quelle": "S. 19",
+   "suche": "Bodenarten Landwirtschaft Kinder",
+   "videos": [
+    {
+     "titel": "Weshalb schaden zugebaute Böden der Natur? – einfach erklärt | Kindervideos | SRF Kids",
+     "kanal": "SRF Kids",
+     "url": "https://www.yout-ube.com/watch?v=oJ-sr7ebr_Y"
+    }
+   ]
+  },
+  {
+   "id": "gl37",
+   "nr": 37,
+   "titel": "Landwirtschaft in Deutschland",
+   "bereich": "Natur, Bauernhof und Ernährung",
+   "klasse": "5",
+   "satz": "Du findest auf der Karte, wo bei uns Getreide, Gemüse oder Kühe zu Hause sind, zum Beispiel in Marsch, Geest und Börde.",
+   "erklaerung": "In Niedersachsen gibt es ganz unterschiedliche Landschaften für die Landwirtschaft. In der Marsch an der Küste ist der Boden schwer und feucht, dort weiden viele Kühe. Auf der sandigen Geest gibt es Kartoffeln und Mais, und in der Börde wachsen auf fruchtbarem Löss Weizen und Zuckerrüben.",
+   "beispiele": [
+    "Marsch: Milchkühe, Grünland",
+    "Geest: Kartoffeln, Roggen, Mais, viel Schweinehaltung",
+    "Hildesheimer Börde: Weizen und Zuckerrüben"
+   ],
+   "baut_auf": [
+    "gl36",
+    "gl19"
+   ],
+   "quelle": "S. 19",
+   "suche": "Marsch Geest Börde Niedersachsen",
+   "videos": [
+    {
+     "titel": "Was ist Landwirtschaft? l WOOZLE GOOZLE",
+     "kanal": "Woozle Goozle",
+     "url": "https://www.yout-ube.com/watch?v=WQyZgsDW1I0"
+    },
+    {
+     "titel": "Der Bauernhof-Check | Reportage für Kinder | Checkerin Marina",
+     "kanal": "CHECKER WELT",
+     "url": "https://www.yout-ube.com/watch?v=aFsj5uHKE-8"
+    }
+   ]
+  },
+  {
+   "id": "gl38",
+   "nr": 38,
+   "titel": "Der Nil: Lebensader im Alten Ägypten",
+   "bereich": "Natur, Bauernhof und Ernährung",
+   "klasse": "5",
+   "satz": "Du erfährst, warum die jährliche Nilflut die Felder der Ägypter fruchtbar machte.",
+   "erklaerung": "Ägypten ist fast überall Wüste, nur am Nil konnten Menschen leben. Jedes Jahr trat der Fluss über die Ufer und ließ fruchtbaren Schlamm zurück. So konnten die Ägypter vor über 5000 Jahren Getreide anbauen und eine große Kultur mit Pharaonen und Pyramiden aufbauen.",
+   "beispiele": [
+    "Drei Jahreszeiten: Überschwemmung, Aussaat, Ernte",
+    "Kanäle brachten das Wasser auf die Felder.",
+    "Das Nilometer maß, wie hoch das Wasser stieg."
+   ],
+   "baut_auf": [
+    "gl35",
+    "gl36"
+   ],
+   "quelle": "S. 19",
+   "suche": "Nil Altes Ägypten Überschwemmung Kinder",
+   "videos": [
+    {
+     "titel": "Was macht Woozle im alten Ägypten? l WOOZLE GOOZLE",
+     "kanal": "Woozle Goozle",
+     "url": "https://www.yout-ube.com/watch?v=L9jJ_EwuaE4"
+    },
+    {
+     "titel": "Ägypten für Kinder erklärt - Reise nach Ägypten, in das Land der Pharaonen und Mumien.",
+     "kanal": "Kinderweltreise",
+     "url": "https://www.yout-ube.com/watch?v=5grDQug3Coc"
+    }
+   ]
+  },
+  {
+   "id": "gl39",
+   "nr": 39,
+   "titel": "Wo Menschen gern siedeln",
+   "bereich": "Natur, Bauernhof und Ernährung",
+   "klasse": "5",
+   "satz": "Du vergleichst, warum Menschen früher und heute an bestimmten Orten in deiner Region wohnen.",
+   "erklaerung": "Menschen siedeln gern dort, wo es gute Bedingungen gibt: fruchtbaren Boden, Wasser, Schutz und Wege für den Handel. Deshalb liegen viele alte Städte an Flüssen oder Kreuzungen von Handelswegen. Heute zählen auch Arbeitsplätze, Schulen und Verkehrsanbindungen.",
+   "beispiele": [
+    "Hannover liegt an der Leine.",
+    "Dörfer auf der Geest lagen höher als die feuchte Marsch.",
+    "Früher bauten Menschen an der Küste ihre Häuser auf Warften."
+   ],
+   "baut_auf": [
+    "gl37",
+    "gl38"
+   ],
+   "quelle": "S. 20",
+   "suche": "Siedlungen Lage Fluss Kinder Erdkunde",
+   "videos": [
+    {
+     "titel": "Eine Hallig ist keine normale Insel: Wenn nur noch dein Haus aus dem Meer ragt | neuneinhalb | WDR",
+     "kanal": "WDR",
+     "url": "https://www.yout-ube.com/watch?v=Dh-CrgCKqXY"
+    },
+    {
+     "titel": "Wie unterscheiden sich Stadt & Land? | SRF Kids – Clip und klar! | Für Kinder erklärt",
+     "kanal": "SRF Kids",
+     "url": "https://www.yout-ube.com/watch?v=mykPdkP3UVA"
+    }
+   ]
+  },
+  {
+   "id": "gl40",
+   "nr": 40,
+   "titel": "Vom Feld auf den Teller",
+   "bereich": "Natur, Bauernhof und Ernährung",
+   "klasse": "5",
+   "satz": "Du verfolgst, wie ein Lebensmittel vom Bauernhof bis in deinen Einkaufskorb kommt.",
+   "erklaerung": "Bevor ein Lebensmittel im Supermarkt liegt, hat es einen langen Weg hinter sich. Es wird angebaut oder ein Tier wird gehalten, dann geerntet, verarbeitet, verpackt und transportiert. An jeder Station arbeiten Menschen, und alles kostet Energie.",
+   "beispiele": [
+    "Weizen: Feld, Mühle, Bäckerei, Laden",
+    "Milch: Kuh, Molkerei, Lastwagen, Kühlregal",
+    "Erdbeeren im Winter kommen oft von weit her."
+   ],
+   "baut_auf": [
+    "gl37"
+   ],
+   "quelle": "S. 19",
+   "suche": "vom Feld auf den Teller Kinder",
+   "videos": [
+    {
+     "titel": "Wie kommt das Essen in den Supermarkt? l WOOZLE GOOZLE",
+     "kanal": "Woozle Goozle",
+     "url": "https://www.yout-ube.com/watch?v=b8soiMQQr0Y"
+    },
+    {
+     "titel": "Der Brot-Check | Reportage für Kinder | Checker Tobi",
+     "kanal": "CHECKER WELT",
+     "url": "https://www.yout-ube.com/watch?v=ViCVa5MGaqI"
+    }
+   ]
+  },
+  {
+   "id": "gl41",
+   "nr": 41,
+   "titel": "Wie Tiere für unser Essen leben",
+   "bereich": "Natur, Bauernhof und Ernährung",
+   "klasse": "5",
+   "satz": "Du vergleichst, wie Tiere in großen Ställen und auf Biohöfen gehalten werden.",
+   "erklaerung": "Tiere für Fleisch, Milch und Eier werden sehr unterschiedlich gehalten. In großen Ställen leben oft sehr viele Tiere auf wenig Platz, damit das Essen billig ist. Auf Biohöfen haben die Tiere mehr Platz, Auslauf und Biofutter, dafür kosten die Produkte mehr.",
+   "beispiele": [
+    "Die Zahl auf dem Ei verrät die Haltung: 0 Bio, 1 Freiland, 2 Boden, 3 Käfig.",
+    "Haltungsform auf Fleischpackungen: Stufen 1 bis 5",
+    "Mehr Platz für Tiere kostet mehr Geld."
+   ],
+   "baut_auf": [
+    "gl40"
+   ],
+   "quelle": "S. 19",
+   "suche": "Tierhaltung Bio konventionell Kinder",
+   "videos": [
+    {
+     "titel": "Massentierhaltung – einfach erklärt | Kindervideos | SRF Kids",
+     "kanal": "SRF Kids",
+     "url": "https://www.yout-ube.com/watch?v=V-LPg-OCr0A"
+    },
+    {
+     "titel": "Was bedeutet «Bio»? – einfach erklärt | Kindervideos | SRF Kids",
+     "kanal": "SRF Kids",
+     "url": "https://www.yout-ube.com/watch?v=-6BRVSdR3TE"
+    }
+   ]
+  },
+  {
+   "id": "gl42",
+   "nr": 42,
+   "titel": "Bauern, Läden und Käufer wollen Verschiedenes",
+   "bereich": "Natur, Bauernhof und Ernährung",
+   "klasse": "5",
+   "satz": "Du findest heraus, was Landwirte, Geschäfte und Käufer jeweils wollen und wo das nicht zusammenpasst.",
+   "erklaerung": "Landwirte wollen für ihre Arbeit gut bezahlt werden, Supermärkte wollen verdienen, und Käufer wollen wenig bezahlen. Diese Wünsche passen nicht immer zusammen. Wenn alles sehr billig sein soll, leiden oft die Tiere, die Natur oder die Bauern.",
+   "beispiele": [
+    "Ein Liter Milch kostet oft nur etwa einen Euro.",
+    "Fairtrade sorgt für gerechtere Preise.",
+    "Wochenmarkt: direkt beim Bauern kaufen"
+   ],
+   "baut_auf": [
+    "gl41"
+   ],
+   "quelle": "S. 20",
+   "suche": "Preis Lebensmittel Bauern Supermarkt Kinder",
+   "videos": [
+    {
+     "titel": "Für Kinder erklärt: So funktioniert Fairer Handel!",
+     "kanal": "Die Sternsinger (Kindermissionswerk)",
+     "url": "https://www.yout-ube.com/watch?v=ta9fXWPkvjM"
+    },
+    {
+     "titel": "Der Milch-Check | Reportage für Kinder | Checker Tobi",
+     "kanal": "CHECKER WELT",
+     "url": "https://www.yout-ube.com/watch?v=NU80GDuQ_-4"
+    }
+   ]
+  },
+  {
+   "id": "gl43",
+   "nr": 43,
+   "titel": "Gesundes Essen und sein Preis",
+   "bereich": "Natur, Bauernhof und Ernährung",
+   "klasse": "5",
+   "satz": "Du überlegst, was gesund ist und warum gesundes Essen manchmal mehr kostet.",
+   "erklaerung": "Gesund essen heißt vor allem viel Gemüse, Obst und Vollkorn, und Süßes nur ab und zu. Die Ernährungspyramide zeigt, wovon man viel und wovon man wenig essen sollte. Frische Lebensmittel sind manchmal teurer als Fertigessen, aber selbst kochen kann günstig sein.",
+   "beispiele": [
+    "Unten in der Pyramide: Getränke, Gemüse, Obst",
+    "Oben: Süßigkeiten, Chips",
+    "Ein Linseneintopf ist gesund und billig."
+   ],
+   "baut_auf": [],
+   "quelle": "S. 20",
+   "suche": "Ernährungspyramide Kinder gesund essen",
+   "videos": [
+    {
+     "titel": "Welches Essen ist gesund und welches nicht? l WOOZLE GOOZLE",
+     "kanal": "Woozle Goozle",
+     "url": "https://www.yout-ube.com/watch?v=vTGAxqvMYlc"
+    },
+    {
+     "titel": "Warum ist Essen so wichtig? – einfach erklärt | Kindervideos | SRF Kids",
+     "kanal": "SRF Kids",
+     "url": "https://www.yout-ube.com/watch?v=rhDaHSqeLmM"
+    }
+   ]
+  },
+  {
+   "id": "gl44",
+   "nr": 44,
+   "titel": "Lebensmittel retten",
+   "bereich": "Natur, Bauernhof und Ernährung",
+   "klasse": "5",
+   "satz": "Du erfährst, wie viel Essen weggeworfen wird und was du dagegen tun kannst.",
+   "erklaerung": "In Deutschland werfen wir jedes Jahr Millionen Tonnen Lebensmittel weg, ein großer Teil davon aus privaten Haushalten. Oft ist das Essen noch gut, nur das Mindesthaltbarkeitsdatum ist vorbei. Mit Planung beim Einkaufen und Resteessen kannst du viel retten.",
+   "beispiele": [
+    "Mindesthaltbarkeitsdatum heißt: mindestens bis dahin gut, oft länger.",
+    "Anschauen, riechen, probieren",
+    "Aus altem Brot werden Arme Ritter."
+   ],
+   "baut_auf": [],
+   "quelle": "S. 19",
+   "suche": "Lebensmittelverschwendung Kinder",
+   "videos": [
+    {
+     "titel": "Food Waste: Verschwendung von Lebensmitteln – einfach erklärt | Kindervideos | SRF Kids",
+     "kanal": "SRF Kids",
+     "url": "https://www.yout-ube.com/watch?v=xnnOmPIfgoA"
+    },
+    {
+     "titel": "Werde zum Lebensmittelretter | Eine CheXpedition mit Checker Julian",
+     "kanal": "CHECKER WELT",
+     "url": "https://www.yout-ube.com/watch?v=RdCj4wavdbs"
+    }
+   ]
+  },
+  {
+   "id": "gl45",
+   "nr": 45,
+   "titel": "Werbung für Lebensmittel",
+   "bereich": "Natur, Bauernhof und Ernährung",
+   "klasse": "5",
+   "satz": "Du entdeckst die Tricks, mit denen Werbung Kinder zum Kaufen von Süßem bringen will.",
+   "erklaerung": "Werbung soll Lust auf ein Produkt machen, egal ob es gesund ist. Für Süßigkeiten und Frühstücksflocken wird oft mit bunten Figuren, Spielzeug oder Stars geworben, damit Kinder sie haben wollen. Wer die Tricks kennt, fällt weniger darauf herein.",
+   "beispiele": [
+    "Figuren auf Packungen, Sammelbilder",
+    "Süßes steht an der Kasse auf Augenhöhe von Kindern.",
+    "„Mit wertvoller Milch“ heißt nicht, dass es gesund ist."
+   ],
+   "baut_auf": [],
+   "quelle": "S. 20",
+   "suche": "Werbung Tricks Kinder Lebensmittel",
+   "videos": [
+    {
+     "titel": "Wie trickst die Werbung? l WOOZLE GOOZLE",
+     "kanal": "Woozle Goozle",
+     "url": "https://www.yout-ube.com/watch?v=sWIzfxzAOQE"
+    },
+    {
+     "titel": "Der Werbe-Check | Reportage für Kinder | Checker Tobi",
+     "kanal": "CHECKER WELT",
+     "url": "https://www.yout-ube.com/watch?v=CWWIEdHwl88"
+    }
+   ]
+  },
+  {
+   "id": "gl46",
+   "nr": 46,
+   "titel": "Wer ist mein Vorbild?",
+   "bereich": "Vorbilder",
+   "klasse": "5",
+   "satz": "Du überlegst, welche Menschen dir wichtig sind, etwa Eltern, Großeltern, Freunde oder Stars, und warum.",
+   "erklaerung": "Ein Vorbild ist ein Mensch, den man bewundert und dem man ähnlich sein möchte. Das können Eltern, Großeltern, Freunde, Trainer oder bekannte Stars sein. Oft bewundert man nur eine bestimmte Eigenschaft, etwa Mut oder Hilfsbereitschaft.",
+   "beispiele": [
+    "Meine Oma, weil sie immer geduldig ist",
+    "Eine Sportlerin, weil sie nie aufgibt",
+    "Ein älterer Freund, weil er anderen hilft"
+   ],
+   "baut_auf": [],
+   "quelle": "S. 20",
+   "suche": "Vorbilder Kinder",
+   "videos": [
+    {
+     "titel": "Der Heldinnen- und Helden-Check | Reportage für Kinder | Checker Julian | BR",
+     "kanal": "CHECKER WELT",
+     "url": "https://www.yout-ube.com/watch?v=p8dHv0rvJpk"
+    },
+    {
+     "titel": "Wer bin ich? – Warum wir Vorbilder brauchen! | we be like",
+     "kanal": "ARD Kinder und Familie",
+     "url": "https://www.yout-ube.com/watch?v=epm8BKYh5h0"
+    }
+   ]
+  },
+  {
+   "id": "gl47",
+   "nr": 47,
+   "titel": "Helden der griechischen Sagen",
+   "bereich": "Vorbilder",
+   "klasse": "5",
+   "satz": "Du lernst Herkules und andere Helden kennen und was die alten Griechen an ihnen bewunderten.",
+   "erklaerung": "Die alten Griechen erzählten sich Sagen über Helden, die Unglaubliches vollbrachten. Herkules musste zwölf schwere Aufgaben lösen, Odysseus fand nach dem Krieg um Troja mit List den Heimweg. Die Sagen zeigen, was den Griechen wichtig war: Mut, Stärke und Klugheit.",
+   "beispiele": [
+    "Herkules besiegte den Löwen von Nemea.",
+    "Das Trojanische Pferd war eine List des Odysseus.",
+    "Viele Götter und Helden kennst du aus Filmen und Büchern."
+   ],
+   "baut_auf": [
+    "gl25"
+   ],
+   "quelle": "S. 20",
+   "suche": "griechische Sagen Herkules Kinder",
+   "videos": [
+    {
+     "titel": "Der Alte-Griechen-Check | Reportage für Kinder | Checker Tobi",
+     "kanal": "CHECKER WELT",
+     "url": "https://www.yout-ube.com/watch?v=WmTY-tUEA_A"
+    }
+   ]
+  },
+  {
+   "id": "gl48",
+   "nr": 48,
+   "titel": "Was macht ein gutes Vorbild aus?",
+   "bereich": "Vorbilder",
+   "klasse": "5",
+   "satz": "Du sammelst Merkmale, an denen man ein gutes Vorbild erkennt.",
+   "erklaerung": "Nicht jeder, der berühmt ist, ist auch ein gutes Vorbild. Gute Vorbilder sind zum Beispiel ehrlich, fair, hilfsbereit und behandeln andere mit Respekt. Du kannst Merkmale sammeln und prüfen, ob jemand sie erfüllt.",
+   "beispiele": [
+    "Hält sich die Person an ihre Versprechen?",
+    "Wie geht sie mit anderen um, auch mit Schwächeren?",
+    "Steht sie zu ihren Fehlern?"
+   ],
+   "baut_auf": [
+    "gl46"
+   ],
+   "quelle": "S. 20",
+   "suche": "gutes Vorbild Merkmale Kinder",
+   "videos": [
+    {
+     "titel": "Knietzsche und Gut & Böse",
+     "kanal": "Knietzsche",
+     "url": "https://www.yout-ube.com/watch?v=ppDmNaomsI4"
+    },
+    {
+     "titel": "Wer bin ich? – Warum wir Vorbilder brauchen! | we be like",
+     "kanal": "ARD Kinder und Familie",
+     "url": "https://www.yout-ube.com/watch?v=epm8BKYh5h0"
+    }
+   ]
+  },
+  {
+   "id": "gl49",
+   "nr": 49,
+   "titel": "Stars und Influencer",
+   "bereich": "Vorbilder",
+   "klasse": "5",
+   "satz": "Du überlegst, wie Stars und Influencer dein Leben beeinflussen und wann man vorsichtig sein sollte.",
+   "erklaerung": "Influencer zeigen ihr Leben im Internet, und viele Kinder schauen ihnen zu. Oft werben sie dabei für Produkte und verdienen damit Geld, auch wenn es nicht so aussieht. Ihre Bilder sind meist ausgewählt und bearbeitet, das echte Leben sieht anders aus.",
+   "beispiele": [
+    "„Werbung“ oder „Anzeige“ muss gekennzeichnet sein.",
+    "Filter verändern Gesichter und Körper.",
+    "Frag dich: Will die Person mir etwas verkaufen?"
+   ],
+   "baut_auf": [
+    "gl48"
+   ],
+   "quelle": "S. 20, 21",
+   "suche": "Influencer Werbung Kinder erklärt",
+   "videos": [
+    {
+     "titel": "Wie machen Influencer Werbung? | SRF Kids – Clip und klar! | Für Kinder erklärt",
+     "kanal": "SRF Kids",
+     "url": "https://www.yout-ube.com/watch?v=fWKr-J1EmBA"
+    },
+    {
+     "titel": "Ist auf Social Media alles echt? l WOOZLE GOOZLE",
+     "kanal": "Woozle Goozle",
+     "url": "https://www.yout-ube.com/watch?v=nnSnBavVwy0"
+    }
+   ]
+  },
+  {
+   "id": "gl50",
+   "nr": 50,
+   "titel": "Freunde und Gruppen",
+   "bereich": "Vorbilder",
+   "klasse": "5",
+   "satz": "Du denkst darüber nach, wie Freunde deine Meinung beeinflussen und was Gruppendruck ist.",
+   "erklaerung": "Freunde sind wichtig und beeinflussen, was wir denken und tun. Das kann schön sein, aber manchmal fühlt man sich gedrängt, etwas mitzumachen, das man eigentlich nicht will. Das nennt man Gruppendruck, und Nein sagen ist dann mutig.",
+   "beispiele": [
+    "„Alle haben das Spiel, nur du nicht.“",
+    "Echte Freunde akzeptieren ein Nein.",
+    "Hilfe holen, wenn jemand ausgegrenzt wird"
+   ],
+   "baut_auf": [
+    "gl46"
+   ],
+   "quelle": "S. 21",
+   "suche": "Gruppendruck Nein sagen Kinder",
+   "videos": [
+    {
+     "titel": "Knietzsche und die Freundschaft",
+     "kanal": "Knietzsche",
+     "url": "https://www.yout-ube.com/watch?v=8CuA70-s9js"
+    },
+    {
+     "titel": "Was ist Mobbing? – einfach erklärt | Kindervideos | SRF Kids",
+     "kanal": "SRF Kids",
+     "url": "https://www.yout-ube.com/watch?v=yLB2J_oeYUQ"
+    }
+   ]
+  },
+  {
+   "id": "gl51",
+   "nr": 51,
+   "titel": "Sich für die Umwelt einsetzen",
+   "bereich": "Vorbilder",
+   "klasse": "5",
+   "satz": "Du lernst Menschen kennen, die sich öffentlich für Natur und Klima stark machen, auch Kinder.",
+   "erklaerung": "Manche Menschen setzen sich öffentlich dafür ein, dass Natur und Klima geschützt werden. Sie sammeln Unterschriften, gehen auf Demonstrationen oder pflanzen Bäume. Auch Kinder können viel bewirken, wenn sie sich zusammentun.",
+   "beispiele": [
+    "Felix Finkbeiner gründete mit 9 Jahren Plant for the Planet und ließ Bäume pflanzen.",
+    "Naturschutzjugend und Umweltgruppen gibt es in vielen Orten.",
+    "Schon Müll sammeln im Park hilft."
+   ],
+   "baut_auf": [
+    "gl48"
+   ],
+   "quelle": "S. 20",
+   "suche": "Kinder Umweltschutz engagieren",
+   "videos": [
+    {
+     "titel": "Was kann ich für den Umweltschutz machen? l WOOZLE GOOZLE",
+     "kanal": "Woozle Goozle",
+     "url": "https://www.yout-ube.com/watch?v=t49CEqU_-yc"
+    },
+    {
+     "titel": "Was ist Plant-for-the-Planet?",
+     "kanal": "Plant-for-the-Planet: Fighting for Climate Justice",
+     "url": "https://www.yout-ube.com/watch?v=dWTk2wqurs0"
+    }
+   ]
+  },
+  {
+   "id": "gl52",
+   "nr": 52,
+   "titel": "Was alle Menschen brauchen",
+   "bereich": "Kinderrechte",
+   "klasse": "6",
+   "satz": "Du sammelst, was jeder Mensch zum Leben braucht: Essen, ein Zuhause, Sicherheit, Liebe.",
+   "erklaerung": "Jeder Mensch braucht bestimmte Dinge, um gut leben zu können. Zuerst Essen, Trinken, Schlaf und ein Dach über dem Kopf. Genauso wichtig sind Sicherheit, Menschen, die einen lieben, und die Chance zu lernen.",
+   "beispiele": [
+    "Körper: Essen, Wasser, Schlaf, Kleidung",
+    "Sicherheit: ein Zuhause ohne Gewalt",
+    "Gemeinschaft: Familie und Freunde"
+   ],
+   "baut_auf": [],
+   "quelle": "S. 21",
+   "suche": "Grundbedürfnisse Kinder",
+   "videos": [
+    {
+     "titel": "Was ist ein Bedürfnis? | Wirtschaft | Lehrerschmidt",
+     "kanal": "Lehrerschmidt",
+     "url": "https://www.yout-ube.com/watch?v=feyqY8SC4h0"
+    }
+   ]
+  },
+  {
+   "id": "gl53",
+   "nr": 53,
+   "titel": "Kindheit früher",
+   "bereich": "Kinderrechte",
+   "klasse": "6",
+   "satz": "Du vergleichst, wie Kinder in der Antike, im Mittelalter und heute gelebt haben.",
+   "erklaerung": "Kindheit war nicht immer so wie heute. Im alten Rom und im Mittelalter mussten viele Kinder früh mitarbeiten, nur wenige gingen zur Schule. Erst seit etwa 100 Jahren gehen in Deutschland alle Kinder zur Schule und haben Zeit zum Spielen.",
+   "beispiele": [
+    "Mittelalter: Mit 7 Jahren half man auf dem Hof oder lernte ein Handwerk.",
+    "Um 1900 arbeiteten Kinder noch in Fabriken.",
+    "Heute gibt es Schulpflicht."
+   ],
+   "baut_auf": [
+    "gl25"
+   ],
+   "quelle": "S. 21",
+   "suche": "Kindheit früher Mittelalter Kinder",
+   "videos": [
+    {
+     "titel": "Wie haben Kinder im Mittelalter gelebt? l WOOZLE GOOZLE",
+     "kanal": "Woozle Goozle",
+     "url": "https://www.yout-ube.com/watch?v=1YcFSqBYJUo"
+    },
+    {
+     "titel": "Der Mittelalter-Check | Reportage für Kinder | Checker Tobi als Ritter",
+     "kanal": "CHECKER WELT",
+     "url": "https://www.yout-ube.com/watch?v=eyZqRcgGkiY"
+    }
+   ]
+  },
+  {
+   "id": "gl54",
+   "nr": 54,
+   "titel": "Die Kinderrechte",
+   "bereich": "Kinderrechte",
+   "klasse": "6",
+   "satz": "Du lernst die wichtigsten Kinderrechte der Vereinten Nationen kennen.",
+   "erklaerung": "1989 haben die Vereinten Nationen die Kinderrechtskonvention beschlossen, fast alle Länder der Welt haben zugestimmt. Sie sagt, dass alle Kinder unter 18 Jahren besondere Rechte haben. Dazu gehören das Recht auf Schutz, auf Bildung, auf Gesundheit, auf Spiel und darauf, gehört zu werden.",
+   "beispiele": [
+    "Recht auf Schutz vor Gewalt",
+    "Recht auf Bildung",
+    "Recht auf Freizeit und Spiel"
+   ],
+   "baut_auf": [
+    "gl52"
+   ],
+   "quelle": "S. 21",
+   "suche": "Kinderrechte erklärt Kinder",
+   "videos": [
+    {
+     "titel": "Warum brauchen Kinder eigene Rechte? l WOOZLE GOOZLE",
+     "kanal": "Woozle Goozle",
+     "url": "https://www.yout-ube.com/watch?v=gQfGTaGjN38"
+    },
+    {
+     "titel": "Checker Tobi erklärt Kinderrechte – Was steht dir zu? | UNICEF & Tobias Krell",
+     "kanal": "UNICEF Deutschland",
+     "url": "https://www.yout-ube.com/watch?v=iJqdbLykj5Q"
+    }
+   ]
+  },
+  {
+   "id": "gl55",
+   "nr": 55,
+   "titel": "Rechte und Pflichten",
+   "bereich": "Kinderrechte",
+   "klasse": "6",
+   "satz": "Du unterscheidest, was du darfst und was von dir erwartet wird, in der Schule, in der Familie und in der Freizeit.",
+   "erklaerung": "Zu Rechten gehören auch Pflichten. Du hast zum Beispiel das Recht auf Bildung und die Pflicht, zur Schule zu gehen. In der Familie gibt es Aufgaben, die alle übernehmen, damit das Zusammenleben klappt.",
+   "beispiele": [
+    "Schulpflicht",
+    "Im Haushalt helfen, etwa Tisch decken",
+    "Rücksicht nehmen auf andere"
+   ],
+   "baut_auf": [
+    "gl54"
+   ],
+   "quelle": "S. 21",
+   "suche": "Rechte und Pflichten Kinder",
+   "videos": [
+    {
+     "titel": "Kinderrechte - #Erklärfilm für #Kinder",
+     "kanal": "Deutsches Kinderhilfswerk e.V.",
+     "url": "https://www.yout-ube.com/watch?v=xqyBrRxGHxA"
+    },
+    {
+     "titel": "Gesetz: Kinder müssen im Haushalt helfen! | §1619 BGB  | Lehrerschmidt",
+     "kanal": "Lehrerschmidt",
+     "url": "https://www.yout-ube.com/watch?v=8HTFxd1zHfw"
+    }
+   ]
+  },
+  {
+   "id": "gl56",
+   "nr": 56,
+   "titel": "Wo Kinder Hilfe bekommen",
+   "bereich": "Kinderrechte",
+   "klasse": "6",
+   "satz": "Du erfährst, an wen du dich wenden kannst, wenn es dir nicht gut geht, zum Beispiel die Nummer gegen Kummer.",
+   "erklaerung": "Wenn es dir nicht gut geht, du Angst hast oder jemand dir wehtut, musst du damit nicht allein bleiben. Du kannst mit Eltern, Lehrern oder anderen Erwachsenen sprechen, denen du vertraust. Bei der Nummer gegen Kummer kannst du kostenlos und ohne deinen Namen zu sagen anrufen: 116 111.",
+   "beispiele": [
+    "Nummer gegen Kummer: 116 111, auch Online-Beratung",
+    "Vertrauenslehrer oder Schulsozialarbeit",
+    "Im Notfall: 110 oder 112"
+   ],
+   "baut_auf": [
+    "gl54"
+   ],
+   "quelle": "S. 21",
+   "suche": "Nummer gegen Kummer Kinder Hilfe",
+   "videos": [
+    {
+     "titel": "Was passiert eigentlich, wenn man bei der „Nummer gegen Kummer“ anruft?",
+     "kanal": "Nummer gegen Kummer e.V.",
+     "url": "https://www.yout-ube.com/watch?v=EIRBiIb0e_Q"
+    },
+    {
+     "titel": "Kinospot: Kinder- und Jugendtelefon",
+     "kanal": "Nummer gegen Kummer e.V.",
+     "url": "https://www.yout-ube.com/watch?v=GSOMMOdVcj8"
+    }
+   ]
+  },
+  {
+   "id": "gl57",
+   "nr": 57,
+   "titel": "Kinderarbeit",
+   "bereich": "Kinderrechte",
+   "klasse": "6",
+   "satz": "Du erfährst, dass viele Kinder auf der Welt arbeiten müssen, statt zur Schule zu gehen, und was dagegen getan wird.",
+   "erklaerung": "Kinderarbeit heißt, dass Kinder so viel oder so schwer arbeiten müssen, dass es ihnen schadet und sie nicht zur Schule gehen können. Weltweit sind fast 140 Millionen Kinder betroffen, viele in der Landwirtschaft, in Minen oder in Fabriken. Organisationen wie UNICEF helfen, dass diese Kinder zur Schule gehen können, und Siegel wie Fairtrade zeigen Waren ohne Kinderarbeit.",
+   "beispiele": [
+    "Kakaoernte in Westafrika",
+    "Steine klopfen in Steinbrüchen",
+    "Kinderarbeit ist in fast allen Ländern verboten, kommt aber trotzdem vor."
+   ],
+   "baut_auf": [
+    "gl54"
+   ],
+   "quelle": "S. 22",
+   "suche": "Kinderarbeit logo Kinder erklärt",
+   "videos": [
+    {
+     "titel": "Einfach erklärt: Kinderarbeit I wichtige Fragen und Antworten I 2024",
+     "kanal": "UNICEF Deutschland",
+     "url": "https://www.yout-ube.com/watch?v=lbwKqRjsCoo"
+    },
+    {
+     "titel": "Ridoy - Kinderarbeit für Fußballschuhe | Schau in meine Welt",
+     "kanal": "ARD Kinder und Familie",
+     "url": "https://www.yout-ube.com/watch?v=Sghug8jVgWg"
+    }
+   ]
+  },
+  {
+   "id": "gl58",
+   "nr": 58,
+   "titel": "Kinderehe",
+   "bereich": "Kinderrechte",
+   "klasse": "6",
+   "satz": "Du erfährst, dass in manchen Ländern Mädchen und Jungen schon als Kinder verheiratet werden, und warum das gegen die Kinderrechte ist.",
+   "erklaerung": "Eine Kinderehe ist eine Heirat, bei der mindestens einer jünger als 18 Jahre ist. Meist sind es Mädchen, die oft mit einem viel älteren Mann verheiratet werden und dann nicht mehr zur Schule gehen. Das verstößt gegen die Kinderrechte, und in Deutschland darf man erst ab 18 heiraten.",
+   "beispiele": [
+    "Jedes Jahr werden weltweit Millionen Mädchen vor ihrem 18. Geburtstag verheiratet.",
+    "Gründe sind oft Armut und alte Traditionen.",
+    "Hilfsorganisationen sorgen dafür, dass Mädchen weiter zur Schule gehen können."
+   ],
+   "baut_auf": [
+    "gl54"
+   ],
+   "quelle": "S. 22",
+   "suche": "Kinderehe erklärt Kinder",
+   "videos": [
+    {
+     "titel": "Kinderehen - eine Geschichte aus dem Süd-Sudan",
+     "kanal": "UNICEF Deutschland",
+     "url": "https://www.yout-ube.com/watch?v=dUvscx-8cIA"
+    }
+   ]
+  },
+  {
+   "id": "gl59",
+   "nr": 59,
+   "titel": "Kindersoldaten",
+   "bereich": "Kinderrechte",
+   "klasse": "6",
+   "satz": "Du erfährst, dass Kinder in manchen Kriegen gezwungen werden, Soldaten zu sein, und wie man ihnen hilft.",
+   "erklaerung": "In manchen Kriegen werden Kinder von bewaffneten Gruppen gezwungen, als Soldaten zu kämpfen, zu spionieren oder Lasten zu tragen. Das ist streng verboten und verletzt die Kinderrechte schwer. Hilfsorganisationen holen Kinder da heraus und helfen ihnen, wieder zur Schule zu gehen und ein normales Leben zu führen.",
+   "beispiele": [
+    "Am 12. Februar ist der Red Hand Day gegen den Einsatz von Kindersoldaten.",
+    "Kinder malen dabei rote Hände als Zeichen.",
+    "Ehemalige Kindersoldaten brauchen viel Zeit und Hilfe, um zu heilen."
+   ],
+   "baut_auf": [
+    "gl54"
+   ],
+   "quelle": "S. 22",
+   "suche": "Kindersoldaten Red Hand Day Kinder",
+   "videos": [
+    {
+     "titel": "Red Hand Day | Sei dabei!",
+     "kanal": "UNICEF Deutschland",
+     "url": "https://www.yout-ube.com/watch?v=nkogVkp7bR0"
+    },
+    {
+     "titel": "Freilassung von Kindersoldaten im Südsudan | UNICEF",
+     "kanal": "UNICEF Deutschland",
+     "url": "https://www.yout-ube.com/watch?v=wsq6Q-r7kBw"
+    }
+   ]
+  },
+  {
+   "id": "gl60",
+   "nr": 60,
+   "titel": "Recht auf Bildung weltweit",
+   "bereich": "Kinderrechte",
+   "klasse": "6",
+   "satz": "Du lernst die Weltziele der Vereinten Nationen kennen und warum Schule für alle Kinder so wichtig ist.",
+   "erklaerung": "Bildung ist ein Kinderrecht, trotzdem gehen weltweit viele Millionen Kinder nicht zur Schule. 2015 haben sich die Länder der Welt 17 Ziele gesetzt, die Weltziele, damit die Welt gerechter wird. Ein Ziel ist, dass alle Kinder lesen, schreiben und rechnen lernen können.",
+   "beispiele": [
+    "Gründe: Armut, Krieg, weite Schulwege, Mädchen dürfen nicht",
+    "Weltziel 4: hochwertige Bildung für alle",
+    "Wer lesen kann, findet leichter Arbeit."
+   ],
+   "baut_auf": [
+    "gl54"
+   ],
+   "quelle": "S. 21",
+   "suche": "Recht auf Bildung weltweit Kinder",
+   "videos": [
+    {
+     "titel": "Wie ist Schule in anderen Ländern? l WOOZLE GOOZLE",
+     "kanal": "Woozle Goozle",
+     "url": "https://www.yout-ube.com/watch?v=SP1LIC6r0g8"
+    },
+    {
+     "titel": "§ Was sind meine Kinderrechte? | Erklär’s mir | planet schule | ARD",
+     "kanal": "planet schule",
+     "url": "https://www.yout-ube.com/watch?v=LG7P_zYfh8Q"
+    }
+   ]
+  },
+  {
+   "id": "gl61",
+   "nr": 61,
+   "titel": "Kinder reden mit",
+   "bereich": "Kinderrechte",
+   "klasse": "6",
+   "satz": "Du entdeckst, wo Kinder mitbestimmen können, zum Beispiel im Kinderparlament.",
+   "erklaerung": "Kinder dürfen bei Dingen, die sie betreffen, mitreden, so steht es in den Kinderrechten. In der Schule geht das im Klassenrat oder in der Schülervertretung. In manchen Städten gibt es Kinder- und Jugendparlamente, die Vorschläge für ihren Ort machen.",
+   "beispiele": [
+    "Klassensprecher wählen",
+    "Kinderparlament plant einen neuen Spielplatz mit.",
+    "Wählen bei Bundestagswahlen darf man erst ab 18."
+   ],
+   "baut_auf": [
+    "gl54",
+    "gl30"
+   ],
+   "quelle": "S. 21",
+   "suche": "Kinderparlament Mitbestimmung Kinder",
+   "videos": [
+    {
+     "titel": "Was dürfen Kinder alles mitbestimmen? | Erklärvideos für Kinder | SRF Kids – Kindervideos",
+     "kanal": "SRF Kids",
+     "url": "https://www.yout-ube.com/watch?v=tOJP8boHMCw"
+    },
+    {
+     "titel": "👥 Jugendparlament: Wie können WIR Politik machen? | Erklär’s mir | planet schule | ARD",
+     "kanal": "planet schule",
+     "url": "https://www.yout-ube.com/watch?v=zV1AgsGR-Ks"
+    }
+   ]
+  },
+  {
+   "id": "gl62",
+   "nr": 62,
+   "titel": "Kinder verändern die Welt",
+   "bereich": "Kinderrechte",
+   "klasse": "6",
+   "satz": "Du lernst Kinder und Jugendliche kennen, die etwas bewegt haben.",
+   "erklaerung": "Immer wieder haben Kinder und Jugendliche etwas Großes angestoßen. Malala Yousafzai setzte sich in Pakistan für Mädchenbildung ein und bekam mit 17 den Friedensnobelpreis. Viele Kinder sammeln Spenden, gründen Initiativen oder machen auf Probleme aufmerksam.",
+   "beispiele": [
+    "Malala: Schule für Mädchen",
+    "Felix Finkbeiner: Bäume pflanzen fürs Klima",
+    "Kinder in deiner Stadt sammeln für Tierheime."
+   ],
+   "baut_auf": [
+    "gl61"
+   ],
+   "quelle": "S. 22",
+   "suche": "Kinder verändern die Welt Malala Kinder",
+   "videos": [
+    {
+     "titel": "Wer ist Malala – und warum riskierte sie ihr Leben? #malalayousufzai #bildung #feminism #unicef",
+     "kanal": "UNICEF Deutschland",
+     "url": "https://www.yout-ube.com/watch?v=Az4Vcp7s-uA"
+    },
+    {
+     "titel": "Felix Finkbeiner über Plant-for-the-Planet",
+     "kanal": "Plant-for-the-Planet: Fighting for Climate Justice",
+     "url": "https://www.yout-ube.com/watch?v=EWZJPH1ICZQ"
+    }
+   ]
+  },
+  {
+   "id": "gl63",
+   "nr": 63,
+   "titel": "Wenn Wünsche aufeinandertreffen",
+   "bereich": "Kinderrechte",
+   "klasse": "6",
+   "satz": "Du überlegst, wie man einen Kompromiss findet, wenn verschiedene Menschen Verschiedenes wollen.",
+   "erklaerung": "Menschen wollen oft Unterschiedliches, und dann entsteht Streit. Ein Kompromiss heißt, dass jeder ein bisschen nachgibt, damit eine Lösung für alle passt. Dafür muss man erst verstehen, was der andere wirklich will.",
+   "beispiele": [
+    "Ein Kind will Fußball, das andere Basketball: abwechselnd spielen",
+    "Der Bolzplatz ist für Kinder, die Nachbarn wollen Ruhe: feste Zeiten",
+    "Zuhören, bevor man selbst redet"
+   ],
+   "baut_auf": [
+    "gl32"
+   ],
+   "quelle": "S. 22",
+   "suche": "Kompromiss finden Kinder",
+   "videos": [
+    {
+     "titel": "Knietzsche und die Gerechtigkeit",
+     "kanal": "Knietzsche",
+     "url": "https://www.yout-ube.com/watch?v=SrI3wsR3nRg"
+    },
+    {
+     "titel": "Warum streiten wir uns? l WOOZLE GOOZLE",
+     "kanal": "Woozle Goozle",
+     "url": "https://www.yout-ube.com/watch?v=eesuRjXLgWw"
+    }
+   ]
+  },
+  {
+   "id": "gl64",
+   "nr": 64,
+   "titel": "Kinderleben in den Medien",
+   "bereich": "Kinderrechte",
+   "klasse": "6",
+   "satz": "Du prüfst, wie Filme und Nachrichten das Leben von Kindern in anderen Ländern zeigen.",
+   "erklaerung": "Filme, Serien und Nachrichten zeigen nur einen Ausschnitt vom Leben anderer Kinder. Oft sieht man Kinder in armen Ländern nur traurig, oder Kinder in Serien leben in sehr reichen Familien. Gut ist es, sich zu fragen, was fehlt und wer den Film gemacht hat.",
+   "beispiele": [
+    "logo! erklärt Nachrichten für Kinder.",
+    "Kinder in Afrika spielen, lachen und gehen zur Schule wie du.",
+    "Wer erzählt hier eigentlich?"
+   ],
+   "baut_auf": [
+    "gl53"
+   ],
+   "quelle": "S. 22",
+   "suche": "Medien Kinder anderer Länder",
+   "videos": [
+    {
+     "titel": "Warum braucht es Medien? | SRF Kids – Clip und klar! | Für Kinder erklärt",
+     "kanal": "SRF Kids",
+     "url": "https://www.yout-ube.com/watch?v=H5_jzFj88ZI"
+    },
+    {
+     "titel": "Der Nachrichten-Check | Reportage für Kinder | Checker Tobi | BR",
+     "kanal": "CHECKER WELT",
+     "url": "https://www.yout-ube.com/watch?v=lHJ6oPGfQ2Q"
+    }
+   ]
+  },
+  {
+   "id": "gl65",
+   "nr": 65,
+   "titel": "Mit dem Atlas arbeiten",
+   "bereich": "Urlaubsträume",
+   "klasse": "6",
+   "satz": "Du findest Orte über das Register und das Planquadrat und unterscheidest verschiedene Kartenarten.",
+   "erklaerung": "Ein Atlas ist ein Buch mit vielen Karten. Über das Register hinten findest du jeden Ort: Dort steht die Seite und ein Planquadrat wie C3. Physische Karten zeigen Gebirge, Flüsse und Tiefland, thematische Karten ein bestimmtes Thema, etwa Klima oder Bevölkerung.",
+   "beispiele": [
+    "Register: „Hamburg 22 C3“ heißt Seite 22, Feld C3.",
+    "Physische Karte: Höhen in Grün, Gelb und Braun",
+    "Thematische Karte: zum Beispiel Wo wird Kakao angebaut?"
+   ],
+   "baut_auf": [
+    "gl19",
+    "gl07"
+   ],
+   "quelle": "S. 22",
+   "suche": "Atlas Register Planquadrat Kinder",
+   "videos": []
+  },
+  {
+   "id": "gl66",
+   "nr": 66,
+   "titel": "Das Gradnetz der Erde",
+   "bereich": "Urlaubsträume",
+   "klasse": "6",
+   "satz": "Du lernst Äquator, Breitenkreise und Längenkreise kennen und findest damit jeden Ort.",
+   "erklaerung": "Um jeden Ort auf der Erde genau zu finden, hat man ein Netz aus gedachten Linien über den Globus gelegt. Der Äquator teilt die Erde in Nord- und Südhalbkugel, parallel dazu laufen die Breitenkreise. Die Längenkreise verlaufen von Pol zu Pol, der Nullmeridian geht durch Greenwich in London.",
+   "beispiele": [
+    "Hannover liegt bei etwa 52° Nord und 10° Ost.",
+    "Am Äquator ist 0° Breite.",
+    "Ein Navi nutzt genau diese Zahlen."
+   ],
+   "baut_auf": [
+    "gl65",
+    "gl06"
+   ],
+   "quelle": "S. 22",
+   "suche": "Gradnetz Erde Breitengrad Längengrad Kinder",
+   "videos": [
+    {
+     "titel": "Warum das Gradnetz der Erde so hilfreich ist | Terra X plus",
+     "kanal": "Terra X Nature",
+     "url": "https://www.yout-ube.com/watch?v=cL5C-jjcUuc"
+    }
+   ]
+  },
+  {
+   "id": "gl67",
+   "nr": 67,
+   "titel": "Die großen Landschaften Europas",
+   "bereich": "Urlaubsträume",
+   "klasse": "6",
+   "satz": "Du unterscheidest Tiefland, Mittelgebirge und Hochgebirge und findest sie auf der Karte.",
+   "erklaerung": "Europa lässt sich grob in drei Höhen einteilen. Im Norden liegt das flache Tiefland, in der Mitte die Mittelgebirge mit Wäldern und Hügeln, im Süden die Hochgebirge wie die Alpen. Niedersachsen liegt größtenteils im Norddeutschen Tiefland, im Süden beginnt mit dem Harz das Mittelgebirge.",
+   "beispiele": [
+    "Tiefland: Norddeutschland, Niederlande",
+    "Mittelgebirge: Harz, Schwarzwald",
+    "Hochgebirge: Alpen mit dem Mont Blanc"
+   ],
+   "baut_auf": [
+    "gl65"
+   ],
+   "quelle": "S. 22",
+   "suche": "Großlandschaften Deutschland Europa Kinder",
+   "videos": [
+    {
+     "titel": "Erdkunde: Europa - einfach erklärt. Orientierung: Grenzen, Gebirge, Inseln, Halbinseln, Meere",
+     "kanal": "Kinderweltreise",
+     "url": "https://www.yout-ube.com/watch?v=MY4O_dmluNI"
+    },
+    {
+     "titel": "Geographie von Deutschland - einfach erklärt! Landschaften, Gebirge, Flüsse, Seen, Inseln ...",
+     "kanal": "Kinderweltreise",
+     "url": "https://www.yout-ube.com/watch?v=g7x9iur6kPg"
+    }
+   ]
+  },
+  {
+   "id": "gl68",
+   "nr": 68,
+   "titel": "Länder und Hauptstädte Europas",
+   "bereich": "Urlaubsträume",
+   "klasse": "6",
+   "satz": "Du findest die Länder Europas und ihre Hauptstädte auf der Karte.",
+   "erklaerung": "Europa besteht aus über 40 Ländern, jedes mit einer Hauptstadt. Viele davon sind in der Europäischen Union und zahlen mit dem Euro. Mit einer Karte und etwas Übung kennst du bald die Nachbarländer Deutschlands und ihre Hauptstädte.",
+   "beispiele": [
+    "Deutschland hat 9 Nachbarländer.",
+    "Frankreich: Paris, Spanien: Madrid, Polen: Warschau",
+    "Merkspiel: Länderumrisse erraten"
+   ],
+   "baut_auf": [
+    "gl65"
+   ],
+   "quelle": "S. 23",
+   "suche": "Länder Hauptstädte Europa Kinder",
+   "videos": [
+    {
+     "titel": "Erdkunde: Europa - einfach erklärt. Orientierung: Grenzen, Gebirge, Inseln, Halbinseln, Meere",
+     "kanal": "Kinderweltreise",
+     "url": "https://www.yout-ube.com/watch?v=MY4O_dmluNI"
+    },
+    {
+     "titel": "Der Europa-Check | Reportage für Kinder | Checker Tobi",
+     "kanal": "CHECKER WELT",
+     "url": "https://www.yout-ube.com/watch?v=4XDTcvCxRPo"
+    }
+   ]
+  },
+  {
+   "id": "gl69",
+   "nr": 69,
+   "titel": "Gebirge, Flüsse und Meere der Welt",
+   "bereich": "Urlaubsträume",
+   "klasse": "6",
+   "satz": "Du kennst wichtige Gebirge, Flüsse und Meere und weißt, wo sie liegen.",
+   "erklaerung": "Auf der Weltkarte gibt es Gebirge, Flüsse und Meere, die man kennen sollte. Der Himalaya hat den höchsten Berg der Welt, den Mount Everest. Der Nil und der Amazonas sind die längsten Flüsse, und das Mittelmeer liegt zwischen Europa und Afrika.",
+   "beispiele": [
+    "Mount Everest: fast 8 850 m",
+    "Amazonas: fließt durch den Regenwald in Südamerika",
+    "Rocky Mountains und Anden in Amerika"
+   ],
+   "baut_auf": [
+    "gl67",
+    "gl08"
+   ],
+   "quelle": "S. 23",
+   "suche": "Gebirge Flüsse der Welt Kinder",
+   "videos": [
+    {
+     "titel": "Wo ist der längste Fluss der Welt? l WOOZLE GOOZLE",
+     "kanal": "Woozle Goozle",
+     "url": "https://www.yout-ube.com/watch?v=gjo0RdrCfvc"
+    },
+    {
+     "titel": "Der Hochgebirgs-Check | Reportage für Kinder | Checker Tobi",
+     "kanal": "CHECKER WELT",
+     "url": "https://www.yout-ube.com/watch?v=uVeCbc5jObg"
+    }
+   ]
+  },
+  {
+   "id": "gl70",
+   "nr": 70,
+   "titel": "Warum wir verreisen",
+   "bereich": "Urlaubsträume",
+   "klasse": "6",
+   "satz": "Du überlegst, warum Menschen gern reisen und was Fernweh und Heimweh sind.",
+   "erklaerung": "Menschen verreisen, um Neues zu sehen, sich zu erholen oder Freunde und Familie zu besuchen. Fernweh ist die Sehnsucht nach fernen Orten, Heimweh die Sehnsucht nach zu Hause. Auf Reisen lernt man andere Sprachen, Essen und Lebensweisen kennen.",
+   "beispiele": [
+    "Erholung am Meer",
+    "Abenteuer beim Zelten",
+    "Heimweh im Ferienlager ist ganz normal."
+   ],
+   "baut_auf": [],
+   "quelle": "S. 22",
+   "suche": "warum reisen Menschen Kinder",
+   "videos": [
+    {
+     "titel": "Heimweh – einfach erklärt | Kindervideos | SRF Kids",
+     "kanal": "SRF Kids",
+     "url": "https://www.yout-ube.com/watch?v=tLTGS6EY9lw"
+    },
+    {
+     "titel": "Wie verbringen Kinder in anderen Ländern ihre Ferien?| Mausblick | DieMaus | WDR",
+     "kanal": "Die Maus",
+     "url": "https://www.yout-ube.com/watch?v=y5e2gb5wFMA"
+    }
+   ]
+  },
+  {
+   "id": "gl71",
+   "nr": 71,
+   "titel": "Mit Auto, Bahn oder Flugzeug",
+   "bereich": "Urlaubsträume",
+   "klasse": "6",
+   "satz": "Du vergleichst Verkehrsmittel für eine Reise, auch danach, wie sie der Umwelt schaden.",
+   "erklaerung": "Man kann auf ganz verschiedene Weise verreisen: mit dem Auto, dem Zug, dem Bus, dem Flugzeug oder dem Schiff. Jedes Verkehrsmittel hat Vorteile und Nachteile, etwa bei Zeit, Preis und Bequemlichkeit. Flugzeug und Auto stoßen besonders viel CO2 aus, Zug und Bus deutlich weniger.",
+   "beispiele": [
+    "Hamburg nach München: Zug etwa 6 Stunden, Flug 1 Stunde plus Wege",
+    "Fahrrad: langsam, aber ganz ohne Abgase",
+    "Mitfahren im vollen Auto ist besser als allein."
+   ],
+   "baut_auf": [
+    "gl70"
+   ],
+   "quelle": "S. 23",
+   "suche": "Verkehrsmittel Reise Umwelt CO2 Kinder",
+   "videos": [
+    {
+     "titel": "Klimafreundlicher Verkehr| DieMaus | WDR",
+     "kanal": "Die Maus",
+     "url": "https://www.yout-ube.com/watch?v=1H7MOPvZM14"
+    },
+    {
+     "titel": "Was CO2 mit dem Klimawandel zu tun hat – einfach erklärt | Kindervideos | SRF Kids",
+     "kanal": "SRF Kids",
+     "url": "https://www.yout-ube.com/watch?v=-PCopvU5lf0"
+    }
+   ]
+  },
+  {
+   "id": "gl72",
+   "nr": 72,
+   "titel": "Arten zu reisen",
+   "bereich": "Urlaubsträume",
+   "klasse": "6",
+   "satz": "Du lernst Pauschalreise, Rucksackreise und sanften Tourismus kennen.",
+   "erklaerung": "Bei einer Pauschalreise kauft man Flug, Hotel und Essen zusammen in einem Paket. Bei einer Individualreise, etwa mit Rucksack, plant man alles selbst. Sanfter Tourismus heißt, so zu reisen, dass Natur und Menschen vor Ort möglichst wenig gestört werden.",
+   "beispiele": [
+    "Pauschal: Hotel mit Pool, alles organisiert",
+    "Rucksack: Jugendherberge, flexibel unterwegs",
+    "Sanft: mit dem Zug anreisen, regionale Läden nutzen"
+   ],
+   "baut_auf": [
+    "gl70"
+   ],
+   "quelle": "S. 23",
+   "suche": "Tourismusformen sanfter Tourismus Kinder",
+   "videos": [
+    {
+     "titel": "Warum machen so viele Leute Urlaub in Italien? l WOOZLE GOOZLE",
+     "kanal": "Woozle Goozle",
+     "url": "https://www.yout-ube.com/watch?v=MaP1Hmw-qYU"
+    },
+    {
+     "titel": "Der Camping-Check | Reportage für Kinder | Checker Tobi",
+     "kanal": "CHECKER WELT",
+     "url": "https://www.yout-ube.com/watch?v=phT-6xbRVsA"
+    }
+   ]
+  },
+  {
+   "id": "gl73",
+   "nr": 73,
+   "titel": "Was Tourismus mit einem Ort macht",
+   "bereich": "Urlaubsträume",
+   "klasse": "6",
+   "satz": "Du erfährst, wie viele Urlauber einem Ort Geld bringen, aber auch Natur und Leben dort verändern.",
+   "erklaerung": "Touristen bringen Geld in einen Ort, es entstehen Arbeitsplätze in Hotels, Restaurants und Läden. Wenn aber zu viele kommen, wird es voll, laut und teuer, und die Natur leidet. Das nennt man Massentourismus.",
+   "beispiele": [
+    "Mallorca: viele Hotels an der Küste",
+    "Venedig: Einwohner ziehen weg, weil Wohnungen zu teuer sind",
+    "Wanderwege in den Alpen werden ausgetreten."
+   ],
+   "baut_auf": [
+    "gl72"
+   ],
+   "quelle": "S. 22, 23",
+   "suche": "Massentourismus Folgen Kinder",
+   "videos": [
+    {
+     "titel": "Warum die Menschen in Venedig genervt sind | neuneinhalb | WDR",
+     "kanal": "WDR",
+     "url": "https://www.yout-ube.com/watch?v=OGKGrNOWm8g"
+    },
+    {
+     "titel": "Der Venedig-Check | Reportage für Kinder | Checker Tobi",
+     "kanal": "CHECKER WELT",
+     "url": "https://www.yout-ube.com/watch?v=X3MNJDM5Mu0"
+    }
+   ]
+  },
+  {
+   "id": "gl74",
+   "nr": 74,
+   "titel": "Schutzgebiete wie das Wattenmeer",
+   "bereich": "Urlaubsträume",
+   "klasse": "6",
+   "satz": "Du erfährst, warum das Wattenmeer, das Great Barrier Reef oder der Amazonas besonders geschützt werden.",
+   "erklaerung": "Manche Landschaften sind so wertvoll, dass sie besonders geschützt werden. Das Wattenmeer an der Nordsee ist Nationalpark und Weltnaturerbe, dort leben Seehunde, Würmer, Muscheln und Millionen Zugvögel. Auch das Great Barrier Reef in Australien und der Amazonas-Regenwald sind geschützt.",
+   "beispiele": [
+    "Im Wattenmeer gibt es Ruhezonen, die man nicht betreten darf.",
+    "Wattwanderungen nur mit Führung",
+    "Yellowstone in den USA war der erste Nationalpark der Welt."
+   ],
+   "baut_auf": [
+    "gl73"
+   ],
+   "quelle": "S. 22",
+   "suche": "Wattenmeer Nationalpark Kinder",
+   "videos": [
+    {
+     "titel": "Welche Tiere leben im Wattenmeer? l WOOZLE GOOZLE",
+     "kanal": "Woozle Goozle",
+     "url": "https://www.yout-ube.com/watch?v=MyILNX792jU"
+    },
+    {
+     "titel": "🪸 Warum sind Korallenriffe so wichtig für uns? | Spickzettel | planet schule | ARD",
+     "kanal": "planet schule",
+     "url": "https://www.yout-ube.com/watch?v=0DQ0FUI4B7o"
+    }
+   ]
+  },
+  {
+   "id": "gl75",
+   "nr": 75,
+   "titel": "Urlaub in Werbung und Reiseblogs",
+   "bereich": "Urlaubsträume",
+   "klasse": "6",
+   "satz": "Du prüfst, ob Bilder in Reisewerbung und Bewertungen die Wirklichkeit zeigen.",
+   "erklaerung": "Reisewerbung zeigt meist den schönsten Strand bei bestem Wetter und ohne andere Menschen. Auch Fotos in Reiseblogs und Bewertungen sind oft ausgewählt oder bearbeitet. Wer mehrere Quellen vergleicht, bekommt ein ehrlicheres Bild.",
+   "beispiele": [
+    "Das Foto vom leeren Strand wurde frühmorgens gemacht.",
+    "„Meerblick“ kann heißen: ganz klein in der Ecke",
+    "Bewertungen lesen: Was sagen viele gleich?"
+   ],
+   "baut_auf": [
+    "gl70"
+   ],
+   "quelle": "S. 23",
+   "suche": "Reisewerbung Bilder Wirklichkeit",
+   "videos": [
+    {
+     "titel": "Ist auf Social Media alles echt? l WOOZLE GOOZLE",
+     "kanal": "Woozle Goozle",
+     "url": "https://www.yout-ube.com/watch?v=nnSnBavVwy0"
+    },
+    {
+     "titel": "Der Fotografie-Check | Reportage für Kinder | Checker Julian",
+     "kanal": "CHECKER WELT",
+     "url": "https://www.yout-ube.com/watch?v=kl7WGp892Nw"
+    }
+   ]
+  },
+  {
+   "id": "gl76",
+   "nr": 76,
+   "titel": "Eine Reise planen",
+   "bereich": "Urlaubsträume",
+   "klasse": "6",
+   "satz": "Du planst eine Reise oder Klassenfahrt nach Merkmalen, die dir wichtig sind.",
+   "erklaerung": "Für eine gute Reise überlegst du dir vorher, was dir wichtig ist: Ziel, Kosten, Anreise und was man dort erleben kann. Mit einer Liste kannst du mehrere Ziele vergleichen. Bei einer Klassenfahrt müssen alle mitplanen, damit es für jeden passt.",
+   "beispiele": [
+    "Was kostet es? Wie lange dauert die Anreise?",
+    "Was kann man bei Regen machen?",
+    "Packliste schreiben"
+   ],
+   "baut_auf": [
+    "gl71",
+    "gl68"
+   ],
+   "quelle": "S. 22, 23",
+   "suche": "Klassenfahrt planen Kinder",
+   "videos": []
+  },
+  {
+   "id": "gl77",
+   "nr": 77,
+   "titel": "Der Wasserkreislauf",
+   "bereich": "Unser blauer Planet: Wasser",
+   "klasse": "6",
+   "satz": "Du verfolgst, wie Wasser verdunstet, als Regen fällt und über Flüsse ins Meer zurückfließt.",
+   "erklaerung": "Das Wasser auf der Erde ist immer in Bewegung. Die Sonne lässt Wasser aus Meeren und Seen verdunsten, der Wasserdampf steigt auf und bildet Wolken. Es regnet, das Wasser versickert oder fließt über Bäche und Flüsse zurück ins Meer, und alles beginnt von vorn.",
+   "beispiele": [
+    "Verdunsten, Kondensieren, Niederschlag, Abfließen",
+    "Das Wasser, das du trinkst, war vielleicht schon bei den Dinosauriern.",
+    "Versuch: Glas mit Wasser und Frischhaltefolie in die Sonne stellen"
+   ],
+   "baut_auf": [],
+   "quelle": "S. 23, 24",
+   "suche": "Wasserkreislauf Kinder erklärt",
+   "videos": [
+    {
+     "titel": "Wasserkreislauf: Was ist das? | SRF Kids – Clip und klar! | Für Kinder erklärt",
+     "kanal": "SRF Kids",
+     "url": "https://www.yout-ube.com/watch?v=0-uRgZd88kA"
+    },
+    {
+     "titel": "Wasserkreislauf | Sachunterricht - Erdkunde | Lehrerschmidt",
+     "kanal": "Lehrerschmidt",
+     "url": "https://www.yout-ube.com/watch?v=Ke5UTHkbXiU"
+    }
+   ]
+  },
+  {
+   "id": "gl78",
+   "nr": 78,
+   "titel": "Ein Fluss von der Quelle bis zur Mündung",
+   "bereich": "Unser blauer Planet: Wasser",
+   "klasse": "6",
+   "satz": "Du lernst Oberlauf, Mittellauf und Unterlauf eines Flusses kennen.",
+   "erklaerung": "Ein Fluss beginnt an einer Quelle, oft im Gebirge. Im Oberlauf fließt er schnell und schmal, im Mittellauf wird er breiter und langsamer, im Unterlauf schlängelt er sich durch flaches Land. An der Mündung fließt er ins Meer oder in einen anderen Fluss.",
+   "beispiele": [
+    "Die Weser entsteht in Hann. Münden aus Werra und Fulda.",
+    "Die Elbe entspringt in Tschechien und mündet bei Cuxhaven in die Nordsee.",
+    "Nebenflüsse fließen in den Hauptfluss."
+   ],
+   "baut_auf": [
+    "gl77"
+   ],
+   "quelle": "S. 24",
+   "suche": "Fluss Quelle Mündung Oberlauf Kinder",
+   "videos": [
+    {
+     "titel": "Der Fluss-Check | Reportage für Kinder  | Checker Tobi",
+     "kanal": "CHECKER WELT",
+     "url": "https://www.yout-ube.com/watch?v=Mz-Q3ajo3Fs"
+    },
+    {
+     "titel": "Wie entsteht eine Quelle? | Die Maus | WDR",
+     "kanal": "Die Maus",
+     "url": "https://www.yout-ube.com/watch?v=nfLxdBwQpDM"
+    }
+   ]
+  },
+  {
+   "id": "gl79",
+   "nr": 79,
+   "titel": "Flüsse werden verändert",
+   "bereich": "Unser blauer Planet: Wasser",
+   "klasse": "6",
+   "satz": "Du erfährst, warum Flüsse begradigt wurden und was das mit Hochwasser zu tun hat.",
+   "erklaerung": "Früher hat man viele Flüsse begradigt, damit Schiffe besser fahren können und mehr Land für Felder und Häuser frei wird. Begradigte Flüsse fließen aber schneller, und bei starkem Regen gibt es schlimmeres Hochwasser. Heute bekommen manche Flüsse wieder Kurven und Auen, in denen sich das Wasser ausbreiten kann.",
+   "beispiele": [
+    "Der Rhein wurde vor 200 Jahren stark begradigt.",
+    "Auen sind natürliche Überschwemmungsflächen.",
+    "Renaturierung: Flüsse werden wieder natürlicher."
+   ],
+   "baut_auf": [
+    "gl78"
+   ],
+   "quelle": "S. 23",
+   "suche": "Flussbegradigung Hochwasser Kinder",
+   "videos": [
+    {
+     "titel": "Wie entsteht Hochwasser? | MausBlick | DieMaus | WDR",
+     "kanal": "Die Maus",
+     "url": "https://www.yout-ube.com/watch?v=nxswk0ujqSs"
+    },
+    {
+     "titel": "Wie entsteht Hochwasser? | SRF Kids – Clip und klar! | Für Kinder erklärt",
+     "kanal": "SRF Kids",
+     "url": "https://www.yout-ube.com/watch?v=lgjX2WlbQvk"
+    }
+   ]
+  },
+  {
+   "id": "gl80",
+   "nr": 80,
+   "titel": "Ebbe, Flut und Deiche",
+   "bereich": "Unser blauer Planet: Wasser",
+   "klasse": "6",
+   "satz": "Du erfährst, wie die Gezeiten die Nordseeküste formen und wie Deiche das Land schützen.",
+   "erklaerung": "An der Nordsee steigt und fällt das Wasser zweimal am Tag, das sind Ebbe und Flut, die Gezeiten. Sie entstehen, weil der Mond das Wasser anzieht. Damit das Land bei Sturmfluten nicht überschwemmt wird, schützen hohe Deiche die Küste.",
+   "beispiele": [
+    "Zwischen Hochwasser und Niedrigwasser liegen etwa 6 Stunden.",
+    "Bei Ebbe kann man im Watt wandern.",
+    "Ostfriesische Inseln, Deiche und Sperrwerke schützen das Land."
+   ],
+   "baut_auf": [
+    "gl77"
+   ],
+   "quelle": "S. 24",
+   "suche": "Ebbe und Flut Deich Kinder",
+   "videos": [
+    {
+     "titel": "Warum gibt es Ebbe und Flut? l WOOZLE GOOZLE",
+     "kanal": "Woozle Goozle",
+     "url": "https://www.yout-ube.com/watch?v=k-tgezOpWWM"
+    },
+    {
+     "titel": "Deichbau | DieMaus | WDR",
+     "kanal": "Die Maus",
+     "url": "https://www.yout-ube.com/watch?v=nFcxEryK-5Y"
+    }
+   ]
+  },
+  {
+   "id": "gl81",
+   "nr": 81,
+   "titel": "Wasser im alten Rom",
+   "bereich": "Unser blauer Planet: Wasser",
+   "klasse": "6",
+   "satz": "Du entdeckst, wie die Römer mit Aquädukten sauberes Wasser in die Stadt brachten und Abwasser loswurden.",
+   "erklaerung": "Die Römer bauten vor 2000 Jahren riesige Wasserleitungen, die Aquädukte. Sie brachten frisches Wasser aus den Bergen über viele Kilometer in die Städte, zu Brunnen und Thermen. Abwasser floss durch unterirdische Kanäle ab, die Cloaca Maxima in Rom gibt es heute noch.",
+   "beispiele": [
+    "Pont du Gard in Frankreich: ein berühmtes Aquädukt",
+    "Thermen: öffentliche Bäder mit warmem Wasser",
+    "Rom hatte über 1000 Brunnen."
+   ],
+   "baut_auf": [
+    "gl25"
+   ],
+   "quelle": "S. 23",
+   "suche": "Aquädukt Römer Wasser Kinder",
+   "videos": [
+    {
+     "titel": "Erfindungen der Römer – einfach erklärt | Kindervideos | SRF Kids",
+     "kanal": "SRF Kids",
+     "url": "https://www.yout-ube.com/watch?v=_6PfXKF7uIo"
+    },
+    {
+     "titel": "Was haben die alten Römer alles gebaut? l WOOZLE GOOZLE",
+     "kanal": "Woozle Goozle",
+     "url": "https://www.yout-ube.com/watch?v=O8ln8fB6mHQ"
+    }
+   ]
+  },
+  {
+   "id": "gl82",
+   "nr": 82,
+   "titel": "Die Hanse: Handel auf dem Wasser",
+   "bereich": "Unser blauer Planet: Wasser",
+   "klasse": "6",
+   "satz": "Du erfährst, wie Kaufleute im Mittelalter mit Schiffen Handel trieben und Städte wie Lübeck reich wurden.",
+   "erklaerung": "Im Mittelalter schlossen sich Kaufleute und Städte an Nord- und Ostsee zur Hanse zusammen. Mit ihren Schiffen, den Koggen, handelten sie mit Fisch, Salz, Pelzen, Getreide und Stoffen. Städte wie Lübeck, Hamburg und Bremen wurden dadurch reich.",
+   "beispiele": [
+    "Lübeck war die Königin der Hanse.",
+    "Die Kogge war ein bauchiges Segelschiff.",
+    "Viele Städte tragen noch heute „Hansestadt“ im Namen."
+   ],
+   "baut_auf": [
+    "gl25",
+    "gl78"
+   ],
+   "quelle": "S. 23",
+   "suche": "Hanse Mittelalter Kinder",
+   "videos": [
+    {
+     "titel": "Die Hanse leicht erklärt",
+     "kanal": "LVR-Niederrheinmuseum Wesel",
+     "url": "https://www.yout-ube.com/watch?v=WkcmFV_Zlss"
+    },
+    {
+     "titel": "Der Mittelalter-Check | Reportage für Kinder | Checker Tobi als Ritter",
+     "kanal": "CHECKER WELT",
+     "url": "https://www.yout-ube.com/watch?v=eyZqRcgGkiY"
+    }
+   ]
+  },
+  {
+   "id": "gl83",
+   "nr": 83,
+   "titel": "Wasser als Arbeitsplatz",
+   "bereich": "Unser blauer Planet: Wasser",
+   "klasse": "6",
+   "satz": "Du lernst, wie Menschen mit Wasser Geld verdienen: Fischfang, Häfen, Schiffe und Wasserkraft.",
+   "erklaerung": "Viele Menschen verdienen ihr Geld mit Wasser. Fischer fangen Fisch, in Häfen werden Waren von Schiffen umgeladen, und Wasserkraftwerke machen Strom. Auch der Tourismus an Seen und Küsten hängt vom Wasser ab.",
+   "beispiele": [
+    "Der Hamburger Hafen ist einer der größten in Europa.",
+    "Krabbenkutter an der Nordseeküste",
+    "Wasserkraft: Turbinen drehen sich in Staudämmen."
+   ],
+   "baut_auf": [
+    "gl78"
+   ],
+   "quelle": "S. 23",
+   "suche": "Hafen Fischerei Wasserkraft Kinder",
+   "videos": [
+    {
+     "titel": "Was passiert alles an einem Hafen? l WOOZLE GOOZLE",
+     "kanal": "Woozle Goozle",
+     "url": "https://www.yout-ube.com/watch?v=zxQKby8g8Ro"
+    },
+    {
+     "titel": "Der Frische-Fische-Fischen-Check | Reportage für Kinder | Checker Tobi",
+     "kanal": "CHECKER WELT",
+     "url": "https://www.yout-ube.com/watch?v=bcD4nRbpVKU"
+    }
+   ]
+  },
+  {
+   "id": "gl84",
+   "nr": 84,
+   "titel": "Woher unser Trinkwasser kommt",
+   "bereich": "Unser blauer Planet: Wasser",
+   "klasse": "6",
+   "satz": "Du verfolgst den Weg des Wassers vom Grundwasser bis in deinen Wasserhahn.",
+   "erklaerung": "Unser Trinkwasser kommt meist aus dem Grundwasser tief in der Erde, manchmal auch aus Talsperren. Im Wasserwerk wird es gereinigt und geprüft, dann fließt es durch Rohre bis in deinen Wasserhahn. Leitungswasser ist in Deutschland sehr gut kontrolliert und kann ohne Bedenken getrunken werden.",
+   "beispiele": [
+    "Brunnen pumpen Grundwasser nach oben.",
+    "Harzwasserwerke liefern Wasser aus dem Harz bis nach Bremen.",
+    "Ein Mensch verbraucht etwa 125 Liter am Tag."
+   ],
+   "baut_auf": [
+    "gl77"
+   ],
+   "quelle": "S. 23",
+   "suche": "Trinkwasser Wasserwerk Kinder",
+   "videos": [
+    {
+     "titel": "Wie kommt das Wasser in den Wasserhahn? l WOOZLE GOOZLE",
+     "kanal": "Woozle Goozle",
+     "url": "https://www.yout-ube.com/watch?v=ISBwSaGrd5A"
+    },
+    {
+     "titel": "Der Trinkwasser-Check | Reportage für Kinder | Checker Tobi",
+     "kanal": "CHECKER WELT",
+     "url": "https://www.yout-ube.com/watch?v=QCPVfDgFEQA"
+    }
+   ]
+  },
+  {
+   "id": "gl85",
+   "nr": 85,
+   "titel": "Sauberes Wasser für alle",
+   "bereich": "Unser blauer Planet: Wasser",
+   "klasse": "6",
+   "satz": "Du erfährst, dass nicht alle Menschen sauberes Wasser haben und dass es ein Menschenrecht ist.",
+   "erklaerung": "Für uns ist sauberes Wasser aus dem Hahn normal, aber über 2 Milliarden Menschen haben keinen sicheren Zugang dazu. Viele Kinder, vor allem Mädchen, laufen jeden Tag stundenlang, um Wasser zu holen. Seit 2010 ist sauberes Wasser ein Menschenrecht der Vereinten Nationen.",
+   "beispiele": [
+    "Schmutziges Wasser macht krank.",
+    "Statt zur Schule gehen manche Kinder Wasser holen.",
+    "Weltwassertag ist der 22. März."
+   ],
+   "baut_auf": [
+    "gl84",
+    "gl54"
+   ],
+   "quelle": "S. 23",
+   "suche": "sauberes Wasser Menschenrecht Kinder",
+   "videos": [
+    {
+     "titel": "Dieses Mädchen verbringt 8 Stunden mit etwas, für das wir nur Sekunden brauchen!",
+     "kanal": "UNICEF Deutschland",
+     "url": "https://www.yout-ube.com/watch?v=rAKJKOS76T4"
+    },
+    {
+     "titel": "Warum ist sauberes Wasser so wichtig? I GANZE FOLGE",
+     "kanal": "Woozle Goozle",
+     "url": "https://www.yout-ube.com/watch?v=nBIv3obNmgc"
+    }
+   ]
+  },
+  {
+   "id": "gl86",
+   "nr": 86,
+   "titel": "Streit ums Wasser",
+   "bereich": "Unser blauer Planet: Wasser",
+   "klasse": "6",
+   "satz": "Du verstehst, warum Brunnen und Staudämme zu Streit zwischen Menschen und Ländern führen können.",
+   "erklaerung": "Wenn Wasser knapp ist, streiten Menschen darum. Baut ein Land am Oberlauf eines Flusses einen Staudamm, kommt bei den Nachbarn weiter unten weniger Wasser an. Auch im Dorf kann es Streit geben, wer wie viel aus einem Brunnen nehmen darf.",
+   "beispiele": [
+    "Der Nil fließt durch elf Länder, alle brauchen sein Wasser.",
+    "Bauern und Städte brauchen beide viel Wasser.",
+    "Gemeinsame Verträge helfen, das Wasser fair zu teilen."
+   ],
+   "baut_auf": [
+    "gl85"
+   ],
+   "quelle": "S. 24",
+   "suche": "Konflikt um Wasser Staudamm Kinder",
+   "videos": [
+    {
+     "titel": "Geht Wasser irgendwann leer? l WOOZLE GOOZLE",
+     "kanal": "Woozle Goozle",
+     "url": "https://www.yout-ube.com/watch?v=jUDmvgXDD8A"
+    },
+    {
+     "titel": "Trockener Planet: Warum die Landwirtschaft zu viel Wasser braucht | neuneinhalb | WDR",
+     "kanal": "WDR",
+     "url": "https://www.yout-ube.com/watch?v=XWmiVOaumWI"
+    }
+   ]
+  },
+  {
+   "id": "gl87",
+   "nr": 87,
+   "titel": "Ein Wasserprojekt erforschen",
+   "bereich": "Unser blauer Planet: Wasser",
+   "klasse": "6",
+   "satz": "Du recherchierst im Internet an einem Beispiel, wie Menschen eine Wasserversorgung aufbauen.",
+   "erklaerung": "Mit einer Recherche im Internet kannst du ein Wasserprojekt genau erforschen. Such dir ein Beispiel, etwa einen Brunnenbau in einem Dorf in Afrika, und finde heraus, wer ihn gebaut hat, was er kostet und was er verändert. Notiere, woher deine Informationen stammen.",
+   "beispiele": [
+    "Hilfsorganisationen wie UNICEF oder Welthungerhilfe beschreiben ihre Projekte.",
+    "Fragen: Wer? Wo? Wie? Was hat sich verändert?",
+    "Ergebnis als Plakat oder Kurzvortrag zeigen"
+   ],
+   "baut_auf": [
+    "gl86",
+    "gl01"
+   ],
+   "quelle": "S. 24",
+   "suche": "Brunnenbau Afrika Kinder",
+   "videos": [
+    {
+     "titel": "Dieses Mädchen verbringt 8 Stunden mit etwas, für das wir nur Sekunden brauchen!",
+     "kanal": "UNICEF Deutschland",
+     "url": "https://www.yout-ube.com/watch?v=rAKJKOS76T4"
+    }
+   ]
+  },
+  {
+   "id": "gl88",
+   "nr": 88,
+   "titel": "Vom Tauschhandel zum Geld",
+   "bereich": "Haben oder Sein: Geld",
+   "klasse": "6",
+   "satz": "Du erfährst, wie Menschen früher getauscht haben und wie Münzen und Scheine entstanden sind.",
+   "erklaerung": "Früher haben Menschen Dinge direkt getauscht, zum Beispiel ein Schaf gegen Getreide. Das war umständlich, weil nicht jeder das wollte, was der andere hatte. Deshalb nahm man bald Muscheln, Metall und dann Münzen als Zahlungsmittel, später kam Papiergeld dazu.",
+   "beispiele": [
+    "Kaurimuscheln waren lange Geld in Afrika und Asien.",
+    "Die ersten Münzen gab es vor etwa 2600 Jahren.",
+    "Papiergeld wurde in China erfunden."
+   ],
+   "baut_auf": [
+    "gl25"
+   ],
+   "quelle": "S. 24",
+   "suche": "Geschichte des Geldes Tauschhandel Kinder",
+   "videos": [
+    {
+     "titel": "Geld: Wie ist es entstanden? | SRF Kids – Clip und klar! | Für Kinder erklärt",
+     "kanal": "SRF Kids",
+     "url": "https://www.yout-ube.com/watch?v=SgF0CJFOVfE"
+    },
+    {
+     "titel": "Der Geld-Check | Reportage für Kinder | Checker Tobi",
+     "kanal": "CHECKER WELT",
+     "url": "https://www.yout-ube.com/watch?v=FEOAt1n8-TY"
+    }
+   ]
+  },
+  {
+   "id": "gl89",
+   "nr": 89,
+   "titel": "Bargeld, Karte und Handy",
+   "bereich": "Haben oder Sein: Geld",
+   "klasse": "6",
+   "satz": "Du vergleichst, wie man heute bezahlt, und was unsichtbares Geld bedeutet.",
+   "erklaerung": "Heute bezahlt man nicht nur mit Münzen und Scheinen, sondern auch mit Karte oder Handy. Dabei wird Geld nur als Zahl von einem Konto auf ein anderes gebucht. Weil man das Geld nicht sieht, gibt man es leichter aus und muss besser aufpassen.",
+   "beispiele": [
+    "Bargeld: Münzen und Scheine",
+    "Girokarte: Geld vom Konto",
+    "Online-Bezahlen im Internet oder in Spiele-Apps"
+   ],
+   "baut_auf": [
+    "gl88"
+   ],
+   "quelle": "S. 24",
+   "suche": "bargeldlos bezahlen Kinder erklärt",
+   "videos": [
+    {
+     "titel": "Wie funktioniert Bezahlen mit Karte? l WOOZLE GOOZLE",
+     "kanal": "Woozle Goozle",
+     "url": "https://www.yout-ube.com/watch?v=8SCPTUA7Nxc"
+    },
+    {
+     "titel": "Wie wird ein Euro hergestellt? | Die Maus | WDR",
+     "kanal": "Die Maus",
+     "url": "https://www.yout-ube.com/watch?v=nBuSmbcp1AE"
+    }
+   ]
+  },
+  {
+   "id": "gl90",
+   "nr": 90,
+   "titel": "Was ich wirklich brauche",
+   "bereich": "Haben oder Sein: Geld",
+   "klasse": "6",
+   "satz": "Du baust deine eigene Bedürfnispyramide, wie der Forscher Maslow.",
+   "erklaerung": "Der Forscher Abraham Maslow hat die Bedürfnisse der Menschen als Pyramide geordnet. Unten stehen die wichtigsten für den Körper, wie Essen und Schlaf, darüber Sicherheit, Freundschaft, Anerkennung und ganz oben sich selbst entfalten. Du kannst deine eigene Pyramide bauen und überlegen, was dir wirklich wichtig ist.",
+   "beispiele": [
+    "Unten: Essen, Trinken, Schlaf",
+    "Mitte: Sicherheit und Freunde",
+    "Oben: Hobbys, Träume, das tun, was man gut kann"
+   ],
+   "baut_auf": [
+    "gl52"
+   ],
+   "quelle": "S. 24",
+   "suche": "Bedürfnispyramide Maslow Kinder",
+   "videos": [
+    {
+     "titel": "Was ist ein Bedürfnis? | Wirtschaft | Lehrerschmidt",
+     "kanal": "Lehrerschmidt",
+     "url": "https://www.yout-ube.com/watch?v=feyqY8SC4h0"
+    }
+   ]
+  },
+  {
+   "id": "gl91",
+   "nr": 91,
+   "titel": "Wenn etwas knapp ist",
+   "bereich": "Haben oder Sein: Geld",
+   "klasse": "6",
+   "satz": "Du verstehst, warum Dinge, die selten sind, mehr kosten.",
+   "erklaerung": "Wenn es von etwas wenig gibt, aber viele es haben wollen, wird es teuer. Das gilt für seltene Sammelkarten genauso wie für Gold oder Erdbeeren im Winter. Gibt es von etwas viel, sinkt der Preis.",
+   "beispiele": [
+    "Eine seltene Sammelkarte ist mehr wert als zehn normale.",
+    "Im Sommer sind Erdbeeren billig, im Winter teuer.",
+    "Wasser in der Wüste ist kostbar."
+   ],
+   "baut_auf": [
+    "gl88"
+   ],
+   "quelle": "S. 24",
+   "suche": "Angebot Nachfrage Knappheit Kinder",
+   "videos": [
+    {
+     "titel": "Angebot & Nachfrage: Wie entstehen Preise? | SRF Kids – Clip und klar! | Für Kinder erklärt",
+     "kanal": "SRF Kids",
+     "url": "https://www.yout-ube.com/watch?v=Edcm17as1mY"
+    }
+   ]
+  },
+  {
+   "id": "gl92",
+   "nr": 92,
+   "titel": "Mein Taschengeld",
+   "bereich": "Haben oder Sein: Geld",
+   "klasse": "6",
+   "satz": "Du erfährst, was du mit deinem Taschengeld allein kaufen darfst.",
+   "erklaerung": "Mit Taschengeld lernst du, mit Geld umzugehen. Ab 7 Jahren darfst du mit deinem Taschengeld selbst Dinge kaufen, die zu deinem Alter passen, das regelt der Taschengeldparagraph. Größere Käufe oder Verträge, zum Beispiel ein Handyvertrag, brauchen die Zustimmung der Eltern.",
+   "beispiele": [
+    "Ein Comic vom Taschengeld: in Ordnung",
+    "Ein teures Tablet ohne Erlaubnis der Eltern: Der Laden muss es zurücknehmen.",
+    "Sparen: jede Woche einen Teil in die Spardose"
+   ],
+   "baut_auf": [
+    "gl89"
+   ],
+   "quelle": "S. 24, 25",
+   "suche": "Taschengeldparagraph Kinder erklärt",
+   "videos": [
+    {
+     "titel": "Taschengeld - für Kinder erklärt",
+     "kanal": "SIN - Studio im Netz",
+     "url": "https://www.yout-ube.com/watch?v=zi2k1yV_iow"
+    },
+    {
+     "titel": "Der Geld-Check | Reportage für Kinder | Checker Tobi",
+     "kanal": "CHECKER WELT",
+     "url": "https://www.yout-ube.com/watch?v=FEOAt1n8-TY"
+    }
+   ]
+  },
+  {
+   "id": "gl93",
+   "nr": 93,
+   "titel": "Kaufen oder nicht?",
+   "bereich": "Haben oder Sein: Geld",
+   "klasse": "6",
+   "satz": "Du überlegst, was du tun kannst, wenn du etwas haben möchtest, aber das Geld nicht reicht.",
+   "erklaerung": "Manchmal will man etwas unbedingt haben, aber das Geld reicht nicht. Dann hilft es, kurz zu überlegen: Brauche ich das wirklich, oder will ich es nur gerade? Du kannst sparen, dir etwas wünschen oder merken, dass der Wunsch nach ein paar Tagen weg ist.",
+   "beispiele": [
+    "Eine Woche warten, bevor du etwas kaufst",
+    "Sparziel aufschreiben",
+    "Gebraucht kaufen oder tauschen"
+   ],
+   "baut_auf": [
+    "gl92",
+    "gl90"
+   ],
+   "quelle": "S. 25",
+   "suche": "Kaufentscheidung Kinder Geld sparen",
+   "videos": [
+    {
+     "titel": "Ab wann ist man reich? l WOOZLE GOOZLE",
+     "kanal": "Woozle Goozle",
+     "url": "https://www.yout-ube.com/watch?v=0GqAgqnh2i0"
+    },
+    {
+     "titel": "Knietzsche und die Geduld",
+     "kanal": "Knietzsche",
+     "url": "https://www.yout-ube.com/watch?v=YVVlWZJ8asQ"
+    }
+   ]
+  },
+  {
+   "id": "gl94",
+   "nr": 94,
+   "titel": "Werbung will, dass ich kaufe",
+   "bereich": "Haben oder Sein: Geld",
+   "klasse": "6",
+   "satz": "Du prüfst, wie Werbung und Medien beeinflussen, was du dir wünschst.",
+   "erklaerung": "Werbung soll Wünsche wecken, auch für Dinge, die man vorher gar nicht wollte. Sie ist im Fernsehen, auf Plakaten, in Apps und bei Influencern. Wenn du merkst, dass dich Werbung beeinflusst, kannst du freier entscheiden, was du wirklich willst.",
+   "beispiele": [
+    "In Spiele-Apps lockt Werbung mit Extras für echtes Geld.",
+    "„Nur heute!“ soll schnelles Kaufen auslösen.",
+    "Frag dich: Wer bezahlt diese Werbung?"
+   ],
+   "baut_auf": [
+    "gl45",
+    "gl93"
+   ],
+   "quelle": "S. 25",
+   "suche": "Werbung Kinder erklärt Tricks",
+   "videos": [
+    {
+     "titel": "Was ist Werbung? l WOOZLE GOOZLE",
+     "kanal": "Woozle Goozle",
+     "url": "https://www.yout-ube.com/watch?v=0d1yFeASG38"
+    },
+    {
+     "titel": "Der Werbe-Check | Reportage für Kinder | Checker Tobi",
+     "kanal": "CHECKER WELT",
+     "url": "https://www.yout-ube.com/watch?v=CWWIEdHwl88"
+    }
+   ]
+  },
+  {
+   "id": "gl95",
+   "nr": 95,
+   "titel": "Arbeiten als Kind",
+   "bereich": "Haben oder Sein: Geld",
+   "klasse": "6",
+   "satz": "Du vergleichst erlaubte kleine Jobs für Jugendliche mit Kinderarbeit, die Kindern schadet.",
+   "erklaerung": "In Deutschland dürfen Jugendliche ab 13 Jahren mit Erlaubnis der Eltern leichte Arbeiten machen, etwa Zeitungen austragen oder Nachhilfe geben, höchstens zwei Stunden am Tag. Das Jugendarbeitsschutzgesetz schützt sie vor zu viel und zu schwerer Arbeit. Kinderarbeit dagegen schadet Kindern, weil sie hart ist und Schule und Gesundheit kostet.",
+   "beispiele": [
+    "Erlaubt ab 13: Babysitten, Hund ausführen, Zeitungen austragen",
+    "Nicht nach 18 Uhr und nicht während der Schulzeit",
+    "Kinderarbeit: schwere Arbeit statt Schule"
+   ],
+   "baut_auf": [
+    "gl57"
+   ],
+   "quelle": "S. 24",
+   "suche": "Jugendarbeitsschutz Ferienjob ab 13 Kinder",
+   "videos": [
+    {
+     "titel": "Worauf muss man bei Ferienjobs achten? | logo! einfach erklärt",
+     "kanal": "logo!",
+     "url": "https://www.yout-ube.com/watch?v=inGAEylCZno"
+    },
+    {
+     "titel": "Jobben ab 13? Das ist erlaubt! 💸 | logo! #shorts",
+     "kanal": "logo!",
+     "url": "https://www.yout-ube.com/watch?v=b411a_egdzc"
+    }
+   ]
+  },
+  {
+   "id": "gl96",
+   "nr": 96,
+   "titel": "Arm und reich",
+   "bereich": "Haben oder Sein: Geld",
+   "klasse": "6",
+   "satz": "Du erfährst, dass ungleich verteiltes Geld zu Streit führen kann.",
+   "erklaerung": "Geld ist auf der Welt und auch in Deutschland sehr ungleich verteilt. Manche Familien haben viel, andere müssen jeden Euro umdrehen. Wenn die Unterschiede groß sind, fühlen sich Menschen ungerecht behandelt, und es kann Streit geben.",
+   "beispiele": [
+    "Nicht jede Familie kann sich Urlaub leisten.",
+    "Kinderarmut: Etwa jedes fünfte Kind in Deutschland ist betroffen.",
+    "Tafeln geben Lebensmittel an Menschen mit wenig Geld."
+   ],
+   "baut_auf": [
+    "gl91"
+   ],
+   "quelle": "S. 25",
+   "suche": "Armut Reichtum Kinder erklärt",
+   "videos": [
+    {
+     "titel": "Der Arm- und Reich-Check | Reportage für Kinder | Checker Tobi",
+     "kanal": "CHECKER WELT",
+     "url": "https://www.yout-ube.com/watch?v=1QhWN6NYxd8"
+    },
+    {
+     "titel": "Ab wann ist man reich? l WOOZLE GOOZLE",
+     "kanal": "Woozle Goozle",
+     "url": "https://www.yout-ube.com/watch?v=0GqAgqnh2i0"
+    }
+   ]
+  },
+  {
+   "id": "gl97",
+   "nr": 97,
+   "titel": "Was man nicht kaufen kann",
+   "bereich": "Haben oder Sein: Geld",
+   "klasse": "6",
+   "satz": "Du überlegst, was im Leben wertvoll ist, auch wenn es kein Geld kostet: Freunde, Zeit, Gesundheit.",
+   "erklaerung": "Viele wichtige Dinge im Leben kann man nicht kaufen: Freundschaft, Zeit mit der Familie, Gesundheit oder ein gutes Gefühl, wenn man jemandem geholfen hat. Wer nur auf Geld und Dinge schaut, wird nicht unbedingt glücklicher. Forscher haben herausgefunden, dass gute Beziehungen Menschen am glücklichsten machen.",
+   "beispiele": [
+    "Ein Nachmittag mit der besten Freundin",
+    "Ein selbstgebasteltes Geschenk",
+    "Lachen, Spielen, Draußensein"
+   ],
+   "baut_auf": [
+    "gl90"
+   ],
+   "quelle": "S. 25",
+   "suche": "Was macht glücklich Geld Kinder",
+   "videos": [
+    {
+     "titel": "Knietzsche und das große Glück",
+     "kanal": "Knietzsche",
+     "url": "https://www.yout-ube.com/watch?v=lNHmvYb6OtI"
+    },
+    {
+     "titel": "Knietzsche und das Glück - Das geteilte Glück",
+     "kanal": "Knietzsche",
+     "url": "https://www.yout-ube.com/watch?v=MUHrMeVA9Cg"
+    }
+   ]
+  }
+ ]
+}
