@@ -1,0 +1,2352 @@
+{
+ "fach": "nawi",
+ "name": "NaWi",
+ "quelle": "Kerncurriculum für die Integrierte Gesamtschule, Schuljahrgänge 5 bis 10, Naturwissenschaften, Niedersächsisches Kultusministerium 2020",
+ "bereiche": [
+  "Forschen wie in der Wissenschaft",
+  "Sinne und Magnete",
+  "Licht, Himmel und Jahreszeiten",
+  "Wasser und Teilchen",
+  "Pflanzen",
+  "Wasser und Luft zum Leben",
+  "Mein Körper und Kräfte",
+  "Strom",
+  "Ich werde erwachsen"
+ ],
+ "themen": [
+  {
+   "id": "nw01",
+   "nr": 1,
+   "titel": "Fragen an die Natur",
+   "bereich": "Forschen wie in der Wissenschaft",
+   "klasse": "5/6",
+   "satz": "Du stellst eine Frage, zum Beispiel „Warum rostet Eisen?“, und überlegst, was die Antwort sein könnte.",
+   "erklaerung": "Forschen beginnt mit einer Frage, die man durch Beobachten oder Ausprobieren beantworten kann. Bevor du nachschaust, überlegst du dir eine Vermutung, also eine mögliche Antwort. Ob die Vermutung stimmt, zeigt erst der Versuch, und eine falsche Vermutung ist dabei kein Fehler.",
+   "beispiele": [
+    "Frage: Trocknet Wäsche in der Sonne schneller als im Schatten? Vermutung: Ja, weil es dort wärmer ist.",
+    "Frage: Schwimmt ein Apfel? Vermutung: Nein, er ist zu schwer.",
+    "Gute Forschungsfragen kann man mit einem Versuch prüfen. „Ist Blau schöner als Rot?“ gehört nicht dazu."
+   ],
+   "baut_auf": [],
+   "quelle": "S. 49, 50",
+   "suche": "Forscherfrage Vermutung Naturwissenschaften Kinder",
+   "videos": [
+    {
+     "titel": "Was ist Wissenschaft? l WOOZLE GOOZLE",
+     "kanal": "Woozle Goozle",
+     "url": "https://www.yout-ube.com/watch?v=aS6i23IGy4I"
+    }
+   ]
+  },
+  {
+   "id": "nw02",
+   "nr": 2,
+   "titel": "Ein Experiment nach Anleitung",
+   "bereich": "Forschen wie in der Wissenschaft",
+   "klasse": "5/6",
+   "satz": "Du machst einen einfachen Versuch Schritt für Schritt nach Anleitung und beobachtest genau.",
+   "erklaerung": "Bei einem Experiment nach Anleitung hältst du dich genau an die Schritte, die vorgegeben sind. Du legst vorher alles Material bereit und liest die Anleitung einmal ganz durch. Beim Versuch schaust du genau hin und schreibst gleich auf, was du siehst.",
+   "beispiele": [
+    "Erst lesen, dann Material holen, dann anfangen.",
+    "Ein Ei in Leitungswasser und in sehr salzigem Wasser: Wo schwimmt es?",
+    "Beobachtung heißt: nur aufschreiben, was du wirklich siehst, noch nicht erklären."
+   ],
+   "baut_auf": [
+    "nw01"
+   ],
+   "quelle": "S. 50",
+   "suche": "Experiment durchführen Anleitung Schule",
+   "videos": []
+  },
+  {
+   "id": "nw03",
+   "nr": 3,
+   "titel": "Ein Versuchsprotokoll schreiben",
+   "bereich": "Forschen wie in der Wissenschaft",
+   "klasse": "5/6",
+   "satz": "Du schreibst auf: Frage, Vermutung, Material, was du gemacht hast, was du gesehen hast und was es bedeutet.",
+   "erklaerung": "Ein Versuchsprotokoll hilft dir und anderen, einen Versuch später nachzuvollziehen oder zu wiederholen. Es hat feste Teile: Frage, Vermutung, Material, Durchführung, Beobachtung und Auswertung. Eine Skizze vom Aufbau macht vieles leichter verständlich.",
+   "beispiele": [
+    "Durchführung: Ich gebe einen Löffel Salz in 100 ml Wasser und rühre um.",
+    "Beobachtung: Das Salz ist nach einer Minute nicht mehr zu sehen.",
+    "Auswertung: Salz löst sich in Wasser. Meine Vermutung stimmt."
+   ],
+   "baut_auf": [
+    "nw02"
+   ],
+   "quelle": "S. 51",
+   "suche": "Versuchsprotokoll schreiben einfach erklärt",
+   "videos": [
+    {
+     "titel": "VERSUCHSPROTOKOLL SCHREIBEN | www.mathiaspieper.de",
+     "kanal": "Mathias Pieper",
+     "url": "https://www.yout-ube.com/watch?v=4F4-azau-tQ"
+    },
+    {
+     "titel": "Ein Versuchsprotokoll schreiben - Versuche Auswertung",
+     "kanal": "HausaufgabenTV",
+     "url": "https://www.yout-ube.com/watch?v=fVWRHuKVcA0"
+    }
+   ]
+  },
+  {
+   "id": "nw04",
+   "nr": 4,
+   "titel": "Ein eigenes Experiment planen",
+   "bereich": "Forschen wie in der Wissenschaft",
+   "klasse": "5/6",
+   "satz": "Du überlegst dir selbst einen Versuch, mit dem du eine Frage beantworten kannst.",
+   "erklaerung": "Bei einem eigenen Experiment denkst du dir selbst aus, wie du deine Frage prüfen kannst. Wichtig ist ein fairer Vergleich: Du änderst nur eine Sache und lässt alles andere gleich. Sonst weißt du am Ende nicht, was den Unterschied gemacht hat.",
+   "beispiele": [
+    "Frage: Wächst Kresse im Dunkeln? Zwei gleiche Schalen, eine ins Licht, eine in den Schrank, beide gleich gießen.",
+    "Frage: Welches Papier saugt am meisten Wasser auf? Gleich große Stücke, gleich viel Wasser.",
+    "Plane vorher: Was brauche ich? Was mache ich? Was messe ich?"
+   ],
+   "baut_auf": [
+    "nw03"
+   ],
+   "quelle": "S. 50",
+   "suche": "Experiment selbst planen fairer Test",
+   "videos": [
+    {
+     "titel": "So löst du Probleme wie ein Wissenschaftler",
+     "kanal": "Sprouts Deutschland",
+     "url": "https://www.yout-ube.com/watch?v=URJ1NhqPU-M"
+    }
+   ]
+  },
+  {
+   "id": "nw05",
+   "nr": 5,
+   "titel": "Größen und Einheiten",
+   "bereich": "Forschen wie in der Wissenschaft",
+   "klasse": "5/6",
+   "satz": "Du weißt, was der Unterschied zwischen einer Größe wie Länge und ihrer Einheit wie Meter ist.",
+   "erklaerung": "Eine Größe ist etwas, das man messen kann, zum Beispiel Länge, Masse, Zeit oder Temperatur. Die Einheit sagt, in welchem Maß gemessen wurde, etwa Meter, Kilogramm, Sekunde oder Grad Celsius. Eine Zahl ohne Einheit sagt fast nichts: „3“ kann 3 Meter oder 3 Sekunden sein.",
+   "beispiele": [
+    "Länge: 1,5 m. Größe Länge, Einheit Meter.",
+    "Temperatur: 20 °C. Größe Temperatur, Einheit Grad Celsius.",
+    "Zeit: 45 s. Größe Zeit, Einheit Sekunde."
+   ],
+   "baut_auf": [],
+   "quelle": "S. 52",
+   "suche": "Größen und Einheiten Physik einfach erklärt",
+   "videos": [
+    {
+     "titel": "Meter, Sekunden, Kilogramm: Woher kommen unsere Maßeinheiten? | Quarks Dimension Ralph",
+     "kanal": "Quarks Dimension Ralph",
+     "url": "https://www.yout-ube.com/watch?v=8sV6lwFYJMw"
+    },
+    {
+     "titel": "Maßeinheiten umrechnen -  Längen - Strecke - Längenmaße - km, m, dm, cm, mm | Lehrerschmidt",
+     "kanal": "Lehrerschmidt",
+     "url": "https://www.yout-ube.com/watch?v=iRh4wA6TVy4"
+    }
+   ]
+  },
+  {
+   "id": "nw06",
+   "nr": 6,
+   "titel": "Je mehr, desto …",
+   "bereich": "Forschen wie in der Wissenschaft",
+   "klasse": "5/6",
+   "satz": "Du beschreibst Zusammenhänge in Je-desto-Sätzen: Je wärmer es ist, desto schneller schmilzt das Eis.",
+   "erklaerung": "Mit einem Je-desto-Satz beschreibst du, wie zwei Dinge zusammenhängen. Wenn sich das eine ändert, ändert sich auch das andere. So lassen sich Beobachtungen aus Versuchen kurz und klar zusammenfassen.",
+   "beispiele": [
+    "Je länger die Kerze brennt, desto kürzer wird sie.",
+    "Je höher du kletterst, desto weiter kannst du sehen.",
+    "Je wärmer das Wasser, desto schneller löst sich Zucker."
+   ],
+   "baut_auf": [
+    "nw05"
+   ],
+   "quelle": "S. 49, 52",
+   "suche": "je desto Zusammenhang Naturwissenschaften",
+   "videos": []
+  },
+  {
+   "id": "nw07",
+   "nr": 7,
+   "titel": "Ordnen nach Merkmalen",
+   "bereich": "Forschen wie in der Wissenschaft",
+   "klasse": "5/6",
+   "satz": "Du sortierst Dinge, Tiere oder Pflanzen nach Merkmalen, die vorher festgelegt sind.",
+   "erklaerung": "Ordnen hilft, den Überblick zu behalten. Du legst ein Merkmal fest, zum Beispiel Farbe, Material oder Anzahl der Beine, und sortierst danach. Mit verschiedenen Merkmalen kommen ganz verschiedene Gruppen heraus.",
+   "beispiele": [
+    "Knöpfe nach Anzahl der Löcher sortieren.",
+    "Tiere nach: hat Federn, hat Fell, hat Schuppen.",
+    "Dinge nach: schwimmt oder geht unter."
+   ],
+   "baut_auf": [],
+   "quelle": "S. 50",
+   "suche": "ordnen nach Merkmalen Biologie Kinder",
+   "videos": []
+  },
+  {
+   "id": "nw08",
+   "nr": 8,
+   "titel": "Was ist ein Modell?",
+   "bereich": "Forschen wie in der Wissenschaft",
+   "klasse": "5/6",
+   "satz": "Du verstehst, dass ein Modell etwas vereinfacht zeigt, und vergleichst es mit dem echten Ding.",
+   "erklaerung": "Ein Modell zeigt etwas Wichtiges an einer Sache vereinfacht, damit man es besser versteht. Es ist nie genau wie das Original, manche Dinge lässt es absichtlich weg. Deshalb vergleicht man immer: Was zeigt das Modell gut, was zeigt es nicht?",
+   "beispiele": [
+    "Ein Globus ist ein Modell der Erde.",
+    "Ein Plastikskelett zeigt die Knochen, aber keine Muskeln.",
+    "Ein Spielzeugauto zeigt die Form eines Autos, fährt aber nicht mit Benzin."
+   ],
+   "baut_auf": [],
+   "quelle": "S. 53",
+   "suche": "Was ist ein Modell Naturwissenschaften",
+   "videos": []
+  },
+  {
+   "id": "nw09",
+   "nr": 9,
+   "titel": "Unsere Sinne",
+   "bereich": "Sinne und Magnete",
+   "klasse": "5/6",
+   "satz": "Du nennst die Sinnesorgane und sagst, was wir mit ihnen wahrnehmen: sehen, hören, riechen, schmecken, fühlen.",
+   "erklaerung": "Wir haben fünf Sinne: Sehen mit den Augen, Hören mit den Ohren, Riechen mit der Nase, Schmecken mit der Zunge und Fühlen mit der Haut. Die Sinnesorgane nehmen Reize auf und schicken Nachrichten an das Gehirn. Erst dort entsteht das, was wir wahrnehmen.",
+   "beispiele": [
+    "Augen: Licht und Farben",
+    "Haut: Wärme, Kälte, Druck und Schmerz",
+    "Zunge: süß, sauer, salzig, bitter und umami"
+   ],
+   "baut_auf": [],
+   "quelle": "S. 15",
+   "suche": "fünf Sinne einfach erklärt Kinder",
+   "videos": [
+    {
+     "titel": "Der Sinne-Check | Reportage für Kinder | Checker Tobi",
+     "kanal": "CHECKER WELT",
+     "url": "https://www.yout-ube.com/watch?v=AbdTfCmJfns"
+    }
+   ]
+  },
+  {
+   "id": "nw10",
+   "nr": 10,
+   "titel": "Wenn ein Sinn fehlt",
+   "bereich": "Sinne und Magnete",
+   "klasse": "5/6",
+   "satz": "Du erfährst, wie Menschen leben, die nicht sehen oder nicht hören können, und was ihnen hilft.",
+   "erklaerung": "Wenn ein Sinn fehlt, nutzen Menschen die anderen Sinne stärker und Hilfsmittel. Blinde Menschen lesen Blindenschrift mit den Fingern und orientieren sich mit einem Langstock oder Blindenhund. Gehörlose Menschen sprechen mit Gebärdensprache.",
+   "beispiele": [
+    "Blindenschrift (Braille): erhabene Punkte zum Ertasten",
+    "Gebärdensprache: Wörter mit Händen, Mimik und Körper",
+    "Ampeln mit Klopfton helfen blinden Menschen beim Überqueren."
+   ],
+   "baut_auf": [
+    "nw09"
+   ],
+   "quelle": "S. 15",
+   "suche": "blind gehörlos Alltag Kinder erklärt",
+   "videos": [
+    {
+     "titel": "Brailleschrift: Wie lesen und schreiben Blinde? – einfach erklärt | Kindervideos | SRF Kids",
+     "kanal": "SRF Kids",
+     "url": "https://www.yout-ube.com/watch?v=7hxwEqGBz8Y"
+    },
+    {
+     "titel": "Wie lernen blinde und eingeschränkt sehende Kinder? | Tigerenten Club",
+     "kanal": "ARD Kinder und Familie",
+     "url": "https://www.yout-ube.com/watch?v=MtePr7lc9rY"
+    }
+   ]
+  },
+  {
+   "id": "nw11",
+   "nr": 11,
+   "titel": "Tiere spüren anders",
+   "bereich": "Sinne und Magnete",
+   "klasse": "5/6",
+   "satz": "Du vergleichst deine Sinne mit denen von Tieren, zum Beispiel Fledermaus, Hund oder Biene.",
+   "erklaerung": "Viele Tiere nehmen Dinge wahr, die wir nicht bemerken. Hunde riechen viel besser als wir, Fledermäuse orientieren sich mit Ultraschall, und Bienen sehen ultraviolettes Licht. Jedes Tier hat die Sinne, die zu seinem Leben passen.",
+   "beispiele": [
+    "Hund: riecht Spuren, die Stunden alt sind.",
+    "Fledermaus: ruft im Dunkeln und hört das Echo.",
+    "Biene: sieht Muster auf Blüten, die für uns unsichtbar sind."
+   ],
+   "baut_auf": [
+    "nw09"
+   ],
+   "quelle": "S. 15",
+   "suche": "Sinne der Tiere Kinder erklärt",
+   "videos": [
+    {
+     "titel": "Was Tiere uns voraus haben | Terra X plus",
+     "kanal": "Terra X Nature",
+     "url": "https://www.yout-ube.com/watch?v=la4MN-eREq0"
+    }
+   ]
+  },
+  {
+   "id": "nw12",
+   "nr": 12,
+   "titel": "Wenn die Sinne uns täuschen",
+   "bereich": "Sinne und Magnete",
+   "klasse": "5/6",
+   "satz": "Du probierst optische Täuschungen aus und prüfst mit Lineal und Thermometer, ob deine Sinne recht haben.",
+   "erklaerung": "Unsere Sinne können sich irren. Bei optischen Täuschungen sehen zwei gleich lange Linien unterschiedlich lang aus. Und lauwarmes Wasser fühlt sich kalt an, wenn die Hand vorher in warmem Wasser war. Messgeräte wie Lineal und Thermometer zeigen dann, was wirklich stimmt.",
+   "beispiele": [
+    "Müller-Lyer-Täuschung: zwei gleich lange Linien mit Pfeilspitzen",
+    "Drei Schüsseln: kalt, lauwarm, warm. Eine Hand in kalt, eine in warm, dann beide in lauwarm.",
+    "Mit dem Lineal nachmessen, ob die Linien wirklich gleich lang sind."
+   ],
+   "baut_auf": [
+    "nw09"
+   ],
+   "quelle": "S. 15",
+   "suche": "optische Täuschung Sinnestäuschung Kinder",
+   "videos": [
+    {
+     "titel": "Was ist eine Optische Täuschung? l WOOZLE GOOZLE",
+     "kanal": "Woozle Goozle",
+     "url": "https://www.yout-ube.com/watch?v=8nrX_fnD0XI"
+    },
+    {
+     "titel": "Sinnestäuschungen: So trügt uns unsere Wahrnehmung | Ralphs Universum | Quarks",
+     "kanal": "Quarks Dimension Ralph",
+     "url": "https://www.yout-ube.com/watch?v=IT_iaZr96wY"
+    }
+   ]
+  },
+  {
+   "id": "nw13",
+   "nr": 13,
+   "titel": "Was wir nicht wahrnehmen können",
+   "bereich": "Sinne und Magnete",
+   "klasse": "5/6",
+   "satz": "Du erfährst, warum wir eine Hundepfeife nicht hören und ein Magnetfeld nicht spüren.",
+   "erklaerung": "Unsere Sinne haben Grenzen. Sehr hohe Töne wie die einer Hundepfeife hören wir nicht, Hunde aber schon. Magnetfelder, Radiowellen oder ultraviolettes Licht spüren wir gar nicht. Dafür braucht man Messgeräte wie den Kompass.",
+   "beispiele": [
+    "Hundepfeife: Ton zu hoch für Menschen",
+    "Ultraschall bei Fledermäusen",
+    "Ein Kompass zeigt das Magnetfeld, das wir nicht spüren."
+   ],
+   "baut_auf": [
+    "nw12"
+   ],
+   "quelle": "S. 15",
+   "suche": "Grenzen der Sinne Ultraschall Hundepfeife",
+   "videos": [
+    {
+     "titel": "Wer hat die besten Ohren im Tierreich? – Tiere und ihre Superkräfte (3/5) | Erlebnis Erde",
+     "kanal": "Erlebnis Erde",
+     "url": "https://www.yout-ube.com/watch?v=ADBCZqD_Jv8"
+    }
+   ]
+  },
+  {
+   "id": "nw14",
+   "nr": 14,
+   "titel": "Was ein Magnet anzieht",
+   "bereich": "Sinne und Magnete",
+   "klasse": "5/6",
+   "satz": "Du testest, welche Dinge ein Magnet anzieht, und sortierst sie danach.",
+   "erklaerung": "Ein Magnet zieht Dinge aus Eisen, Nickel und Kobalt an. Andere Metalle wie Kupfer, Aluminium oder Gold zieht er nicht an, Holz, Papier und Plastik auch nicht. Mit einem Magneten kannst du deshalb Gegenstände sortieren.",
+   "beispiele": [
+    "Wird angezogen: Büroklammer, Nagel, Schere aus Eisen",
+    "Wird nicht angezogen: Alufolie, Kupfermünze, Radiergummi",
+    "Achtung: 1 und 2 Cent Münzen haften, weil sie innen aus Eisen sind."
+   ],
+   "baut_auf": [],
+   "quelle": "S. 15",
+   "suche": "was zieht ein Magnet an Kinder",
+   "videos": [
+    {
+     "titel": "Magnet - Welche Stoffe zieht er an? | Sachunterricht - Physik | Lehrerschmidt",
+     "kanal": "Lehrerschmidt",
+     "url": "https://www.yout-ube.com/watch?v=DoRCn-q1XXw"
+    }
+   ]
+  },
+  {
+   "id": "nw15",
+   "nr": 15,
+   "titel": "Nordpol und Südpol",
+   "bereich": "Sinne und Magnete",
+   "klasse": "5/6",
+   "satz": "Du entdeckst, dass sich gleiche Pole abstoßen und verschiedene anziehen, und zeichnest das mit Pfeilen.",
+   "erklaerung": "Jeder Magnet hat einen Nordpol und einen Südpol. Gleiche Pole stoßen sich ab, verschiedene Pole ziehen sich an. An den Polen ist die Kraft am stärksten, das zeigt man mit Pfeilen.",
+   "beispiele": [
+    "Nordpol und Südpol: ziehen sich an",
+    "Nordpol und Nordpol: stoßen sich ab",
+    "Zwei Ringmagnete auf einem Stift: einer schwebt über dem anderen."
+   ],
+   "baut_auf": [
+    "nw14"
+   ],
+   "quelle": "S. 15",
+   "suche": "Magnet Nordpol Südpol anziehen abstoßen",
+   "videos": [
+    {
+     "titel": "Magnete haben zwei Pole | Sachunterricht - Physik | Lehrerschmidt",
+     "kanal": "Lehrerschmidt",
+     "url": "https://www.yout-ube.com/watch?v=XZ2Nsjgdyww"
+    },
+    {
+     "titel": "Magnetische Wechselwirkung - Magnete ziehen sich an und stoßen sich ab | Lehrerschmidt",
+     "kanal": "Lehrerschmidt",
+     "url": "https://www.yout-ube.com/watch?v=eafSc4BaAdQ"
+    }
+   ]
+  },
+  {
+   "id": "nw16",
+   "nr": 16,
+   "titel": "Das Magnetfeld erkunden",
+   "bereich": "Sinne und Magnete",
+   "klasse": "5/6",
+   "satz": "Du untersuchst mit einem Kompass, wie ein Magnet um sich herum wirkt.",
+   "erklaerung": "Um einen Magneten herum wirkt eine Kraft, auch ohne Berührung. Diesen Bereich nennt man Magnetfeld. Mit einem kleinen Kompass oder mit Eisenpulver unter einem Blatt Papier kannst du sehen, wie das Feld verläuft.",
+   "beispiele": [
+    "Eisenpulver auf Papier über einem Stabmagneten bildet Linien.",
+    "Ein Kompass neben dem Magneten dreht sich, wenn du ihn verschiebst.",
+    "Die Kraft wirkt sogar durch Papier, Holz und Wasser hindurch."
+   ],
+   "baut_auf": [
+    "nw15"
+   ],
+   "quelle": "S. 15",
+   "suche": "Magnetfeld sichtbar machen Eisenspäne",
+   "videos": [
+    {
+     "titel": "Das Magnetfeld | Dauermagnetismus | Physik - Sachunterricht | Lehrerschmidt",
+     "kanal": "Lehrerschmidt",
+     "url": "https://www.yout-ube.com/watch?v=5FRdulem8c4"
+    },
+    {
+     "titel": "Magnetfeld sichtbar gemacht - Magnetfeldlinien",
+     "kanal": "DoktorKlawonn",
+     "url": "https://www.yout-ube.com/watch?v=eLddDHFAVbY"
+    }
+   ]
+  },
+  {
+   "id": "nw17",
+   "nr": 17,
+   "titel": "Wie ein Kompass funktioniert",
+   "bereich": "Sinne und Magnete",
+   "klasse": "5/6",
+   "satz": "Du verstehst, warum die Nadel nach Norden zeigt, und findest damit den Weg.",
+   "erklaerung": "Die Nadel eines Kompasses ist ein kleiner, drehbarer Magnet. Die Erde ist selbst wie ein riesiger Magnet, deshalb dreht sich die Nadel immer in Nord Süd Richtung. So kannst du die Himmelsrichtungen finden, auch ohne Sonne.",
+   "beispiele": [
+    "Die rote Spitze zeigt nach Norden.",
+    "Kompass flach halten und von Metall fernhalten.",
+    "Selbst bauen: Nadel magnetisieren und auf einem Korken im Wasser schwimmen lassen."
+   ],
+   "baut_auf": [
+    "nw16"
+   ],
+   "quelle": "S. 15",
+   "suche": "wie funktioniert ein Kompass Kinder",
+   "videos": [
+    {
+     "titel": "Kompass - Aufbau und Funktion | Sachunterricht - Physik | Lehrerschmidt",
+     "kanal": "Lehrerschmidt",
+     "url": "https://www.yout-ube.com/watch?v=l0MXeskivD4"
+    },
+    {
+     "titel": "Warum zeigt ein Kompass immer nach Norden? l WOOZLE GOOZLE",
+     "kanal": "Woozle Goozle",
+     "url": "https://www.yout-ube.com/watch?v=KdommGmdu9c"
+    }
+   ]
+  },
+  {
+   "id": "nw18",
+   "nr": 18,
+   "titel": "Zugvögel finden den Weg",
+   "bereich": "Sinne und Magnete",
+   "klasse": "5/6",
+   "satz": "Du erfährst, wie Zugvögel sich am Magnetfeld der Erde orientieren.",
+   "erklaerung": "Zugvögel fliegen jedes Jahr Tausende Kilometer und finden trotzdem den Weg. Forschende haben herausgefunden, dass viele Vögel das Magnetfeld der Erde spüren können, wie mit einem eingebauten Kompass. Dazu nutzen sie die Sonne, die Sterne und Landschaften.",
+   "beispiele": [
+    "Störche fliegen im Herbst bis nach Afrika.",
+    "Rotkehlchen orientieren sich am Magnetfeld, das zeigten Versuche.",
+    "Brieftauben finden nach Hause, auch aus fremden Orten."
+   ],
+   "baut_auf": [
+    "nw17",
+    "nw11"
+   ],
+   "quelle": "S. 15",
+   "suche": "Zugvögel Orientierung Magnetfeld Kinder",
+   "videos": [
+    {
+     "titel": "Das machen Zugvögel im Winter – einfach erklärt | Kindervideos | SRF Kids",
+     "kanal": "SRF Kids",
+     "url": "https://www.yout-ube.com/watch?v=nbfDz4Nh5bg"
+    },
+    {
+     "titel": "Der geheime Trick der Zugvögel",
+     "kanal": "Terra X History",
+     "url": "https://www.yout-ube.com/watch?v=a_HMqQw3KnE"
+    }
+   ]
+  },
+  {
+   "id": "nw19",
+   "nr": 19,
+   "titel": "Ein Magnet von innen",
+   "bereich": "Sinne und Magnete",
+   "klasse": "5/6",
+   "satz": "Du lernst das Modell der Elementarmagnete, machst aus einer Nadel einen Magneten und erfährst, warum ein zerbrochener Magnet wieder zwei Pole hat.",
+   "erklaerung": "Man stellt sich vor, dass ein Stück Eisen aus vielen winzigen Magneten besteht, den Elementarmagneten. Liegen sie durcheinander, ist das Eisen nicht magnetisch. Streicht man mit einem Magneten darüber, richten sie sich aus, und das Eisen wird selbst zum Magneten. Zerbricht ein Magnet, hat jedes Stück wieder Nord und Süd.",
+   "beispiele": [
+    "Eine Nähnadel 20 Mal in eine Richtung mit einem Magneten streichen: Sie zieht Büroklammern an.",
+    "Fällt der Magnet oft herunter oder wird er erhitzt, geraten die Elementarmagnete durcheinander.",
+    "Einen Nordpol allein gibt es nicht."
+   ],
+   "baut_auf": [
+    "nw15",
+    "nw08"
+   ],
+   "quelle": "S. 15, 53",
+   "suche": "Elementarmagnete Modell magnetisieren",
+   "videos": [
+    {
+     "titel": "Elementarmagnete",
+     "kanal": "GreweScience",
+     "url": "https://www.yout-ube.com/watch?v=EgRODzyE7_w"
+    },
+    {
+     "titel": "Magnete kann man teilen | Sachunterricht - Physik | Lehrerschmidt",
+     "kanal": "Lehrerschmidt",
+     "url": "https://www.yout-ube.com/watch?v=9qtbUn-QTA0"
+    }
+   ]
+  },
+  {
+   "id": "nw20",
+   "nr": 20,
+   "titel": "Wie wir sehen",
+   "bereich": "Licht, Himmel und Jahreszeiten",
+   "klasse": "5/6",
+   "satz": "Du verstehst, dass Licht von einer Lampe oder einem Gegenstand in dein Auge fällt und sich dabei geradeaus ausbreitet.",
+   "erklaerung": "Wir sehen etwas nur, wenn Licht von dort in unser Auge fällt. Eine Lampe oder die Sonne sendet selbst Licht aus. Alle anderen Dinge werfen Licht zurück, das von einer Lichtquelle kommt. Licht breitet sich dabei geradeaus aus.",
+   "beispiele": [
+    "Im völlig dunklen Raum siehst du nichts, auch nicht deine Hand.",
+    "Lichtquellen: Sonne, Lampe, Kerze, Bildschirm",
+    "Der Mond leuchtet nicht selbst, er wirft Sonnenlicht zurück."
+   ],
+   "baut_auf": [],
+   "quelle": "S. 16",
+   "suche": "wie sehen wir Licht Auge Kinder",
+   "videos": [
+    {
+     "titel": "Lichtquelle  | Physik - Optik | Lehrerschmidt",
+     "kanal": "Lehrerschmidt",
+     "url": "https://www.yout-ube.com/watch?v=9ZzdKUVbgQQ"
+    },
+    {
+     "titel": "Das Sender Empfänger Modell (oder: Wie \"Sehen\" funktioniert)",
+     "kanal": "Lehrer TK",
+     "url": "https://www.yout-ube.com/watch?v=tiqvFH8gzsI"
+    }
+   ]
+  },
+  {
+   "id": "nw21",
+   "nr": 21,
+   "titel": "Licht und Schatten",
+   "bereich": "Licht, Himmel und Jahreszeiten",
+   "klasse": "5/6",
+   "satz": "Du untersuchst mit einer Taschenlampe, wie Schatten entstehen und warum sie wandern.",
+   "erklaerung": "Ein Schatten entsteht hinter einem Gegenstand, durch den kein Licht hindurchkommt. Weil Licht geradeaus geht, hat der Schatten die Form des Gegenstands. Bewegt sich die Lichtquelle, wandert der Schatten mit, so wie Schatten im Laufe eines Tages.",
+   "beispiele": [
+    "Taschenlampe nah am Gegenstand: großer Schatten. Weit weg: kleiner Schatten.",
+    "Mittags ist dein Schatten kurz, abends lang.",
+    "Schattentheater mit den Händen"
+   ],
+   "baut_auf": [
+    "nw20"
+   ],
+   "quelle": "S. 16",
+   "suche": "Licht und Schatten Entstehung Kinder",
+   "videos": [
+    {
+     "titel": "Schatten - Schattenraum - Schattenbild | Physik - Optik | Lehrerschmidt",
+     "kanal": "Lehrerschmidt",
+     "url": "https://www.yout-ube.com/watch?v=y-WCo42--qg"
+    }
+   ]
+  },
+  {
+   "id": "nw22",
+   "nr": 22,
+   "titel": "Tag und Nacht",
+   "bereich": "Licht, Himmel und Jahreszeiten",
+   "klasse": "5/6",
+   "satz": "Du erfährst, dass sich die Erde dreht und es deshalb hell und dunkel wird.",
+   "erklaerung": "Die Erde dreht sich in 24 Stunden einmal um sich selbst. Die Seite, die gerade zur Sonne zeigt, hat Tag, die andere Seite hat Nacht. Die Sonne bewegt sich also nicht um uns, auch wenn es so aussieht.",
+   "beispiele": [
+    "Morgens geht die Sonne im Osten auf, abends im Westen unter.",
+    "Wenn bei uns Abend ist, ist in Australien schon Morgen.",
+    "Versuch: Globus und Taschenlampe, Globus langsam drehen."
+   ],
+   "baut_auf": [],
+   "quelle": "S. 16",
+   "suche": "Tag und Nacht Erddrehung Kinder",
+   "videos": [
+    {
+     "titel": "Tag und Nacht | Erdkunde - Physik - Sachunterricht | Lehrerschmidt",
+     "kanal": "Lehrerschmidt",
+     "url": "https://www.yout-ube.com/watch?v=TsEA6CBSwvY"
+    },
+    {
+     "titel": "Wodurch entsteht Tag & Nacht und die Jahreszeiten? - Erdkunde einfach erklärt",
+     "kanal": "Die Merkhilfe",
+     "url": "https://www.yout-ube.com/watch?v=zQaT3U8U6x4"
+    }
+   ]
+  },
+  {
+   "id": "nw23",
+   "nr": 23,
+   "titel": "Die Mondphasen",
+   "bereich": "Licht, Himmel und Jahreszeiten",
+   "klasse": "5/6",
+   "satz": "Du verstehst, warum der Mond mal rund, mal halb und mal gar nicht zu sehen ist.",
+   "erklaerung": "Der Mond leuchtet nicht selbst, die Sonne beleuchtet immer eine Hälfte von ihm. Weil er in etwa einem Monat um die Erde wandert, sehen wir von dieser hellen Hälfte mal mehr und mal weniger. So entstehen Neumond, zunehmender Mond, Vollmond und abnehmender Mond.",
+   "beispiele": [
+    "Neumond: Wir sehen die dunkle Seite.",
+    "Vollmond: Wir sehen die ganze helle Seite.",
+    "Bei uns gilt: Ist die rechte Seite hell, nimmt der Mond zu. Ist die linke Seite hell, nimmt er ab."
+   ],
+   "baut_auf": [
+    "nw21"
+   ],
+   "quelle": "S. 16",
+   "suche": "Mondphasen einfach erklärt Kinder",
+   "videos": [
+    {
+     "titel": "Vollmond bis Neumond: Warum gibt es Mondphasen? | SRF Kids – Clip und klar! | Für Kinder erklärt",
+     "kanal": "SRF Kids",
+     "url": "https://www.yout-ube.com/watch?v=kQimteYWQGk"
+    }
+   ]
+  },
+  {
+   "id": "nw24",
+   "nr": 24,
+   "titel": "Sonnenfinsternis und Mondfinsternis",
+   "bereich": "Licht, Himmel und Jahreszeiten",
+   "klasse": "5/6",
+   "satz": "Du erklärst, wie Sonne, Erde und Mond stehen, wenn es eine Finsternis gibt.",
+   "erklaerung": "Bei einer Sonnenfinsternis schiebt sich der Mond zwischen Sonne und Erde, und sein Schatten fällt auf die Erde. Bei einer Mondfinsternis steht die Erde zwischen Sonne und Mond, und der Mond liegt im Erdschatten. Eine Sonnenfinsternis darfst du nie ohne Spezialbrille ansehen.",
+   "beispiele": [
+    "Sonnenfinsternis: Sonne, Mond, Erde in einer Linie",
+    "Mondfinsternis: Sonne, Erde, Mond in einer Linie, nur bei Vollmond",
+    "Bei einer Mondfinsternis wird der Mond oft rötlich."
+   ],
+   "baut_auf": [
+    "nw23"
+   ],
+   "quelle": "S. 16",
+   "suche": "Sonnenfinsternis Mondfinsternis erklärt Kinder",
+   "videos": [
+    {
+     "titel": "Was ist eine Sonnenfinsternis? – einfach erklärt | Kindervideos | SRF Kids",
+     "kanal": "SRF Kids",
+     "url": "https://www.yout-ube.com/watch?v=ftTlINr8IKs"
+    }
+   ]
+  },
+  {
+   "id": "nw25",
+   "nr": 25,
+   "titel": "Warum es Jahreszeiten gibt",
+   "bereich": "Licht, Himmel und Jahreszeiten",
+   "klasse": "5/6",
+   "satz": "Du erfährst, dass die Erdachse schräg steht und wir deshalb Sommer und Winter haben.",
+   "erklaerung": "Die Erde wandert in einem Jahr um die Sonne, und ihre Achse ist dabei schräg gestellt. Im Sommer ist unsere Hälfte der Erde zur Sonne geneigt, die Sonne steht hoch und scheint lange. Im Winter ist sie abgewandt, die Sonne steht tief, und die Tage sind kurz.",
+   "beispiele": [
+    "Sommer: Sonne hoch am Himmel, lange Tage",
+    "Winter: Sonne tief, kurze Tage",
+    "Wenn bei uns Winter ist, ist in Australien Sommer."
+   ],
+   "baut_auf": [
+    "nw22"
+   ],
+   "quelle": "S. 16",
+   "suche": "Jahreszeiten Entstehung Erdachse Kinder",
+   "videos": [
+    {
+     "titel": "Warum gibt es Jahreszeiten? | Die Maus | WDR",
+     "kanal": "Die Maus",
+     "url": "https://www.yout-ube.com/watch?v=6LOaOvujfEA"
+    },
+    {
+     "titel": "Wodurch entsteht Tag & Nacht und die Jahreszeiten? - Erdkunde einfach erklärt",
+     "kanal": "Die Merkhilfe",
+     "url": "https://www.yout-ube.com/watch?v=zQaT3U8U6x4"
+    }
+   ]
+  },
+  {
+   "id": "nw26",
+   "nr": 26,
+   "titel": "Wie Tiere den Winter überstehen",
+   "bereich": "Licht, Himmel und Jahreszeiten",
+   "klasse": "5/6",
+   "satz": "Du lernst den Unterschied zwischen Winterruhe, Winterstarre und Winterschlaf.",
+   "erklaerung": "Tiere haben verschiedene Wege, den Winter zu überstehen. Beim Winterschlaf sinkt die Körpertemperatur stark, das Tier schläft monatelang, etwa Igel oder Siebenschläfer. Bei der Winterruhe wacht das Tier ab und zu auf und frisst, etwa Eichhörnchen. In Winterstarre fallen wechselwarme Tiere wie Frösche oder Eidechsen.",
+   "beispiele": [
+    "Winterschlaf: Igel, Fledermaus, Murmeltier",
+    "Winterruhe: Eichhörnchen, Dachs, Braunbär",
+    "Winterstarre: Frosch, Eidechse, Marienkäfer"
+   ],
+   "baut_auf": [],
+   "quelle": "S. 16",
+   "suche": "Winterschlaf Winterruhe Winterstarre Unterschied",
+   "videos": [
+    {
+     "titel": "Der Winterschlaf der Tiere – einfach erklärt | Kindervideos | SRF Kids",
+     "kanal": "SRF Kids",
+     "url": "https://www.yout-ube.com/watch?v=ew5TwtU8SKY"
+    },
+    {
+     "titel": "Warum halten Tiere Winterschlaf? l WOOZLE GOOZLE",
+     "kanal": "Woozle Goozle",
+     "url": "https://www.yout-ube.com/watch?v=XNs6i_KgS1I"
+    }
+   ]
+  },
+  {
+   "id": "nw27",
+   "nr": 27,
+   "titel": "Fell, Federn und Fett gegen Kälte",
+   "bereich": "Licht, Himmel und Jahreszeiten",
+   "klasse": "5/6",
+   "satz": "Du testest mit einem Versuch, wie gut Fell, Federn und Fett warm halten.",
+   "erklaerung": "Fell, Federn und Fett halten warm, weil sie die Körperwärme nicht so schnell nach außen lassen. Im Fell und zwischen den Federn ist viel Luft eingeschlossen, und Luft leitet Wärme schlecht. Viele Tiere bekommen im Herbst ein dichteres Winterfell oder fressen sich eine Fettschicht an.",
+   "beispiele": [
+    "Versuch: Zwei Gläser mit warmem Wasser, eins in Wolle eingepackt. Welches bleibt länger warm?",
+    "Vögel plustern sich im Winter auf.",
+    "Robben haben eine dicke Speckschicht."
+   ],
+   "baut_auf": [
+    "nw26"
+   ],
+   "quelle": "S. 16",
+   "suche": "Fell Federn Fett Wärmedämmung Tiere Winter",
+   "videos": [
+    {
+     "titel": "Experiment Biologie – Isolierende Wirkung von Federn und Fell",
+     "kanal": "BioChemieParadies",
+     "url": "https://www.yout-ube.com/watch?v=LAWSjV6hf90"
+    },
+    {
+     "titel": "Was machen Tiere im Winter? | SRF Kids – Clip und klar! | Für Kinder erklärt",
+     "kanal": "SRF Kids",
+     "url": "https://www.yout-ube.com/watch?v=BSJgVEnTwQc"
+    }
+   ]
+  },
+  {
+   "id": "nw28",
+   "nr": 28,
+   "titel": "Gleichwarm und wechselwarm",
+   "bereich": "Licht, Himmel und Jahreszeiten",
+   "klasse": "5/6",
+   "satz": "Du sortierst Tiere danach, ob ihre Körpertemperatur gleich bleibt oder sich der Umgebung anpasst.",
+   "erklaerung": "Gleichwarme Tiere halten ihre Körpertemperatur immer ungefähr gleich, egal wie warm es draußen ist. Das sind Vögel und Säugetiere. Wechselwarme Tiere wie Fische, Frösche und Eidechsen haben etwa die Temperatur ihrer Umgebung. Bei Kälte werden sie langsam und starr.",
+   "beispiele": [
+    "Gleichwarm: Mensch 37 °C, Amsel, Hund",
+    "Wechselwarm: Eidechse sonnt sich, um warm zu werden.",
+    "Darum sieht man Eidechsen im Winter nicht."
+   ],
+   "baut_auf": [
+    "nw26"
+   ],
+   "quelle": "S. 16",
+   "suche": "gleichwarm wechselwarm Tiere erklärt",
+   "videos": [
+    {
+     "titel": "Ökologie | 2 | Gleichwarme & Wechselwarme Tiere | 7 - 9 Klasse",
+     "kanal": "Biologie Mit Derk",
+     "url": "https://www.yout-ube.com/watch?v=ce59D_wbAjs"
+    }
+   ]
+  },
+  {
+   "id": "nw29",
+   "nr": 29,
+   "titel": "Die fünf Wirbeltierklassen",
+   "bereich": "Licht, Himmel und Jahreszeiten",
+   "klasse": "5/6",
+   "satz": "Du ordnest Tiere den Fischen, Amphibien, Reptilien, Vögeln und Säugetieren zu.",
+   "erklaerung": "Wirbeltiere haben eine Wirbelsäule. Man teilt sie in fünf Klassen ein: Fische, Amphibien (Lurche), Reptilien (Kriechtiere), Vögel und Säugetiere. Erkennen kannst du sie an Merkmalen wie Körperbedeckung, Atmung, Körpertemperatur und Lebensraum.",
+   "beispiele": [
+    "Fische: Schuppen, Kiemen, wechselwarm",
+    "Amphibien: feuchte Haut, Larven im Wasser, Frosch",
+    "Reptilien: trockene Schuppen, Eidechse; Vögel: Federn; Säugetiere: Fell, Junge trinken Milch"
+   ],
+   "baut_auf": [
+    "nw28",
+    "nw07"
+   ],
+   "quelle": "S. 16",
+   "suche": "Wirbeltierklassen einfach erklärt",
+   "videos": [
+    {
+     "titel": "Wirbeltiere | 1 | Merkmale Wirbeltiere | 5 - 6 Klasse",
+     "kanal": "Biologie Mit Derk",
+     "url": "https://www.yout-ube.com/watch?v=nT9ubqwl7Rc"
+    }
+   ]
+  },
+  {
+   "id": "nw30",
+   "nr": 30,
+   "titel": "Jedes Tier ist ein bisschen anders",
+   "bereich": "Licht, Himmel und Jahreszeiten",
+   "klasse": "5/6",
+   "satz": "Du entdeckst, dass sich Tiere einer Art unterscheiden, zum Beispiel Hunde oder Katzen.",
+   "erklaerung": "Auch Tiere einer Art sehen nicht alle gleich aus und verhalten sich nicht gleich. Bei Haustieren sieht man das gut: Ein Dackel und ein Schäferhund sind beide Hunde. Auch zwei Katzen aus einem Wurf haben verschiedene Fellmuster und Eigenschaften.",
+   "beispiele": [
+    "Hunderassen: Chihuahua und Dogge sind dieselbe Art.",
+    "Geschwister bei Katzen: getigert, schwarz, gefleckt",
+    "Auch Menschen unterscheiden sich in Größe, Haaren und Augenfarbe."
+   ],
+   "baut_auf": [],
+   "quelle": "S. 16",
+   "suche": "Merkmale Art Unterschiede Haustiere Biologie",
+   "videos": [
+    {
+     "titel": "Warum gibt es Hunderassen? | Terra X",
+     "kanal": "Terra X History",
+     "url": "https://www.yout-ube.com/watch?v=WV2XQGTUn7Q"
+    }
+   ]
+  },
+  {
+   "id": "nw31",
+   "nr": 31,
+   "titel": "Sicher forschen",
+   "bereich": "Wasser und Teilchen",
+   "klasse": "5/6",
+   "satz": "Du kennst die Regeln, damit beim Experimentieren im NaWi-Raum nichts passiert.",
+   "erklaerung": "Im NaWi Raum gelten Regeln, damit niemand verletzt wird. Dazu gehören: nur nach Anweisung experimentieren, Schutzbrille tragen, lange Haare zusammenbinden, nichts essen oder trinken und nichts probieren. Auf Gefahrstoffen zeigen rote Warnzeichen, was gefährlich ist.",
+   "beispiele": [
+    "Schutzbrille auf, Haare zusammen",
+    "Nie an Stoffen riechen oder sie probieren",
+    "Bei einem Unfall sofort Bescheid sagen."
+   ],
+   "baut_auf": [],
+   "quelle": "S. 17",
+   "suche": "Sicherheitsregeln Chemie Schule Experimentieren",
+   "videos": [
+    {
+     "titel": "DIESE 5 Sicherheitsregeln retten dich im Fachraum! 🧪 | Erklär's mir | planet schule | ARD",
+     "kanal": "planet schule",
+     "url": "https://www.yout-ube.com/watch?v=l3nI6dGdnXs"
+    }
+   ]
+  },
+  {
+   "id": "nw32",
+   "nr": 32,
+   "titel": "Der Gasbrenner",
+   "bereich": "Wasser und Teilchen",
+   "klasse": "5/6",
+   "satz": "Du lernst, wie ein Gasbrenner aufgebaut ist und wie man ihn sicher anzündet und benutzt.",
+   "erklaerung": "Der Gasbrenner (oft ein Teclubrenner oder Bunsenbrenner) erhitzt Stoffe im Unterricht. Unten strömt Gas ein, und über die Luftzufuhr regelt man die Flamme: Die gelbe leuchtende Flamme ist kühler, die blaue rauschende Flamme ist sehr heiß. Beim Anzünden gibt es eine feste Reihenfolge.",
+   "beispiele": [
+    "Reihenfolge: Schutzbrille, Luft zu, Streichholz an, dann Gas auf.",
+    "Gelbe Flamme: leuchtend, ruhig, rußt",
+    "Blaue Flamme: rauschend, heiß, zum Erhitzen"
+   ],
+   "baut_auf": [
+    "nw31"
+   ],
+   "quelle": "S. 17",
+   "suche": "Gasbrenner Bunsenbrenner richtig anzünden",
+   "videos": [
+    {
+     "titel": "Sichere Bedienung des Gasbrenners - Bunsenbrenner und Teclubrenner sicher anzünden - Chemie Schule",
+     "kanal": "Biologie Chemie Schule",
+     "url": "https://www.yout-ube.com/watch?v=go69R6OyvMs"
+    },
+    {
+     "titel": "Gasbrenner I: experimentieren (anzünden und ausmachen)",
+     "kanal": "Lernen mit Dittrich",
+     "url": "https://www.yout-ube.com/watch?v=jPfAbtzqxlM"
+    }
+   ]
+  },
+  {
+   "id": "nw33",
+   "nr": 33,
+   "titel": "Laborgeräte kennenlernen",
+   "bereich": "Wasser und Teilchen",
+   "klasse": "5/6",
+   "satz": "Du kennst Becherglas, Reagenzglas, Erlenmeyerkolben und andere Geräte beim Namen.",
+   "erklaerung": "Im NaWi Raum hat jedes Gerät einen eigenen Namen und eine Aufgabe. Wenn du die Namen kennst, verstehst du Anleitungen schneller. Viele Geräte sind aus Glas, das Hitze aushält.",
+   "beispiele": [
+    "Becherglas: zum Mischen und Erhitzen von Flüssigkeiten",
+    "Reagenzglas: kleine Mengen, mit Reagenzglashalter",
+    "Erlenmeyerkolben, Trichter, Dreifuß mit Drahtnetz"
+   ],
+   "baut_auf": [
+    "nw31"
+   ],
+   "quelle": "S. 17",
+   "suche": "Laborgeräte Chemie Namen Schule",
+   "videos": [
+    {
+     "titel": "LABORGERÄTE KLASSE 5/6 | www.mathiaspieper.de",
+     "kanal": "Mathias Pieper",
+     "url": "https://www.yout-ube.com/watch?v=ASXgrgq8ru0"
+    }
+   ]
+  },
+  {
+   "id": "nw34",
+   "nr": 34,
+   "titel": "Gegenstand und Stoff",
+   "bereich": "Wasser und Teilchen",
+   "klasse": "5/6",
+   "satz": "Du unterscheidest einen Gegenstand, etwa einen Löffel, von dem Stoff, aus dem er ist, etwa Metall.",
+   "erklaerung": "Ein Gegenstand (in der Chemie sagt man auch Körper) hat eine Form, zum Beispiel ein Löffel, ein Nagel oder eine Flasche. Der Stoff ist das Material, aus dem er besteht, etwa Holz, Eisen oder Glas. Derselbe Gegenstand kann aus verschiedenen Stoffen sein, und aus einem Stoff kann man viele Gegenstände machen.",
+   "beispiele": [
+    "Löffel aus Holz, Metall oder Plastik",
+    "Aus Glas: Flasche, Fenster, Brille",
+    "Stoffe erkennt man an Eigenschaften wie Farbe, Härte oder Geruch."
+   ],
+   "baut_auf": [],
+   "quelle": "S. 17",
+   "suche": "Körper und Stoff Unterschied Chemie",
+   "videos": [
+    {
+     "titel": "Der Unterschied zwischen Körpern und Stoffen",
+     "kanal": "Mathias Pieper",
+     "url": "https://www.yout-ube.com/watch?v=THj6Z58WV_Y"
+    }
+   ]
+  },
+  {
+   "id": "nw35",
+   "nr": 35,
+   "titel": "Alles besteht aus Teilchen",
+   "bereich": "Wasser und Teilchen",
+   "klasse": "5/6",
+   "satz": "Du lernst das Teilchenmodell: Alle Stoffe bestehen aus winzigen Teilchen, die sich bewegen.",
+   "erklaerung": "Alle Stoffe bestehen aus winzig kleinen Teilchen, die man nicht einmal mit dem Mikroskop sehen kann. Jeder Stoff hat seine eigene Sorte von Teilchen. Die Teilchen sind ständig in Bewegung, und je wärmer es ist, desto schneller bewegen sie sich. Dazwischen ist leerer Raum.",
+   "beispiele": [
+    "Ein Tropfen Tinte in Wasser verteilt sich von allein.",
+    "Parfum riecht man bald im ganzen Raum.",
+    "Wasserteilchen sind alle gleich, Zuckerteilchen sind anders."
+   ],
+   "baut_auf": [
+    "nw34",
+    "nw08"
+   ],
+   "quelle": "S. 17",
+   "suche": "Teilchenmodell einfach erklärt",
+   "videos": [
+    {
+     "titel": "Teilchenmodell I Atome I Moleküle I musstewissen Chemie",
+     "kanal": "musstewissen Chemie",
+     "url": "https://www.yout-ube.com/watch?v=ej7-EbeXpmI"
+    },
+    {
+     "titel": "Was ist das Teilchenmodell? -  einfach und anschaulich erklärt",
+     "kanal": "physikdigital • de",
+     "url": "https://www.yout-ube.com/watch?v=cLP_n3kfTlg"
+    }
+   ]
+  },
+  {
+   "id": "nw36",
+   "nr": 36,
+   "titel": "Fest, flüssig, gasförmig",
+   "bereich": "Wasser und Teilchen",
+   "klasse": "5/6",
+   "satz": "Du erklärst mit dem Teilchenmodell, warum Eis, Wasser und Wasserdampf so verschieden sind.",
+   "erklaerung": "Stoffe können fest, flüssig oder gasförmig sein, das nennt man Aggregatzustände. Im festen Stoff sitzen die Teilchen eng und fest an ihrem Platz. In der Flüssigkeit sind sie nah beieinander, aber beweglich. Im Gas fliegen sie weit auseinander frei herum.",
+   "beispiele": [
+    "Eis: fest, hat eine eigene Form",
+    "Wasser: flüssig, passt sich dem Gefäß an",
+    "Wasserdampf: gasförmig, verteilt sich im ganzen Raum"
+   ],
+   "baut_auf": [
+    "nw35"
+   ],
+   "quelle": "S. 17",
+   "suche": "Aggregatzustände Teilchenmodell erklärt",
+   "videos": [
+    {
+     "titel": "Aggregatzustände | fest - flüssig - gasförmig | Physik - Chemie | Lehrerschmidt",
+     "kanal": "Lehrerschmidt",
+     "url": "https://www.yout-ube.com/watch?v=8W-ZHz80g1U"
+    },
+    {
+     "titel": "Aggregatzustände I fest I flüssig I gasförmig I musstewissen Chemie",
+     "kanal": "musstewissen Chemie",
+     "url": "https://www.yout-ube.com/watch?v=kEFx1X5F2fU"
+    }
+   ]
+  },
+  {
+   "id": "nw37",
+   "nr": 37,
+   "titel": "Schmelzen, verdampfen, kondensieren",
+   "bereich": "Wasser und Teilchen",
+   "klasse": "5/6",
+   "satz": "Du kennst die Namen für die Übergänge zwischen den Zuständen und findest Beispiele bei dir zu Hause.",
+   "erklaerung": "Wenn ein Stoff seinen Zustand ändert, hat jeder Übergang einen Namen. Schmelzen heißt fest zu flüssig, erstarren flüssig zu fest. Verdampfen heißt flüssig zu gasförmig, kondensieren gasförmig zu flüssig. Manche Stoffe gehen sogar direkt von fest zu gasförmig, das heißt sublimieren.",
+   "beispiele": [
+    "Schmelzen: Schokolade in der Hand",
+    "Kondensieren: Der Badezimmerspiegel beschlägt.",
+    "Verdunsten: Pfützen trocknen in der Sonne."
+   ],
+   "baut_auf": [
+    "nw36"
+   ],
+   "quelle": "S. 17",
+   "suche": "Aggregatzustandsänderungen schmelzen verdampfen kondensieren",
+   "videos": [
+    {
+     "titel": "Wasser-Experiment: Kondensieren und verdunsten | Berliner Wasserbetriebe",
+     "kanal": "Berliner Wasserbetriebe",
+     "url": "https://www.yout-ube.com/watch?v=WvjRF_fgsOQ"
+    },
+    {
+     "titel": "Aggregatzustände | fest - flüssig - gasförmig | Physik - Chemie | Lehrerschmidt",
+     "kanal": "Lehrerschmidt",
+     "url": "https://www.yout-ube.com/watch?v=8W-ZHz80g1U"
+    }
+   ]
+  },
+  {
+   "id": "nw38",
+   "nr": 38,
+   "titel": "Warum ein Thermometer funktioniert",
+   "bereich": "Wasser und Teilchen",
+   "klasse": "5/6",
+   "satz": "Du entdeckst, dass sich Flüssigkeiten ausdehnen, wenn sie warm werden, und baust daraus ein Thermometer.",
+   "erklaerung": "Flüssigkeiten dehnen sich aus, wenn sie warm werden, und ziehen sich zusammen, wenn sie abkühlen. Im Thermometer steigt deshalb die Flüssigkeit in einem dünnen Röhrchen, wenn es wärmer wird. Mit einer Skala kann man dann die Temperatur ablesen.",
+   "beispiele": [
+    "Selbstbau: Flasche mit gefärbtem Wasser, Strohhalm durch den Deckel, in warmes Wasser stellen",
+    "Wasser siedet bei 100 °C und gefriert bei 0 °C, daraus entstand die Celsius-Skala.",
+    "Volle Flaschen im Gefrierfach können platzen, weil sich gefrierendes Wasser ausdehnt."
+   ],
+   "baut_auf": [
+    "nw35",
+    "nw05"
+   ],
+   "quelle": "S. 17",
+   "suche": "Thermometer selber bauen Ausdehnung Flüssigkeit",
+   "videos": [
+    {
+     "titel": "Thermometer | Sachunterricht | Physik | Wärmelehre | Lehrerschmidt",
+     "kanal": "Lehrerschmidt",
+     "url": "https://www.yout-ube.com/watch?v=EIjf3xYjXRs"
+    },
+    {
+     "titel": "Was ist ein Grad Celsius? Thermometer verstehen! | Physik | planet schule | ARD",
+     "kanal": "planet schule",
+     "url": "https://www.yout-ube.com/watch?v=gKcn9tsCeuw"
+    }
+   ]
+  },
+  {
+   "id": "nw39",
+   "nr": 39,
+   "titel": "Schmelz- und Siedetemperatur",
+   "bereich": "Wasser und Teilchen",
+   "klasse": "5/6",
+   "satz": "Du misst, bei welcher Temperatur ein Stoff schmilzt oder siedet, und erfährst, dass das jeden Stoff kennzeichnet.",
+   "erklaerung": "Jeder reine Stoff schmilzt und siedet bei einer bestimmten Temperatur. Wasser schmilzt bei 0 °C und siedet bei 100 °C. Daran kann man Stoffe erkennen, wie an einem Steckbrief. Während ein Stoff schmilzt oder siedet, bleibt die Temperatur gleich.",
+   "beispiele": [
+    "Wasser: Schmelztemperatur 0 °C, Siedetemperatur 100 °C",
+    "Kerzenwachs schmilzt schon bei etwa 60 °C.",
+    "Eisen schmilzt erst bei über 1500 °C."
+   ],
+   "baut_auf": [
+    "nw37",
+    "nw38"
+   ],
+   "quelle": "S. 17",
+   "suche": "Schmelztemperatur Siedetemperatur Stoffeigenschaft",
+   "videos": []
+  },
+  {
+   "id": "nw40",
+   "nr": 40,
+   "titel": "Ist eine Pflanze lebendig?",
+   "bereich": "Pflanzen",
+   "klasse": "5/6",
+   "satz": "Du prüfst anhand der Kennzeichen des Lebendigen, warum Pflanzen Lebewesen sind.",
+   "erklaerung": "Lebewesen erkennt man an bestimmten Kennzeichen: Sie wachsen, brauchen Nahrung und Energie, scheiden Stoffe aus, reagieren auf ihre Umwelt, bewegen sich und pflanzen sich fort. Pflanzen tun all das, nur langsamer und oft unauffälliger als Tiere.",
+   "beispiele": [
+    "Wachstum: aus einem Samen wird ein Baum",
+    "Reaktion: Sonnenblumen drehen sich zum Licht",
+    "Bewegung: Blüten öffnen sich morgens und schließen sich abends"
+   ],
+   "baut_auf": [],
+   "quelle": "S. 18",
+   "suche": "Kennzeichen des Lebendigen Pflanzen",
+   "videos": [
+    {
+     "titel": "Was ist Biologie? Kennzeichen des Lebendigen",
+     "kanal": "TeacherToby",
+     "url": "https://www.yout-ube.com/watch?v=skJyWf0KYtk"
+    }
+   ]
+  },
+  {
+   "id": "nw41",
+   "nr": 41,
+   "titel": "Wurzel, Spross, Blatt und Blüte",
+   "bereich": "Pflanzen",
+   "klasse": "5/6",
+   "satz": "Du lernst die Teile einer Pflanze kennen und wofür jeder Teil gut ist.",
+   "erklaerung": "Eine Blütenpflanze hat vier Grundorgane. Die Wurzel hält die Pflanze fest und nimmt Wasser und Mineralsalze auf. Der Spross, also Stängel oder Stamm, trägt die Pflanze und leitet Wasser. Die Blätter stellen Nährstoffe her, und die Blüte sorgt für Samen.",
+   "beispiele": [
+    "Wurzel: Möhre ist eine dicke Wurzel.",
+    "Spross: Stängel der Tulpe, Stamm des Baums",
+    "Blatt und Blüte: Salat essen wir als Blatt, Brokkoli als Blüten."
+   ],
+   "baut_auf": [
+    "nw40"
+   ],
+   "quelle": "S. 18",
+   "suche": "Aufbau einer Pflanze Wurzel Spross Blatt Blüte",
+   "videos": [
+    {
+     "titel": "Grundorgane der Blütenpflanzen | TorFuchs",
+     "kanal": "TorFuchs",
+     "url": "https://www.yout-ube.com/watch?v=ZLUr03P8APc"
+    }
+   ]
+  },
+  {
+   "id": "nw42",
+   "nr": 42,
+   "titel": "Was Pflanzen zum Leben brauchen",
+   "bereich": "Pflanzen",
+   "klasse": "5/6",
+   "satz": "Du lässt Kresse keimen und findest heraus, was Pflanzen brauchen: Licht, Luft, Wasser und Mineralsalze.",
+   "erklaerung": "Pflanzen brauchen Licht, Luft, Wasser und Mineralsalze aus dem Boden, um zu wachsen. Mit Kresse kannst du das gut prüfen, denn sie keimt schon nach ein bis zwei Tagen. Wer Pflanzen pflegt, achtet auf genug Licht und gießt weder zu viel noch zu wenig.",
+   "beispiele": [
+    "Kresse auf Watte: eine Schale hell, eine im dunklen Schrank",
+    "Kresse ohne Wasser keimt nicht.",
+    "Zimmerpflanzen: Erde mit dem Finger prüfen, bevor du gießt."
+   ],
+   "baut_auf": [
+    "nw41"
+   ],
+   "quelle": "S. 18",
+   "suche": "Kresse Keimversuch was brauchen Pflanzen",
+   "videos": [
+    {
+     "titel": "Was braucht Kresse zum Keimen?",
+     "kanal": "Josephinum Natur pur",
+     "url": "https://www.yout-ube.com/watch?v=oJB-GC4CKIY"
+    },
+    {
+     "titel": "🌱 Wie ernähren sich Pflanzen? Fotosynthese erklärt! | Frage trifft Antwort | planet schule | ARD",
+     "kanal": "planet schule",
+     "url": "https://www.yout-ube.com/watch?v=B8kUj7TaXfI"
+    }
+   ]
+  },
+  {
+   "id": "nw43",
+   "nr": 43,
+   "titel": "Van Helmont und sein Weidenbaum",
+   "bereich": "Pflanzen",
+   "klasse": "5/6",
+   "satz": "Du erfährst, wie ein Forscher vor fast 400 Jahren herausfinden wollte, woher eine Pflanze ihr Gewicht hat.",
+   "erklaerung": "Vor fast 400 Jahren wollte Jan Baptist van Helmont wissen, woher ein Baum sein Gewicht hat. Er pflanzte eine kleine Weide in einen Topf mit gewogener Erde und goss sie nur mit Wasser. Nach fünf Jahren war die Weide viel schwerer, die Erde aber kaum leichter. Er schloss daraus, dass die Pflanze aus Wasser wächst. Heute weiß man: Auch Luft spielt eine große Rolle.",
+   "beispiele": [
+    "Weide am Anfang: etwa 2,3 kg. Nach fünf Jahren: etwa 77 kg.",
+    "Die Erde wog fast genauso viel wie vorher.",
+    "Was van Helmont nicht wusste: Pflanzen nehmen Kohlenstoffdioxid aus der Luft auf."
+   ],
+   "baut_auf": [
+    "nw42"
+   ],
+   "quelle": "S. 18",
+   "suche": "van Helmont Weidenversuch",
+   "videos": [
+    {
+     "titel": "Das Experiment von Helmont",
+     "kanal": "Frau Zimtstern",
+     "url": "https://www.yout-ube.com/watch?v=8Kz6A918Z6M"
+    }
+   ]
+  },
+  {
+   "id": "nw44",
+   "nr": 44,
+   "titel": "Eine Blüte genau ansehen",
+   "bereich": "Pflanzen",
+   "klasse": "5/6",
+   "satz": "Du zerlegst eine Blüte, benennst ihre Teile und legst sie geordnet auf.",
+   "erklaerung": "Eine typische Blüte hat Kelchblätter, Kronblätter, Staubblätter und einen Stempel in der Mitte. Wenn du eine Blüte vorsichtig von außen nach innen zerlegst und die Teile geordnet auflegst, siehst du den Aufbau genau. Mit einer Lupe erkennst du noch mehr.",
+   "beispiele": [
+    "Außen grün: Kelchblätter",
+    "Bunt: Kronblätter, sie locken Insekten an",
+    "Staubblätter mit Pollen, in der Mitte der Stempel mit Fruchtknoten"
+   ],
+   "baut_auf": [
+    "nw41"
+   ],
+   "quelle": "S. 18",
+   "suche": "Aufbau einer Blüte Kirschblüte Legebild",
+   "videos": []
+  },
+  {
+   "id": "nw45",
+   "nr": 45,
+   "titel": "Bestäubung und Befruchtung",
+   "bereich": "Pflanzen",
+   "klasse": "5/6",
+   "satz": "Du verstehst, wie aus einer Blüte eine Frucht mit Samen wird.",
+   "erklaerung": "Bei der Bestäubung kommt Pollen von den Staubblättern auf die Narbe des Stempels, meist durch Insekten oder den Wind. Danach wächst aus dem Pollenkorn ein Schlauch bis zur Eizelle, und es kommt zur Befruchtung. Aus dem Fruchtknoten wird dann die Frucht mit den Samen.",
+   "beispiele": [
+    "Kirschblüte wird bestäubt, später wächst eine Kirsche.",
+    "Gräser und Haselnuss werden vom Wind bestäubt.",
+    "Der Kern der Kirsche ist der Samen."
+   ],
+   "baut_auf": [
+    "nw44"
+   ],
+   "quelle": "S. 18",
+   "suche": "Bestäubung und Befruchtung Blütenpflanzen",
+   "videos": [
+    {
+     "titel": "Wie werden Pflanzen bestäubt? | SRF Kids – Clip und klar! | Für Kinder erklärt",
+     "kanal": "SRF Kids",
+     "url": "https://www.yout-ube.com/watch?v=Bx3kXQlOHBY"
+    },
+    {
+     "titel": "Pflanzen | 4 | Bestäubung & Befruchtung | 5 & 6 Klasse",
+     "kanal": "Biologie Mit Derk",
+     "url": "https://www.yout-ube.com/watch?v=_sxoseNgvIw"
+    }
+   ]
+  },
+  {
+   "id": "nw46",
+   "nr": 46,
+   "titel": "Blüten und Insekten passen zusammen",
+   "bereich": "Pflanzen",
+   "klasse": "5/6",
+   "satz": "Du entdeckst, wie Blüten und ihre Bestäuber wie Bienen oder Hummeln zueinander passen.",
+   "erklaerung": "Blüten und Insekten passen oft genau zueinander. Die Blüte lockt mit Farbe, Duft und Nektar, das Insekt trägt dafür Pollen zur nächsten Blüte. Manche Blüten sind so geformt, dass nur bestimmte Tiere an den Nektar kommen, etwa Hummeln oder Schmetterlinge mit langem Rüssel.",
+   "beispiele": [
+    "Bienen mögen blaue und gelbe Blüten.",
+    "Taubnessel: Nur kräftige Hummeln öffnen die Blüte.",
+    "Ohne Bestäuber gäbe es viel weniger Obst."
+   ],
+   "baut_auf": [
+    "nw45"
+   ],
+   "quelle": "S. 18",
+   "suche": "Blüten und Insekten Bestäuber Anpassung",
+   "videos": [
+    {
+     "titel": "Deshalb sind Insekten wichtig! I GANZE FOLGE",
+     "kanal": "Woozle Goozle",
+     "url": "https://www.yout-ube.com/watch?v=gGVEwWXP_-Q"
+    },
+    {
+     "titel": "Zu Besuch bei Blüten: Bedeutung und Bedrohung von Bestäubern | Wissen & Umwelt",
+     "kanal": "DW Deutsch",
+     "url": "https://www.yout-ube.com/watch?v=xpkcwVkelrY"
+    }
+   ]
+  },
+  {
+   "id": "nw47",
+   "nr": 47,
+   "titel": "Pflanzen bestimmen",
+   "bereich": "Pflanzen",
+   "klasse": "5/6",
+   "satz": "Du ordnest Pflanzen aus deiner Umgebung nach einfachen Merkmalen wie Blattform oder Blüte.",
+   "erklaerung": "Pflanzen kann man nach Merkmalen bestimmen, zum Beispiel nach Blattform, Blattrand, Blütenfarbe oder Anzahl der Blütenblätter. Ein Bestimmungsschlüssel führt dich mit Fragen Schritt für Schritt zum Namen. Auch Apps helfen, aber sie liegen nicht immer richtig.",
+   "beispiele": [
+    "Blattformen: rund, herzförmig, nadelförmig, gefiedert",
+    "Blattrand: glatt, gesägt, gelappt",
+    "Löwenzahn, Gänseblümchen und Klee wachsen fast überall."
+   ],
+   "baut_auf": [
+    "nw41",
+    "nw07"
+   ],
+   "quelle": "S. 18",
+   "suche": "Pflanzen bestimmen Bestimmungsschlüssel Kinder",
+   "videos": [
+    {
+     "titel": "Welche Pflanze ist das? - Pflanzen mit dem Smartphone bestimmen - Biologie Schule",
+     "kanal": "Biologie Chemie Schule",
+     "url": "https://www.yout-ube.com/watch?v=QtVa-v1-6RQ"
+    }
+   ]
+  },
+  {
+   "id": "nw48",
+   "nr": 48,
+   "titel": "Mit Lupe und Mikroskop",
+   "bereich": "Pflanzen",
+   "klasse": "5/6",
+   "satz": "Du lernst, wie man mit Lupe und Mikroskop richtig umgeht.",
+   "erklaerung": "Eine Lupe vergrößert etwa 2 bis 10 Mal, ein Mikroskop 40 bis 400 Mal oder mehr. Beim Mikroskop legst du ein dünnes Präparat auf den Objektträger, beginnst mit der kleinsten Vergrößerung und stellst dann mit dem Rad scharf. Das Objektiv darf das Präparat nie berühren.",
+   "beispiele": [
+    "Lupe: Insekten, Blüten, Fingerabdrücke",
+    "Mikroskop: Zwiebelhaut, Blätter, Haare",
+    "Vergrößerung = Okular mal Objektiv, zum Beispiel 10 mal 10 = 100"
+   ],
+   "baut_auf": [],
+   "quelle": "S. 18",
+   "suche": "Mikroskop richtig benutzen Schule",
+   "videos": [
+    {
+     "titel": "Das Mikroskopieren - eine Anleitung",
+     "kanal": "Wilhelm-Gymnasium Braunschweig",
+     "url": "https://www.yout-ube.com/watch?v=7B8nlyhKuKA"
+    },
+    {
+     "titel": "MIKROSKOPIEREN FÜR ANFÄNGER FOLGE 1 | Ein Fertigpräparat mikroskopieren",
+     "kanal": "BIOlogisch!",
+     "url": "https://www.yout-ube.com/watch?v=LkMmGozdAFg"
+    }
+   ]
+  },
+  {
+   "id": "nw49",
+   "nr": 49,
+   "titel": "Pflanzen bestehen aus Zellen",
+   "bereich": "Pflanzen",
+   "klasse": "5/6",
+   "satz": "Du siehst unter dem Mikroskop, dass ein Blatt aus vielen kleinen Zellen aufgebaut ist.",
+   "erklaerung": "Pflanzen bestehen aus vielen winzigen Bausteinen, den Zellen. Unter dem Mikroskop sehen Pflanzenzellen oft aus wie kleine Ziegelsteine. Sie haben eine feste Zellwand, und in grünen Teilen liegen grüne Körnchen, die Chloroplasten.",
+   "beispiele": [
+    "Zwiebelhaut unter dem Mikroskop: Zellen wie eine Mauer",
+    "Wasserpestblatt: grüne Chloroplasten",
+    "Jede Zelle hat einen Zellkern."
+   ],
+   "baut_auf": [
+    "nw48"
+   ],
+   "quelle": "S. 18",
+   "suche": "Pflanzenzelle Mikroskop Zwiebelhaut",
+   "videos": [
+    {
+     "titel": "Mikroskopieren einer Zwiebelhaut",
+     "kanal": "Gymi Neubi",
+     "url": "https://www.yout-ube.com/watch?v=SBCZEIk72Bc"
+    }
+   ]
+  },
+  {
+   "id": "nw50",
+   "nr": 50,
+   "titel": "Zucker löst sich in Wasser",
+   "bereich": "Pflanzen",
+   "klasse": "5/6",
+   "satz": "Du erklärst mit dem Teilchenmodell, wo der Zucker bleibt, wenn er sich auflöst, und dass nicht jeder Stoff gleich gut löslich ist.",
+   "erklaerung": "Wenn sich Zucker in Wasser löst, verschwindet er nicht. Die Zuckerteilchen verteilen sich zwischen den Wasserteilchen, so fein, dass man sie nicht mehr sieht. Wasser ist das Lösemittel, Zucker der gelöste Stoff. Nicht jeder Stoff löst sich gleich gut, Sand zum Beispiel gar nicht.",
+   "beispiele": [
+    "Gelöster Zucker: Das Wasser schmeckt süß.",
+    "Salz löst sich gut, Mehl und Sand nicht.",
+    "In warmem Wasser löst sich Zucker schneller und mehr."
+   ],
+   "baut_auf": [
+    "nw35"
+   ],
+   "quelle": "S. 18",
+   "suche": "Lösen Zucker Wasser Teilchenmodell",
+   "videos": [
+    {
+     "titel": "Löslichkeit von Stoffen I musstewissen Chemie",
+     "kanal": "musstewissen Chemie",
+     "url": "https://www.yout-ube.com/watch?v=EvqDernIcJA"
+    }
+   ]
+  },
+  {
+   "id": "nw51",
+   "nr": 51,
+   "titel": "Reinstoff oder Gemisch",
+   "bereich": "Wasser und Luft zum Leben",
+   "klasse": "5/6",
+   "satz": "Du unterscheidest reine Stoffe wie destilliertes Wasser von Gemischen wie Saft oder Müsli.",
+   "erklaerung": "Ein Reinstoff besteht nur aus einer Sorte von Teilchen, zum Beispiel destilliertes Wasser, Zucker oder Eisen. Ein Gemisch besteht aus mehreren Stoffen, also aus verschiedenen Teilchen. Die meisten Dinge um uns herum sind Gemische.",
+   "beispiele": [
+    "Reinstoff: destilliertes Wasser, Kochsalz, Gold",
+    "Gemisch: Saft, Luft, Meerwasser, Müsli",
+    "Leitungswasser ist ein Gemisch, weil Salze darin gelöst sind."
+   ],
+   "baut_auf": [
+    "nw35"
+   ],
+   "quelle": "S. 19",
+   "suche": "Reinstoff und Gemisch Unterschied",
+   "videos": [
+    {
+     "titel": "Stoffgemische und Reinstoffe I musstewissen Chemie",
+     "kanal": "musstewissen Chemie",
+     "url": "https://www.yout-ube.com/watch?v=FEK9tTWGiSk"
+    },
+    {
+     "titel": "Stoffe & Teilchen - Reinstoff, Stoffgemisch, Aggregatzustand - Grundbegriffe einfach erklärt - AnoCh",
+     "kanal": "Die Merkhilfe",
+     "url": "https://www.yout-ube.com/watch?v=nrIgIgtW2Os"
+    }
+   ]
+  },
+  {
+   "id": "nw52",
+   "nr": 52,
+   "titel": "Stoffe an ihren Eigenschaften erkennen",
+   "bereich": "Wasser und Luft zum Leben",
+   "klasse": "5/6",
+   "satz": "Du ordnest Stoffe nach Eigenschaften wie Löslichkeit, Schmelztemperatur oder Magnetismus.",
+   "erklaerung": "Jeder Stoff hat Eigenschaften, an denen man ihn erkennen kann. Dazu gehören Farbe, Geruch, Härte, Löslichkeit in Wasser, Schmelz- und Siedetemperatur, ob er magnetisch ist und ob er Strom leitet. Stoffe mit gemeinsamen Eigenschaften kann man in Gruppen ordnen, zum Beispiel Metalle.",
+   "beispiele": [
+    "Metalle: glänzen, leiten Strom und Wärme",
+    "Salz und Zucker sehen ähnlich aus, schmecken aber verschieden.",
+    "Zucker löst sich in Wasser, Sand nicht."
+   ],
+   "baut_auf": [
+    "nw39",
+    "nw50"
+   ],
+   "quelle": "S. 19",
+   "suche": "Stoffeigenschaften Stoffe erkennen Chemie",
+   "videos": [
+    {
+     "titel": "Stoffe und ihre Eigenschaften | Erstes Lernjahr -  CHEMIE geCHECKt! 01",
+     "kanal": "CHEMIE geCHECKt!",
+     "url": "https://www.yout-ube.com/watch?v=YEAQTjqZK-o"
+    }
+   ]
+  },
+  {
+   "id": "nw53",
+   "nr": 53,
+   "titel": "Lösung, Emulsion, Suspension",
+   "bereich": "Wasser und Luft zum Leben",
+   "klasse": "5/6",
+   "satz": "Du lernst verschiedene Gemische kennen, zum Beispiel Salzwasser, Milch und Schlammwasser.",
+   "erklaerung": "Gemische haben verschiedene Namen. In einer Lösung sind die Stoffe so fein gemischt, dass man nichts mehr unterscheidet, wie bei Salzwasser. In einer Suspension schwimmen feste Teilchen in einer Flüssigkeit, wie bei Schlammwasser. In einer Emulsion sind zwei Flüssigkeiten in winzigen Tröpfchen gemischt, wie bei Milch.",
+   "beispiele": [
+    "Lösung: Salzwasser, Tee, Zuckerwasser",
+    "Suspension: Orangensaft mit Fruchtfleisch, Schlammwasser",
+    "Emulsion: Milch, Mayonnaise, Öl und Wasser geschüttelt"
+   ],
+   "baut_auf": [
+    "nw51",
+    "nw50"
+   ],
+   "quelle": "S. 19",
+   "suche": "Lösung Emulsion Suspension Gemische erklärt",
+   "videos": [
+    {
+     "titel": "Emulsion Suspension Lösung",
+     "kanal": "Mathias Pieper",
+     "url": "https://www.yout-ube.com/watch?v=qgCSFVWwDCw"
+    }
+   ]
+  },
+  {
+   "id": "nw54",
+   "nr": 54,
+   "titel": "Filtrieren: Sand und Wasser trennen",
+   "bereich": "Wasser und Luft zum Leben",
+   "klasse": "5/6",
+   "satz": "Du trennst ein Gemisch mit einem Filter und erklärst, warum das klappt.",
+   "erklaerung": "Beim Filtrieren hält ein Filter feste Teilchen zurück, die größer sind als seine winzigen Löcher. Wasser und darin gelöste Stoffe laufen hindurch. So trennt man zum Beispiel Sand von Wasser. Gelöstes Salz bekommt man so aber nicht heraus.",
+   "beispiele": [
+    "Kaffeefilter: Kaffeepulver bleibt im Filter.",
+    "Sandwasser durch Filterpapier gießen: Klares Wasser tropft heraus.",
+    "Was im Filter bleibt, heißt Rückstand, was durchläuft, heißt Filtrat."
+   ],
+   "baut_auf": [
+    "nw53"
+   ],
+   "quelle": "S. 19",
+   "suche": "Filtrieren Stofftrennung einfach erklärt",
+   "videos": [
+    {
+     "titel": "Filtrieren – Stofftrennung am Beispiel von Wasser I",
+     "kanal": "Schul-Experimentalchemie - Dr. Hagemann",
+     "url": "https://www.yout-ube.com/watch?v=PbHKpgduFvA"
+    },
+    {
+     "titel": "Trennverfahren, Destillation, Extrahieren, Filtrieren,... | Erstes Lernjahr -  CHEMIE geCHECKt! 13",
+     "kanal": "CHEMIE geCHECKt!",
+     "url": "https://www.yout-ube.com/watch?v=iJoo3XzSij8"
+    }
+   ]
+  },
+  {
+   "id": "nw55",
+   "nr": 55,
+   "titel": "Salz zurückgewinnen: Eindampfen und Destillieren",
+   "bereich": "Wasser und Luft zum Leben",
+   "klasse": "5/6",
+   "satz": "Du planst einen Versuch, mit dem du aus Salzwasser wieder Salz und sauberes Wasser bekommst.",
+   "erklaerung": "Salz aus Salzwasser bekommt man durch Eindampfen: Das Wasser verdampft, das Salz bleibt zurück. Will man auch das Wasser wiederhaben, destilliert man: Der Wasserdampf wird aufgefangen und kühlt ab, bis er wieder flüssig wird. Das funktioniert, weil Wasser und Salz ganz verschiedene Siedetemperaturen haben.",
+   "beispiele": [
+    "Meersalz wird in flachen Becken in der Sonne gewonnen.",
+    "Destillieren: erhitzen, verdampfen, kühlen, auffangen",
+    "Ein Topfdeckel über kochendem Salzwasser: Die Tropfen am Deckel schmecken nicht salzig."
+   ],
+   "baut_auf": [
+    "nw54",
+    "nw37"
+   ],
+   "quelle": "S. 19",
+   "suche": "Eindampfen Destillation Salzwasser trennen",
+   "videos": [
+    {
+     "titel": "Trennverfahren: Destillation- vom Salzwasser zum Süßwasser",
+     "kanal": "Anke Rothgang",
+     "url": "https://www.yout-ube.com/watch?v=PvX250PRaM0"
+    },
+    {
+     "titel": "Trennverfahren: Salzwasser erhitzen",
+     "kanal": "Anke Rothgang",
+     "url": "https://www.yout-ube.com/watch?v=yKxRLxO1uJA"
+    }
+   ]
+  },
+  {
+   "id": "nw56",
+   "nr": 56,
+   "titel": "Farben trennen: Chromatografie",
+   "bereich": "Wasser und Luft zum Leben",
+   "klasse": "5/6",
+   "satz": "Du trennst die Farben in einem Filzstift mit Wasser und Filterpapier.",
+   "erklaerung": "Viele Filzstiftfarben sind Gemische aus mehreren Farbstoffen. Bei der Chromatografie wandert Wasser im Filterpapier nach oben und nimmt die Farbstoffe mit, aber unterschiedlich weit. So trennen sie sich, und du siehst, welche Farben in einem Stift stecken.",
+   "beispiele": [
+    "Punkt aus schwarzem Filzstift auf Filterpapier, unteres Ende ins Wasser",
+    "Schwarz wird oft zu Blau, Lila und Gelb.",
+    "Funktioniert mit wasserlöslichen Stiften, nicht mit wasserfesten."
+   ],
+   "baut_auf": [
+    "nw53"
+   ],
+   "quelle": "S. 19",
+   "suche": "Chromatografie Filzstift Experiment",
+   "videos": [
+    {
+     "titel": "Schwarz ist nicht schwarz – Chromatographie Experiment",
+     "kanal": "Entdecker-Lab Experimente zum Nachmachen",
+     "url": "https://www.yout-ube.com/watch?v=9UAfWGc1ttw"
+    },
+    {
+     "titel": "Filzstift-Chromatographie",
+     "kanal": "Herr Grandrath",
+     "url": "https://www.yout-ube.com/watch?v=hm_M1cWJlmU"
+    }
+   ]
+  },
+  {
+   "id": "nw57",
+   "nr": 57,
+   "titel": "Kläranlage und Trinkwasser",
+   "bereich": "Wasser und Luft zum Leben",
+   "klasse": "5/6",
+   "satz": "Du erfährst, wie schmutziges Wasser in der Kläranlage gereinigt wird, und überlegst, wie man Trinkwasser sauber bekommt.",
+   "erklaerung": "In der Kläranlage wird Abwasser in mehreren Stufen gereinigt. Zuerst halten Rechen groben Dreck zurück, dann setzen sich Sand und Schlamm ab. Danach fressen Bakterien den gelösten Schmutz. Trinkwasser wird bei uns meist aus Grundwasser gewonnen und durch Sand und Kies gefiltert.",
+   "beispiele": [
+    "Rechen: Papier, Stoffreste, Plastik",
+    "Sandfang und Absetzbecken: Sand und Schlamm sinken nach unten.",
+    "Biologische Stufe: Bakterien reinigen das Wasser."
+   ],
+   "baut_auf": [
+    "nw54"
+   ],
+   "quelle": "S. 19",
+   "suche": "Kläranlage einfach erklärt Kinder",
+   "videos": [
+    {
+     "titel": "Leon auf der Spur des Abwassers - Wie funktioniert eine Kläranlage?",
+     "kanal": "Ruhrverband",
+     "url": "https://www.yout-ube.com/watch?v=TOl-4d2XzUc"
+    },
+    {
+     "titel": "Wie funktioniert eine Kläranlage?",
+     "kanal": "Naturschwaermer_lbv",
+     "url": "https://www.yout-ube.com/watch?v=COplhX_xD7Y"
+    }
+   ]
+  },
+  {
+   "id": "nw58",
+   "nr": 58,
+   "titel": "Woraus Luft besteht",
+   "bereich": "Wasser und Luft zum Leben",
+   "klasse": "5/6",
+   "satz": "Du lernst, dass Luft ein Gemisch aus Stickstoff, Sauerstoff und ein wenig Kohlenstoffdioxid ist und was Rauch und Nebel sind.",
+   "erklaerung": "Luft ist ein Gemisch aus Gasen. Etwa vier Fünftel sind Stickstoff, etwa ein Fünftel ist Sauerstoff, und nur ein winziger Teil ist Kohlenstoffdioxid. Rauch ist Luft mit festen Teilchen darin, Nebel ist Luft mit winzigen Wassertröpfchen.",
+   "beispiele": [
+    "Stickstoff: 78 von 100 Teilen",
+    "Sauerstoff: 21 von 100 Teilen, den brauchen wir zum Atmen",
+    "Nebel: Wassertröpfchen schweben in der Luft."
+   ],
+   "baut_auf": [
+    "nw53"
+   ],
+   "quelle": "S. 19",
+   "suche": "Zusammensetzung der Luft Kinder",
+   "videos": [
+    {
+     "titel": "Was ist Luft? l WOOZLE GOOZLE",
+     "kanal": "Woozle Goozle",
+     "url": "https://www.yout-ube.com/watch?v=DIGvuZBrOb4"
+    },
+    {
+     "titel": "Zusammensetzung der Luft I musstewissen Chemie",
+     "kanal": "musstewissen Chemie",
+     "url": "https://www.yout-ube.com/watch?v=ySBV5DBap5A"
+    }
+   ]
+  },
+  {
+   "id": "nw59",
+   "nr": 59,
+   "titel": "Wenn die Luft schmutzig ist",
+   "bereich": "Wasser und Luft zum Leben",
+   "klasse": "5/6",
+   "satz": "Du findest heraus, woher Luftverschmutzung kommt.",
+   "erklaerung": "Luft wird verschmutzt durch Abgase von Autos, Fabriken und Heizungen, durch Rauch aus Feuern und durch Staub. Schmutzige Luft kann Husten, Asthma und andere Krankheiten verursachen. Weniger Autofahren und sauberere Heizungen helfen, die Luft rein zu halten.",
+   "beispiele": [
+    "Abgase: Auto, Lkw, Flugzeug",
+    "Feinstaub: zum Beispiel aus Kaminöfen und Bremsen",
+    "Smog: dichte schmutzige Luft über großen Städten"
+   ],
+   "baut_auf": [
+    "nw58"
+   ],
+   "quelle": "S. 19",
+   "suche": "Luftverschmutzung Ursachen Kinder",
+   "videos": [
+    {
+     "titel": "Schlechte Luft: Warum Feinstaub so gefährlich ist | Quarks",
+     "kanal": "Quarks",
+     "url": "https://www.yout-ube.com/watch?v=4eMjO-nj4Zc"
+    }
+   ]
+  },
+  {
+   "id": "nw60",
+   "nr": 60,
+   "titel": "Sauerstoff und Kohlenstoffdioxid nachweisen",
+   "bereich": "Wasser und Luft zum Leben",
+   "klasse": "5/6",
+   "satz": "Du lernst die Glimmspanprobe und die Kalkwasserprobe kennen.",
+   "erklaerung": "Sauerstoff und Kohlenstoffdioxid sind unsichtbare Gase, man braucht Proben, um sie zu erkennen. Bei der Glimmspanprobe glüht ein Holzspan nur noch, wenn man ihn in Sauerstoff hält, flammt er wieder auf. Kohlenstoffdioxid trübt klares Kalkwasser milchig.",
+   "beispiele": [
+    "Glimmspanprobe: Span flammt auf, also ist Sauerstoff da.",
+    "Kalkwasserprobe: Kalkwasser wird trüb, also ist Kohlenstoffdioxid da.",
+    "Diese Versuche macht man nur in der Schule mit Schutzbrille."
+   ],
+   "baut_auf": [
+    "nw58",
+    "nw31"
+   ],
+   "quelle": "S. 19",
+   "suche": "Glimmspanprobe Kalkwasserprobe",
+   "videos": [
+    {
+     "titel": "Glimmspanprobe auf Sauerstoff",
+     "kanal": "DoktorKlawonn",
+     "url": "https://www.yout-ube.com/watch?v=Iaehfq-4_JE"
+    },
+    {
+     "titel": "Der Nachweis von Kohlenstoffdioxid - Die Kalkwasserprobe",
+     "kanal": "Herr Weiner",
+     "url": "https://www.yout-ube.com/watch?v=VqcT9YsE9kE"
+    }
+   ]
+  },
+  {
+   "id": "nw61",
+   "nr": 61,
+   "titel": "Lunge und Atmung",
+   "bereich": "Wasser und Luft zum Leben",
+   "klasse": "5/6",
+   "satz": "Du erfährst, wie die Luft durch Nase, Luftröhre und Lunge strömt.",
+   "erklaerung": "Beim Einatmen strömt Luft durch Nase oder Mund in die Luftröhre und weiter in die beiden Lungenflügel. Dort verzweigen sich die Wege in immer kleinere Äste bis zu winzigen Lungenbläschen. Das Zwerchfell, ein Muskel unter der Lunge, hilft beim Atmen.",
+   "beispiele": [
+    "Nase: wärmt, befeuchtet und reinigt die Luft",
+    "Lungenbläschen: Hier geht Sauerstoff ins Blut.",
+    "Hand auf den Bauch legen: Beim Einatmen hebt er sich."
+   ],
+   "baut_auf": [],
+   "quelle": "S. 19",
+   "suche": "Atmung Lunge einfach erklärt Kinder",
+   "videos": [
+    {
+     "titel": "🫁 Atmung verstehen: So holen wir Luft! | Biologie einfach erklärt | planet schule | ARD",
+     "kanal": "planet schule",
+     "url": "https://www.yout-ube.com/watch?v=kxklh51XSZs"
+    },
+    {
+     "titel": "Der Atmungs-Check | Reportage für Kinder | Checkerin Marina | BR",
+     "kanal": "CHECKER WELT",
+     "url": "https://www.yout-ube.com/watch?v=cURzcUhCkbA"
+    }
+   ]
+  },
+  {
+   "id": "nw62",
+   "nr": 62,
+   "titel": "Was beim Atmen mit der Luft passiert",
+   "bereich": "Wasser und Luft zum Leben",
+   "klasse": "5/6",
+   "satz": "Du vergleichst eingeatmete und ausgeatmete Luft.",
+   "erklaerung": "Ausgeatmete Luft enthält weniger Sauerstoff und mehr Kohlenstoffdioxid als eingeatmete Luft. Der Körper hat einen Teil des Sauerstoffs verbraucht und Kohlenstoffdioxid abgegeben. Außerdem ist ausgeatmete Luft wärmer und feuchter.",
+   "beispiele": [
+    "Durch einen Strohhalm in Kalkwasser pusten: Es wird trüb.",
+    "Gegen eine kalte Scheibe hauchen: Sie beschlägt.",
+    "Eingeatmet: 21 Teile Sauerstoff von 100, ausgeatmet: etwa 16."
+   ],
+   "baut_auf": [
+    "nw61",
+    "nw60"
+   ],
+   "quelle": "S. 19",
+   "suche": "eingeatmete ausgeatmete Luft Unterschied",
+   "videos": [
+    {
+     "titel": "Warum müssen wir atmen? l WOOZLE GOOZLE",
+     "kanal": "Woozle Goozle",
+     "url": "https://www.yout-ube.com/watch?v=oxVjU61x2XM"
+    },
+    {
+     "titel": "🫁 Wie kommt die Luft in deine Lunge? | Biologie einfach erklärt | planet schule | ARD",
+     "kanal": "planet schule",
+     "url": "https://www.yout-ube.com/watch?v=7qI8mOpBmYs"
+    }
+   ]
+  },
+  {
+   "id": "nw63",
+   "nr": 63,
+   "titel": "Priestley: Kerze, Maus und Pflanze",
+   "bereich": "Wasser und Luft zum Leben",
+   "klasse": "5/6",
+   "satz": "Du erfährst, wie ein Versuch vor 250 Jahren zeigte, dass Pflanzen die Luft für uns erneuern.",
+   "erklaerung": "Vor etwa 250 Jahren stellte Joseph Priestley eine Kerze unter eine Glasglocke. Sie ging bald aus. Auch eine Maus konnte darunter nicht lange leben. Stellte er aber eine Pflanze dazu, brannte die Kerze wieder, und die Maus blieb gesund. Pflanzen erneuern also die Luft, heute weiß man: Sie geben Sauerstoff ab.",
+   "beispiele": [
+    "Kerze allein unter Glas: geht aus",
+    "Kerze mit Minzpflanze nach einigen Tagen: brennt wieder",
+    "Heute macht man solche Versuche nicht mehr mit Tieren."
+   ],
+   "baut_auf": [
+    "nw62",
+    "nw42"
+   ],
+   "quelle": "S. 19",
+   "suche": "Priestley Versuch Pflanze Kerze Maus",
+   "videos": [
+    {
+     "titel": "Versuche von Joseph Priestley",
+     "kanal": "Anja Meyer",
+     "url": "https://www.yout-ube.com/watch?v=4K9UUnMm9G4"
+    }
+   ]
+  },
+  {
+   "id": "nw64",
+   "nr": 64,
+   "titel": "Der Blutkreislauf",
+   "bereich": "Wasser und Luft zum Leben",
+   "klasse": "5/6",
+   "satz": "Du verstehst, wie das Herz Blut durch den Körper pumpt und Sauerstoff überallhin bringt.",
+   "erklaerung": "Das Herz ist ein Muskel, der Blut durch den ganzen Körper pumpt. Das Blut nimmt in der Lunge Sauerstoff auf und bringt ihn über die Arterien zu allen Organen. Über die Venen fließt es zurück zum Herzen. Ein Herzschlag dauert nicht einmal eine Sekunde.",
+   "beispiele": [
+    "Puls fühlen: am Handgelenk oder am Hals",
+    "Ruhepuls bei Kindern etwa 80 bis 100 Schläge pro Minute",
+    "Nach dem Rennen schlägt das Herz schneller."
+   ],
+   "baut_auf": [
+    "nw61"
+   ],
+   "quelle": "S. 19",
+   "suche": "Blutkreislauf Herz einfach erklärt Kinder",
+   "videos": [
+    {
+     "titel": "Wie funktioniert der Blutkreislauf? | SRF Kids – Clip und klar! | Für Kinder erklärt",
+     "kanal": "SRF Kids",
+     "url": "https://www.yout-ube.com/watch?v=YB2_p8f2Nr8"
+    },
+    {
+     "titel": "Wie funktionieren das Herz und der Blutkreislauf?",
+     "kanal": "Stiftung Gesundheitswissen",
+     "url": "https://www.yout-ube.com/watch?v=xfzz1JcZ4cU"
+    }
+   ]
+  },
+  {
+   "id": "nw65",
+   "nr": 65,
+   "titel": "Tiere und Menschen bestehen aus Zellen",
+   "bereich": "Mein Körper und Kräfte",
+   "klasse": "5/6",
+   "satz": "Du siehst dir Zellen aus deiner Mundschleimhaut unter dem Mikroskop an und zeichnest sie.",
+   "erklaerung": "Auch Menschen und Tiere bestehen aus Zellen, sogar aus Milliarden davon. Mit einem sauberen Wattestäbchen kann man ein paar Zellen von der Innenseite der Wange holen und unter dem Mikroskop ansehen. Mit etwas Farbe sieht man den Zellkern besser.",
+   "beispiele": [
+    "Mundschleimhautzellen: flach und unregelmäßig geformt",
+    "Zeichnen: nur das, was du wirklich siehst, mit Bleistift",
+    "Verschiedene Zellen: Hautzellen, Muskelzellen, Nervenzellen"
+   ],
+   "baut_auf": [
+    "nw49"
+   ],
+   "quelle": "S. 20",
+   "suche": "Mundschleimhautzellen mikroskopieren",
+   "videos": [
+    {
+     "titel": "Mikroskopieren der Mundschleimhaut",
+     "kanal": "Gymi Neubi",
+     "url": "https://www.yout-ube.com/watch?v=KVUXL6jXi08"
+    }
+   ]
+  },
+  {
+   "id": "nw66",
+   "nr": 66,
+   "titel": "Tierzelle und Pflanzenzelle",
+   "bereich": "Mein Körper und Kräfte",
+   "klasse": "5/6",
+   "satz": "Du vergleichst, was Tierzellen und Pflanzenzellen gemeinsam haben und was nicht.",
+   "erklaerung": "Tierzellen und Pflanzenzellen haben beide einen Zellkern, eine Zellmembran und Zellplasma. Pflanzenzellen haben zusätzlich eine feste Zellwand, oft eine große Vakuole und in grünen Teilen Chloroplasten. Deshalb sind Pflanzenzellen eckig und Tierzellen eher rundlich.",
+   "beispiele": [
+    "Beide: Zellkern, Zellmembran, Zellplasma",
+    "Nur Pflanzenzelle: Zellwand, Vakuole, Chloroplasten",
+    "Chloroplasten machen Blätter grün."
+   ],
+   "baut_auf": [
+    "nw65"
+   ],
+   "quelle": "S. 20",
+   "suche": "Tierzelle Pflanzenzelle Unterschied",
+   "videos": [
+    {
+     "titel": "Tierzelle vs. Pflanzenzelle - Vergleich | Studyflix",
+     "kanal": "Studyflix",
+     "url": "https://www.yout-ube.com/watch?v=h_Lurb9PGs0"
+    }
+   ]
+  },
+  {
+   "id": "nw67",
+   "nr": 67,
+   "titel": "Unser Skelett",
+   "bereich": "Mein Körper und Kräfte",
+   "klasse": "5/6",
+   "satz": "Du lernst die wichtigsten Knochen kennen und wie ein Knochen aufgebaut ist.",
+   "erklaerung": "Dein Skelett besteht aus etwa 200 Knochen. Es stützt den Körper, schützt Organe wie Gehirn, Herz und Lunge und ermöglicht Bewegung. Knochen sind innen nicht massiv, sondern wie ein feines Gerüst gebaut, deshalb sind sie leicht und trotzdem stabil.",
+   "beispiele": [
+    "Schädel schützt das Gehirn, Rippen schützen Herz und Lunge.",
+    "Wirbelsäule: 33 bis 34 Wirbel",
+    "Der größte Knochen ist der Oberschenkelknochen."
+   ],
+   "baut_auf": [],
+   "quelle": "S. 20",
+   "suche": "menschliches Skelett Knochen Kinder",
+   "videos": [
+    {
+     "titel": "Wie viele Knochen hat ein Mensch? l WOOZLE GOOZLE",
+     "kanal": "Woozle Goozle",
+     "url": "https://www.yout-ube.com/watch?v=S4fu8KsWP0A"
+    }
+   ]
+  },
+  {
+   "id": "nw68",
+   "nr": 68,
+   "titel": "Gelenke",
+   "bereich": "Mein Körper und Kräfte",
+   "klasse": "5/6",
+   "satz": "Du entdeckst verschiedene Gelenke wie Kugelgelenk und Scharniergelenk und baust ein Modell.",
+   "erklaerung": "Gelenke verbinden Knochen beweglich miteinander. Ein Kugelgelenk wie an der Schulter bewegt sich in alle Richtungen. Ein Scharniergelenk wie am Ellenbogen geht nur auf und zu, ähnlich wie eine Tür. Knorpel und Gelenkflüssigkeit sorgen dafür, dass nichts reibt.",
+   "beispiele": [
+    "Kugelgelenk: Schulter, Hüfte",
+    "Scharniergelenk: Ellenbogen, Knie, Finger",
+    "Modell bauen: Pappröhren und eine Musterbeutelklammer als Scharnier"
+   ],
+   "baut_auf": [
+    "nw67",
+    "nw08"
+   ],
+   "quelle": "S. 20",
+   "suche": "Gelenktypen Kugelgelenk Scharniergelenk",
+   "videos": [
+    {
+     "titel": "Überblick über Gelenkformen",
+     "kanal": "BioLogisch",
+     "url": "https://www.yout-ube.com/watch?v=b2fARxBBMEg"
+    },
+    {
+     "titel": "Knochen, Muskeln, Gelenke – so funktioniert der Stütz- und Bewegungsapparat",
+     "kanal": "Stiftung Gesundheitswissen",
+     "url": "https://www.yout-ube.com/watch?v=ut5ADc2eewE"
+    }
+   ]
+  },
+  {
+   "id": "nw69",
+   "nr": 69,
+   "titel": "Muskeln",
+   "bereich": "Mein Körper und Kräfte",
+   "klasse": "5/6",
+   "satz": "Du verstehst, dass Muskeln nur ziehen können und deshalb immer zu zweit arbeiten.",
+   "erklaerung": "Muskeln bewegen die Knochen, indem sie sich zusammenziehen und dabei kürzer und dicker werden. Ein Muskel kann nur ziehen, nicht drücken. Deshalb arbeiten Muskeln paarweise als Gegenspieler: Der eine beugt, der andere streckt.",
+   "beispiele": [
+    "Bizeps beugt den Arm, Trizeps streckt ihn.",
+    "Arm beugen und den Oberarm fühlen: Der Bizeps wird dick.",
+    "Der Mensch hat über 600 Muskeln."
+   ],
+   "baut_auf": [
+    "nw67"
+   ],
+   "quelle": "S. 20",
+   "suche": "Muskeln Gegenspieler Bizeps Trizeps",
+   "videos": [
+    {
+     "titel": "Was sind Muskeln? l WOOZLE GOOZLE",
+     "kanal": "Woozle Goozle",
+     "url": "https://www.yout-ube.com/watch?v=vL2dOGf1qjc"
+    },
+    {
+     "titel": "Wie Muskeln uns bewegen lassen | SRF Kids – Clip und klar! | Für Kinder erklärt",
+     "kanal": "SRF Kids",
+     "url": "https://www.yout-ube.com/watch?v=XjZ5tSXBZG0"
+    }
+   ]
+  },
+  {
+   "id": "nw70",
+   "nr": 70,
+   "titel": "Bewegung und ein gesunder Rücken",
+   "bereich": "Mein Körper und Kräfte",
+   "klasse": "5/6",
+   "satz": "Du erklärst, wie Knochen, Gelenke und Muskeln zusammenarbeiten und was ihnen guttut.",
+   "erklaerung": "Knochen, Gelenke und Muskeln arbeiten bei jeder Bewegung zusammen. Damit sie gesund bleiben, brauchen sie Bewegung, eine gute Haltung und gesundes Essen. Langes krummes Sitzen und schwere Schultaschen auf einer Seite können dem Rücken schaden.",
+   "beispiele": [
+    "Rucksack mit beiden Trägern tragen",
+    "Beim Heben in die Knie gehen, nicht den Rücken krumm machen",
+    "Pausen vom Sitzen: aufstehen, strecken, bewegen"
+   ],
+   "baut_auf": [
+    "nw68",
+    "nw69"
+   ],
+   "quelle": "S. 20",
+   "suche": "gesunder Rücken Haltung Kinder",
+   "videos": [
+    {
+     "titel": "Der Muskel-Check | Reportage für Kinder | Checkerin Marina",
+     "kanal": "CHECKER WELT",
+     "url": "https://www.yout-ube.com/watch?v=dHAz-1ECHLc"
+    }
+   ]
+  },
+  {
+   "id": "nw71",
+   "nr": 71,
+   "titel": "Was Kräfte bewirken",
+   "bereich": "Mein Körper und Kräfte",
+   "klasse": "5/6",
+   "satz": "Du erkennst Kräfte daran, dass etwas schneller, langsamer, umgelenkt oder verformt wird.",
+   "erklaerung": "Eine Kraft kann man nicht sehen, aber an ihrer Wirkung erkennen. Kräfte können etwas in Bewegung setzen, bremsen, die Richtung ändern oder verformen. Ohne Kraft bleibt ein ruhender Gegenstand liegen.",
+   "beispiele": [
+    "Ball treten: Er fliegt los.",
+    "Torwart fängt den Ball: Er wird gebremst.",
+    "Knete drücken: Sie verformt sich."
+   ],
+   "baut_auf": [],
+   "quelle": "S. 20",
+   "suche": "Kraft Wirkungen Physik einfach erklärt",
+   "videos": [
+    {
+     "titel": "Was ist Kraft? | Einführung in die Mechanik - Physik - einfach erklärt | Lehrerschmidt",
+     "kanal": "Lehrerschmidt",
+     "url": "https://www.yout-ube.com/watch?v=axTUc2MvcKI"
+    }
+   ]
+  },
+  {
+   "id": "nw72",
+   "nr": 72,
+   "titel": "Kraftpfeile",
+   "bereich": "Mein Körper und Kräfte",
+   "klasse": "5/6",
+   "satz": "Du zeichnest Kräfte als Pfeile, die Richtung und Stärke zeigen.",
+   "erklaerung": "Eine Kraft hat immer eine Richtung und eine Stärke. Deshalb zeichnet man sie als Pfeil. Der Pfeil beginnt dort, wo die Kraft angreift, zeigt in ihre Richtung, und je länger er ist, desto stärker ist die Kraft.",
+   "beispiele": [
+    "Tauziehen: zwei Pfeile in entgegengesetzte Richtungen",
+    "Ein langer Pfeil für einen starken Schuss, ein kurzer für einen leichten",
+    "Gewichtskraft: Pfeil zeigt immer nach unten."
+   ],
+   "baut_auf": [
+    "nw71"
+   ],
+   "quelle": "S. 20",
+   "suche": "Kraftpfeile zeichnen Physik",
+   "videos": [
+    {
+     "titel": "Was ist Kraft? I musstewissen Physik",
+     "kanal": "musstewissen Physik",
+     "url": "https://www.yout-ube.com/watch?v=yzkVtesys5E"
+    }
+   ]
+  },
+  {
+   "id": "nw73",
+   "nr": 73,
+   "titel": "Kräfte messen in Newton",
+   "bereich": "Mein Körper und Kräfte",
+   "klasse": "5/6",
+   "satz": "Du misst Kräfte mit einem Federkraftmesser und schätzt, wie viel Newton du brauchst, um einen Apfel zu halten.",
+   "erklaerung": "Kräfte misst man in Newton, abgekürzt N. Ein Federkraftmesser hat eine Feder, die sich bei größerer Kraft weiter dehnt. Auf der Skala liest du die Kraft ab. Um eine Tafel Schokolade mit 100 g zu halten, brauchst du etwa 1 Newton.",
+   "beispiele": [
+    "Tafel Schokolade (100 g): etwa 1 N",
+    "Apfel (200 g): etwa 2 N",
+    "Eine volle 1-Liter-Flasche: etwa 10 N"
+   ],
+   "baut_auf": [
+    "nw72",
+    "nw05"
+   ],
+   "quelle": "S. 20",
+   "suche": "Kraft messen Newton Federkraftmesser",
+   "videos": [
+    {
+     "titel": "1N - Was ist ein Newton? | Mechanik | Physik | Lehrerschmidt",
+     "kanal": "Lehrerschmidt",
+     "url": "https://www.yout-ube.com/watch?v=tGDzbAaM55Y"
+    }
+   ]
+  },
+  {
+   "id": "nw74",
+   "nr": 74,
+   "titel": "Hebel",
+   "bereich": "Mein Körper und Kräfte",
+   "klasse": "5/6",
+   "satz": "Du probierst mit Wippe, Schere und Flaschenöffner aus, wie man mit einem Hebel Kraft spart.",
+   "erklaerung": "Ein Hebel ist eine Stange, die sich um einen Drehpunkt dreht. Je weiter weg vom Drehpunkt du drückst, desto weniger Kraft brauchst du. Viele Werkzeuge sind Hebel und helfen uns so, Kraft zu sparen.",
+   "beispiele": [
+    "Wippe: Ein leichtes Kind weit außen hebt ein schweres Kind nah am Drehpunkt.",
+    "Flaschenöffner, Schere, Nussknacker",
+    "Eine Schraube lässt sich mit einem langen Schraubenschlüssel leichter lösen."
+   ],
+   "baut_auf": [
+    "nw73"
+   ],
+   "quelle": "S. 20",
+   "suche": "Hebel einfach erklärt Physik Kinder",
+   "videos": [
+    {
+     "titel": "Hebelgesetze I musstewissen Physik",
+     "kanal": "musstewissen Physik",
+     "url": "https://www.yout-ube.com/watch?v=9iDESs50jvw"
+    },
+    {
+     "titel": "Einseitiger oder zweiseitiger Hebel?",
+     "kanal": "schoolseasy",
+     "url": "https://www.yout-ube.com/watch?v=RRg6qG6-c00"
+    }
+   ]
+  },
+  {
+   "id": "nw75",
+   "nr": 75,
+   "titel": "Was Strom alles kann",
+   "bereich": "Strom",
+   "klasse": "5/6",
+   "satz": "Du entdeckst, dass Strom Licht, Wärme und Bewegung erzeugen und einen Magneten machen kann.",
+   "erklaerung": "Elektrischer Strom kann ganz verschiedene Dinge bewirken. Er bringt Lampen zum Leuchten, macht Herdplatten heiß, treibt Motoren an und kann einen Elektromagneten machen. Fast alle Geräte im Haushalt nutzen eine oder mehrere dieser Wirkungen.",
+   "beispiele": [
+    "Lichtwirkung: Lampe, Bildschirm",
+    "Wärmewirkung: Toaster, Wasserkocher, Föhn",
+    "Bewegung und Magnetismus: Ventilator, Elektromagnet am Schrottplatz"
+   ],
+   "baut_auf": [],
+   "quelle": "S. 21",
+   "suche": "Wirkungen des elektrischen Stroms",
+   "videos": [
+    {
+     "titel": "Warum ist elektrischer Strom so wichtig? I GANZE FOLGE",
+     "kanal": "Woozle Goozle",
+     "url": "https://www.yout-ube.com/watch?v=mSWWSdyjIAc"
+    }
+   ]
+  },
+  {
+   "id": "nw76",
+   "nr": 76,
+   "titel": "Sicher mit Strom",
+   "bereich": "Strom",
+   "klasse": "5/6",
+   "satz": "Du erfährst, warum eine Batterie ungefährlich ist und die Steckdose lebensgefährlich.",
+   "erklaerung": "Batterien für Spielzeug haben eine kleine Spannung, zum Beispiel 1,5 Volt oder 4,5 Volt, damit kann man gefahrlos experimentieren. Die Steckdose hat 230 Volt, das kann tödlich sein. Deshalb experimentiert man nie mit der Steckdose, und bei Oberleitungen der Bahn hält man großen Abstand.",
+   "beispiele": [
+    "Batterie: 1,5 V bis 9 V, für Versuche geeignet",
+    "Steckdose: 230 V, lebensgefährlich",
+    "Nie mit nassen Händen an Stecker und Kabel fassen."
+   ],
+   "baut_auf": [
+    "nw75"
+   ],
+   "quelle": "S. 21",
+   "suche": "Sicherheit Strom Steckdose Kinder",
+   "videos": [
+    {
+     "titel": "Was ist ein Stromschlag? l WOOZLE GOOZLE",
+     "kanal": "Woozle Goozle",
+     "url": "https://www.yout-ube.com/watch?v=6FfL8MWhFi8"
+    }
+   ]
+  },
+  {
+   "id": "nw77",
+   "nr": 77,
+   "titel": "Der einfache Stromkreis",
+   "bereich": "Strom",
+   "klasse": "5/6",
+   "satz": "Du baust aus Batterie, Lämpchen, Kabeln und Schalter einen Stromkreis.",
+   "erklaerung": "Ein Stromkreis braucht eine Stromquelle, zum Beispiel eine Batterie, ein Gerät wie ein Lämpchen und Kabel, die alles verbinden. Strom fließt nur, wenn der Kreis geschlossen ist. Mit einem Schalter öffnet und schließt man den Kreis.",
+   "beispiele": [
+    "Batterie, Kabel, Lämpchen, Kabel zurück zur Batterie",
+    "Kabel ab: Kreis offen, Lämpchen aus",
+    "Taschenlampe: Der Schalter schließt den Stromkreis."
+   ],
+   "baut_auf": [
+    "nw76"
+   ],
+   "quelle": "S. 21",
+   "suche": "einfacher Stromkreis bauen erklärt",
+   "videos": [
+    {
+     "titel": "einfacher Stromkreis - mit & ohne Schalter | Physik - einfach erklärt | Lehrerschmidt",
+     "kanal": "Lehrerschmidt",
+     "url": "https://www.yout-ube.com/watch?v=uJ8_wXIP5Ss"
+    }
+   ]
+  },
+  {
+   "id": "nw78",
+   "nr": 78,
+   "titel": "Schaltpläne",
+   "bereich": "Strom",
+   "klasse": "5/6",
+   "satz": "Du zeichnest einen Stromkreis mit Schaltzeichen und baust ihn nach einem Plan auf.",
+   "erklaerung": "In einem Schaltplan zeichnet man einen Stromkreis mit einfachen Zeichen statt echter Bilder. Jedes Bauteil hat ein eigenes Schaltzeichen, die Leitungen sind gerade Linien. So kann jeder auf der Welt den Plan lesen und nachbauen.",
+   "beispiele": [
+    "Lampe: Kreis mit Kreuz",
+    "Batterie: ein langer und ein kurzer Strich",
+    "Schalter: Linie mit einer Lücke, die sich schließt"
+   ],
+   "baut_auf": [
+    "nw77"
+   ],
+   "quelle": "S. 21, 49",
+   "suche": "Schaltplan Schaltzeichen einfach erklärt",
+   "videos": [
+    {
+     "titel": "Schaltzeichen - eine Übersicht | Physik - einfach erklärt | Lehrerschmidt",
+     "kanal": "Lehrerschmidt",
+     "url": "https://www.yout-ube.com/watch?v=reetTIL_jGU"
+    }
+   ]
+  },
+  {
+   "id": "nw79",
+   "nr": 79,
+   "titel": "Reihenschaltung und Parallelschaltung",
+   "bereich": "Strom",
+   "klasse": "5/6",
+   "satz": "Du vergleichst zwei Arten, Lampen und Schalter zu verbinden, und findest sie bei dir im Haus wieder.",
+   "erklaerung": "Bei der Reihenschaltung sind Lampen hintereinander in einem einzigen Kreis. Geht eine kaputt, gehen alle aus. Bei der Parallelschaltung hat jede Lampe ihren eigenen Weg zur Batterie, sie leuchten unabhängig voneinander. Im Haus sind die Lampen und Steckdosen parallel geschaltet.",
+   "beispiele": [
+    "Reihe: alte Lichterkette, eine Lampe kaputt, alle dunkel",
+    "Parallel: Lampen in verschiedenen Zimmern",
+    "Zwei Schalter in Reihe: Licht nur, wenn beide an sind."
+   ],
+   "baut_auf": [
+    "nw78"
+   ],
+   "quelle": "S. 21",
+   "suche": "Reihenschaltung Parallelschaltung einfach",
+   "videos": [
+    {
+     "titel": "Reihenschaltung - Aufbau & Erklärung | Physik - einfach erklärt | Lehrerschmidt",
+     "kanal": "Lehrerschmidt",
+     "url": "https://www.yout-ube.com/watch?v=LTvsJ-r8qfk"
+    },
+    {
+     "titel": "Parallelschaltung - Aufbau & Erklärung | Physik - einfach erklärt | Lehrerschmidt",
+     "kanal": "Lehrerschmidt",
+     "url": "https://www.yout-ube.com/watch?v=W2qSxl00D4g"
+    }
+   ]
+  },
+  {
+   "id": "nw80",
+   "nr": 80,
+   "titel": "Leiter und Nichtleiter",
+   "bereich": "Strom",
+   "klasse": "5/6",
+   "satz": "Du testest, welche Stoffe und Flüssigkeiten Strom leiten.",
+   "erklaerung": "Stoffe, durch die Strom fließen kann, heißen Leiter, zum Beispiel alle Metalle. Stoffe, die keinen Strom leiten, heißen Nichtleiter oder Isolatoren, wie Plastik, Gummi, Holz und Glas. Kabel bestehen deshalb innen aus Kupfer und außen aus Plastik. Auch Salzwasser leitet Strom, reines Wasser kaum.",
+   "beispiele": [
+    "Leiter: Büroklammer, Alufolie, Münze",
+    "Nichtleiter: Radiergummi, Holzstift, Plastiklineal",
+    "Prüfgerät: Batterie, Lämpchen und eine Lücke im Kreis, in die du den Stoff hältst"
+   ],
+   "baut_auf": [
+    "nw77"
+   ],
+   "quelle": "S. 21",
+   "suche": "Leiter Nichtleiter Strom Experiment",
+   "videos": [
+    {
+     "titel": "Strom 1 - Erklärvideo: Leiter & Nichtleiter",
+     "kanal": "Physikdidaktik Uni Münster",
+     "url": "https://www.yout-ube.com/watch?v=m7-JzAz9-TA"
+    },
+    {
+     "titel": "Elektrische Leiter und Isolatoren (Nichtleiter)",
+     "kanal": "GreweScience",
+     "url": "https://www.yout-ube.com/watch?v=DbP9udZshy0"
+    }
+   ]
+  },
+  {
+   "id": "nw81",
+   "nr": 81,
+   "titel": "Körper von Frauen und Männern",
+   "bereich": "Ich werde erwachsen",
+   "klasse": "5/6",
+   "satz": "Du lernst die Geschlechtsorgane und die Merkmale kennen, an denen man Frauen und Männer äußerlich unterscheidet.",
+   "erklaerung": "Mädchen und Jungen unterscheiden sich von Geburt an durch ihre Geschlechtsorgane, das sind die primären Geschlechtsmerkmale. Bei Mädchen liegen Eierstöcke, Gebärmutter und Scheide, bei Jungen Hoden und Penis. In der Pubertät kommen die sekundären Geschlechtsmerkmale dazu, etwa Brüste oder Bartwuchs.",
+   "beispiele": [
+    "Primär (von Geburt an): Eierstöcke, Gebärmutter, Scheide; Hoden, Penis",
+    "Sekundär (ab der Pubertät): Brüste, breitere Hüften; Bart, tiefere Stimme",
+    "Bei beiden: Achsel- und Schamhaare"
+   ],
+   "baut_auf": [],
+   "quelle": "S. 22",
+   "suche": "Geschlechtsmerkmale primär sekundär Kinder",
+   "videos": []
+  },
+  {
+   "id": "nw82",
+   "nr": 82,
+   "titel": "Pubertät: Der Körper verändert sich",
+   "bereich": "Ich werde erwachsen",
+   "klasse": "5/6",
+   "satz": "Du erfährst, was in der Pubertät mit dem Körper passiert, zum Beispiel die erste Regelblutung.",
+   "erklaerung": "In der Pubertät wird der Körper erwachsen, meist zwischen 9 und 16 Jahren, bei jedem zu einer anderen Zeit. Hormone sorgen dafür, dass man schneller wächst, Haare an neuen Stellen bekommt und sich die Haut verändert. Bei Mädchen setzt die Regelblutung ein, bei Jungen der erste Samenerguss. Auch Gefühle können stärker schwanken.",
+   "beispiele": [
+    "Mädchen: Brüste wachsen, erste Periode",
+    "Jungen: Stimmbruch, Bart, erster Samenerguss",
+    "Beide: Wachstumsschub, Pickel, stärkerer Körpergeruch"
+   ],
+   "baut_auf": [
+    "nw81"
+   ],
+   "quelle": "S. 22",
+   "suche": "Pubertät Mädchen Jungen erklärt Kinder",
+   "videos": [
+    {
+     "titel": "Erste Periode - was muss ich tun? | Losgefragt",
+     "kanal": "ARD Kinder und Familie",
+     "url": "https://www.yout-ube.com/watch?v=IgwVZtBCONk"
+    }
+   ]
+  },
+  {
+   "id": "nw83",
+   "nr": 83,
+   "titel": "Wie ein Baby entsteht",
+   "bereich": "Ich werde erwachsen",
+   "klasse": "5/6",
+   "satz": "Du verstehst, wie aus einer Eizelle und einer Samenzelle ein Baby wird und wie es im Bauch wächst.",
+   "erklaerung": "Ein Baby entsteht, wenn eine Samenzelle des Mannes und eine Eizelle der Frau verschmelzen, das heißt Befruchtung. Die befruchtete Eizelle nistet sich in der Gebärmutter ein und wächst dort etwa neun Monate. Über die Nabelschnur bekommt das Kind Nahrung und Sauerstoff, bis es geboren wird.",
+   "beispiele": [
+    "Befruchtung: Samenzelle und Eizelle verschmelzen.",
+    "Nach 3 Monaten ist das Kind etwa 6 cm groß und hat schon Arme und Beine.",
+    "Nach etwa 40 Wochen kommt das Baby auf die Welt."
+   ],
+   "baut_auf": [
+    "nw82"
+   ],
+   "quelle": "S. 22",
+   "suche": "wie entsteht ein Baby Kinder erklärt",
+   "videos": [
+    {
+     "titel": "Was macht ein Baby im Bauch? l WOOZLE GOOZLE",
+     "kanal": "Woozle Goozle",
+     "url": "https://www.yout-ube.com/watch?v=_IZT3xTbhJo"
+    }
+   ]
+  },
+  {
+   "id": "nw84",
+   "nr": 84,
+   "titel": "Verhütung",
+   "bereich": "Ich werde erwachsen",
+   "klasse": "5/6",
+   "satz": "Du erfährst, wie Kondom, Pille und andere Mittel eine Schwangerschaft verhindern.",
+   "erklaerung": "Verhütung bedeutet, eine Schwangerschaft zu verhindern. Das Kondom ist eine dünne Hülle, die verhindert, dass Samenzellen zur Eizelle gelangen. Es schützt als einziges Mittel auch vor ansteckenden Krankheiten. Die Pille enthält Hormone, die den Eisprung verhindern, und muss jeden Tag genommen werden.",
+   "beispiele": [
+    "Kondom: schützt vor Schwangerschaft und vor Krankheiten",
+    "Pille: Hormone, täglich, nur nach Beratung bei der Frauenärztin",
+    "Fragen kann man bei Beratungsstellen wie pro familia stellen."
+   ],
+   "baut_auf": [
+    "nw83"
+   ],
+   "quelle": "S. 22",
+   "suche": "Verhütung Kondom Pille Jugendliche erklärt",
+   "videos": [
+    {
+     "titel": "Welche Verhütungsmethoden gibt es und wie sicher sind sie? | Dr. Johannes Wimmer",
+     "kanal": "Die Techniker",
+     "url": "https://www.yout-ube.com/watch?v=1N9x3cvw9Hs"
+    }
+   ]
+  },
+  {
+   "id": "nw85",
+   "nr": 85,
+   "titel": "Bilder von Frauen und Männern",
+   "bereich": "Ich werde erwachsen",
+   "klasse": "5/6",
+   "satz": "Du denkst darüber nach, wie Frauen und Männer in Werbung, Filmen und Medien gezeigt werden.",
+   "erklaerung": "In Werbung, Filmen und Spielen werden Frauen und Männer oft auf bestimmte Weise gezeigt, zum Beispiel Frauen meist schlank und Männer meist stark. Solche Bilder heißen Rollenbilder. Es lohnt sich, sie zu hinterfragen: Jeder Mensch darf so sein, wie er ist, egal ob er in das Bild passt.",
+   "beispiele": [
+    "Spielzeugwerbung: rosa für Mädchen, blau für Jungen. Warum eigentlich?",
+    "Bearbeitete Fotos in sozialen Medien zeigen keine echten Körper.",
+    "Berufe: Kann ein Mann Erzieher und eine Frau Feuerwehrfrau sein? Natürlich."
+   ],
+   "baut_auf": [],
+   "quelle": "S. 22",
+   "suche": "Rollenbilder Geschlechter Medien Kinder",
+   "videos": [
+    {
+     "titel": "Hallo Benjamin! Typisch Jungs, typisch Mädchen! - Sendung für Kinder",
+     "kanal": "HalloBenjaminTV",
+     "url": "https://www.yout-ube.com/watch?v=p-gMCF0JqJ0"
+    }
+   ]
+  }
+ ]
+}

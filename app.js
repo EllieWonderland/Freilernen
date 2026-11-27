@@ -6,7 +6,7 @@ const FAECHER = [
   { id: "deutsch", name: "Deutsch", sym: "📖", farbe: "#d0533f", datei: "data/deutsch.json" },
   { id: "englisch", name: "Englisch", sym: "🇬🇧", farbe: "#7a5bd6", datei: "data/englisch.json" },
   { id: "spanisch", name: "Spanisch", sym: "🇪🇸", farbe: "#e2a316", datei: "data/spanisch.json" },
-  { id: "nawi", name: "NaWi", sym: "🔬", farbe: "#2e9e5b" },
+  { id: "nawi", name: "NaWi", sym: "🔬", farbe: "#2e9e5b", datei: "data/nawi.json" },
   { id: "gl", name: "Gesellschaftslehre", sym: "🌍", farbe: "#2a9bb0" },
   { id: "musik", name: "Musik", sym: "🎵", farbe: "#c2508f", datei: "data/musik.json" }
 ];
@@ -99,7 +99,8 @@ const SUCHKANAELE = {
   standard: ["Lehrerschmidt", "einfach Schule", "Die Merkhilfe"],
   englisch: ["Einfach Englisch", "BBC Learning English", "Mr Kay Erklärt Englisch"],
   spanisch: ["Rockalingua", "BASHO & FRIENDS", "Die Merkhilfe Spanisch"],
-  musik: ["MusikDurchblick", "Musiklehrer", "erklaerung-und-mehr"]
+  musik: ["MusikDurchblick", "Musiklehrer", "erklaerung-und-mehr"],
+  nawi: ["Lehrerschmidt", "Woozle Goozle", "SRF Kids"]
 };
 
 function videoLinks(t) {
