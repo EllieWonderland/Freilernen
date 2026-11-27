@@ -1,0 +1,1735 @@
+{
+  "fach": "deutsch",
+  "name": "Deutsch",
+  "quelle": "Kerncurriculum für die Integrierte Gesamtschule, Schuljahrgänge 5 bis 10, Deutsch (Niedersächsisches Kultusministerium 2006)",
+  "bereiche": [
+    "Sprechen und Zuhören",
+    "Schreiben",
+    "Lesen, Texte und Medien",
+    "Grammatik",
+    "Rechtschreibung"
+  ],
+  "themen": [
+    {
+      "id": "d01",
+      "nr": 1,
+      "titel": "Erzählen und beschreiben",
+      "bereich": "Sprechen und Zuhören",
+      "klasse": "5",
+      "satz": "Du erzählst von etwas, das du erlebt hast, so deutlich und lebendig, dass andere gut folgen können.",
+      "erklaerung": "Wer zuhört, war nicht dabei. Erzähl deshalb der Reihe nach: Wer war dabei, wo und wann war es, was ist passiert und wie ging es aus? Sprich deutlich, nicht zu schnell, und benutze ganze Sätze.",
+      "beispiele": [
+        "Statt „Und dann, und dann“ sagst du „Danach“, „Plötzlich“ oder „Am Ende“.",
+        "„Am Samstag war ich mit meiner Schwester am Deich. Plötzlich …“",
+        "Wenn du einen Gegenstand beschreibst, sagst du Farbe, Form, Größe und wofür man ihn braucht."
+      ],
+      "baut_auf": [],
+      "quelle": "S. 14",
+      "suche": "mündlich erzählen Klasse 5",
+      "videos": [
+        {
+          "titel": "Mündlich erzählen",
+          "kanal": "MOOCit",
+          "url": "https://www.youtube.com/watch?v=z4STr1SQCkc"
+        }
+      ]
+    },
+    {
+      "id": "d02",
+      "nr": 2,
+      "titel": "Vor der Klasse sprechen",
+      "bereich": "Sprechen und Zuhören",
+      "klasse": "5/6",
+      "satz": "Du stellst etwas vor, stehst dabei sicher und schaust deine Zuhörer an, auch wenn du aufgeregt bist.",
+      "erklaerung": "Lampenfieber ist normal, fast alle haben es. Es hilft, wenn du gut vorbereitet bist und vorher laut übst. Stell dich gerade hin, atme ruhig und schau immer wieder in die Gesichter deiner Zuhörer.",
+      "beispiele": [
+        "Übe deinen Vortrag zu Hause vor dem Spiegel oder vor jemandem aus der Familie.",
+        "Schau nicht nur auf deinen Zettel, sondern nach jedem Satz kurz in die Klasse.",
+        "Ein guter Anfang: „Ich erzähle euch heute etwas über …“"
+      ],
+      "baut_auf": [
+        "d01"
+      ],
+      "quelle": "S. 14, 15",
+      "suche": "Lampenfieber Vortrag halten Tipps Schule",
+      "videos": [
+        {
+          "titel": "5 Tipps gegen Lampenfieber",
+          "kanal": "musstewissen Deutsch",
+          "url": "https://www.youtube.com/watch?v=IVVrG8Rrq7c"
+        },
+        {
+          "titel": "5 Tipps für einen gelungenen Vortrag",
+          "kanal": "einfach Schule",
+          "url": "https://www.youtube.com/watch?v=gMjCvairn7k"
+        }
+      ]
+    },
+    {
+      "id": "d03",
+      "nr": 3,
+      "titel": "Mind-Map und Stichwortzettel",
+      "bereich": "Sprechen und Zuhören",
+      "klasse": "5/6",
+      "satz": "Du ordnest Ideen und Infos in einer Mind-Map und schreibst dir Stichwörter für einen Vortrag auf.",
+      "erklaerung": "Bei einer Mind-Map steht das Thema in der Mitte. Davon gehen Äste ab für die wichtigsten Unterpunkte, und an die Äste kommen kleinere Zweige mit Einzelheiten. Auf einen Stichwortzettel schreibst du keine ganzen Sätze, sondern nur Schlüsselwörter, die dich beim Sprechen erinnern.",
+      "beispiele": [
+        "Thema „Igel“ in der Mitte, Äste: Aussehen, Nahrung, Winterschlaf, Feinde.",
+        "Stichwort statt Satz: „frisst Käfer, Würmer, Schnecken“.",
+        "Nummeriere deine Stichwortkarten, damit sie nicht durcheinander geraten."
+      ],
+      "baut_auf": [],
+      "quelle": "S. 17, 24",
+      "suche": "Mind-Map erstellen Schule",
+      "videos": [
+        {
+          "titel": "Lernmethode Mindmap am Beispiel erklärt",
+          "kanal": "lernfoerderung",
+          "url": "https://www.youtube.com/watch?v=dP1Jogij76g"
+        }
+      ]
+    },
+    {
+      "id": "d04",
+      "nr": 4,
+      "titel": "Kurzvortrag mit Plakat",
+      "bereich": "Sprechen und Zuhören",
+      "klasse": "6",
+      "satz": "Du hältst einen kurzen Vortrag zu einem Sachthema und zeigst dazu ein Plakat oder eine Folie.",
+      "erklaerung": "Ein Kurzvortrag hat eine Einleitung, einen Hauptteil und einen Schluss. Erst sammelst du Infos, dann ordnest du sie. Das Plakat soll man von hinten lesen können: große Überschrift, wenige Wörter, Bilder und klare Gliederung.",
+      "beispiele": [
+        "Einleitung: „Habt ihr gewusst, dass ein Igel bis zu 8 000 Stacheln hat?“",
+        "Hauptteil in drei bis vier Punkten, die auch auf dem Plakat stehen.",
+        "Schluss: kurze Zusammenfassung und „Habt ihr noch Fragen?“"
+      ],
+      "baut_auf": [
+        "d02",
+        "d03",
+        "d24"
+      ],
+      "quelle": "S. 15, 24",
+      "suche": "Referat halten Plakat gestalten Klasse 5",
+      "videos": [
+        {
+          "titel": "Plakate gestalten",
+          "kanal": "MOOCit",
+          "url": "https://www.youtube.com/watch?v=Q3-p8YMYyHc"
+        },
+        {
+          "titel": "Perfekte Referate: Referat vorbereiten",
+          "kanal": "lernfoerderung",
+          "url": "https://www.youtube.com/watch?v=8cyCtQwv9T4"
+        }
+      ]
+    },
+    {
+      "id": "d05",
+      "nr": 5,
+      "titel": "Vorlesen",
+      "bereich": "Sprechen und Zuhören",
+      "klasse": "5/6",
+      "satz": "Du liest eine Geschichte oder ein Gedicht so vor, dass man gern zuhört: mit Pausen, Betonung und passender Stimme.",
+      "erklaerung": "Lies den Text vorher einmal leise, damit du weißt, worum es geht. Beim Vorlesen machst du an Punkten eine Pause, betonst wichtige Wörter und veränderst die Stimme, wenn jemand spricht. Lieber etwas langsamer als zu schnell.",
+      "beispiele": [
+        "Markiere im Text mit einem Strich, wo du eine Pause machst.",
+        "Eine Frage liest du mit der Stimme nach oben, einen Ausruf kräftig.",
+        "Ein Riese spricht tief und langsam, eine Maus hoch und schnell."
+      ],
+      "baut_auf": [],
+      "quelle": "S. 14, 15",
+      "suche": "betont vorlesen Tipps",
+      "videos": [
+        {
+          "titel": "Besser Vorlesen: Mit diesen Tipps hören alle zu",
+          "kanal": "planet schule",
+          "url": "https://www.youtube.com/watch?v=-0FUiSL8gs8"
+        }
+      ]
+    },
+    {
+      "id": "d06",
+      "nr": 6,
+      "titel": "Gedicht auswendig vortragen",
+      "bereich": "Sprechen und Zuhören",
+      "klasse": "5/6",
+      "satz": "Du lernst ein Gedicht mit Tricks auswendig und trägst es betont vor.",
+      "erklaerung": "Lerne ein Gedicht Strophe für Strophe. Lies jede Strophe mehrmals laut, deck sie dann ab und sag sie auf. Bilder im Kopf und die Reimwörter helfen beim Merken. Beim Vortrag sprichst du langsam und machst am Ende jeder Strophe eine kleine Pause.",
+      "beispiele": [
+        "Male zu jeder Strophe ein kleines Bild, das dich an den Inhalt erinnert.",
+        "Schreib nur die ersten Wörter jeder Zeile auf einen Zettel und übe damit.",
+        "Wiederhole das Gedicht am nächsten Tag, so bleibt es besser im Kopf."
+      ],
+      "baut_auf": [
+        "d05",
+        "d26"
+      ],
+      "quelle": "S. 15",
+      "suche": "Gedicht auswendig lernen Tipps",
+      "videos": [
+        {
+          "titel": "So lernst du Gedichte auswendig",
+          "kanal": "Das LernTeam",
+          "url": "https://www.youtube.com/watch?v=7up3eOugCbE"
+        }
+      ]
+    },
+    {
+      "id": "d07",
+      "nr": 7,
+      "titel": "Gesprächsregeln und gutes Zuhören",
+      "bereich": "Sprechen und Zuhören",
+      "klasse": "5",
+      "satz": "Du hältst dich in Gesprächen an Regeln, lässt andere ausreden, hörst gut zu und fragst nach, wenn du etwas nicht verstehst.",
+      "erklaerung": "Ein Gespräch klappt, wenn alle sich an Regeln halten: melden, ausreden lassen, beim Thema bleiben und freundlich bleiben. Eine Redeliste legt fest, wer als Nächstes dran ist. Gutes Zuhören heißt, dass du dir das Wichtigste merkst oder notierst und nachfragst.",
+      "beispiele": [
+        "„Ich sehe das anders, weil …“ statt „Das ist doch Quatsch!“",
+        "Redeliste: Lea, dann Ben, dann Mia.",
+        "Nachfragen: „Habe ich richtig verstanden, dass …?“"
+      ],
+      "baut_auf": [],
+      "quelle": "S. 16",
+      "suche": "Gesprächsregeln Schule",
+      "videos": [
+        {
+          "titel": "Gesprächsregeln",
+          "kanal": "MOOCit",
+          "url": "https://www.youtube.com/watch?v=CWpibyBUdII"
+        }
+      ]
+    },
+    {
+      "id": "d08",
+      "nr": 8,
+      "titel": "Ein Gespräch leiten",
+      "bereich": "Sprechen und Zuhören",
+      "klasse": "6",
+      "satz": "Du leitest selbst ein Klassengespräch: Du rufst auf, achtest auf die Regeln und fasst am Ende zusammen.",
+      "erklaerung": "Die Gesprächsleitung sagt am Anfang, worum es geht. Sie führt die Redeliste, ruft auf und achtet darauf, dass alle beim Thema bleiben. Am Ende fasst sie zusammen, was besprochen oder entschieden wurde.",
+      "beispiele": [
+        "„Heute geht es um die Frage, wohin der Ausflug geht.“",
+        "„Ben, du bist dran. Danach Lea.“",
+        "„Wir haben uns also für den Zoo entschieden.“"
+      ],
+      "baut_auf": [
+        "d07"
+      ],
+      "quelle": "S. 16 (vertiefend)",
+      "suche": "Diskussion leiten Moderation Schule",
+      "videos": []
+    },
+    {
+      "id": "d09",
+      "nr": 9,
+      "titel": "Szenen spielen",
+      "bereich": "Sprechen und Zuhören",
+      "klasse": "5/6",
+      "satz": "Du spielst eine kurze Szene oder ein Rollenspiel nach einer Vorlage und veränderst sie auch selbst.",
+      "erklaerung": "Bei einer Szene zeigst du mit Stimme, Gesicht und Bewegung, wie sich eine Figur fühlt. Überlege vorher: Wer bin ich, was will ich, wie geht es mir? Du kannst eine Szene auch umschreiben, zum Beispiel mit einem anderen Ende.",
+      "beispiele": [
+        "Ein Streit auf dem Schulhof wird zweimal gespielt: einmal wütend, einmal mit einer Lösung.",
+        "Standbild: Alle frieren in einer Haltung ein, die zeigt, was gerade passiert.",
+        "Spiel eine Märchenszene, aber verlegt in die heutige Zeit."
+      ],
+      "baut_auf": [],
+      "quelle": "S. 16, 22, 23",
+      "suche": "Rollenspiel Standbild Schule",
+      "videos": [
+        {
+          "titel": "Standbild Methode",
+          "kanal": "Methoden BAG",
+          "url": "https://www.youtube.com/watch?v=hk9SckjLm3U"
+        }
+      ]
+    },
+    {
+      "id": "d10",
+      "nr": 10,
+      "titel": "Plattdeutsch und Hochdeutsch",
+      "bereich": "Sprechen und Zuhören",
+      "klasse": "5/6",
+      "satz": "Du entdeckst, worin sich Plattdeutsch und Hochdeutsch unterscheiden, vor allem bei den Wörtern.",
+      "erklaerung": "Plattdeutsch ist eine eigene Regionalsprache in Norddeutschland. Viele Wörter klingen anders als im Hochdeutschen und erinnern manchmal an Englisch. Hör genau hin, wo dir Plattdeutsch begegnet, und vergleiche die Wörter.",
+      "beispiele": [
+        "Plattdeutsch „Water“, Hochdeutsch „Wasser“, Englisch „water“.",
+        "„Moin“ ist ein Gruß, den man den ganzen Tag benutzt.",
+        "Plattdeutsch „Ik snack Platt“ heißt „Ich spreche Plattdeutsch“."
+      ],
+      "baut_auf": [],
+      "quelle": "S. 15",
+      "suche": "Plattdeutsch lernen Kinder",
+      "videos": [
+        {
+          "titel": "Dialekte Hotline: Plattdeutsch",
+          "kanal": "Goethe-Institut",
+          "url": "https://www.youtube.com/watch?v=bV1AlDicXNw"
+        }
+      ]
+    },
+    {
+      "id": "d11",
+      "nr": 11,
+      "titel": "Texte planen und überarbeiten",
+      "bereich": "Schreiben",
+      "klasse": "5/6",
+      "satz": "Du sammelst vor dem Schreiben Ideen in Stichwörtern und verbesserst deinen Text danach Schritt für Schritt.",
+      "erklaerung": "Gutes Schreiben hat drei Schritte: planen, schreiben, überarbeiten. Beim Planen sammelst du Ideen und bringst sie in eine Reihenfolge. Nach dem Schreiben liest du deinen Text noch einmal mit Abstand und prüfst Inhalt, Satzanfänge und Rechtschreibung.",
+      "beispiele": [
+        "Schreibplan: Einleitung, Hauptteil, Schluss in Stichwörtern.",
+        "Prüffrage: Fangen drei Sätze hintereinander mit „Dann“ an?",
+        "Lass jemand anderen deinen Text lesen und sag, was unklar ist."
+      ],
+      "baut_auf": [],
+      "quelle": "S. 17",
+      "suche": "Texte überarbeiten Schreibkonferenz",
+      "videos": [
+        {
+          "titel": "Überarbeiten: besser schreiben",
+          "kanal": "MOOCit",
+          "url": "https://www.youtube.com/watch?v=z6PvVVaBEkk"
+        },
+        {
+          "titel": "Schreibkonferenz: Die Texte-Werkstatt",
+          "kanal": "MOOCit",
+          "url": "https://www.youtube.com/watch?v=WpndMYwy6WU"
+        }
+      ]
+    },
+    {
+      "id": "d12",
+      "nr": 12,
+      "titel": "Spannend erzählen",
+      "bereich": "Schreiben",
+      "klasse": "5",
+      "satz": "Du schreibst eine Erzählung mit Einleitung, spannendem Höhepunkt und Schluss.",
+      "erklaerung": "Eine Erzählung folgt einem Spannungsbogen. In der Einleitung erfährt man, wer, wann und wo. Im Hauptteil steigt die Spannung bis zum Höhepunkt, dem spannendsten Moment. Danach löst sich alles im Schluss auf. Erzählt wird meistens im Präteritum.",
+      "beispiele": [
+        "Einleitung: „Es war ein stürmischer Abend im November.“",
+        "Spannung steigern: „Da hörte ich ein Knacken. Dann noch eins. Ganz nah.“",
+        "Schluss: „Es war nur unser Kater, der durch die Klappe wollte.“"
+      ],
+      "baut_auf": [
+        "d11"
+      ],
+      "quelle": "S. 18",
+      "suche": "Erzählung schreiben Spannungsbogen Klasse 5",
+      "videos": [
+        {
+          "titel": "Eine Erzählung schreiben",
+          "kanal": "MOOCit",
+          "url": "https://www.youtube.com/watch?v=U1tNg84QjuM"
+        },
+        {
+          "titel": "Eine fesselnde Erlebniserzählung in fünf Schritten",
+          "kanal": "lernfoerderung",
+          "url": "https://www.youtube.com/watch?v=hxFowcUpraA"
+        }
+      ]
+    },
+    {
+      "id": "d13",
+      "nr": 13,
+      "titel": "Lebendig erzählen",
+      "bereich": "Schreiben",
+      "klasse": "5/6",
+      "satz": "Du machst deine Geschichte lebendig mit wörtlicher Rede, Gefühlen und treffenden Wörtern.",
+      "erklaerung": "Lebendig wird eine Geschichte, wenn die Leser mitfühlen. Lass Figuren sprechen, beschreibe, was sie denken und fühlen, und nutze genaue Verben und Adjektive. Statt „sagen“ und „gehen“ gibt es viele bessere Wörter.",
+      "beispiele": [
+        "„Hilfe!“, schrie Tom. Statt: Tom sagte, dass er Hilfe braucht.",
+        "Statt „ging“: schlich, rannte, stolperte, schlenderte.",
+        "Gefühl zeigen: „Mein Herz klopfte bis zum Hals.“"
+      ],
+      "baut_auf": [
+        "d12",
+        "d58"
+      ],
+      "quelle": "S. 18",
+      "suche": "lebendig erzählen wörtliche Rede Gefühle",
+      "videos": [
+        {
+          "titel": "Lebendig erzählen und Erzähltricks",
+          "kanal": "Learnhard",
+          "url": "https://www.youtube.com/watch?v=KDBchtyZZ3o"
+        }
+      ]
+    },
+    {
+      "id": "d14",
+      "nr": 14,
+      "titel": "Fantasie- und Reizwortgeschichten",
+      "bereich": "Schreiben",
+      "klasse": "5",
+      "satz": "Du schreibst zu einem Bild, zu Reizwörtern oder zu einem Anfang eine eigene Geschichte.",
+      "erklaerung": "Bei einer Reizwortgeschichte bekommst du drei bis vier Wörter, die alle in deiner Geschichte vorkommen müssen. Überlege dir zuerst, wie die Wörter zusammenpassen könnten. Bei einer Fantasiegeschichte darf alles passieren, aber sie braucht trotzdem einen roten Faden.",
+      "beispiele": [
+        "Reizwörter: Schlüssel, Gewitter, Dachboden.",
+        "Schreibanfang: „Als ich die Tür öffnete, stand dort ein sprechender Hund.“",
+        "Bildimpuls: Schreib eine Geschichte zu einem Foto von einem leeren Bahnhof."
+      ],
+      "baut_auf": [
+        "d12"
+      ],
+      "quelle": "S. 18",
+      "suche": "Reizwortgeschichte schreiben",
+      "videos": [
+        {
+          "titel": "Reizwortgeschichte schreiben in 7 Schritten",
+          "kanal": "lernfoerderung",
+          "url": "https://www.youtube.com/watch?v=zXGEQeUrm4w"
+        }
+      ]
+    },
+    {
+      "id": "d15",
+      "nr": 15,
+      "titel": "Bericht",
+      "bereich": "Schreiben",
+      "klasse": "6",
+      "satz": "Du schreibst sachlich und in der richtigen Reihenfolge auf, was passiert ist, und beantwortest dabei die W-Fragen.",
+      "erklaerung": "Ein Bericht informiert, er will nicht unterhalten. Er beantwortet die W-Fragen: Wer, was, wann, wo, wie, warum und welche Folgen. Du schreibst sachlich, ohne Gefühle und ohne wörtliche Rede, in der richtigen Reihenfolge und im Präteritum.",
+      "beispiele": [
+        "„Am Montag, dem 3. März, stürzte gegen 8 Uhr ein Schüler auf dem Schulhof.“",
+        "Nicht: „Es war total schrecklich!“, sondern: „Er verletzte sich am Knie.“",
+        "Typische Berichte: Unfallbericht, Bericht über einen Ausflug oder ein Sportfest."
+      ],
+      "baut_auf": [
+        "d11"
+      ],
+      "quelle": "S. 19, 22",
+      "suche": "Bericht schreiben W-Fragen Klasse 6",
+      "videos": [
+        {
+          "titel": "Bericht schreiben 7 Punkte Plan",
+          "kanal": "lernfoerderung",
+          "url": "https://www.youtube.com/watch?v=aE9rC0Yh36o"
+        },
+        {
+          "titel": "Bericht schreiben einfach erklärt",
+          "kanal": "Learnhard",
+          "url": "https://www.youtube.com/watch?v=UOyZRuhizTQ"
+        }
+      ]
+    },
+    {
+      "id": "d16",
+      "nr": 16,
+      "titel": "Personen und Gegenstände beschreiben",
+      "bereich": "Schreiben",
+      "klasse": "5",
+      "satz": "Du beschreibst eine Person, ein Tier oder einen Gegenstand so genau, dass man ihn erkennen kann.",
+      "erklaerung": "Eine Beschreibung ist sachlich und genau. Geh in einer sinnvollen Reihenfolge vor, zum Beispiel vom Gesamteindruck zu den Einzelheiten oder von oben nach unten. Benutze genaue Adjektive und schreib im Präsens.",
+      "beispiele": [
+        "Fahrrad: Farbe, Größe, Art, Besonderheiten wie Aufkleber oder Klingel.",
+        "Person: Alter, Größe, Haare, Kleidung, besondere Merkmale.",
+        "Statt „schön“: glänzend, gestreift, rund, abgenutzt."
+      ],
+      "baut_auf": [
+        "d11"
+      ],
+      "quelle": "S. 19",
+      "suche": "Gegenstandsbeschreibung Personenbeschreibung Klasse 5",
+      "videos": [
+        {
+          "titel": "Gegenstandsbeschreibung",
+          "kanal": "MOOCit",
+          "url": "https://www.youtube.com/watch?v=TnkyK_cGOVg"
+        },
+        {
+          "titel": "Personenbeschreibung",
+          "kanal": "MOOCit",
+          "url": "https://www.youtube.com/watch?v=bI35mCLMoMw"
+        }
+      ]
+    },
+    {
+      "id": "d17",
+      "nr": 17,
+      "titel": "Vorgänge und Wege beschreiben",
+      "bereich": "Schreiben",
+      "klasse": "5/6",
+      "satz": "Du schreibst eine Anleitung, ein Rezept oder eine Wegbeschreibung so, dass jemand sie nachmachen kann.",
+      "erklaerung": "Bei einer Vorgangsbeschreibung kommt es auf die richtige Reihenfolge an. Zuerst nennst du, was man braucht, dann beschreibst du Schritt für Schritt, was zu tun ist. Wörter wie zuerst, danach und zum Schluss helfen beim Folgen.",
+      "beispiele": [
+        "Rezept: „Zuerst schlägst du die Eier in eine Schüssel. Danach …“",
+        "Wegbeschreibung: „Geh an der Ampel links und dann die zweite Straße rechts.“",
+        "Spielanleitung: Material, Ziel des Spiels, Ablauf, Gewinner."
+      ],
+      "baut_auf": [
+        "d16"
+      ],
+      "quelle": "S. 19, 22",
+      "suche": "Vorgangsbeschreibung schreiben",
+      "videos": [
+        {
+          "titel": "Vorgangsbeschreibung mit Beispiel",
+          "kanal": "lernfoerderung",
+          "url": "https://www.youtube.com/watch?v=SST_Y_pD_t8"
+        },
+        {
+          "titel": "Vorgangsbeschreibung",
+          "kanal": "Ivi-Education",
+          "url": "https://www.youtube.com/watch?v=gmL-iwmyHXg"
+        }
+      ]
+    },
+    {
+      "id": "d18",
+      "nr": 18,
+      "titel": "Inhalt wiedergeben",
+      "bereich": "Schreiben",
+      "klasse": "6",
+      "satz": "Du gibst mit eigenen Worten und mit Hilfe von Stichwörtern wieder, worum es in einem Text geht.",
+      "erklaerung": "Beim Wiedergeben erzählst du nur das Wichtigste, ohne eigene Meinung und ohne Ausschmückungen. Lies den Text, notiere Stichwörter zu jedem Abschnitt und schreibe dann mit eigenen Worten im Präsens.",
+      "beispiele": [
+        "Erster Satz: „In der Fabel ‚Der Fuchs und der Rabe‘ geht es um …“",
+        "Statt wörtlicher Rede: „Der Fuchs lobt den Raben.“",
+        "Nur das Wichtigste: aus zwei Seiten werden fünf bis acht Sätze."
+      ],
+      "baut_auf": [
+        "d23"
+      ],
+      "quelle": "S. 14, 19",
+      "suche": "Inhaltsangabe Nacherzählung Klasse 6",
+      "videos": [
+        {
+          "titel": "Nacherzählung erklärt in 5 Minuten",
+          "kanal": "lernfoerderung",
+          "url": "https://www.youtube.com/watch?v=d-lr063rLK4"
+        },
+        {
+          "titel": "Wie schreibe ich eine Inhaltsangabe / Zusammenfassung?",
+          "kanal": "Die Merkhilfe",
+          "url": "https://www.youtube.com/watch?v=hrKHjgtGmoU"
+        }
+      ]
+    },
+    {
+      "id": "d19",
+      "nr": 19,
+      "titel": "Meinung begründen",
+      "bereich": "Schreiben",
+      "klasse": "5/6",
+      "satz": "Du sagst deine Meinung und begründest sie mit Argumenten und Beispielen.",
+      "erklaerung": "Eine Meinung überzeugt, wenn du sie begründest. Ein gutes Argument besteht aus Behauptung, Begründung und Beispiel. Überlege auch, was die andere Seite sagen könnte.",
+      "beispiele": [
+        "Behauptung: „Wir sollten ein Haustier haben.“",
+        "Begründung: „weil ich dann Verantwortung lerne.“",
+        "Beispiel: „Ich würde jeden Tag mit dem Hund rausgehen.“"
+      ],
+      "baut_auf": [],
+      "quelle": "S. 19",
+      "suche": "Argumentieren Behauptung Begründung Beispiel",
+      "videos": [
+        {
+          "titel": "Tempel der Argumentation",
+          "kanal": "Die Merkhilfe",
+          "url": "https://www.youtube.com/watch?v=Cl-TiUC6J44"
+        },
+        {
+          "titel": "Richtig argumentieren",
+          "kanal": "musstewissen Deutsch",
+          "url": "https://www.youtube.com/watch?v=M3p11yGM5CI"
+        }
+      ]
+    },
+    {
+      "id": "d20",
+      "nr": 20,
+      "titel": "Überzeugen mit Plakat und Werbung",
+      "bereich": "Schreiben",
+      "klasse": "6",
+      "satz": "Du gestaltest ein Plakat, einen Aufruf oder einen Werbetext, der andere überzeugen soll.",
+      "erklaerung": "Werbung und Aufrufe wollen, dass jemand etwas tut oder kauft. Sie nutzen kurze Sätze, Ausrufe, direkte Anrede und Bilder. Wenn du selbst so einen Text schreibst, überlege genau, wen du überzeugen willst.",
+      "beispiele": [
+        "Aufruf: „Mach mit beim Müllsammeltag am Samstag!“",
+        "Werbesprache: „Das Beste für dein Frühstück!“",
+        "Prüffrage bei echter Werbung: Was verspricht sie und stimmt das wirklich?"
+      ],
+      "baut_auf": [
+        "d19"
+      ],
+      "quelle": "S. 19, 20, 22",
+      "suche": "Werbung Merkmale Werbesprache Schule",
+      "videos": [
+        {
+          "titel": "Werbung, Werbeplakat, Werbeanzeige verstehen",
+          "kanal": "MOOCit",
+          "url": "https://www.youtube.com/watch?v=FdzqM55IhW8"
+        }
+      ]
+    },
+    {
+      "id": "d21",
+      "nr": 21,
+      "titel": "Brief und Einladung",
+      "bereich": "Schreiben",
+      "klasse": "5",
+      "satz": "Du schreibst einen persönlichen Brief oder eine Einladung mit Anrede, Datum und Gruß.",
+      "erklaerung": "Ein Brief hat einen festen Aufbau: Ort und Datum oben rechts, eine Anrede, den Brieftext und einen Gruß mit Unterschrift. In einer Einladung müssen alle wichtigen Infos stehen: Was, wann, wo und ob man etwas mitbringen soll.",
+      "beispiele": [
+        "„Hannover, 27. November 2026“ oben rechts.",
+        "Anrede: „Liebe Oma,“ danach klein weiterschreiben.",
+        "Einladung: „Ich feiere am Samstag um 15 Uhr meinen Geburtstag bei uns zu Hause.“"
+      ],
+      "baut_auf": [],
+      "quelle": "S. 20",
+      "suche": "persönlichen Brief schreiben Aufbau",
+      "videos": [
+        {
+          "titel": "Persönlichen Brief schreiben: Anleitung und Beispiel",
+          "kanal": "lernfoerderung",
+          "url": "https://www.youtube.com/watch?v=EhrURwQZa4s"
+        }
+      ]
+    },
+    {
+      "id": "d22",
+      "nr": 22,
+      "titel": "Am Computer schreiben",
+      "bereich": "Schreiben",
+      "klasse": "5/6",
+      "satz": "Du schreibst einen Text mit einem Schreibprogramm und gestaltest ihn übersichtlich.",
+      "erklaerung": "Ein Schreibprogramm hilft dir beim Gestalten: Überschriften größer, Absätze für neue Gedanken, Bilder einfügen. Die Rechtschreibprüfung findet viele Fehler, aber nicht alle. Speichere deine Arbeit regelmäßig.",
+      "beispiele": [
+        "Überschrift fett und größer, Text in einer gut lesbaren Schrift.",
+        "Eine Leerzeile zwischen Absätzen macht den Text übersichtlich.",
+        "Rot unterstrichen heißt: Das Wort ist vielleicht falsch geschrieben."
+      ],
+      "baut_auf": [],
+      "quelle": "S. 20",
+      "suche": "Textverarbeitung Grundlagen Kinder",
+      "videos": []
+    },
+    {
+      "id": "d23",
+      "nr": 23,
+      "titel": "Lesetricks",
+      "bereich": "Lesen, Texte und Medien",
+      "klasse": "5",
+      "satz": "Du nutzt Tricks, um Texte besser zu verstehen: Überschrift beachten, Schlüsselwörter markieren, Abschnitte benennen.",
+      "erklaerung": "Vor dem Lesen schaust du dir Überschrift und Bilder an und überlegst, worum es gehen könnte. Beim Lesen markierst du wichtige Wörter, aber nicht zu viele. Danach gibst du jedem Abschnitt eine kurze Überschrift und klärst unbekannte Wörter.",
+      "beispiele": [
+        "Überschrift „Wie Bienen Honig machen“: Was weißt du schon darüber?",
+        "Pro Abschnitt nur zwei bis drei Schlüsselwörter markieren.",
+        "Unbekanntes Wort: aus dem Zusammenhang erschließen oder nachschlagen."
+      ],
+      "baut_auf": [],
+      "quelle": "S. 21",
+      "suche": "Lesestrategien Fünf-Schritt-Lesemethode",
+      "videos": [
+        {
+          "titel": "5-Schritt-Lesemethode",
+          "kanal": "MOOCit",
+          "url": "https://www.youtube.com/watch?v=LhpBQamPUYY"
+        },
+        {
+          "titel": "Tipps für schnelles Lesen und Verstehen",
+          "kanal": "Die Merkhilfe",
+          "url": "https://www.youtube.com/watch?v=oHZwHa7WDxs"
+        }
+      ]
+    },
+    {
+      "id": "d24",
+      "nr": 24,
+      "titel": "Infos aus Sachtexten und Schaubildern",
+      "bereich": "Lesen, Texte und Medien",
+      "klasse": "5/6",
+      "satz": "Du findest in Sachtexten, Tabellen und Diagrammen die Infos, die du brauchst, und sagst sie mit eigenen Worten.",
+      "erklaerung": "Sachtexte informieren über echte Dinge. Oft gehören Tabellen, Karten oder Diagramme dazu. Bei einem Schaubild liest du zuerst die Überschrift und die Achsen, dann suchst du den größten und kleinsten Wert und beschreibst in Sätzen, was du siehst.",
+      "beispiele": [
+        "Frage an den Text: „Wie lange hält ein Igel Winterschlaf?“",
+        "„Das Diagramm zeigt, wie viele Kinder welches Haustier haben.“",
+        "„Am beliebtesten sind Katzen, am seltensten Vögel.“"
+      ],
+      "baut_auf": [
+        "d23"
+      ],
+      "quelle": "S. 20, 22",
+      "suche": "Sachtexte erschließen Diagramm beschreiben",
+      "videos": [
+        {
+          "titel": "Sachtexte verstehen",
+          "kanal": "MOOCit",
+          "url": "https://www.youtube.com/watch?v=YJcCK_gA2gc"
+        },
+        {
+          "titel": "Schaubilder und Diagramme auswerten",
+          "kanal": "Ivi-Education",
+          "url": "https://www.youtube.com/watch?v=9noQqyctxP4"
+        }
+      ]
+    },
+    {
+      "id": "d25",
+      "nr": 25,
+      "titel": "Bücherei und Internet",
+      "bereich": "Lesen, Texte und Medien",
+      "klasse": "5/6",
+      "satz": "Du findest Bücher und Infos in einer Bücherei und im Internet.",
+      "erklaerung": "In einer Bücherei sind die Bücher nach Themen sortiert. Im Internet findest du viel, aber nicht alles stimmt. Gute Seiten für Kinder sind zum Beispiel Kinderlexika und Kindersuchmaschinen. Prüfe immer, wer eine Seite gemacht hat.",
+      "beispiele": [
+        "Kindersuchmaschinen: fragFINN, Blinde Kuh, Helles Köpfchen.",
+        "Kinderlexikon im Netz: Klexikon.",
+        "Frage dich: Wer schreibt das, und warum?"
+      ],
+      "baut_auf": [],
+      "quelle": "S. 24",
+      "suche": "im Internet recherchieren Kinder",
+      "videos": [
+        {
+          "titel": "Wie sucht man richtig im INTERNET?",
+          "kanal": "fragFINN",
+          "url": "https://www.youtube.com/watch?v=Rb-JoRTCyP8"
+        },
+        {
+          "titel": "Recherche im Netz: 5 Tipps",
+          "kanal": "lernfoerderung",
+          "url": "https://www.youtube.com/watch?v=Isa2j7s_d8M"
+        }
+      ]
+    },
+    {
+      "id": "d26",
+      "nr": 26,
+      "titel": "Gedichte",
+      "bereich": "Lesen, Texte und Medien",
+      "klasse": "5",
+      "satz": "Du kennst Vers, Strophe und Reim und merkst, wie ein Gedicht klingt.",
+      "erklaerung": "Eine Zeile in einem Gedicht heißt Vers. Mehrere Verse zusammen bilden eine Strophe. Reimen sich die Enden von Versen, entsteht ein Reim. Es gibt verschiedene Reimformen, zum Beispiel den Paarreim und den Kreuzreim.",
+      "beispiele": [
+        "Paarreim (aabb): Haus, Maus, Baum, Traum.",
+        "Kreuzreim (abab): Haus, Baum, Maus, Traum.",
+        "Umarmender Reim (abba): Haus, Baum, Traum, Maus."
+      ],
+      "baut_auf": [],
+      "quelle": "S. 22, 23",
+      "suche": "Gedichte Vers Strophe Reim",
+      "videos": [
+        {
+          "titel": "Was ist der Unterschied zwischen Paarreim und Kreuzreim?",
+          "kanal": "Schulpuls",
+          "url": "https://www.youtube.com/watch?v=iNKbOEKQIig"
+        }
+      ]
+    },
+    {
+      "id": "d27",
+      "nr": 27,
+      "titel": "Balladen",
+      "bereich": "Lesen, Texte und Medien",
+      "klasse": "6",
+      "satz": "Du liest Gedichte, die eine spannende Geschichte erzählen, und findest heraus, was sie besonders macht.",
+      "erklaerung": "Eine Ballade ist ein Gedicht, das eine spannende Geschichte erzählt. Sie hat Verse und Strophen wie ein Gedicht, Handlung wie eine Erzählung und oft Figuren, die sprechen wie in einem Theaterstück. Häufig geht es um Gefahr, Mut oder unheimliche Ereignisse.",
+      "beispiele": [
+        "„Der Zauberlehrling“ von Goethe: Ein Lehrling verliert die Kontrolle über einen Zauber.",
+        "„Herr von Ribbeck auf Ribbeck im Havelland“ von Fontane: Ein Birnbaum erinnert an einen freundlichen Mann.",
+        "„John Maynard“ von Fontane: Ein Steuermann rettet die Menschen auf einem brennenden Schiff."
+      ],
+      "baut_auf": [
+        "d26"
+      ],
+      "quelle": "S. 22",
+      "suche": "Ballade Merkmale Klasse 6",
+      "videos": [
+        {
+          "titel": "Ballade und Sonett: Merkmale",
+          "kanal": "Die Merkhilfe",
+          "url": "https://www.youtube.com/watch?v=XxYT31yRrZQ"
+        }
+      ]
+    },
+    {
+      "id": "d28",
+      "nr": 28,
+      "titel": "Märchen lesen und schreiben",
+      "bereich": "Lesen, Texte und Medien",
+      "klasse": "5",
+      "satz": "Du erkennst Märchen an typischen Merkmalen und schreibst selbst eines.",
+      "erklaerung": "Märchen beginnen oft mit „Es war einmal“. Es gibt Gut und Böse, Zauberei, sprechende Tiere und magische Zahlen wie 3 und 7. Der Held muss Aufgaben lösen, und am Ende siegt meist das Gute. Wenn du selbst ein Märchen schreibst, nimm einige dieser Merkmale auf.",
+      "beispiele": [
+        "Bekannte Märchen der Brüder Grimm: Hänsel und Gretel, Rumpelstilzchen, Frau Holle.",
+        "Magische Zahl: drei Wünsche, sieben Zwerge.",
+        "Schluss: „Und wenn sie nicht gestorben sind, dann leben sie noch heute.“"
+      ],
+      "baut_auf": [
+        "d12"
+      ],
+      "quelle": "S. 18, 22",
+      "suche": "Märchen Merkmale Klasse 5",
+      "videos": [
+        {
+          "titel": "Die Märchen-Formel",
+          "kanal": "MOOCit",
+          "url": "https://www.youtube.com/watch?v=KPvmQvl-rCY"
+        },
+        {
+          "titel": "12 Märchenmerkmale",
+          "kanal": "lernfoerderung",
+          "url": "https://www.youtube.com/watch?v=PAD9qxF149Y"
+        }
+      ]
+    },
+    {
+      "id": "d29",
+      "nr": 29,
+      "titel": "Fabeln lesen und schreiben",
+      "bereich": "Lesen, Texte und Medien",
+      "klasse": "6",
+      "satz": "Du verstehst, welche Lehre in einer Fabel steckt, und schreibst selbst eine.",
+      "erklaerung": "In Fabeln handeln Tiere wie Menschen. Jedes Tier steht für eine Eigenschaft: der Fuchs für List, der Löwe für Macht. Eine Fabel ist kurz und endet mit einer Lehre, die zeigt, was man daraus lernen kann. Bekannte Fabeldichter sind Äsop und Lessing.",
+      "beispiele": [
+        "„Der Fuchs und der Rabe“: Wer auf Schmeicheleien hereinfällt, verliert.",
+        "Aufbau: Ausgangslage, Konflikt, Lösung, Lehre.",
+        "Eigene Fabel: Eine eitle Elster und eine schlaue Maus streiten um ein Stück Käse."
+      ],
+      "baut_auf": [
+        "d12"
+      ],
+      "quelle": "S. 18, 22",
+      "suche": "Fabel Merkmale schreiben Klasse 6",
+      "videos": [
+        {
+          "titel": "Alles über Fabeln mit Beispielen",
+          "kanal": "lernfoerderung",
+          "url": "https://www.youtube.com/watch?v=8wy1BzxJ91c"
+        },
+        {
+          "titel": "Fabel schreiben in 3 Schritten",
+          "kanal": "lernfoerderung",
+          "url": "https://www.youtube.com/watch?v=dVUcsBIsVYM"
+        }
+      ]
+    },
+    {
+      "id": "d30",
+      "nr": 30,
+      "titel": "Sagen",
+      "bereich": "Lesen, Texte und Medien",
+      "klasse": "6",
+      "satz": "Du liest Sagen, auch aus deiner Gegend, und erkennst, was an ihnen wahr sein könnte.",
+      "erklaerung": "Sagen spielen an echten Orten oder handeln von echten Personen, enthalten aber auch Erfundenes und Übernatürliches. Sie wurden lange mündlich weitererzählt. Oft erklären sie, wie ein Ort oder Name entstanden ist.",
+      "beispiele": [
+        "„Der Rattenfänger von Hameln“ spielt in einer echten Stadt in Niedersachsen.",
+        "Heldensagen erzählen von Herkules oder Siegfried.",
+        "An der Nordseeküste erzählt man sich Sagen vom Klabautermann und vom Seeräuber Störtebeker."
+      ],
+      "baut_auf": [],
+      "quelle": "S. 22",
+      "suche": "Sagen Merkmale Klasse 6",
+      "videos": [
+        {
+          "titel": "Sagen verstehen",
+          "kanal": "MOOCit",
+          "url": "https://www.youtube.com/watch?v=_a9Sbj70aR0"
+        }
+      ]
+    },
+    {
+      "id": "d31",
+      "nr": 31,
+      "titel": "Ein ganzes Buch lesen",
+      "bereich": "Lesen, Texte und Medien",
+      "klasse": "5/6",
+      "satz": "Du liest ein Kinder- oder Jugendbuch und stellst es anderen vor.",
+      "erklaerung": "Ein ganzes Buch zu lesen braucht Zeit. Es hilft, jeden Tag ein Stück zu lesen. Für eine Buchvorstellung erzählst du, worum es geht, ohne das Ende zu verraten, liest eine spannende Stelle vor und sagst, wem du es empfiehlst.",
+      "beispiele": [
+        "Lesetagebuch: Nach jedem Kapitel zwei Sätze und eine Zeichnung.",
+        "Buchvorstellung: Titel, Autorin oder Autor, Hauptfigur, Inhalt, Lieblingsstelle, Meinung.",
+        "Tipp: Frag in der Bücherei nach Büchern, die zu deinen Hobbys passen."
+      ],
+      "baut_auf": [],
+      "quelle": "S. 22, 34",
+      "suche": "Buchvorstellung Schule Tipps",
+      "videos": [
+        {
+          "titel": "Die perfekte Buchvorstellung",
+          "kanal": "MOOCit",
+          "url": "https://www.youtube.com/watch?v=tWezA70Dc7w"
+        }
+      ]
+    },
+    {
+      "id": "d32",
+      "nr": 32,
+      "titel": "Fachwörter für Geschichten",
+      "bereich": "Lesen, Texte und Medien",
+      "klasse": "5/6",
+      "satz": "Du kennst Wörter wie Erzähler, Figur, Dialog und Überschrift und findest das im Text wieder.",
+      "erklaerung": "Wer eine Geschichte erzählt, ist der Erzähler. Das ist nicht dasselbe wie die Autorin oder der Autor. Ein Ich-Erzähler ist selbst Teil der Geschichte, ein Er- oder Sie-Erzähler erzählt von außen. Die Personen in einer Geschichte heißen Figuren, ein Gespräch zwischen ihnen heißt Dialog.",
+      "beispiele": [
+        "Ich-Erzähler: „Ich rannte los, so schnell ich konnte.“",
+        "Er-Erzähler: „Paul rannte los, so schnell er konnte.“",
+        "Hauptfigur ist die Figur, um die es vor allem geht."
+      ],
+      "baut_auf": [],
+      "quelle": "S. 23",
+      "suche": "Ich-Erzähler Er-Erzähler Erzählperspektive",
+      "videos": []
+    },
+    {
+      "id": "d33",
+      "nr": 33,
+      "titel": "Texte genauer untersuchen",
+      "bereich": "Lesen, Texte und Medien",
+      "klasse": "6",
+      "satz": "Du untersuchst einen Text mit Leitfragen und belegst deine Vermutungen mit Textstellen.",
+      "erklaerung": "Beim Untersuchen fragst du: Wer sind die Figuren, was wollen sie, wie verändern sie sich? Wenn du eine Vermutung hast, suchst du eine Stelle im Text, die sie zeigt, und gibst die Zeile an.",
+      "beispiele": [
+        "Leitfrage: „Warum ist Lisa am Ende traurig?“",
+        "Beleg: „Sie wischte sich heimlich eine Träne ab“ (Z. 24).",
+        "Überschrift und Text: Passt der Titel zum Inhalt, oder macht er neugierig auf etwas anderes?"
+      ],
+      "baut_auf": [
+        "d23",
+        "d32"
+      ],
+      "quelle": "S. 23",
+      "suche": "Textstellen belegen zitieren Klasse 6",
+      "videos": [
+        {
+          "titel": "Richtig zitieren",
+          "kanal": "Die Merkhilfe",
+          "url": "https://www.youtube.com/watch?v=8-oSO2E8McM"
+        }
+      ]
+    },
+    {
+      "id": "d34",
+      "nr": 34,
+      "titel": "Weiterschreiben und Perspektive wechseln",
+      "bereich": "Lesen, Texte und Medien",
+      "klasse": "6",
+      "satz": "Du schreibst eine Geschichte weiter oder erzählst sie aus der Sicht einer Figur.",
+      "erklaerung": "Wenn du eine Geschichte weiterschreibst, muss sie zum Anfang passen: gleiche Figuren, gleiche Erzählform, gleiche Zeitform. Beim Perspektivwechsel erzählst du die Geschichte aus der Sicht einer anderen Figur, mit ihren Gedanken und Gefühlen.",
+      "beispiele": [
+        "„Rotkäppchen“ aus der Sicht des Wolfs.",
+        "Die Fabel vom Fuchs und Raben aus der Sicht des Raben in der Ich-Form.",
+        "Ein offenes Ende weiterschreiben: Was passiert am nächsten Morgen?"
+      ],
+      "baut_auf": [
+        "d33",
+        "d12"
+      ],
+      "quelle": "S. 23",
+      "suche": "Perspektivwechsel Geschichte schreiben",
+      "videos": [
+        {
+          "titel": "Fortsetzungsgeschichte schreiben",
+          "kanal": "lernfoerderung",
+          "url": "https://www.youtube.com/watch?v=GfV6qM0k0MA"
+        }
+      ]
+    },
+    {
+      "id": "d35",
+      "nr": 35,
+      "titel": "Filme und Medien verstehen",
+      "bereich": "Lesen, Texte und Medien",
+      "klasse": "5/6",
+      "satz": "Du erkennst, wie Kameraeinstellungen wirken und ob ein Film oder Video unterhalten oder informieren will.",
+      "erklaerung": "Die Kamera entscheidet, was wir sehen. Eine Nahaufnahme zeigt Gefühle, eine Totale den ganzen Ort. Von unten gefilmt wirkt jemand groß und mächtig, von oben klein. Außerdem lohnt es sich zu fragen, ob ein Video unterhalten, informieren oder etwas verkaufen will.",
+      "beispiele": [
+        "Nahaufnahme: nur das Gesicht, man sieht genau, dass jemand Angst hat.",
+        "Froschperspektive: Die Kamera schaut von unten auf einen Riesen.",
+        "Nachrichten für Kinder wie „logo!“ informieren, ein Spielfilm unterhält."
+      ],
+      "baut_auf": [],
+      "quelle": "S. 24",
+      "suche": "Kameraeinstellungen Kameraperspektiven Schule",
+      "videos": [
+        {
+          "titel": "Wofür benutzt man Einstellungsgrößen?",
+          "kanal": "mikoeln",
+          "url": "https://www.youtube.com/watch?v=Mfsvhg2g5U8"
+        }
+      ]
+    },
+    {
+      "id": "d36",
+      "nr": 36,
+      "titel": "Nomen, Verben, Adjektive",
+      "bereich": "Grammatik",
+      "klasse": "5",
+      "satz": "Du erkennst die drei wichtigsten Wortarten in einem Satz und steigerst Adjektive.",
+      "erklaerung": "Nomen bezeichnen Lebewesen, Dinge und Gedanken und werden großgeschrieben. Verben sagen, was jemand tut oder was passiert. Adjektive beschreiben, wie etwas ist. Viele Adjektive kann man steigern: Grundform, erste Steigerung, zweite Steigerung.",
+      "beispiele": [
+        "Nomen: Hund, Schule, Freude.",
+        "Verben: laufen, lachen, schlafen.",
+        "Adjektive: schnell, schneller, am schnellsten. Ausnahme: gut, besser, am besten."
+      ],
+      "baut_auf": [],
+      "quelle": "S. 26",
+      "suche": "Wortarten Nomen Verben Adjektive",
+      "videos": [
+        {
+          "titel": "Wortarten: eine Übersicht",
+          "kanal": "Lehrerschmidt",
+          "url": "https://www.youtube.com/watch?v=eBEeFYQ6YIE"
+        },
+        {
+          "titel": "Adjektive steigern",
+          "kanal": "Lehrerschmidt",
+          "url": "https://www.youtube.com/watch?v=derTVCuT_Bg"
+        }
+      ]
+    },
+    {
+      "id": "d37",
+      "nr": 37,
+      "titel": "Artikel und Pronomen",
+      "bereich": "Grammatik",
+      "klasse": "5",
+      "satz": "Du weißt, wofür der, die, das und Wörter wie er, sie, mein stehen.",
+      "erklaerung": "Artikel begleiten Nomen. Es gibt bestimmte Artikel (der, die, das) und unbestimmte Artikel (ein, eine). Pronomen stehen für ein Nomen, damit man es nicht immer wiederholen muss. Personalpronomen sind ich, du, er, sie, es, wir, ihr, sie. Possessivpronomen zeigen, wem etwas gehört.",
+      "beispiele": [
+        "Bestimmt: der Hund. Unbestimmt: ein Hund.",
+        "„Lena hat einen Hund. Sie geht jeden Tag mit ihm spazieren.“",
+        "Possessivpronomen: mein Rad, dein Buch, unser Haus."
+      ],
+      "baut_auf": [
+        "d36"
+      ],
+      "quelle": "S. 26",
+      "suche": "Artikel Pronomen Klasse 5",
+      "videos": [
+        {
+          "titel": "bestimmter Artikel & unbestimmter Artikel",
+          "kanal": "Lehrerschmidt",
+          "url": "https://www.youtube.com/watch?v=sEVWRS1rNPg"
+        },
+        {
+          "titel": "Diese 4 Pronomen musst du kennen",
+          "kanal": "lernfoerderung",
+          "url": "https://www.youtube.com/watch?v=zuwBDMzVWAI"
+        }
+      ]
+    },
+    {
+      "id": "d38",
+      "nr": 38,
+      "titel": "Die vier Fälle",
+      "bereich": "Grammatik",
+      "klasse": "5/6",
+      "satz": "Du bestimmst Geschlecht, Einzahl oder Mehrzahl und den Fall eines Nomens.",
+      "erklaerung": "Nomen haben ein Geschlecht (männlich, weiblich, sächlich), stehen in der Einzahl oder Mehrzahl und in einem von vier Fällen. Den Fall findest du mit einer Frage. Der Artikel verändert sich je nach Fall.",
+      "beispiele": [
+        "1. Fall, Nominativ: Wer oder was? Der Hund bellt.",
+        "2. Fall, Genitiv: Wessen? Der Napf des Hundes. 3. Fall, Dativ: Wem? Ich gebe dem Hund Futter.",
+        "4. Fall, Akkusativ: Wen oder was? Ich sehe den Hund."
+      ],
+      "baut_auf": [
+        "d37"
+      ],
+      "quelle": "S. 26",
+      "suche": "vier Fälle Nominativ Genitiv Dativ Akkusativ",
+      "videos": [
+        {
+          "titel": "Die 4 Fälle/Kasus im Deutschen",
+          "kanal": "einfach Schule",
+          "url": "https://www.youtube.com/watch?v=llIfpKRKtgg"
+        },
+        {
+          "titel": "Die 4 Fälle: Nominativ, Genitiv, Dativ, Akkusativ",
+          "kanal": "lernfoerderung",
+          "url": "https://www.youtube.com/watch?v=lKOJqjGTvv0"
+        }
+      ]
+    },
+    {
+      "id": "d39",
+      "nr": 39,
+      "titel": "Zeitformen der Verben",
+      "bereich": "Grammatik",
+      "klasse": "5/6",
+      "satz": "Du bildest Präsens, Präteritum, Perfekt, Plusquamperfekt und Futur und weißt, wann man welche benutzt.",
+      "erklaerung": "Verben verändern sich je nach Zeit. Das Präsens nutzt du für die Gegenwart. Für Vergangenes gibt es das Präteritum (in Geschichten) und das Perfekt (beim Erzählen im Gespräch). Das Plusquamperfekt zeigt, was noch früher passiert ist. Das Futur steht für die Zukunft.",
+      "beispiele": [
+        "Präsens: ich spiele. Präteritum: ich spielte. Perfekt: ich habe gespielt.",
+        "Plusquamperfekt: ich hatte gespielt. Futur: ich werde spielen.",
+        "„Nachdem ich gegessen hatte, ging ich raus.“"
+      ],
+      "baut_auf": [
+        "d36"
+      ],
+      "quelle": "S. 26",
+      "suche": "Zeitformen Verben Klasse 5",
+      "videos": [
+        {
+          "titel": "Übersicht über deutsche Zeitformen (Tempus)",
+          "kanal": "Lehrerschmidt",
+          "url": "https://www.youtube.com/watch?v=HJt1fllNbwg"
+        },
+        {
+          "titel": "Zeitformen Zusammenfassung",
+          "kanal": "einfach Schule",
+          "url": "https://www.youtube.com/watch?v=Lc94lBpKqrc"
+        }
+      ]
+    },
+    {
+      "id": "d40",
+      "nr": 40,
+      "titel": "Aktiv und Passiv",
+      "bereich": "Grammatik",
+      "klasse": "6",
+      "satz": "Du formst Sätze um: „Der Hund beißt den Mann“ und „Der Mann wird gebissen“.",
+      "erklaerung": "Im Aktiv steht im Vordergrund, wer etwas tut. Im Passiv steht im Vordergrund, was mit jemandem oder etwas passiert. Das Passiv bildest du mit werden und dem Partizip des Verbs. Wer es tut, kann man mit von dazusagen oder weglassen.",
+      "beispiele": [
+        "Aktiv: „Der Koch schneidet die Zwiebeln.“",
+        "Passiv: „Die Zwiebeln werden geschnitten.“",
+        "Mit Handelndem: „Die Zwiebeln werden vom Koch geschnitten.“"
+      ],
+      "baut_auf": [
+        "d39"
+      ],
+      "quelle": "S. 26 (vertiefend)",
+      "suche": "Aktiv Passiv Klasse 6",
+      "videos": [
+        {
+          "titel": "Aktiv und Passiv",
+          "kanal": "lernfoerderung",
+          "url": "https://www.youtube.com/watch?v=4uNX6rfMtCA"
+        },
+        {
+          "titel": "Aktiv und Passiv leicht erklärt",
+          "kanal": "MOOCit",
+          "url": "https://www.youtube.com/watch?v=e7GN43fs6hE"
+        }
+      ]
+    },
+    {
+      "id": "d41",
+      "nr": 41,
+      "titel": "Kleine Wörter: Präposition, Konjunktion, Adverb",
+      "bereich": "Grammatik",
+      "klasse": "6",
+      "satz": "Du erkennst Wörter wie auf, weil und gestern und weißt, was sie im Satz tun.",
+      "erklaerung": "Präpositionen zeigen, wie Dinge zueinander stehen, oft beim Ort oder bei der Zeit. Konjunktionen verbinden Wörter oder Sätze. Adverbien sagen genauer, wann, wo, wie oder warum etwas passiert. Alle drei verändern ihre Form nicht.",
+      "beispiele": [
+        "Präpositionen: auf, unter, neben, nach, seit.",
+        "Konjunktionen: und, oder, aber, weil, dass, wenn.",
+        "Adverbien: gestern, hier, gern, deshalb."
+      ],
+      "baut_auf": [
+        "d37"
+      ],
+      "quelle": "S. 26",
+      "suche": "Präposition Konjunktion Adverb Klasse 6",
+      "videos": [
+        {
+          "titel": "Wortarten 2: Adverbien, Präpositionen, Konjunktionen",
+          "kanal": "Die Merkhilfe",
+          "url": "https://www.youtube.com/watch?v=VIheOEMYI30"
+        },
+        {
+          "titel": "Präpositionen erklärt",
+          "kanal": "lernfoerderung",
+          "url": "https://www.youtube.com/watch?v=L9T83ImTcio"
+        }
+      ]
+    },
+    {
+      "id": "d42",
+      "nr": 42,
+      "titel": "Satzarten",
+      "bereich": "Grammatik",
+      "klasse": "5",
+      "satz": "Du unterscheidest Aussage, Frage und Aufforderung und setzt das passende Satzzeichen.",
+      "erklaerung": "Ein Aussagesatz teilt etwas mit und endet mit einem Punkt. Ein Fragesatz will etwas wissen und endet mit einem Fragezeichen. Ein Aufforderungssatz oder Ausrufesatz will, dass jemand etwas tut, oder drückt ein starkes Gefühl aus, und endet mit einem Ausrufezeichen.",
+      "beispiele": [
+        "Aussage: „Ich habe Hunger.“",
+        "Frage: „Hast du Hunger?“",
+        "Aufforderung: „Komm sofort her!“"
+      ],
+      "baut_auf": [],
+      "quelle": "S. 27, 29",
+      "suche": "Satzarten Satzzeichen Klasse 5",
+      "videos": [
+        {
+          "titel": "Satzarten",
+          "kanal": "einfach Schule",
+          "url": "https://www.youtube.com/watch?v=evPSF5a4GTU"
+        },
+        {
+          "titel": "Satzarten & Satzschlusszeichen",
+          "kanal": "Die Merkhilfe",
+          "url": "https://www.youtube.com/watch?v=YMgEvkj4NaI"
+        }
+      ]
+    },
+    {
+      "id": "d43",
+      "nr": 43,
+      "titel": "Satzglieder und Umstellprobe",
+      "bereich": "Grammatik",
+      "klasse": "5",
+      "satz": "Du findest Subjekt und Prädikat, indem du den Satz umstellst, Teile ersetzt oder weglässt.",
+      "erklaerung": "Ein Satzglied ist ein Wort oder eine Wortgruppe, die beim Umstellen zusammenbleibt. Das Prädikat ist das Verb und steht im Aussagesatz an zweiter Stelle. Das Subjekt findest du mit der Frage „Wer oder was?“. Mit der Ersatzprobe und der Weglassprobe prüfst du, was ein Satz wirklich braucht.",
+      "beispiele": [
+        "Umstellprobe: „Der Junge | spielt | im Garten.“ wird „Im Garten | spielt | der Junge.“",
+        "Wer oder was spielt? Der Junge ist das Subjekt.",
+        "Weglassprobe: „Im Garten“ kann weg, „spielt“ nicht."
+      ],
+      "baut_auf": [
+        "d36",
+        "d42"
+      ],
+      "quelle": "S. 27, 28",
+      "suche": "Satzglieder Umstellprobe Subjekt Prädikat",
+      "videos": [
+        {
+          "titel": "Satzglieder bestimmen mit der Umstellprobe",
+          "kanal": "lernfoerderung",
+          "url": "https://www.youtube.com/watch?v=y6PrLZe4XYc"
+        },
+        {
+          "titel": "Umstellprobe",
+          "kanal": "Ivi-Education",
+          "url": "https://www.youtube.com/watch?v=5QYNl5-xatQ"
+        }
+      ]
+    },
+    {
+      "id": "d44",
+      "nr": 44,
+      "titel": "Objekte",
+      "bereich": "Grammatik",
+      "klasse": "6",
+      "satz": "Du findest Dativ und Akkusativobjekt mit den Fragen „Wem?“ und „Wen oder was?“.",
+      "erklaerung": "Objekte ergänzen das Prädikat. Das Dativobjekt findest du mit der Frage „Wem?“, das Akkusativobjekt mit „Wen oder was?“. Viele Sätze haben beide.",
+      "beispiele": [
+        "„Ich schenke meiner Mutter einen Strauß.“",
+        "Wem schenke ich etwas? Meiner Mutter, das ist das Dativobjekt.",
+        "Wen oder was schenke ich? Einen Strauß, das ist das Akkusativobjekt."
+      ],
+      "baut_auf": [
+        "d43",
+        "d38"
+      ],
+      "quelle": "S. 27",
+      "suche": "Dativobjekt Akkusativobjekt bestimmen",
+      "videos": [
+        {
+          "titel": "Satzglieder: Das Objekt",
+          "kanal": "einfach Schule",
+          "url": "https://www.youtube.com/watch?v=9FqjPkzkWos"
+        },
+        {
+          "titel": "Dativobjekt",
+          "kanal": "lernfoerderung",
+          "url": "https://www.youtube.com/watch?v=ySnDuDukXxE"
+        }
+      ]
+    },
+    {
+      "id": "d45",
+      "nr": 45,
+      "titel": "Adverbiale und Attribute",
+      "bereich": "Grammatik",
+      "klasse": "6",
+      "satz": "Du findest die Satzteile, die sagen, wann, wo, wie und warum etwas passiert, und Wörter, die ein Nomen genauer beschreiben.",
+      "erklaerung": "Adverbiale Bestimmungen geben genauere Umstände an. Du findest sie mit den Fragen wann, wo, wie und warum. Ein Attribut ist kein eigenes Satzglied, sondern beschreibt ein Nomen genauer und bleibt beim Umstellen bei ihm.",
+      "beispiele": [
+        "Wann? „Morgen fahren wir los.“ Wo? „Wir treffen uns am Bahnhof.“",
+        "Wie? „Er läuft schnell.“ Warum? „Wegen des Regens bleiben wir drinnen.“",
+        "Attribut: „Der rote Ball“ oder „der Ball mit den Punkten“."
+      ],
+      "baut_auf": [
+        "d43"
+      ],
+      "quelle": "S. 27",
+      "suche": "adverbiale Bestimmungen Attribute Klasse 6",
+      "videos": [
+        {
+          "titel": "Adverbiale Bestimmungen einfach erklärt",
+          "kanal": "einfach Schule",
+          "url": "https://www.youtube.com/watch?v=2KvDon2c86k"
+        },
+        {
+          "titel": "Attribute einfach erklärt",
+          "kanal": "einfach Schule",
+          "url": "https://www.youtube.com/watch?v=3Ktq5qAh_DA"
+        }
+      ]
+    },
+    {
+      "id": "d46",
+      "nr": 46,
+      "titel": "Hauptsatz und Nebensatz",
+      "bereich": "Grammatik",
+      "klasse": "6",
+      "satz": "Du erkennst Haupt und Nebensätze, auch Relativsätze, und verbindest Sätze miteinander.",
+      "erklaerung": "Ein Hauptsatz kann allein stehen, das Verb steht an zweiter Stelle. Ein Nebensatz kann nicht allein stehen, er beginnt oft mit weil, dass, wenn oder als, und das Verb steht am Ende. Ein Relativsatz beschreibt ein Nomen genauer und beginnt mit der, die oder das.",
+      "beispiele": [
+        "Hauptsatz und Nebensatz: „Ich bleibe zu Hause, weil ich krank bin.“",
+        "Zwei Hauptsätze: „Ich bin krank, deshalb bleibe ich zu Hause.“",
+        "Relativsatz: „Das ist der Hund, der immer bellt.“"
+      ],
+      "baut_auf": [
+        "d43",
+        "d41"
+      ],
+      "quelle": "S. 27",
+      "suche": "Hauptsatz Nebensatz Relativsatz Klasse 6",
+      "videos": [
+        {
+          "titel": "Haupt- und Nebensätze einfach erklärt",
+          "kanal": "einfach Schule",
+          "url": "https://www.youtube.com/watch?v=K0JbzmA0Wp4"
+        },
+        {
+          "titel": "Relativsätze für Anfänger",
+          "kanal": "lernfoerderung",
+          "url": "https://www.youtube.com/watch?v=1eBpn6Th2gU"
+        }
+      ]
+    },
+    {
+      "id": "d47",
+      "nr": 47,
+      "titel": "Wörter bilden",
+      "bereich": "Grammatik",
+      "klasse": "5",
+      "satz": "Du baust Wörter zusammen, erkennst Wortfamilien und Wortfelder und weißt, was Vorsilben und Endungen tun.",
+      "erklaerung": "Aus zwei Wörtern kann ein neues entstehen, das letzte Wort bestimmt die Wortart und den Artikel. Mit Vorsilben und Endungen bildet man neue Wörter aus einem Wortstamm. Eine Wortfamilie hat denselben Stamm, ein Wortfeld sind Wörter mit ähnlicher Bedeutung.",
+      "beispiele": [
+        "Zusammengesetzt: Haus + Tür = die Haustür.",
+        "Wortfamilie fahren: Fahrer, Fahrrad, abfahren, Fahrt.",
+        "Wortfeld sagen: rufen, flüstern, erklären, schreien."
+      ],
+      "baut_auf": [],
+      "quelle": "S. 27",
+      "suche": "Wortfamilie Wortfeld zusammengesetzte Nomen",
+      "videos": [
+        {
+          "titel": "Wortstamm und Wortfamilien",
+          "kanal": "lernfoerderung",
+          "url": "https://www.youtube.com/watch?v=epSykbhmAvo"
+        },
+        {
+          "titel": "Präfix, Wortstamm, Suffix",
+          "kanal": "Lehrerschmidt",
+          "url": "https://www.youtube.com/watch?v=zVwDvRS4ijk"
+        }
+      ]
+    },
+    {
+      "id": "d48",
+      "nr": 48,
+      "titel": "Sprachliche Bilder",
+      "bereich": "Grammatik",
+      "klasse": "6",
+      "satz": "Du verstehst Redewendungen und Vergleiche wie „Er ist schnell wie der Blitz“.",
+      "erklaerung": "Sprachliche Bilder sagen etwas nicht wörtlich, sondern mit einem Bild. Ein Vergleich benutzt „wie“. Redewendungen haben eine feste Bedeutung, die man nicht aus den einzelnen Wörtern ablesen kann.",
+      "beispiele": [
+        "Vergleich: „stark wie ein Bär“.",
+        "Redewendung: „Ich verstehe nur Bahnhof“ heißt „Ich verstehe gar nichts“.",
+        "„Jemandem einen Bären aufbinden“ heißt, jemandem eine Lüge erzählen."
+      ],
+      "baut_auf": [],
+      "quelle": "S. 23, 27",
+      "suche": "Redewendungen Bedeutung Kinder",
+      "videos": [
+        {
+          "titel": "5 neue Redewendungen",
+          "kanal": "lernfoerderung",
+          "url": "https://www.youtube.com/watch?v=EousFGYLkGs"
+        },
+        {
+          "titel": "Woher kommen diese Redewendungen?",
+          "kanal": "planet schule",
+          "url": "https://www.youtube.com/watch?v=Tybg5ousHXA"
+        }
+      ]
+    },
+    {
+      "id": "d49",
+      "nr": 49,
+      "titel": "Wie wir sprechen",
+      "bereich": "Grammatik",
+      "klasse": "5/6",
+      "satz": "Du merkst, dass man mit Freunden anders spricht als in einem Brief an die Schule oder in einer Nachricht.",
+      "erklaerung": "Wir passen unsere Sprache an, je nachdem mit wem wir sprechen und ob wir sprechen oder schreiben. Mit Freunden darf es locker sein. In einem Brief an die Schule oder bei einem Vortrag benutzt man vollständige Sätze und höfliche Wörter.",
+      "beispiele": [
+        "Mit Freunden: „Hey, kommst du mit?“",
+        "An die Lehrerin: „Guten Tag Frau Meyer, ich möchte fragen, ob …“",
+        "In einer Nachricht ist „hdl“ in Ordnung, in einem Aufsatz nicht."
+      ],
+      "baut_auf": [],
+      "quelle": "S. 25, 28",
+      "suche": "Umgangssprache Standardsprache Unterschied",
+      "videos": [
+        {
+          "titel": "Umgangssprache oder Alltagssprache",
+          "kanal": "lernfoerderung",
+          "url": "https://www.youtube.com/watch?v=XqRWSygMcHc"
+        }
+      ]
+    },
+    {
+      "id": "d50",
+      "nr": 50,
+      "titel": "Deutsch und andere Sprachen",
+      "bereich": "Grammatik",
+      "klasse": "5/6",
+      "satz": "Du vergleichst Deutsch mit Englisch oder Spanisch und entdeckst Gemeinsamkeiten und Unterschiede.",
+      "erklaerung": "Viele Sprachen sind miteinander verwandt. Englisch und Deutsch haben viele ähnliche Wörter. Im Spanischen gibt es nur zwei Geschlechter, im Englischen gar keine Artikel, die sich nach dem Geschlecht ändern. Was du über Deutsch weißt, hilft dir beim Lernen anderer Sprachen.",
+      "beispiele": [
+        "Haus, house, casa. Die ersten beiden sind verwandt, das dritte nicht.",
+        "Deutsch: der, die, das. Englisch: nur the. Spanisch: el, la.",
+        "Nomen schreibt man nur im Deutschen groß."
+      ],
+      "baut_auf": [],
+      "quelle": "S. 28",
+      "suche": "Sprachen vergleichen Deutsch Englisch",
+      "videos": []
+    },
+    {
+      "id": "d51",
+      "nr": 51,
+      "titel": "Silben und Vokale",
+      "bereich": "Rechtschreibung",
+      "klasse": "5",
+      "satz": "Du zerlegst Wörter in Silben und hörst, ob ein Vokal lang oder kurz ist.",
+      "erklaerung": "Beim Silbenschwingen sprichst du ein Wort langsam und klatschst bei jeder Silbe. Jede Silbe hat einen Vokal. Endet die erste Silbe mit einem Vokal, ist sie offen und der Vokal lang. Endet sie mit einem Konsonanten, ist sie geschlossen und der Vokal kurz.",
+      "beispiele": [
+        "Ro-se: offene Silbe, langes o.",
+        "Ros-se: geschlossene Silbe, kurzes o.",
+        "Ta-fel, Son-ne, Ha-se, Kat-ze: Hörst du den Unterschied?"
+      ],
+      "baut_auf": [],
+      "quelle": "S. 29",
+      "suche": "offene geschlossene Silbe langer kurzer Vokal",
+      "videos": [
+        {
+          "titel": "Silben (Grundwissen)",
+          "kanal": "Ivi-Education",
+          "url": "https://www.youtube.com/watch?v=9BL1Ewy2oek"
+        }
+      ]
+    },
+    {
+      "id": "d52",
+      "nr": 52,
+      "titel": "Doppelte Konsonanten, ck und tz",
+      "bereich": "Rechtschreibung",
+      "klasse": "5",
+      "satz": "Du weißt, wann nach einem kurzen Vokal ein doppelter Mitlaut, ck oder tz kommt.",
+      "erklaerung": "Nach einem kurzen, betonten Vokal hörst du oft nur einen Konsonanten, schreibst aber zwei. Statt kk schreibt man ck, statt zz schreibt man tz. Nach l, n, r, also nach einem Mitlaut, wird nie verdoppelt.",
+      "beispiele": [
+        "Kurzer Vokal: Ball, Sonne, Mutter.",
+        "ck und tz: Decke, Glück, Katze, Platz.",
+        "Kein ck nach Mitlaut: Bank, Wolke. Kein tz: Pilz, Herz."
+      ],
+      "baut_auf": [
+        "d51"
+      ],
+      "quelle": "S. 28, 29",
+      "suche": "Doppelkonsonanten ck tz Regel",
+      "videos": [
+        {
+          "titel": "Doppelkonsonanten",
+          "kanal": "lernfoerderung",
+          "url": "https://www.youtube.com/watch?v=khsPXKrL7KM"
+        },
+        {
+          "titel": "ck oder k",
+          "kanal": "lernfoerderung",
+          "url": "https://www.youtube.com/watch?v=F_w5dfPy7l0"
+        }
+      ]
+    },
+    {
+      "id": "d53",
+      "nr": 53,
+      "titel": "Lange Vokale: ie, h und aa",
+      "bereich": "Rechtschreibung",
+      "klasse": "5",
+      "satz": "Du weißt, wie man lange Vokale schreibt, zum Beispiel in Biene, Kohle oder Boot.",
+      "erklaerung": "Die meisten langen Vokale schreibt man ohne Zeichen. Ein langes i schreibt man meistens ie. Manchmal zeigt ein h, dass ein Vokal lang ist, oft vor l, m, n, r. Nur wenige Wörter haben einen doppelten Vokal, die muss man sich merken.",
+      "beispiele": [
+        "Ohne Zeichen: Tag, Hose, Blume.",
+        "ie: Biene, Spiel, Brief. Dehnungs-h: Kohle, Zahn, fahren.",
+        "Doppelvokal: Boot, Meer, Haar, Zoo."
+      ],
+      "baut_auf": [
+        "d51"
+      ],
+      "quelle": "S. 28, 29",
+      "suche": "Dehnungs-h ie Doppelvokal Regel",
+      "videos": [
+        {
+          "titel": "So erkennst du das Dehnungs-h",
+          "kanal": "lernfoerderung",
+          "url": "https://www.youtube.com/watch?v=33TwKvSkgy8"
+        },
+        {
+          "titel": "Dehnung einfach erklärt",
+          "kanal": "Merksatz",
+          "url": "https://www.youtube.com/watch?v=6IIskQ4igUo"
+        }
+      ]
+    },
+    {
+      "id": "d54",
+      "nr": 54,
+      "titel": "s, ss oder ß",
+      "bereich": "Rechtschreibung",
+      "klasse": "6",
+      "satz": "Du entscheidest, ob ein Wort mit s, ss oder ß geschrieben wird.",
+      "erklaerung": "Nach einem kurzen Vokal schreibst du ss. Nach einem langen Vokal oder ei, au, eu schreibst du ß, wenn das s scharf und stimmlos klingt. Klingt es weich und summend, schreibst du s.",
+      "beispiele": [
+        "Kurzer Vokal: Fluss, Wasser, essen.",
+        "Langer Vokal: Fuß, Straße, groß, heißen.",
+        "Weiches s: Hase, Rose, lesen."
+      ],
+      "baut_auf": [
+        "d52",
+        "d53"
+      ],
+      "quelle": "S. 29",
+      "suche": "s ss ß Regel",
+      "videos": [
+        {
+          "titel": "s, ss oder ß einfach erklärt",
+          "kanal": "einfach Schule",
+          "url": "https://www.youtube.com/watch?v=eXsgKpaEqvk"
+        },
+        {
+          "titel": "S-Laute: s, ss und ß",
+          "kanal": "lernfoerderung",
+          "url": "https://www.youtube.com/watch?v=UcfKiGhaDTs"
+        }
+      ]
+    },
+    {
+      "id": "d55",
+      "nr": 55,
+      "titel": "Verlängern und Ableiten",
+      "bereich": "Rechtschreibung",
+      "klasse": "5",
+      "satz": "Du findest heraus, ob d oder t, g oder k, ä oder e, äu oder eu, indem du das Wort verlängerst oder verwandte Wörter suchst.",
+      "erklaerung": "Am Wortende klingen d und t, g und k, b und p gleich. Verlängere das Wort, dann hörst du den Unterschied. Bei ä oder e und äu oder eu suchst du ein verwandtes Wort mit a oder au.",
+      "beispiele": [
+        "Verlängern: Hund, die Hunde. Berg, die Berge.",
+        "Bei Verben: er lebt, leben. Bei Adjektiven: wild, die wilde Katze.",
+        "Ableiten: Bäume kommt von Baum, Länder von Land, aber Eule hat kein au-Wort."
+      ],
+      "baut_auf": [
+        "d51",
+        "d47"
+      ],
+      "quelle": "S. 28, 29",
+      "suche": "Verlängern Ableiten Rechtschreibstrategie",
+      "videos": [
+        {
+          "titel": "Rechtschreibstrategie Verlängern",
+          "kanal": "Ivi-Education",
+          "url": "https://www.youtube.com/watch?v=Fkwf1Dt37ac"
+        },
+        {
+          "titel": "Auslautverhärtung d/t, b/p, g/k",
+          "kanal": "Lehrerschmidt",
+          "url": "https://www.youtube.com/watch?v=98IDZkUCbi4"
+        }
+      ]
+    },
+    {
+      "id": "d56",
+      "nr": 56,
+      "titel": "Nomen großschreiben",
+      "bereich": "Rechtschreibung",
+      "klasse": "5",
+      "satz": "Du erkennst Nomen mit der Artikelprobe und schreibst sie groß.",
+      "erklaerung": "Nomen schreibt man groß. Ob ein Wort ein Nomen ist, testest du mit der Artikelprobe: Passt der, die oder das davor? Auch Endungen wie -ung, -heit, -keit und -nis zeigen ein Nomen an. Satzanfänge schreibt man immer groß.",
+      "beispiele": [
+        "Artikelprobe: der Tisch, die Freude, das Glück.",
+        "Endungen: Zeitung, Freiheit, Ehrlichkeit, Ergebnis.",
+        "Satzanfang: „Heute regnet es.“"
+      ],
+      "baut_auf": [
+        "d36"
+      ],
+      "quelle": "S. 29",
+      "suche": "Großschreibung Nomen Artikelprobe",
+      "videos": [
+        {
+          "titel": "Groß- und Kleinschreibung einfach erklärt",
+          "kanal": "einfach Schule",
+          "url": "https://www.youtube.com/watch?v=xHKBLCxBBMc"
+        }
+      ]
+    },
+    {
+      "id": "d57",
+      "nr": 57,
+      "titel": "Komma bei Aufzählungen",
+      "bereich": "Rechtschreibung",
+      "klasse": "5",
+      "satz": "Du setzt Kommas, wenn du mehrere Dinge aufzählst.",
+      "erklaerung": "Zählst du mehrere Wörter oder Wortgruppen auf, trennst du sie mit Kommas. Vor und und oder steht dabei kein Komma.",
+      "beispiele": [
+        "„Ich kaufe Äpfel, Birnen, Bananen und Trauben.“",
+        "„Willst du Saft, Wasser oder Milch?“",
+        "„Wir spielten, lachten und sangen.“"
+      ],
+      "baut_auf": [
+        "d42"
+      ],
+      "quelle": "S. 29",
+      "suche": "Komma Aufzählung Regel",
+      "videos": [
+        {
+          "titel": "Kommasetzung einfach erklärt",
+          "kanal": "einfach Schule",
+          "url": "https://www.youtube.com/watch?v=rhZiOTmxB78"
+        }
+      ]
+    },
+    {
+      "id": "d58",
+      "nr": 58,
+      "titel": "Zeichen bei wörtlicher Rede",
+      "bereich": "Rechtschreibung",
+      "klasse": "5",
+      "satz": "Du setzt Doppelpunkt und Anführungszeichen richtig, wenn jemand spricht.",
+      "erklaerung": "Was jemand sagt, steht in Anführungszeichen. Der Begleitsatz sagt, wer spricht. Steht er vorne, folgt ein Doppelpunkt. Steht er hinten, trennt ihn ein Komma von der Rede. Ein Punkt am Ende der Rede fällt dann weg, Frage und Ausrufezeichen bleiben.",
+      "beispiele": [
+        "Vorne: Mia sagt: „Ich komme mit.“",
+        "Hinten: „Ich komme mit“, sagt Mia.",
+        "Mit Frage: „Kommst du mit?“, fragt Mia."
+      ],
+      "baut_auf": [
+        "d42"
+      ],
+      "quelle": "S. 29",
+      "suche": "wörtliche Rede Zeichensetzung Begleitsatz",
+      "videos": [
+        {
+          "titel": "Wörtliche Rede (direkte Rede) mit Beispielen",
+          "kanal": "Lehrerschmidt",
+          "url": "https://www.youtube.com/watch?v=YTVgH3UxUDc"
+        },
+        {
+          "titel": "Wörtliche Rede einfach erklärt",
+          "kanal": "lernfoerderung",
+          "url": "https://www.youtube.com/watch?v=yyDg9Hg986k"
+        }
+      ]
+    },
+    {
+      "id": "d59",
+      "nr": 59,
+      "titel": "Komma im Nebensatz",
+      "bereich": "Rechtschreibung",
+      "klasse": "6",
+      "satz": "Du setzt ein Komma vor Nebensätzen und Relativsätzen.",
+      "erklaerung": "Zwischen Hauptsatz und Nebensatz steht immer ein Komma. Ein Tipp: Wo zwei Verben aufeinandertreffen, gehört oft ein Komma dazwischen. Ein Relativsatz wird durch Kommas abgetrennt, auch wenn er mitten im Satz steht.",
+      "beispiele": [
+        "„Ich freue mich, weil morgen Ferien sind.“",
+        "„Wenn es regnet, bleiben wir drinnen.“",
+        "„Der Hund, der dort bellt, gehört meiner Tante.“"
+      ],
+      "baut_auf": [
+        "d46"
+      ],
+      "quelle": "S. 29",
+      "suche": "Komma Nebensatz Relativsatz Regel",
+      "videos": [
+        {
+          "titel": "Komma setzen, Kommaregeln",
+          "kanal": "MOOCit",
+          "url": "https://www.youtube.com/watch?v=rc8HWb_TxjE"
+        },
+        {
+          "titel": "Kommasetzung einfach erklärt",
+          "kanal": "einfach Schule",
+          "url": "https://www.youtube.com/watch?v=rhZiOTmxB78"
+        }
+      ]
+    },
+    {
+      "id": "d60",
+      "nr": 60,
+      "titel": "das oder dass",
+      "bereich": "Rechtschreibung",
+      "klasse": "6",
+      "satz": "Du weißt, wann man das und wann man dass schreibt.",
+      "erklaerung": "Das mit einem s ist ein Artikel oder ein Pronomen. Du kannst es durch dieses, jenes oder welches ersetzen. Dass mit zwei s ist eine Konjunktion und leitet einen Nebensatz ein. Hier klappt die Ersatzprobe nicht.",
+      "beispiele": [
+        "Artikel: „Das Fahrrad ist neu.“ (Dieses Fahrrad)",
+        "Relativpronomen: „Das Rad, das dort steht, ist meins.“ (welches)",
+        "Konjunktion: „Ich hoffe, dass du kommst.“"
+      ],
+      "baut_auf": [
+        "d46",
+        "d37"
+      ],
+      "quelle": "S. 29",
+      "suche": "das dass Unterschied Ersatzprobe",
+      "videos": [
+        {
+          "titel": "das und dass",
+          "kanal": "Lehrerschmidt",
+          "url": "https://www.youtube.com/watch?v=mjZKqqeVOhk"
+        },
+        {
+          "titel": "Dass oder das? Unterschied und Faustregel",
+          "kanal": "einfach Schule",
+          "url": "https://www.youtube.com/watch?v=9G83qMGv730"
+        }
+      ]
+    },
+    {
+      "id": "d61",
+      "nr": 61,
+      "titel": "Im Wörterbuch nachschlagen",
+      "bereich": "Rechtschreibung",
+      "klasse": "5",
+      "satz": "Du findest Wörter schnell im Wörterbuch, weil du das Alphabet und die Grundform nutzt.",
+      "erklaerung": "Im Wörterbuch sind Wörter nach dem Alphabet sortiert, auch nach dem zweiten und dritten Buchstaben. Oben auf jeder Seite stehen Leitwörter, die dir zeigen, welche Wörter auf der Seite stehen. Verben schlägst du in der Grundform nach, Nomen in der Einzahl.",
+      "beispiele": [
+        "„Hund“ steht vor „Hunger“, weil d vor g kommt.",
+        "„lief“ schlägst du unter „laufen“ nach.",
+        "„Bäume“ findest du unter „Baum“."
+      ],
+      "baut_auf": [],
+      "quelle": "S. 24, 29",
+      "suche": "im Wörterbuch nachschlagen üben",
+      "videos": [
+        {
+          "titel": "Wörterbuch richtig benutzen",
+          "kanal": "lernfoerderung",
+          "url": "https://www.youtube.com/watch?v=X3_-GKFqtL0"
+        }
+      ]
+    },
+    {
+      "id": "d62",
+      "nr": 62,
+      "titel": "Eigene Fehler finden",
+      "bereich": "Rechtschreibung",
+      "klasse": "6",
+      "satz": "Du findest Fehler in deinem Text mit Rechtschreibtricks und dem Wörterbuch und verbesserst sie.",
+      "erklaerung": "Lies deinen Text zum Korrigieren langsam und Wort für Wort, am besten von hinten nach vorne. So achtest du nicht auf den Inhalt, sondern auf die Schreibung. Bei unsicheren Wörtern nutzt du Silbenschwingen, Verlängern, Ableiten, Artikelprobe oder das Wörterbuch.",
+      "beispiele": [
+        "Hast du alle Nomen großgeschrieben? Mach die Artikelprobe.",
+        "Unsicher bei „Hunt“ oder „Hund“? Verlängern: die Hunde.",
+        "Schreib Wörter, die du oft falsch schreibst, auf eine eigene Fehlerliste."
+      ],
+      "baut_auf": [
+        "d55",
+        "d61"
+      ],
+      "quelle": "S. 29",
+      "suche": "Rechtschreibstrategien Fehler finden",
+      "videos": [
+        {
+          "titel": "So findest du deine Rechtschreibfehler selber",
+          "kanal": "lernfoerderung",
+          "url": "https://www.youtube.com/watch?v=GpRRobZLA1E"
+        }
+      ]
+    }
+  ]
+}

@@ -1,9 +1,9 @@
 "use strict";
 
-/* Fächer: Mathe ist fertig, die anderen folgen. */
+/* Fächer: Mathe und Deutsch sind fertig, die anderen folgen. */
 const FAECHER = [
   { id: "mathe", name: "Mathe", sym: "🔢", farbe: "#3b7dd8", datei: "data/mathe.json" },
-  { id: "deutsch", name: "Deutsch", sym: "📖", farbe: "#d0533f" },
+  { id: "deutsch", name: "Deutsch", sym: "📖", farbe: "#d0533f", datei: "data/deutsch.json" },
   { id: "englisch", name: "Englisch", sym: "🇬🇧", farbe: "#7a5bd6" },
   { id: "spanisch", name: "Spanisch", sym: "🇪🇸", farbe: "#e2a316" },
   { id: "nawi", name: "NaWi", sym: "🔬", farbe: "#2e9e5b" },

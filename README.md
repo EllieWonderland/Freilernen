@@ -4,7 +4,7 @@ Kleine Web App für Schülerinnen der Klassen 5 und 6: Fach wählen und sehen, w
 
 App: https://elliewonderland.github.io/Freilernen/
 
-Status: Mathe (39 Themen) ist fertig. Deutsch, Englisch, Spanisch, NaWi, Gesellschaftslehre und Musik folgen.
+Status: Mathe (39 Themen) und Deutsch (62 Themen) sind fertig. Englisch, Spanisch, NaWi, Gesellschaftslehre und Musik folgen.
 
 ## Aufbau
 
