@@ -25,11 +25,68 @@ function ladeState() {
   s.done = s.done || {};
   s.week = s.week || { key: "", count: 0 };
   s.filter = s.filter || { stand: "alle", klasse: "alle", art: "alle" };
+  s.merk = s.merk || {};       // themaId -> fachId
+  s.notizen = s.notizen || {}; // themaId -> { fach, text, fotos: [fotoId], datum }
   return s;
 }
 let state = ladeState();
 function speichern() {
   try { localStorage.setItem(STORE_KEY, JSON.stringify(state)); } catch (e) { /* privat oder voll */ }
+}
+
+/* ---------- Fotos (IndexedDB, damit der normale Speicher nicht vollläuft) ---------- */
+let fotoDbPromise = null;
+function fotoDB() {
+  if (!fotoDbPromise) fotoDbPromise = new Promise((res, rej) => {
+    const r = indexedDB.open("freilernen-fotos", 1);
+    r.onupgradeneeded = () => r.result.createObjectStore("fotos");
+    r.onsuccess = () => res(r.result);
+    r.onerror = () => rej(r.error);
+  });
+  return fotoDbPromise;
+}
+async function fotoOp(modus, fn) {
+  const db = await fotoDB();
+  return new Promise((res, rej) => {
+    const tx = db.transaction("fotos", modus);
+    const req = fn(tx.objectStore("fotos"));
+    tx.oncomplete = () => res(req ? req.result : undefined);
+    tx.onerror = () => rej(tx.error);
+  });
+}
+const fotoSpeichern = (id, data) => fotoOp("readwrite", s => s.put(data, id));
+const fotoLaden = id => fotoOp("readonly", s => s.get(id)).catch(() => null);
+const fotoLoeschen = id => fotoOp("readwrite", s => s.delete(id)).catch(() => {});
+function bildVerkleinern(datei) {
+  return new Promise((res, rej) => {
+    const img = new Image();
+    const url = URL.createObjectURL(datei);
+    img.onload = () => {
+      const f = Math.min(1, 1200 / Math.max(img.width, img.height));
+      const c = document.createElement("canvas");
+      c.width = Math.round(img.width * f); c.height = Math.round(img.height * f);
+      c.getContext("2d").drawImage(img, 0, 0, c.width, c.height);
+      URL.revokeObjectURL(url);
+      res(c.toDataURL("image/jpeg", 0.7));
+    };
+    img.onerror = () => { URL.revokeObjectURL(url); rej(new Error("Bild")); };
+    img.src = url;
+  });
+}
+
+/* ---------- Datum ---------- */
+const datumText = d => `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, "0")}-${String(d.getDate()).padStart(2, "0")}`;
+const heute = () => datumText(new Date());
+function wochenStart() {
+  const d = new Date();
+  d.setDate(d.getDate() - ((d.getDay() + 6) % 7));
+  return datumText(d);
+}
+const schoenesDatum = s => { const [j, m, t] = s.split("-"); return `${Number(t)}.${Number(m)}.${j}`; };
+const fertigDatum = id => typeof state.done[id] === "string" ? state.done[id] : null;
+function abhaken(t) {
+  state.done[t.id] = heute();
+  delete state.merk[t.id];
 }
 
 /* ---------- Woche (beginnt montags) ---------- */
@@ -161,14 +218,43 @@ function seiteStart() {
       <div class="stamps">${kreise}</div>
       <p class="muted">${text}</p>
     </section>
-    <div class="tiles">${tiles}</div>`;
+    <div class="tiles">${tiles}</div>
+    <div id="merkliste"></div>
+    <a class="tagebuch-link" href="#/tagebuch">📔 <span><strong>Mein Lerntagebuch</strong><br><span class="muted">Notizen, Fotos und was du geschafft hast</span></span></a>`;
   app.querySelectorAll("[data-stamp]").forEach(b => b.addEventListener("click", () => {
     const i = Number(b.dataset.stamp);
     const c = stempel();
     state.week.count = i < c ? i : Math.min(5, c + 1);
     speichern();
     seiteStart();
+    if (c < 5 && state.week.count === 5) sicherungsHinweis();
   }));
+  zeigeMerkliste();
+}
+
+async function zeigeMerkliste() {
+  const ids = Object.keys(state.merk).filter(id => !istFertig(id));
+  const ziel = document.getElementById("merkliste");
+  if (!ids.length || !ziel) return;
+  const eintraege = [];
+  for (const id of ids) {
+    const fach = await ladeFach(state.merk[id]);
+    const t = fach && fach.byId[id];
+    if (t) eintraege.push(vorschlag({ t, fach }));
+  }
+  if (!eintraege.length || !document.body.contains(ziel)) return;
+  ziel.innerHTML = `<h2>⭐ Meine nächsten Themen</h2>${eintraege.join("")}`;
+}
+
+function sicherungsHinweis() {
+  zeigeSheet(`
+    <h2>⭐ Wochenziel geschafft!</h2>
+    <p>Toll gemacht! Sicher jetzt kurz deine Häkchen, Notizen und Fotos. Dann ist nichts weg, falls mit dem Handy mal etwas passiert.</p>
+    <p style="display:flex;gap:8px;flex-wrap:wrap;margin-top:12px">
+      <button class="primary" id="jetzt-sichern" style="width:auto">Daten sichern</button>
+      <button class="secondary" data-close>Später</button>
+    </p>`);
+  document.getElementById("jetzt-sichern").addEventListener("click", async () => { await datenSichern(); schliesseSheet(); });
 }
 
 let mehrfach = false;
@@ -235,7 +321,7 @@ async function seiteFach(id) {
   const ab = document.getElementById("abhaken");
   if (ab) ab.addEventListener("click", () => {
     const neu = [...auswahl].map(t => fach.byId[t]);
-    neu.forEach(t => { state.done[t.id] = true; });
+    neu.forEach(abhaken);
     speichern();
     mehrfach = false; auswahl.clear();
     seiteFach(id);
@@ -253,7 +339,8 @@ async function seiteThema(fid, tid) {
   const nach = fach.dependents[t.id].map(d => fach.byId[d]);
   const art = t.einzel ? "Kleines Einzelthema" : `Teil einer Reihe, Stufe ${t.stufe}`;
   app.innerHTML = `
-    <div class="topbar"><a class="iconbtn" href="#/fach/${fid}" aria-label="Zurück">←</a><span class="muted">${esc(fach.name)} · ${esc(t.bereich)}</span></div>
+    <div class="topbar"><a class="iconbtn" href="#/fach/${fid}" aria-label="Zurück">←</a><span class="muted" style="flex:1">${esc(fach.name)} · ${esc(t.bereich)}</span>
+      ${fertig ? "" : `<button class="iconbtn stern" id="merk" aria-pressed="${!!state.merk[t.id]}" aria-label="${state.merk[t.id] ? "Gemerkt, nicht mehr merken" : "Für später merken"}">${state.merk[t.id] ? "★" : "☆"}</button>`}</div>
     <div class="head">${marker(fach, t, true)}<div><h1>${esc(t.titel)}</h1><p class="muted">${esc(klasseText(t.klasse))} · ${esc(art)}</p></div></div>
     <p style="margin-top:14px"><strong>${esc(t.satz)}</strong></p>
     <h2>Kurz erklärt</h2><p>${esc(t.erklaerung)}</p>
@@ -262,15 +349,161 @@ async function seiteThema(fid, tid) {
     <div class="links videos">${videoLinks(t).map(v => `<a href="${esc(v.url)}" target="_blank" rel="noopener">${esc(v.titel)}${v.kanal ? ` <span class="muted">(${esc(v.kanal)})</span>` : " auf YouTube"}</a>`).join("")}</div>
     ${vor.length ? `<h2>Baut auf</h2><div class="links">${vor.map(link).join("")}</div>` : ""}
     ${nach.length ? `<h2>Darauf baut auf</h2><div class="links">${nach.map(link).join("")}</div>` : ""}
+    <h2>📔 Mein Lerntagebuch</h2>
+    <textarea id="notiz" class="notiz" rows="4" placeholder="Was hast du gelernt? Was war schwierig? Was willst du noch wissen?">${esc((state.notizen[t.id] || {}).text || "")}</textarea>
+    <div class="fotos" id="fotos"></div>
+    <p style="display:flex;gap:8px;align-items:center;flex-wrap:wrap">
+      <label class="secondary" style="cursor:pointer">📷 Foto hinzufügen<input type="file" accept="image/*" id="foto" hidden></label>
+      <span class="muted" id="notizstatus"></span>
+    </p>
     <p class="source">Quelle: ${esc(fach.quelle)}, ${esc(t.quelle)}</p>
     <div class="bottombar"><button class="primary${fertig ? " undo" : ""}" id="toggle">${fertig ? "Doch noch nicht geschafft" : "Geschafft ✓"}</button></div>`;
   document.getElementById("toggle").addEventListener("click", () => {
-    if (fertig) delete state.done[t.id]; else state.done[t.id] = true;
+    if (fertig) delete state.done[t.id]; else abhaken(t);
     speichern();
     seiteThema(fid, tid);
     if (!fertig) vorstufenHinweis(fach, [t]);
   });
+  const merk = document.getElementById("merk");
+  if (merk) merk.addEventListener("click", () => {
+    if (state.merk[t.id]) delete state.merk[t.id]; else state.merk[t.id] = fid;
+    speichern();
+    const an = !!state.merk[t.id];
+    merk.textContent = an ? "★" : "☆";
+    merk.setAttribute("aria-pressed", an);
+    merk.setAttribute("aria-label", an ? "Gemerkt, nicht mehr merken" : "Für später merken");
+  });
+  tagebuchEinrichten(fid, t);
   window.scrollTo(0, 0);
+}
+
+function notizAufraeumen(id) {
+  const n = state.notizen[id];
+  if (n && !n.text.trim() && !n.fotos.length) delete state.notizen[id];
+}
+function notizHolen(fid, id) {
+  if (!state.notizen[id]) state.notizen[id] = { fach: fid, text: "", fotos: [], datum: heute() };
+  return state.notizen[id];
+}
+async function fotosZeigen(id, ziel, loeschbar) {
+  const n = state.notizen[id];
+  if (!n || !n.fotos.length) { ziel.innerHTML = ""; return; }
+  const bilder = await Promise.all(n.fotos.map(fotoLaden));
+  ziel.innerHTML = n.fotos.map((fid, i) => bilder[i]
+    ? `<span class="foto"><img src="${bilder[i]}" alt="Foto aus dem Lerntagebuch">${loeschbar ? `<button data-weg="${fid}" aria-label="Foto löschen">×</button>` : ""}</span>` : "").join("");
+}
+function tagebuchEinrichten(fid, t) {
+  const feld = document.getElementById("notiz");
+  const status = document.getElementById("notizstatus");
+  const fotos = document.getElementById("fotos");
+  const zeigen = () => fotosZeigen(t.id, fotos, true);
+  feld.addEventListener("input", () => {
+    const n = notizHolen(fid, t.id);
+    n.text = feld.value;
+    n.datum = heute();
+    notizAufraeumen(t.id);
+    speichern();
+    status.textContent = "Gespeichert";
+  });
+  document.getElementById("foto").addEventListener("change", async e => {
+    const datei = e.target.files[0];
+    e.target.value = "";
+    if (!datei) return;
+    status.textContent = "Foto wird gespeichert …";
+    try {
+      const data = await bildVerkleinern(datei);
+      const id = "f" + Date.now().toString(36) + Math.random().toString(36).slice(2, 6);
+      await fotoSpeichern(id, data);
+      const n = notizHolen(fid, t.id);
+      n.fotos.push(id);
+      n.datum = heute();
+      speichern();
+      status.textContent = "Foto gespeichert";
+      zeigen();
+    } catch (err) {
+      status.textContent = "Das Foto konnte nicht gespeichert werden.";
+    }
+  });
+  fotos.addEventListener("click", async e => {
+    const b = e.target.closest("[data-weg]");
+    if (!b) return;
+    const n = state.notizen[t.id];
+    n.fotos = n.fotos.filter(x => x !== b.dataset.weg);
+    await fotoLoeschen(b.dataset.weg);
+    notizAufraeumen(t.id);
+    speichern();
+    zeigen();
+  });
+  zeigen();
+}
+
+/* ---------- Lerntagebuch und Rückblick ---------- */
+let zeitraum = "woche";
+async function tagebuchEintraege() {
+  const alle = await alleThemen();
+  const ab = zeitraum === "woche" ? wochenStart() : zeitraum === "monat" ? heute().slice(0, 8) + "01" : "";
+  const imZeitraum = d => (zeitraum === "alles" ? true : !!d && d >= ab);
+  return alle.map(x => {
+    const n = state.notizen[x.t.id];
+    const fd = fertigDatum(x.t.id);
+    const geschafft = istFertig(x.t.id) && imZeitraum(fd);
+    const notiz = n && imZeitraum(n.datum) ? n : null;
+    if (!geschafft && !notiz) return null;
+    return { x, geschafft, notiz, datum: [fd, notiz && notiz.datum].filter(Boolean).sort().pop() || "" };
+  }).filter(Boolean).sort((a, b) => b.datum.localeCompare(a.datum));
+}
+
+async function seiteTagebuch() {
+  const eintraege = await tagebuchEintraege();
+  const nGeschafft = eintraege.filter(e => e.geschafft).length;
+  const nNotizen = eintraege.filter(e => e.notiz).length;
+  const zr = { woche: "Diese Woche", monat: "Diesen Monat", alles: "Insgesamt" }[zeitraum];
+  app.innerHTML = `
+    <div class="topbar"><a class="iconbtn" href="#/" aria-label="Zurück">←</a><h1>Lerntagebuch</h1></div>
+    <div class="chiprow" role="group">${[["woche", "Diese Woche"], ["monat", "Dieser Monat"], ["alles", "Alles"]].map(([v, l]) =>
+      `<button class="chip" data-z="${v}" aria-pressed="${zeitraum === v}">${l}</button>`).join("")}</div>
+    <section class="card" style="margin-top:12px">
+      <h2 style="margin-top:0">${zr}</h2>
+      <p>✓ ${nGeschafft} ${nGeschafft === 1 ? "Thema" : "Themen"} geschafft · 📔 ${nNotizen} ${nNotizen === 1 ? "Notiz" : "Notizen"}</p>
+      ${eintraege.length ? `<p style="margin-top:10px"><button class="secondary" id="teilen">📤 Rückblick teilen</button></p>` : ""}
+    </section>
+    <div id="eintraege" style="margin-top:12px">${eintraege.length ? eintraege.map(e => `
+      <article class="card eintrag">
+        <a class="eintrag-kopf" href="#/thema/${e.x.t.fach}/${e.x.t.id}">${marker(e.x.fach, e.x.t)}<span><strong>${esc(e.x.t.titel)}</strong><br>
+          <span class="muted">${e.x.fach.meta.sym} ${esc(e.x.fach.meta.name)}${e.datum ? " · " + schoenesDatum(e.datum) : ""}${e.geschafft ? " · geschafft" : ""}</span></span></a>
+        ${e.notiz && e.notiz.text.trim() ? `<p class="notiztext">${esc(e.notiz.text)}</p>` : ""}
+        <div class="fotos" data-fotos="${e.x.t.id}"></div>
+      </article>`).join("") : `<p class="muted" style="margin-top:16px">Hier ist noch nichts. Schreib bei einem Thema etwas ins Lerntagebuch oder hake es als geschafft ab.</p>`}</div>`;
+  app.querySelectorAll("[data-z]").forEach(b => b.addEventListener("click", () => { zeitraum = b.dataset.z; seiteTagebuch(); }));
+  app.querySelectorAll("[data-fotos]").forEach(d => fotosZeigen(d.dataset.fotos, d, false));
+  const teilen = document.getElementById("teilen");
+  if (teilen) teilen.addEventListener("click", () => rueckblickTeilen(eintraege, zr));
+}
+
+async function rueckblickTeilen(eintraege, zr) {
+  const teile = [];
+  for (const e of eintraege) {
+    const bilder = e.notiz ? (await Promise.all(e.notiz.fotos.map(fotoLaden))).filter(Boolean) : [];
+    teile.push(`<section><h2>${esc(e.x.t.titel)}</h2>
+      <p class="m">${esc(e.x.fach.meta.name)} · ${esc(e.x.t.bereich)}${e.datum ? " · " + schoenesDatum(e.datum) : ""}${e.geschafft ? " · geschafft ✓" : ""}</p>
+      ${e.notiz && e.notiz.text.trim() ? `<p>${esc(e.notiz.text).replace(/\n/g, "<br>")}</p>` : ""}
+      ${bilder.map(b => `<img src="${b}" alt="">`).join("")}</section>`);
+  }
+  const html = `<!doctype html><html lang="de"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Lerntagebuch: ${zr}</title><style>body{font:16px/1.5 system-ui,sans-serif;max-width:700px;margin:0 auto;padding:16px;color:#1f2430}
+h1{font-size:1.5rem}h2{font-size:1.1rem;margin:0 0 2px}section{border-top:1px solid #ddd;padding:12px 0}.m{color:#5d6472;font-size:.9rem;margin:0 0 6px}
+img{max-width:100%;border-radius:8px;margin:6px 0;display:block}</style></head><body>
+<h1>Lerntagebuch: ${zr}</h1><p class="m">Erstellt am ${schoenesDatum(heute())} mit Freilernen</p>${teile.join("")}</body></html>`;
+  const name = `lerntagebuch-${heute()}.html`;
+  const datei = new File([html], name, { type: "text/html" });
+  if (navigator.canShare && navigator.canShare({ files: [datei] })) {
+    try { await navigator.share({ files: [datei], title: `Lerntagebuch: ${zr}` }); return; } catch (err) { if (err && err.name === "AbortError") return; }
+  }
+  const a = document.createElement("a");
+  a.href = URL.createObjectURL(datei);
+  a.download = name;
+  document.body.appendChild(a); a.click(); a.remove();
+  setTimeout(() => URL.revokeObjectURL(a.href), 1000);
 }
 
 async function seiteEinstellungen() {
@@ -298,21 +531,14 @@ async function seiteEinstellungen() {
     </section>
     <section class="card" style="margin-top:12px">
       <h2 style="margin-top:0">Daten sichern</h2>
-      <p class="muted">Häkchen und Stempel sind nur auf diesem Handy gespeichert. Sichere sie ab und zu als Datei.</p>
+      <p class="muted">Häkchen, Stempel, Notizen und Fotos sind nur auf diesem Handy gespeichert. Sichere sie ab und zu als Datei.</p>
       <p style="display:flex;gap:8px;flex-wrap:wrap;margin-top:10px">
         <button class="secondary" id="export">Daten sichern</button>
         <label class="secondary" style="cursor:pointer">Wiederherstellen<input type="file" id="import" accept="application/json,.json" hidden></label>
       </p>
       <p class="muted" id="meldung"></p>
     </section>`;
-  document.getElementById("export").addEventListener("click", () => {
-    const blob = new Blob([JSON.stringify({ app: "freilernen", version: 1, datum: new Date().toISOString(), state }, null, 2)], { type: "application/json" });
-    const a = document.createElement("a");
-    a.href = URL.createObjectURL(blob);
-    a.download = `freilernen-sicherung-${new Date().toISOString().slice(0, 10)}.json`;
-    document.body.appendChild(a); a.click(); a.remove();
-    setTimeout(() => URL.revokeObjectURL(a.href), 1000);
-  });
+  document.getElementById("export").addEventListener("click", datenSichern);
   document.getElementById("import").addEventListener("change", async e => {
     const datei = e.target.files[0];
     const meldung = document.getElementById("meldung");
@@ -320,6 +546,7 @@ async function seiteEinstellungen() {
     try {
       const j = JSON.parse(await datei.text());
       if (j.app !== "freilernen" || !j.state) throw new Error("falsche Datei");
+      if (j.fotos) for (const [fid, data] of Object.entries(j.fotos)) await fotoSpeichern(fid, data);
       state = Object.assign(ladeState(), j.state);
       speichern();
       seiteEinstellungen().then(() => { document.getElementById("meldung").textContent = "Wiederhergestellt."; });
@@ -463,6 +690,24 @@ async function seiteFragen(schritt) {
   document.getElementById("andere").addEventListener("click", () => seiteFragen(FRAGEN.length));
 }
 
+async function datenSichern() {
+  const fotos = {};
+  for (const n of Object.values(state.notizen)) {
+    for (const fid of n.fotos) { const d = await fotoLaden(fid); if (d) fotos[fid] = d; }
+  }
+  const blob = new Blob([JSON.stringify({ app: "freilernen", version: 2, datum: new Date().toISOString(), state, fotos }, null, 2)], { type: "application/json" });
+  const name = `freilernen-sicherung-${heute()}.json`;
+  const datei = new File([blob], name, { type: "application/json" });
+  if (navigator.canShare && navigator.canShare({ files: [datei] })) {
+    try { await navigator.share({ files: [datei], title: "Freilernen Sicherung" }); return; } catch (err) { if (err && err.name === "AbortError") return; }
+  }
+  const a = document.createElement("a");
+  a.href = URL.createObjectURL(blob);
+  a.download = name;
+  document.body.appendChild(a); a.click(); a.remove();
+  setTimeout(() => URL.revokeObjectURL(a.href), 1000);
+}
+
 /* ---------- Router ---------- */
 function route() {
   schliesseSheet();
@@ -471,6 +716,7 @@ function route() {
   if (teile[0] === "fach") return seiteFach(teile[1]);
   if (teile[0] === "thema") return seiteThema(teile[1], teile[2]);
   if (teile[0] === "einstellungen") return seiteEinstellungen();
+  if (teile[0] === "tagebuch") return seiteTagebuch();
   if (teile[0] === "finden") return teile[1] === "fragen" ? seiteFragen(teile[2]) : seiteFinden();
   return seiteStart();
 }
