@@ -1,4 +1,4 @@
-const CACHE = "freilernen-v5";
+const CACHE = "freilernen-v6";
 const DATEIEN = ["./", "index.html", "style.css", "app.js", "manifest.webmanifest", "icon.svg", "icon-192.png", "icon-512.png", "data/mathe.json", "data/deutsch.json", "data/englisch.json"];
 
 self.addEventListener("install", e => {

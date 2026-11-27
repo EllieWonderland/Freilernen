@@ -103,7 +103,7 @@ const SUCHKANAELE = {
 function videoLinks(t) {
   // Bevorzugt fest ausgewählte Videos; Suchlinks nur, wenn ein Thema noch keine hat
   if (t.videos && t.videos.length) {
-    return t.videos.map(v => ({ titel: v.titel, kanal: v.kanal, url: v.url }));
+    return t.videos.map(v => ({ titel: v.titel, kanal: v.kanal, url: v.url.replace(/^https:\/\/(www\.|m\.)?youtube\.com\/watch/, "https://www.yout-ube.com/watch") }));
   }
   const q = encodeURIComponent;
   const kanaele = SUCHKANAELE[t.fach] || SUCHKANAELE.standard;
