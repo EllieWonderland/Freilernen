@@ -151,4 +151,23 @@ ul.ex li { margin: 6px 0; }
   padding: 20px 16px calc(20px + env(safe-area-inset-bottom)); max-height: 80vh; overflow: auto; max-width: 640px; margin: 0 auto;
 }
 .sheet h2 { margin-top: 0; }
+/* Thema finden */
+.tile.finden { border-top: 6px dashed var(--orange); }
+.spin {
+  --c: var(--orange);
+  display: flex; align-items: center; gap: 12px; min-height: 92px; margin: 14px 0; padding: 14px;
+  border-radius: 14px; background: var(--chip); border-left: 8px solid var(--c);
+}
+.spin-sym { font-size: 2rem; flex: none; }
+.spin-t { font-weight: 700; font-size: 1.1rem; }
+.spin.dreht .spin-t { opacity: .8; }
+.spin.stopp { animation: hupf .5s ease; }
+@keyframes hupf { 0% { transform: scale(1); } 40% { transform: scale(1.05); } 100% { transform: scale(1); } }
+@media (prefers-reduced-motion: reduce) { .spin.stopp { animation: none; } }
+.opts { display: grid; gap: 10px; margin-top: 12px; }
+.opt {
+  border: 0; border-radius: 14px; padding: 16px; text-align: left; background: var(--card); box-shadow: var(--shadow);
+  cursor: pointer; font-size: 1.05rem;
+}
+.opt:active { transform: scale(.98); }
 [hidden] { display: none !important; }
