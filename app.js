@@ -1,6 +1,6 @@
 "use strict";
 
-/* Fächer: Mathe, Deutsch und Englisch sind fertig, die anderen folgen. */
+/* Fächer: Mathe, Deutsch, Englisch und Musik sind fertig, die anderen folgen. */
 const FAECHER = [
   { id: "mathe", name: "Mathe", sym: "🔢", farbe: "#3b7dd8", datei: "data/mathe.json" },
   { id: "deutsch", name: "Deutsch", sym: "📖", farbe: "#d0533f", datei: "data/deutsch.json" },
@@ -8,7 +8,7 @@ const FAECHER = [
   { id: "spanisch", name: "Spanisch", sym: "🇪🇸", farbe: "#e2a316" },
   { id: "nawi", name: "NaWi", sym: "🔬", farbe: "#2e9e5b" },
   { id: "gl", name: "Gesellschaftslehre", sym: "🌍", farbe: "#2a9bb0" },
-  { id: "musik", name: "Musik", sym: "🎵", farbe: "#c2508f" }
+  { id: "musik", name: "Musik", sym: "🎵", farbe: "#c2508f", datei: "data/musik.json" }
 ];
 
 const STORE_KEY = "freilernen-v1";
@@ -97,7 +97,8 @@ const klasseText = k => k === "ab 7" ? "oft ab Klasse 7" : `oft in Klasse ${k}`;
 // Kanäle für die Suchlinks, wenn ein Thema noch keine fest ausgewählten Videos hat
 const SUCHKANAELE = {
   standard: ["Lehrerschmidt", "einfach Schule", "Die Merkhilfe"],
-  englisch: ["Einfach Englisch", "BBC Learning English", "Mr Kay Erklärt Englisch"]
+  englisch: ["Einfach Englisch", "BBC Learning English", "Mr Kay Erklärt Englisch"],
+  musik: ["MusikDurchblick", "Musiklehrer", "erklaerung-und-mehr"]
 };
 
 function videoLinks(t) {
