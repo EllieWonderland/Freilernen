@@ -1,0 +1,425 @@
+{
+  "fach": "mathe",
+  "name": "Mathe",
+  "quelle": "Kerncurriculum für die Integrierte Gesamtschule, Schuljahrgänge 5 bis 10, Mathematik (Niedersächsisches Kultusministerium 2020)",
+  "bereiche": [
+    "Zahlen und Rechnen",
+    "Brüche und Dezimalzahlen",
+    "Größen, Flächen und Körper",
+    "Geometrie",
+    "Zuordnungen, Daten und Zufall"
+  ],
+  "themen": [
+    {
+      "id": "m01", "nr": 1, "titel": "Große Zahlen", "bereich": "Zahlen und Rechnen", "klasse": "5",
+      "satz": "Du kannst Zahlen bis zu Millionen und Milliarden lesen, schreiben, einordnen und vergleichen.",
+      "erklaerung": "Jede Ziffer hat einen Platz, den Stellenwert: Einer, Zehner, Hunderter, Tausender und so weiter. In der Stellenwerttafel siehst du genau, wie viel eine Ziffer wert ist. Ab einer Million liest man die Zahl in Dreierpäckchen von rechts.",
+      "beispiele": [
+        "4 305 120 liest du: vier Millionen dreihundertfünftausend einhundertzwanzig.",
+        "Auf dem Zahlenstrahl liegt 2 500 000 genau in der Mitte zwischen 2 Millionen und 3 Millionen.",
+        "Welche Zahl ist größer, 908 765 oder 1 002 000? Die zweite, denn sie hat mehr Stellen."
+      ],
+      "baut_auf": [], "quelle": "S. 41, 45", "suche": "große Zahlen Stellenwerttafel Klasse 5"
+    },
+    {
+      "id": "m02", "nr": 2, "titel": "Runden und Überschlagen", "bereich": "Zahlen und Rechnen", "klasse": "5/6",
+      "satz": "Du kannst Zahlen sinnvoll runden und Ergebnisse grob abschätzen.",
+      "erklaerung": "Beim Runden schaust du auf die Ziffer rechts neben der Stelle, auf die du runden willst. Ist sie 0 bis 4, rundest du ab, bei 5 bis 9 rundest du auf. Beim Überschlagen rechnest du mit gerundeten Zahlen und prüfst so, ob dein genaues Ergebnis stimmen kann.",
+      "beispiele": [
+        "3 487 auf Hunderter gerundet ist 3 500.",
+        "Überschlag: 49 · 21 ist ungefähr 50 · 20 = 1 000.",
+        "Wenn du für 98 · 3 genau 2 940 herausbekommst, zeigt der Überschlag 100 · 3 = 300, dass etwas nicht stimmt."
+      ],
+      "baut_auf": ["m01"], "quelle": "S. 27, 41", "suche": "runden überschlagen Klasse 5"
+    },
+    {
+      "id": "m03", "nr": 3, "titel": "Schriftlich rechnen", "bereich": "Zahlen und Rechnen", "klasse": "5/6",
+      "satz": "Du kannst plus, minus, mal und geteilt auch mit großen Zahlen schriftlich rechnen.",
+      "erklaerung": "Beim schriftlichen Rechnen schreibst du die Zahlen stellengerecht untereinander und rechnest Stelle für Stelle. Beim Addieren und Subtrahieren fängst du hinten bei den Einern an, beim Dividieren vorne. In Klasse 5 kommt das Teilen durch zweistellige Zahlen dazu.",
+      "beispiele": [
+        "2 345 + 1 678 = 4 023",
+        "512 · 34 = 17 408",
+        "1 248 : 12 = 104"
+      ],
+      "baut_auf": ["m01"], "quelle": "S. 27, 41", "suche": "schriftlich dividieren zweistellig"
+    },
+    {
+      "id": "m04", "nr": 4, "titel": "Sachaufgaben lösen", "bereich": "Zahlen und Rechnen", "klasse": "5/6",
+      "satz": "Du findest heraus, welche Rechnung in einer Textaufgabe steckt.",
+      "erklaerung": "Lies die Aufgabe in Ruhe und markiere, was gegeben ist und was gesucht ist. Überlege dann, welche Rechenart passt. Am Ende schreibst du einen Antwortsatz und prüfst, ob das Ergebnis zur Situation passt.",
+      "beispiele": [
+        "Eine Klasse hat 28 Kinder. Jedes Kind zahlt 6 € für den Ausflug. Gesucht: 28 · 6 € = 168 €.",
+        "96 Bonbons werden an 8 Kinder verteilt. Jedes Kind bekommt 96 : 8 = 12 Bonbons."
+      ],
+      "baut_auf": ["m03"], "quelle": "S. 27, 41", "suche": "Sachaufgaben lösen Klasse 5"
+    },
+    {
+      "id": "m05", "nr": 5, "titel": "Geschickt rechnen", "bereich": "Zahlen und Rechnen", "klasse": "5/6",
+      "satz": "Du nutzt Rechentricks wie Vertauschen und Zusammenfassen.",
+      "erklaerung": "Beim Plus und beim Mal darfst du die Zahlen vertauschen und beliebig zusammenfassen. Damit kannst du dir passende Paare suchen, die leicht zu rechnen sind. Außerdem gilt: Punktrechnung vor Strichrechnung, und Klammern rechnest du zuerst.",
+      "beispiele": [
+        "17 + 48 + 3 = 17 + 3 + 48 = 20 + 48 = 68",
+        "4 · 37 · 25 = 4 · 25 · 37 = 100 · 37 = 3 700",
+        "6 · 99 = 6 · 100 − 6 = 594"
+      ],
+      "baut_auf": ["m03"], "quelle": "S. 27, 41", "suche": "Rechengesetze Kommutativgesetz Assoziativgesetz Klasse 5"
+    },
+    {
+      "id": "m06", "nr": 6, "titel": "Potenzen", "bereich": "Zahlen und Rechnen", "klasse": "5",
+      "satz": "Du kannst 2 · 2 · 2 kurz als 2³ schreiben.",
+      "erklaerung": "Eine Potenz ist eine Kurzschrift für eine Malaufgabe mit immer derselben Zahl. Die große Zahl unten heißt Basis, die kleine Zahl oben heißt Exponent. Der Exponent sagt, wie oft die Basis mit sich selbst malgenommen wird.",
+      "beispiele": [
+        "2³ = 2 · 2 · 2 = 8",
+        "10⁴ = 10 000",
+        "5² = 25, man sagt auch: fünf zum Quadrat."
+      ],
+      "baut_auf": ["m03"], "quelle": "S. 27, 41", "suche": "Potenzen Klasse 5"
+    },
+    {
+      "id": "m07", "nr": 7, "titel": "Teiler und Vielfache", "bereich": "Zahlen und Rechnen", "klasse": "5",
+      "satz": "Du findest heraus, durch welche Zahlen sich eine Zahl teilen lässt.",
+      "erklaerung": "Ein Teiler geht ohne Rest in einer Zahl auf. Vielfache bekommst du, wenn du eine Zahl mit 1, 2, 3 und so weiter malnimmst. Teilbarkeitsregeln helfen beim schnellen Prüfen, zum Beispiel ist eine Zahl durch 3 teilbar, wenn ihre Quersumme durch 3 teilbar ist.",
+      "beispiele": [
+        "Die Teiler von 12 sind 1, 2, 3, 4, 6 und 12.",
+        "Die ersten Vielfachen von 7 sind 7, 14, 21, 28.",
+        "471 ist durch 3 teilbar, denn 4 + 7 + 1 = 12."
+      ],
+      "baut_auf": ["m03"], "quelle": "S. 27, 41", "suche": "Teiler Vielfache Teilbarkeitsregeln"
+    },
+    {
+      "id": "m08", "nr": 8, "titel": "Rechenausdrücke", "bereich": "Zahlen und Rechnen", "klasse": "6",
+      "satz": "Du schreibst eine Situation als Rechenausdruck mit Zahlen auf.",
+      "erklaerung": "Ein Rechenausdruck, auch Term genannt, fasst eine ganze Rechnung in eine Zeile. So siehst du auf einen Blick, was zuerst gerechnet wird. Umgekehrt kannst du dir zu einem Rechenausdruck eine passende Geschichte ausdenken.",
+      "beispiele": [
+        "Drei Hefte zu je 2,50 € und ein Stift für 4 €: 3 · 2,50 € + 4 € = 11,50 €.",
+        "Zu (20 − 5) : 3 passt: 20 Äpfel, 5 werden gegessen, der Rest wird auf 3 Körbe verteilt."
+      ],
+      "baut_auf": ["m04", "m05"], "quelle": "S. 28, 45", "suche": "Terme aufstellen Klasse 6"
+    },
+    {
+      "id": "m09", "nr": 9, "titel": "Platzhalter", "bereich": "Zahlen und Rechnen", "klasse": "5/6",
+      "satz": "Du findest die fehlende Zahl in Aufgaben wie 3 + □ = 10.",
+      "erklaerung": "Ein Platzhalter ist ein Kästchen oder Zeichen, das für eine Zahl steht, die du noch nicht kennst. Du findest sie, indem du rückwärts rechnest oder ausprobierst. Später, ab Klasse 7, heißen solche Platzhalter Variablen und werden mit Buchstaben geschrieben.",
+      "beispiele": [
+        "3 + □ = 10, also ist □ = 7.",
+        "□ · 6 = 42, also ist □ = 7.",
+        "Umfang eines Quadrats: U = 4 · □, wobei □ die Seitenlänge ist."
+      ],
+      "baut_auf": ["m08"], "quelle": "S. 28, 41, 45", "suche": "Platzhalteraufgaben"
+    },
+    {
+      "id": "m10", "nr": 10, "titel": "Brüche als Anteile", "bereich": "Brüche und Dezimalzahlen", "klasse": "5",
+      "satz": "Du verstehst, was ¾ von einer Pizza bedeutet.",
+      "erklaerung": "Ein Bruch beschreibt einen Teil von einem Ganzen. Die untere Zahl, der Nenner, sagt, in wie viele gleich große Teile das Ganze geteilt wird. Die obere Zahl, der Zähler, sagt, wie viele dieser Teile du nimmst.",
+      "beispiele": [
+        "¾ einer Pizza: Die Pizza wird in 4 Stücke geteilt, du nimmst 3 davon.",
+        "½ von 20 Gummibärchen sind 10 Gummibärchen.",
+        "⅓ einer Stunde sind 20 Minuten."
+      ],
+      "baut_auf": [], "quelle": "S. 29, 43", "suche": "Brüche Anteile Klasse 5"
+    },
+    {
+      "id": "m11", "nr": 11, "titel": "Brüche vergleichen", "bereich": "Brüche und Dezimalzahlen", "klasse": "5/6",
+      "satz": "Du findest heraus, welcher Bruch größer ist.",
+      "erklaerung": "Haben zwei Brüche denselben Nenner, ist der mit dem größeren Zähler größer. Haben sie denselben Zähler, ist der mit dem kleineren Nenner größer, denn die Stücke sind dann größer. Sonst hilft ein Bild oder später das Erweitern auf einen gemeinsamen Nenner.",
+      "beispiele": [
+        "⅗ ist größer als ⅖.",
+        "⅓ ist größer als ⅕, denn Drittel sind größere Stücke als Fünftel.",
+        "Auf dem Zahlenstrahl liegt ½ genau in der Mitte zwischen 0 und 1."
+      ],
+      "baut_auf": ["m10"], "quelle": "S. 29", "suche": "Brüche vergleichen"
+    },
+    {
+      "id": "m12", "nr": 12, "titel": "Erweitern und Kürzen", "bereich": "Brüche und Dezimalzahlen", "klasse": "6",
+      "satz": "Du weißt, warum ½ und 2/4 gleich viel sind, und kannst Brüche umschreiben.",
+      "erklaerung": "Beim Erweitern teilst du jedes Stück noch einmal: Zähler und Nenner werden mit derselben Zahl malgenommen. Beim Kürzen fasst du Stücke zusammen: Zähler und Nenner werden durch dieselbe Zahl geteilt. Der Wert des Bruchs bleibt dabei gleich, nur die Einteilung ändert sich.",
+      "beispiele": [
+        "½ mit 2 erweitert ergibt 2/4.",
+        "6/8 mit 2 gekürzt ergibt ¾.",
+        "Um ⅔ und ¾ zu vergleichen, erweiterst du beide auf Zwölftel: 8/12 und 9/12."
+      ],
+      "baut_auf": ["m10", "m07"], "quelle": "S. 29, 43", "suche": "Brüche erweitern kürzen"
+    },
+    {
+      "id": "m13", "nr": 13, "titel": "Brüche addieren und subtrahieren", "bereich": "Brüche und Dezimalzahlen", "klasse": "6",
+      "satz": "Du kannst Brüche zusammenzählen und abziehen.",
+      "erklaerung": "Brüche mit gleichem Nenner addierst du, indem du die Zähler addierst und den Nenner behältst. Haben die Brüche verschiedene Nenner, machst du sie zuerst durch Erweitern gleichnamig. Beim Subtrahieren gehst du genauso vor.",
+      "beispiele": [
+        "⅖ + ⅕ = ⅗",
+        "½ + ⅓ = 3/6 + 2/6 = 5/6",
+        "¾ − ½ = ¾ − 2/4 = ¼"
+      ],
+      "baut_auf": ["m12"], "quelle": "S. 29, 48", "suche": "Brüche addieren subtrahieren ungleichnamig"
+    },
+    {
+      "id": "m14", "nr": 14, "titel": "Dezimalzahlen", "bereich": "Brüche und Dezimalzahlen", "klasse": "6",
+      "satz": "Du verstehst Kommazahlen wie 0,75 und kannst sie in Brüche umwandeln und zurück.",
+      "erklaerung": "Dezimalzahlen sind eine andere Schreibweise für Brüche mit Nenner 10, 100, 1000 und so weiter. Die erste Stelle nach dem Komma sind die Zehntel, die zweite die Hundertstel. Um einen Bruch umzuwandeln, erweiterst du ihn auf Zehntel, Hundertstel oder Tausendstel.",
+      "beispiele": [
+        "0,7 = 7/10",
+        "¾ = 75/100 = 0,75",
+        "In der Stellenwerttafel steht bei 3,25 die 2 bei den Zehnteln und die 5 bei den Hundertsteln."
+      ],
+      "baut_auf": ["m12"], "quelle": "S. 29, 45", "suche": "Dezimalzahlen Brüche umwandeln Klasse 6"
+    },
+    {
+      "id": "m15", "nr": 15, "titel": "Mit Dezimalzahlen rechnen", "bereich": "Brüche und Dezimalzahlen", "klasse": "6",
+      "satz": "Du rechnest mit Kommazahlen, zum Beispiel beim Einkaufen.",
+      "erklaerung": "Beim Addieren und Subtrahieren schreibst du Komma unter Komma. Beim Malnehmen rechnest du erst ohne Komma und setzt es dann so, dass das Ergebnis so viele Nachkommastellen hat wie beide Zahlen zusammen. Ein Überschlag zeigt dir, ob das Komma an der richtigen Stelle sitzt.",
+      "beispiele": [
+        "2,35 € + 1,80 € = 4,15 €",
+        "1,2 · 0,3 = 0,36",
+        "4,8 : 2 = 2,4"
+      ],
+      "baut_auf": ["m14", "m03"], "quelle": "S. 29, 45", "suche": "Dezimalzahlen multiplizieren dividieren Klasse 6"
+    },
+    {
+      "id": "m34", "nr": 34, "titel": "Prozent als Bruch", "bereich": "Brüche und Dezimalzahlen", "klasse": "5",
+      "satz": "Du weißt, dass 50 % die Hälfte und 25 % ein Viertel ist.",
+      "erklaerung": "Prozent heißt von Hundert. 30 % bedeutet also 30 von 100 oder 30/100. Viele Prozentangaben aus dem Alltag kannst du dir als einfache Brüche merken.",
+      "beispiele": [
+        "50 % = ½, 25 % = ¼, 10 % = 1/10, 100 % = das Ganze.",
+        "Der Akku zeigt 25 %: Ein Viertel ist noch übrig.",
+        "50 % Rabatt auf eine Jacke für 40 € heißt: Sie kostet nur noch 20 €."
+      ],
+      "baut_auf": ["m10"], "quelle": "S. 29, 43", "suche": "Prozent als Bruch Grundvorstellung"
+    },
+    {
+      "id": "m16", "nr": 16, "titel": "Einheiten umrechnen", "bereich": "Größen, Flächen und Körper", "klasse": "5",
+      "satz": "Du rechnest zum Beispiel Meter in Zentimeter oder Stunden in Minuten um.",
+      "erklaerung": "Größen bestehen aus einer Zahl und einer Einheit, zum Beispiel 3 m. Bei Längen und Gewichten ist die Umrechnungszahl oft 10, 100 oder 1000. Bei der Zeit ist es anders: 1 Stunde hat 60 Minuten, 1 Minute hat 60 Sekunden.",
+      "beispiele": [
+        "1 m = 100 cm, also sind 2,5 m = 250 cm.",
+        "1 kg = 1000 g",
+        "90 Minuten = 1 Stunde 30 Minuten"
+      ],
+      "baut_auf": [], "quelle": "S. 30, 41", "suche": "Größen Einheiten umrechnen Klasse 5"
+    },
+    {
+      "id": "m17", "nr": 17, "titel": "Schätzen und Messen", "bereich": "Größen, Flächen und Körper", "klasse": "5/6",
+      "satz": "Du kannst Längen, Gewichte und Zeiten gut schätzen und nachmessen.",
+      "erklaerung": "Zum Schätzen helfen Vergleichsgrößen, die du gut kennst. Eine Tür ist etwa 2 m hoch, eine Tafel Schokolade wiegt 100 g. Danach misst du nach und vergleichst, wie nah du dran warst.",
+      "beispiele": [
+        "Dein Daumen ist ungefähr 2 cm breit.",
+        "Ein Liter Milch wiegt etwa 1 kg.",
+        "Schätze, wie lange du für 100 Schritte brauchst, und stoppe dann die Zeit."
+      ],
+      "baut_auf": [], "quelle": "S. 30", "suche": "Größen schätzen Stützpunktvorstellung"
+    },
+    {
+      "id": "m18", "nr": 18, "titel": "Umfang und Fläche", "bereich": "Größen, Flächen und Körper", "klasse": "6",
+      "satz": "Du berechnest, wie lang der Rand und wie groß die Fläche eines Rechtecks ist.",
+      "erklaerung": "Der Umfang ist die Länge einmal ganz außen herum. Der Flächeninhalt sagt, wie viele Einheitsquadrate, zum Beispiel cm², hineinpassen. Beim Rechteck gilt: Umfang = 2 · Länge + 2 · Breite und Fläche = Länge · Breite.",
+      "beispiele": [
+        "Rechteck 5 cm lang und 3 cm breit: Umfang 16 cm, Fläche 15 cm².",
+        "Ein L-förmiges Zimmer zerlegst du in zwei Rechtecke und addierst ihre Flächen."
+      ],
+      "baut_auf": ["m16"], "quelle": "S. 31, 50", "suche": "Umfang Flächeninhalt Rechteck Klasse 6"
+    },
+    {
+      "id": "m19", "nr": 19, "titel": "Oberfläche und Volumen", "bereich": "Größen, Flächen und Körper", "klasse": "6",
+      "satz": "Du berechnest, wie viel Papier um eine Schachtel passt und wie viel hineinpasst.",
+      "erklaerung": "Die Oberfläche eines Quaders besteht aus sechs Rechtecken, von denen je zwei gleich sind. Das Volumen sagt, wie viele Einheitswürfel, zum Beispiel cm³, hineinpassen. Beim Quader gilt: Volumen = Länge · Breite · Höhe.",
+      "beispiele": [
+        "Quader 4 cm · 3 cm · 2 cm: Volumen 24 cm³.",
+        "Oberfläche desselben Quaders: 2 · (4 · 3 + 4 · 2 + 3 · 2) = 52 cm².",
+        "1 Liter = 1 dm³ = 1000 cm³"
+      ],
+      "baut_auf": ["m18", "m24"], "quelle": "S. 31, 50", "suche": "Oberfläche Volumen Quader Klasse 6"
+    },
+    {
+      "id": "m35", "nr": 35, "titel": "Maßstab", "bereich": "Größen, Flächen und Körper", "klasse": "6",
+      "satz": "Du verstehst, was 1 : 100 auf einem Plan bedeutet, und zeichnest selbst maßstabsgerecht.",
+      "erklaerung": "Ein Maßstab sagt, wie stark etwas verkleinert oder vergrößert wurde. 1 : 100 bedeutet: 1 cm auf dem Plan sind 100 cm in Wirklichkeit. So kannst du aus Karten und Plänen echte Längen berechnen.",
+      "beispiele": [
+        "Maßstab 1 : 100: 4 cm auf dem Plan sind 400 cm = 4 m in echt.",
+        "Auf einer Wanderkarte 1 : 25 000 ist 1 cm in Wirklichkeit 250 m.",
+        "Zeichne dein Zimmer im Maßstab 1 : 50."
+      ],
+      "baut_auf": ["m16", "m03"], "quelle": "S. 29, 30, 50", "suche": "Maßstab berechnen Klasse 6"
+    },
+    {
+      "id": "m20", "nr": 20, "titel": "Grundbegriffe", "bereich": "Geometrie", "klasse": "5/6",
+      "satz": "Du kennst Punkt, Strecke, Gerade und weißt, was parallel und senkrecht heißt.",
+      "erklaerung": "Eine Strecke hat zwei Endpunkte, eine Gerade ist unendlich lang in beide Richtungen. Zwei Geraden sind parallel, wenn sie überall den gleichen Abstand haben und sich nie schneiden. Sie sind senkrecht zueinander, wenn sie sich im rechten Winkel schneiden.",
+      "beispiele": [
+        "Die Schienen einer Eisenbahn sind parallel.",
+        "Die Kanten einer Buchseite stehen senkrecht aufeinander.",
+        "Mit dem Geodreieck kannst du senkrechte und parallele Linien zeichnen."
+      ],
+      "baut_auf": [], "quelle": "S. 32", "suche": "parallel senkrecht Geodreieck Klasse 5"
+    },
+    {
+      "id": "m21", "nr": 21, "titel": "Koordinatensystem", "bereich": "Geometrie", "klasse": "5/6",
+      "satz": "Du kannst Punkte in ein Gitter eintragen und ablesen.",
+      "erklaerung": "Ein Koordinatensystem hat eine waagerechte x-Achse und eine senkrechte y-Achse. Jeder Punkt hat zwei Zahlen: zuerst wie weit nach rechts, dann wie weit nach oben. Merksatz: Erst gehen, dann stehen.",
+      "beispiele": [
+        "Der Punkt A(3|2) liegt 3 nach rechts und 2 nach oben.",
+        "Verbinde A(1|1), B(5|1) und C(3|4) zu einem Dreieck."
+      ],
+      "baut_auf": ["m20"], "quelle": "S. 32", "suche": "Koordinatensystem Punkte eintragen Klasse 5"
+    },
+    {
+      "id": "m22", "nr": 22, "titel": "Winkel", "bereich": "Geometrie", "klasse": "6",
+      "satz": "Du erkennst spitze, rechte und stumpfe Winkel und kannst sie messen und zeichnen.",
+      "erklaerung": "Ein Winkel entsteht, wo zwei Linien von einem Punkt ausgehen. Er wird in Grad gemessen. Ein rechter Winkel hat 90°, spitze Winkel sind kleiner, stumpfe Winkel liegen zwischen 90° und 180°.",
+      "beispiele": [
+        "Die Ecke eines Blatts Papier ist ein rechter Winkel, also 90°.",
+        "Die Zeiger einer Uhr um 2 Uhr bilden einen spitzen Winkel von 60°.",
+        "Mit dem Geodreieck misst du Winkel, indem du den Nullpunkt genau auf den Scheitel legst."
+      ],
+      "baut_auf": ["m20"], "quelle": "S. 30, 32, 46", "suche": "Winkel messen zeichnen Geodreieck"
+    },
+    {
+      "id": "m23", "nr": 23, "titel": "Figuren und Körper", "bereich": "Geometrie", "klasse": "5/6",
+      "satz": "Du erkennst Rechteck, Dreieck, Würfel, Quader und mehr, auch in deiner Umgebung.",
+      "erklaerung": "Flache Figuren wie Quadrat, Rechteck, Dreieck oder Kreis liegen in einer Ebene. Körper wie Würfel, Quader, Zylinder oder Kugel sind räumlich. Körper beschreibst du mit Ecken, Kanten und Flächen.",
+      "beispiele": [
+        "Ein Würfel hat 8 Ecken, 12 Kanten und 6 Flächen.",
+        "Eine Konservendose ist ein Zylinder.",
+        "Ein Schuhkarton ist ein Quader."
+      ],
+      "baut_auf": ["m20"], "quelle": "S. 32", "suche": "geometrische Körper Ecken Kanten Flächen"
+    },
+    {
+      "id": "m24", "nr": 24, "titel": "Schrägbilder und Netze", "bereich": "Geometrie", "klasse": "5/6",
+      "satz": "Du zeichnest einen Würfel räumlich und weißt, wie man ihn aus Papier faltet.",
+      "erklaerung": "Ein Schrägbild zeigt einen Körper so, dass er räumlich wirkt. Ein Netz ist der aufgeklappte Körper, flach auf dem Papier. Nicht jedes Muster aus sechs Quadraten lässt sich zu einem Würfel falten.",
+      "beispiele": [
+        "Beim Schrägbild eines Würfels zeichnest du die nach hinten laufenden Kanten schräg und halb so lang.",
+        "Ein Würfelnetz in Kreuzform lässt sich falten, sechs Quadrate in einer Reihe nicht."
+      ],
+      "baut_auf": ["m23"], "quelle": "S. 33", "suche": "Würfelnetz Schrägbild Quader"
+    },
+    {
+      "id": "m25", "nr": 25, "titel": "Achsensymmetrie", "bereich": "Geometrie", "klasse": "5",
+      "satz": "Du findest Spiegelachsen in Figuren und Bildern.",
+      "erklaerung": "Eine Figur ist achsensymmetrisch, wenn du sie so falten kannst, dass beide Hälften genau aufeinander passen. Die Faltlinie heißt Symmetrieachse. Manche Figuren haben mehrere Symmetrieachsen.",
+      "beispiele": [
+        "Ein Schmetterling hat eine Symmetrieachse in der Mitte.",
+        "Ein Quadrat hat vier Symmetrieachsen.",
+        "Der Buchstabe A ist achsensymmetrisch, der Buchstabe F nicht."
+      ],
+      "baut_auf": [], "quelle": "S. 32, 44", "suche": "Achsensymmetrie Symmetrieachse Klasse 5"
+    },
+    {
+      "id": "m26", "nr": 26, "titel": "Spiegeln, Drehen, Verschieben", "bereich": "Geometrie", "klasse": "5/6",
+      "satz": "Du bewegst Figuren und erzeugst damit Muster.",
+      "erklaerung": "Du kannst eine Figur an einer Achse spiegeln, um einen Punkt drehen oder in eine Richtung verschieben. Die Figur behält dabei ihre Form und Größe. Wiederholst du das, entstehen Muster wie auf Fliesen oder Stoffen.",
+      "beispiele": [
+        "Spiegelst du ein Dreieck an einer Achse, zeigt es danach in die andere Richtung.",
+        "Ein Windrad entsteht, wenn du einen Flügel dreimal um 90° drehst.",
+        "Ein Parkettmuster entsteht durch Verschieben."
+      ],
+      "baut_auf": ["m25"], "quelle": "S. 32", "suche": "spiegeln drehen verschieben Figuren"
+    },
+    {
+      "id": "m27", "nr": 27, "titel": "Kreis und symmetrische Figuren", "bereich": "Geometrie", "klasse": "6",
+      "satz": "Du zeichnest Kreise mit dem Zirkel und entwirfst symmetrische Figuren.",
+      "erklaerung": "Alle Punkte eines Kreises haben denselben Abstand zum Mittelpunkt, das ist der Radius. Der Durchmesser ist doppelt so lang wie der Radius. Mit Zirkel und Geodreieck kannst du daraus schöne symmetrische Muster zeichnen.",
+      "beispiele": [
+        "Radius 3 cm heißt: Durchmesser 6 cm.",
+        "Zeichnest du sechs Kreise mit gleichem Radius um die Punkte eines Kreises, entsteht eine Blüte."
+      ],
+      "baut_auf": ["m25", "m20"], "quelle": "S. 49", "suche": "Kreis zeichnen Zirkel Radius Durchmesser"
+    },
+    {
+      "id": "m37", "nr": 37, "titel": "Dreiecke und Vierecke einteilen", "bereich": "Geometrie", "klasse": "ab 7",
+      "satz": "Du ordnest Dreiecke und Vierecke nach ihren Seiten und Winkeln.",
+      "erklaerung": "Dreiecke kannst du nach ihren Seiten einteilen, zum Beispiel gleichseitig oder gleichschenklig, und nach ihren Winkeln, zum Beispiel rechtwinklig. Bei Vierecken gibt es Quadrat, Rechteck, Raute, Parallelogramm, Trapez und Drachen. Manche gehören zu mehreren Gruppen, ein Quadrat ist zum Beispiel auch ein Rechteck.",
+      "beispiele": [
+        "Ein Dreieck mit drei gleich langen Seiten ist gleichseitig.",
+        "Ein Parallelogramm hat zwei Paare paralleler Seiten."
+      ],
+      "baut_auf": ["m23", "m22"], "quelle": "S. 32, 52", "suche": "Dreiecke Vierecke Arten Haus der Vierecke"
+    },
+    {
+      "id": "m38", "nr": 38, "titel": "Dreiecke konstruieren", "bereich": "Geometrie", "klasse": "ab 7",
+      "satz": "Du zeichnest ein Dreieck genau nach Angaben, mit Zirkel und Geodreieck.",
+      "erklaerung": "Wenn du drei passende Angaben hast, zum Beispiel drei Seitenlängen, kannst du ein Dreieck genau zeichnen. Dazu machst du zuerst eine Skizze und zeichnest dann Schritt für Schritt. Mit dem Zirkel trägst du Längen ab.",
+      "beispiele": [
+        "Dreieck mit a = 5 cm, b = 4 cm, c = 6 cm: Zeichne c, schlage Kreise mit 4 cm und 5 cm um die Endpunkte."
+      ],
+      "baut_auf": ["m37"], "quelle": "S. 32", "suche": "Dreieck konstruieren SSS"
+    },
+    {
+      "id": "m39", "nr": 39, "titel": "Satz des Thales", "bereich": "Geometrie", "klasse": "ab 7",
+      "satz": "Du entdeckst, warum im Halbkreis immer ein rechter Winkel entsteht.",
+      "erklaerung": "Zeichne einen Halbkreis und verbinde die beiden Enden des Durchmessers mit irgendeinem Punkt auf dem Bogen. Der Winkel an diesem Punkt ist immer 90°. Diese Entdeckung heißt Satz des Thales.",
+      "beispiele": [
+        "Mit dem Thaleskreis kannst du rechtwinklige Dreiecke zeichnen, ohne den Winkel zu messen."
+      ],
+      "baut_auf": ["m38", "m27"], "quelle": "S. 33", "suche": "Satz des Thales einfach erklärt"
+    },
+    {
+      "id": "m28", "nr": 28, "titel": "Zuordnungen und Graphen", "bereich": "Zuordnungen, Daten und Zufall", "klasse": "5/6",
+      "satz": "Du beschreibst, wie zwei Größen zusammenhängen, und liest das aus einem Graphen ab.",
+      "erklaerung": "Bei einer Zuordnung gehört zu jedem Wert einer Größe ein Wert einer anderen Größe, zum Beispiel Uhrzeit und Temperatur. Du kannst sie in einer Tabelle oder als Graph im Koordinatensystem darstellen. Aus dem Graphen liest du ab, wann etwas steigt oder fällt.",
+      "beispiele": [
+        "1 Brötchen kostet 0,40 €, 5 Brötchen kosten 2 €.",
+        "Am Temperaturgraph siehst du, um welche Uhrzeit es am wärmsten war."
+      ],
+      "baut_auf": ["m21"], "quelle": "S. 34", "suche": "Zuordnungen Graphen ablesen Klasse 6"
+    },
+    {
+      "id": "m29", "nr": 29, "titel": "Umfragen und Diagramme", "bereich": "Zuordnungen, Daten und Zufall", "klasse": "5",
+      "satz": "Du planst eine kleine Umfrage und stellst das Ergebnis als Diagramm dar.",
+      "erklaerung": "Zuerst überlegst du dir eine Frage und wen du fragst. Die Antworten zählst du mit einer Strichliste. Dann zeichnest du ein Säulen- oder Balkendiagramm, damit man das Ergebnis auf einen Blick sieht.",
+      "beispiele": [
+        "Frage in deiner Klasse: Wie kommst du zur Schule? Zu Fuß, Rad, Bus oder Auto.",
+        "Eine Strichliste mit ||||| bedeutet 5."
+      ],
+      "baut_auf": [], "quelle": "S. 36, 39", "suche": "Strichliste Säulendiagramm Klasse 5"
+    },
+    {
+      "id": "m30", "nr": 30, "titel": "Diagramme auswerten", "bereich": "Zuordnungen, Daten und Zufall", "klasse": "5/6",
+      "satz": "Du liest aus Tabellen und Diagrammen ab, was sie aussagen.",
+      "erklaerung": "Schau zuerst auf die Überschrift und die Achsen: Was wird gezeigt, und in welcher Einheit? Dann vergleichst du die Werte. Achte auch darauf, ob ein Diagramm vielleicht täuscht, zum Beispiel weil die Achse nicht bei 0 beginnt.",
+      "beispiele": [
+        "Im Säulendiagramm ist die Säule für Fahrrad am höchsten: Die meisten kommen mit dem Rad.",
+        "Beginnt die Achse bei 90 statt bei 0, wirken kleine Unterschiede riesig."
+      ],
+      "baut_auf": ["m29"], "quelle": "S. 36", "suche": "Diagramme lesen auswerten"
+    },
+    {
+      "id": "m31", "nr": 31, "titel": "Durchschnitt", "bereich": "Zuordnungen, Daten und Zufall", "klasse": "6",
+      "satz": "Du berechnest den Durchschnitt, zum Beispiel von deinen Wurfweiten.",
+      "erklaerung": "Den Durchschnitt, auch arithmetisches Mittel genannt, berechnest du so: Alle Werte addieren und durch die Anzahl der Werte teilen. Er sagt dir, wie viel jeder hätte, wenn alles gleich verteilt wäre.",
+      "beispiele": [
+        "Wurfweiten 20 m, 24 m und 28 m: (20 + 24 + 28) : 3 = 24 m.",
+        "Drei Kinder haben 2, 5 und 8 Murmeln. Gerecht verteilt hätte jedes 5."
+      ],
+      "baut_auf": ["m30", "m03"], "quelle": "S. 36, 45", "suche": "Mittelwert Durchschnitt berechnen Klasse 6"
+    },
+    {
+      "id": "m36", "nr": 36, "titel": "Zentralwert und Spannweite", "bereich": "Zuordnungen, Daten und Zufall", "klasse": "ab 7",
+      "satz": "Du findest den mittleren Wert und den Abstand zwischen größtem und kleinstem Wert.",
+      "erklaerung": "Für den Zentralwert ordnest du alle Werte der Größe nach. Der Wert in der Mitte ist der Zentralwert. Die Spannweite ist der größte Wert minus der kleinste Wert.",
+      "beispiele": [
+        "Werte 3, 5, 6, 9, 12: Der Zentralwert ist 6, die Spannweite ist 12 − 3 = 9."
+      ],
+      "baut_auf": ["m31"], "quelle": "S. 36, 39", "suche": "Zentralwert Median Spannweite"
+    },
+    {
+      "id": "m32", "nr": 32, "titel": "Zufall im Alltag", "bereich": "Zuordnungen, Daten und Zufall", "klasse": "6",
+      "satz": "Du verstehst Sätze wie „Die Regenwahrscheinlichkeit beträgt 70 Prozent“.",
+      "erklaerung": "Manche Dinge sind sicher, manche unmöglich und viele liegen dazwischen. Die Wahrscheinlichkeit sagt, wie wahrscheinlich etwas ist. 70 % Regenwahrscheinlichkeit heißt: Bei solchem Wetter regnet es an 7 von 10 Tagen.",
+      "beispiele": [
+        "Dass morgen die Sonne aufgeht, ist sicher.",
+        "Mit einem normalen Würfel eine 7 zu würfeln, ist unmöglich.",
+        "Eine Münze zeigt mit gleicher Chance Kopf oder Zahl."
+      ],
+      "baut_auf": [], "quelle": "S. 36, 47", "suche": "Wahrscheinlichkeit Alltag sicher unmöglich Klasse 6"
+    },
+    {
+      "id": "m33", "nr": 33, "titel": "Zufallsexperimente", "bereich": "Zuordnungen, Daten und Zufall", "klasse": "6",
+      "satz": "Du würfelst, ziehst Kugeln und wertest die Ergebnisse aus.",
+      "erklaerung": "Bei einem Zufallsexperiment weißt du vorher nicht, was herauskommt. Wenn du es oft wiederholst und mitzählst, siehst du, welche Ergebnisse häufiger vorkommen. Bei einem normalen Würfel ist jede Zahl gleich wahrscheinlich, bei einer Reißzwecke nicht.",
+      "beispiele": [
+        "Würfle 60 Mal und zähle: Jede Zahl kommt ungefähr 10 Mal.",
+        "In einem Beutel liegen 3 rote und 1 blaue Kugel. Rot zu ziehen ist wahrscheinlicher."
+      ],
+      "baut_auf": ["m32"], "quelle": "S. 47", "suche": "Zufallsexperiment Würfel Klasse 6"
+    }
+  ]
+}
