@@ -1,0 +1,1311 @@
+{
+ "fach": "musik",
+ "name": "Musik",
+ "quelle": "Kerncurriculum für die Integrierte Gesamtschule, Schuljahrgänge 5 bis 10, Musik, Niedersächsisches Kultusministerium 2017",
+ "bereiche": [
+  "Stimme und Singen",
+  "Instrumente und Klang",
+  "Rhythmus und Bewegung",
+  "Noten und Musiklehre",
+  "Musik hören und verstehen",
+  "Musik in der Welt"
+ ],
+ "themen": [
+  {
+   "id": "mu01",
+   "nr": 1,
+   "titel": "Atem und Stimme",
+   "bereich": "Stimme und Singen",
+   "klasse": "5",
+   "satz": "Du merkst, wie Atem, Haltung und Stimme zusammenarbeiten, und wärmst deine Stimme vor dem Singen auf.",
+   "baut_auf": [],
+   "quelle": "S. 13, 17 (G)",
+   "erklaerung": "Deine Stimme entsteht, wenn Luft aus der Lunge die Stimmlippen im Kehlkopf zum Schwingen bringt. Wer aufrecht steht und tief in den Bauch atmet, hat mehr Luft und singt leichter. Vor dem Singen wärmt man die Stimme auf, ähnlich wie Sportler ihre Muskeln.",
+   "beispiele": [
+    "Atemübung: Langsam durch die Nase einatmen, dann auf „ssss“ so lange wie möglich ausatmen.",
+    "Lippenflattern „brrr“ von tief nach hoch, wie ein Motorrad.",
+    "Gähnen und dabei „haaa“ von oben nach unten gleiten lassen."
+   ],
+   "suche": "Einsingen Atmung Stimme Kinder",
+   "videos": [
+    {
+     "titel": "Menschliche Stimme: Das passiert beim Singen & Sprechen – einfach erklärt | Kindervideos | SRF Kids",
+     "kanal": "SRF Kids",
+     "url": "https://www.yout-ube.com/watch?v=FnP_238pmm8"
+    },
+    {
+     "titel": "Stimmbildung für Kids  | \"Atemübung Singen\"",
+     "kanal": "Ellen Strauß-Wallisch | Singspaß für Kids",
+     "url": "https://www.yout-ube.com/watch?v=cTNpRjSmvPM"
+    },
+    {
+     "titel": "Einsingen 5 Minuten - kurz aber effektiv | singdu.de",
+     "kanal": "singDu",
+     "url": "https://www.yout-ube.com/watch?v=OzqbJYV799E"
+    }
+   ]
+  },
+  {
+   "id": "mu02",
+   "nr": 2,
+   "titel": "Mit der Stimme experimentieren",
+   "bereich": "Stimme und Singen",
+   "klasse": "5",
+   "satz": "Du probierst aus, was deine Stimme alles kann: flüstern, brummen, quietschen, Geräusche machen, auch nach gemalten Zeichen.",
+   "baut_auf": [],
+   "quelle": "S. 13 (G)",
+   "erklaerung": "Deine Stimme kann viel mehr als sprechen und singen. Du kannst flüstern, brummen, zischen, schnalzen oder Tiergeräusche nachmachen. Solche Klänge kann man auch mit gemalten Zeichen aufschreiben, zum Beispiel eine Wellenlinie für ein Auf und Ab.",
+   "beispiele": [
+    "Mach mit der Stimme einen Sturm: erst leises Pfeifen, dann lautes Heulen.",
+    "Eine Zickzacklinie singst du als schnelles Hoch und Tief.",
+    "Beatboxing: „Bum, Ts, Ka“ klingt wie ein Schlagzeug."
+   ],
+   "suche": "Stimme Klänge Beatbox Anfänger",
+   "videos": [
+    {
+     "titel": "Beatboxen lernen für Kinder & Anfänger",
+     "kanal": "Miguel Camero",
+     "url": "https://www.yout-ube.com/watch?v=O68R5klOCZ4"
+    },
+    {
+     "titel": "Beatbox lernen Teil 1 | Kick, Hihat und K-Sound",
+     "kanal": "Timo Schnepf",
+     "url": "https://www.yout-ube.com/watch?v=h7EguvqhiHc"
+    }
+   ]
+  },
+  {
+   "id": "mu03",
+   "nr": 3,
+   "titel": "Sprechstücke und Rap",
+   "bereich": "Stimme und Singen",
+   "klasse": "5",
+   "satz": "Du sprichst einen rhythmischen Text deutlich und genau im Takt.",
+   "baut_auf": [
+    "mu01",
+    "mu19"
+   ],
+   "quelle": "S. 13 (G)",
+   "erklaerung": "Bei einem Sprechstück wird ein Text nicht gesungen, sondern rhythmisch gesprochen. Wichtig ist, dass jede Silbe deutlich ist und genau auf den Grundschlag passt. Rap funktioniert genauso: Die Wörter sitzen auf einem Beat.",
+   "beispiele": [
+    "„Ich und du, Müllers Kuh“: Klatsch bei jeder betonten Silbe.",
+    "Sprich deinen Namen viermal im Takt, einmal leise, einmal laut.",
+    "Denk dir zu einem einfachen Beat zwei Zeilen aus, die sich reimen."
+   ],
+   "suche": "Sprechstück Rhythmus Musikunterricht",
+   "videos": [
+    {
+     "titel": "Metrum, Takt, Rhythmus mit Hilfe von Wörtern",
+     "kanal": "smartraven",
+     "url": "https://www.yout-ube.com/watch?v=qvnKGLxPUtA"
+    },
+    {
+     "titel": "Wie schreibt man einen Raptext? // DIY // Tutorial // Lernvideo",
+     "kanal": "BITTE WAS?! Kontern gegen Fake und Hass",
+     "url": "https://www.yout-ube.com/watch?v=eld5fqiHNgI"
+    }
+   ]
+  },
+  {
+   "id": "mu04",
+   "nr": 4,
+   "titel": "Mein Liederschatz",
+   "bereich": "Stimme und Singen",
+   "klasse": "5/6",
+   "satz": "Du singst Lieder aus verschiedenen Ländern und Zeiten, einige auch auswendig.",
+   "baut_auf": [
+    "mu01"
+   ],
+   "quelle": "S. 13 (G)",
+   "erklaerung": "Ein Liederschatz ist deine Sammlung von Liedern, die du kennst und mitsingen kannst. Dazu gehören Kinderlieder, Volkslieder, Popsongs und Lieder aus anderen Ländern. Ein Lied lernt man am besten in Abschnitten: erst den Refrain, dann die Strophen.",
+   "beispiele": [
+    "Ein Volkslied: „Die Gedanken sind frei“.",
+    "Ein Lied aus einem anderen Land: „Frère Jacques“ aus Frankreich.",
+    "Ein Lied, das du gern hörst, bis du es ohne Text mitsingen kannst."
+   ],
+   "suche": "Lieder zum Mitsingen Kinder Text",
+   "videos": [
+    {
+     "titel": "Die Gedanken sind frei - Volkslieder mit Text zum Hören und Mitsingen",
+     "kanal": "Axel Bayer",
+     "url": "https://www.yout-ube.com/watch?v=Zb-ABkcpLR4"
+    }
+   ]
+  },
+  {
+   "id": "mu05",
+   "nr": 5,
+   "titel": "Kanon singen",
+   "bereich": "Stimme und Singen",
+   "klasse": "5/6",
+   "satz": "Du singst einen Kanon: Alle singen dieselbe Melodie, setzen aber nacheinander ein.",
+   "baut_auf": [
+    "mu04"
+   ],
+   "quelle": "S. 13, 19 (G)",
+   "erklaerung": "Bei einem Kanon singen alle dieselbe Melodie, aber die Gruppen fangen nacheinander an. Weil die Melodie so gebaut ist, passen die Teile übereinander und es klingt mehrstimmig. Der Trick ist, bei der eigenen Stimme zu bleiben und nicht auf die anderen zu hören.",
+   "beispiele": [
+    "„Bruder Jakob“: Die zweite Gruppe beginnt, wenn die erste bei „Schläfst du noch?“ ist.",
+    "„Hejo, spann den Wagen an“ als Kanon zu dritt.",
+    "Mit einer Aufnahme üben: Du singst, die Aufnahme ist die zweite Stimme."
+   ],
+   "suche": "Kanon singen Kinder",
+   "videos": [
+    {
+     "titel": "Hejo, spann den Wagen an - Kinderlieder zum Mitsingen | Sing Kinderlieder",
+     "kanal": "Sing mit mir - Kinderlieder",
+     "url": "https://www.yout-ube.com/watch?v=fKKbmVwsq9o"
+    },
+    {
+     "titel": "Bruder Jakob |  Kanon | verschiedene Sprachen: norwegisch, englisch, französisch, spanisch",
+     "kanal": "Yoga, Musik und mehr",
+     "url": "https://www.yout-ube.com/watch?v=WZ4pRXOS7Uo"
+    },
+    {
+     "titel": "Dum di dum : 2 Kanons \"Ich lieb den Frühling & Zwei kleine Wölfe\"",
+     "kanal": "UlmerSpatzenChor",
+     "url": "https://www.yout-ube.com/watch?v=qsqUxK5RSA0"
+    }
+   ]
+  },
+  {
+   "id": "mu06",
+   "nr": 6,
+   "titel": "Zweistimmig singen",
+   "bereich": "Stimme und Singen",
+   "klasse": "6",
+   "satz": "Du hältst deine eigene Stimme, während jemand anderes eine zweite Melodie dazu singt.",
+   "baut_auf": [
+    "mu05"
+   ],
+   "quelle": "S. 13 (G)",
+   "erklaerung": "Beim zweistimmigen Singen gibt es zwei verschiedene Melodien, die gleichzeitig erklingen. Oft singt die zweite Stimme ein wenig tiefer im Abstand einer Terz. Das ist schwerer als ein Kanon, weil man seine eigene Melodie gut kennen muss.",
+   "beispiele": [
+    "Erst jede Stimme allein üben, dann zusammen.",
+    "Halte dir beim Singen ein Ohr zu, dann hörst du dich selbst besser.",
+    "Ein einfacher Liedruf: Die Unterstimme singt nur lange Töne."
+   ],
+   "suche": "zweistimmig singen lernen",
+   "videos": [
+    {
+     "titel": "Zweite Stimme singen lernen - SO schafft es JEDER! | singdu.de",
+     "kanal": "singDu",
+     "url": "https://www.yout-ube.com/watch?v=BB49nzNCfjs"
+    },
+    {
+     "titel": "How to Sing Harmonies for Beginners",
+     "kanal": "Singeo",
+     "url": "https://www.yout-ube.com/watch?v=-xBjXfquTUA"
+    }
+   ]
+  },
+  {
+   "id": "mu07",
+   "nr": 7,
+   "titel": "Ausdrucksvoll und sauber singen",
+   "bereich": "Stimme und Singen",
+   "klasse": "6",
+   "satz": "Du singst mal laut, mal leise, mal gebunden, mal abgehackt und triffst die Töne immer genauer.",
+   "baut_auf": [
+    "mu04",
+    "mu33"
+   ],
+   "quelle": "S. 13 (Weiterführung)",
+   "erklaerung": "Ausdrucksvoll singen heißt, das Lied lebendig zu machen: mal leise, mal kräftig, mal weich gebunden, mal kurz und abgehackt. Sauber singen heißt, die Töne genau zu treffen. Dabei hilft gutes Zuhören, zum Beispiel mit einer Aufnahme von dir selbst.",
+   "beispiele": [
+    "Sing eine Strophe piano und den Refrain forte.",
+    "„Legato“ bedeutet gebunden, „staccato“ kurz und getrennt.",
+    "Nimm dich mit dem Handy auf und vergleiche mit dem Original."
+   ],
+   "suche": "sauber singen Tipps Anfänger",
+   "videos": [
+    {
+     "titel": "ARTIKULATION - Was bedeuten Legato, Staccato und Tenuto?",
+     "kanal": "MusikDurchblick",
+     "url": "https://www.yout-ube.com/watch?v=Khr-jWFqSDA"
+    }
+   ]
+  },
+  {
+   "id": "mu08",
+   "nr": 8,
+   "titel": "Wie entsteht ein Ton?",
+   "bereich": "Instrumente und Klang",
+   "klasse": "5",
+   "satz": "Du entdeckst, dass jeder Klang durch Schwingungen entsteht, und unterscheidest Ton, Klang und Geräusch.",
+   "baut_auf": [],
+   "quelle": "S. 17 (G)",
+   "erklaerung": "Jeder Klang entsteht durch Schwingungen. Eine Gitarrensaite, ein Trommelfell oder deine Stimmlippen bewegen sich schnell hin und her und bringen die Luft zum Schwingen. Regelmäßige Schwingungen hören wir als Ton, unregelmäßige als Geräusch.",
+   "beispiele": [
+    "Ein gezupftes Gummiband siehst du schwingen und hörst einen Ton.",
+    "Reiß ein Blatt Papier: Das ist ein Geräusch.",
+    "Leg die Hand an deinen Hals und summe: Du spürst die Schwingung."
+   ],
+   "suche": "Wie entsteht ein Ton Schwingung Kinder",
+   "videos": [
+    {
+     "titel": "Was ist ein Ton?",
+     "kanal": "Musik mit Matthias",
+     "url": "https://www.yout-ube.com/watch?v=1HAKpcD-xyA"
+    },
+    {
+     "titel": "Wie entsteht Schall? Einfach und anschaulich erklärt von physikdigital.de",
+     "kanal": "physikdigital • de",
+     "url": "https://www.yout-ube.com/watch?v=-QJguYTWFsI"
+    },
+    {
+     "titel": "Wie entsteht Musik? | Terra X plus",
+     "kanal": "Terra X Nature",
+     "url": "https://www.yout-ube.com/watch?v=Wqlxyp6oW9M"
+    }
+   ]
+  },
+  {
+   "id": "mu09",
+   "nr": 9,
+   "titel": "Instrumentenfamilien",
+   "bereich": "Instrumente und Klang",
+   "klasse": "5",
+   "satz": "Du ordnest Instrumente nach ihrer Spielweise: Tasten, Saiten, Schlag und Blasinstrumente.",
+   "baut_auf": [
+    "mu08"
+   ],
+   "quelle": "S. 17 (G)",
+   "erklaerung": "Instrumente werden danach sortiert, wie man ihnen einen Klang entlockt. Bei Saiteninstrumenten schwingt eine Saite, bei Blasinstrumenten die Luft in einem Rohr. Schlaginstrumente werden geschlagen, Tasteninstrumente über Tasten gespielt.",
+   "beispiele": [
+    "Saiten: Geige, Gitarre, Harfe.",
+    "Blasinstrumente: Flöte, Trompete, Saxophon.",
+    "Schlaginstrumente: Trommel, Xylophon, Becken. Tasten: Klavier, Orgel, Keyboard."
+   ],
+   "suche": "Instrumentengruppen Musikinstrumente Kinder",
+   "videos": [
+    {
+     "titel": "Was gibt es für Musikinstrumente? l WOOZLE GOOZLE",
+     "kanal": "Woozle Goozle",
+     "url": "https://www.yout-ube.com/watch?v=E6kGE2p3Hjo"
+    },
+    {
+     "titel": "Instrumentengruppen allgemein",
+     "kanal": "Grundschule Ludwigsfeld",
+     "url": "https://www.yout-ube.com/watch?v=D3QzhZiPPCk"
+    }
+   ]
+  },
+  {
+   "id": "mu10",
+   "nr": 10,
+   "titel": "Instrumente am Klang erkennen",
+   "bereich": "Instrumente und Klang",
+   "klasse": "5/6",
+   "satz": "Du hörst Musik und erkennst, welche Instrumente gerade spielen.",
+   "baut_auf": [
+    "mu09"
+   ],
+   "quelle": "S. 17 (G)",
+   "erklaerung": "Jedes Instrument hat seine eigene Klangfarbe. Eine Trompete klingt hell und strahlend, ein Cello warm und tief, eine Flöte luftig. Wenn du genau hinhörst, kannst du in einem Musikstück einzelne Instrumente heraushören.",
+   "beispiele": [
+    "Hör den Anfang von „Peter und der Wolf“: Jedes Tier hat ein eigenes Instrument.",
+    "Bei einem Popsong: Wann setzt das Schlagzeug ein?",
+    "Rätsel: Jemand spielt dir Instrumente vor, du rätst."
+   ],
+   "suche": "Instrumente erkennen Hörquiz",
+   "videos": [
+    {
+     "titel": "Errate 30 INSTRUMENTE an ihrem KLANG! Instrumenten-Quiz Nr. 2",
+     "kanal": "QuizMama",
+     "url": "https://www.yout-ube.com/watch?v=Qp4TuydpEpQ"
+    },
+    {
+     "titel": "Ich kann alle Orchesterinstrumente hörend bestimmen. 🎵 🎺 💥 18 Minuten Hörtraining. 👂",
+     "kanal": "Friedrich Mück",
+     "url": "https://www.yout-ube.com/watch?v=rsiH_FoI0Y8"
+    }
+   ]
+  },
+  {
+   "id": "mu11",
+   "nr": 11,
+   "titel": "Erste Schritte am Klavier und Keyboard",
+   "bereich": "Instrumente und Klang",
+   "klasse": "5",
+   "satz": "Du findest dich auf den Tasten zurecht, erkennst die Töne C bis H und spielst eine erste kleine Melodie.",
+   "baut_auf": [],
+   "quelle": "S. 14, 17 (G)",
+   "erklaerung": "Auf der Klaviatur wiederholen sich weiße und schwarze Tasten immer im gleichen Muster. Das C liegt immer links vor den zwei schwarzen Tasten. Von dort zählst du die weißen Tasten weiter: C, D, E, F, G, A, H.",
+   "beispiele": [
+    "Finde alle C auf dem Keyboard.",
+    "Daumen auf C, dann spielt jeder Finger eine Taste: C, D, E, F, G.",
+    "„Alle meine Entchen“ mit der rechten Hand: C D E F G G."
+   ],
+   "suche": "Klavier lernen Anfänger erste Lektion",
+   "videos": [
+    {
+     "titel": "Ohne Vorkenntnisse in 7min Klavier lernen (1. Lektion für Anfänger)",
+     "kanal": "Frei Klavier Spielen",
+     "url": "https://www.yout-ube.com/watch?v=SgdbukW45PI"
+    },
+    {
+     "titel": "Musik: Das Klavier einfach und kurz erklärt",
+     "kanal": "erklaerung-und-mehr",
+     "url": "https://www.yout-ube.com/watch?v=A8tgjldwxu4"
+    }
+   ]
+  },
+  {
+   "id": "mu12",
+   "nr": 12,
+   "titel": "Erste Griffe auf der Gitarre",
+   "bereich": "Instrumente und Klang",
+   "klasse": "5",
+   "satz": "Du hältst die Gitarre richtig, stimmst sie und spielst erste einfache Akkorde.",
+   "baut_auf": [],
+   "quelle": "S. 14, 17 (G)",
+   "erklaerung": "Die Gitarre hat sechs Saiten, von der dicksten bis zur dünnsten heißen sie E, A, D, G, H, E. Mit der linken Hand drückst du die Saiten an den Bünden, mit der rechten schlägst oder zupfst du. Für viele Lieder reichen schon wenige Akkorde.",
+   "beispiele": [
+    "Merksatz für die Saiten: „Eine Alte Dame Geht Heute Einkaufen“.",
+    "Erster Akkord: Em, nur zwei Finger.",
+    "Mit Em und A kannst du schon einfache Lieder begleiten."
+   ],
+   "suche": "Gitarre lernen Anfänger erste Akkorde",
+   "videos": [
+    {
+     "titel": "Für Anfänger - erste Schritte an der Gitarre, schnell erklärt",
+     "kanal": "Gitarre lernen (werdemusiker.de)",
+     "url": "https://www.yout-ube.com/watch?v=q-D4VfqcC1M"
+    },
+    {
+     "titel": "Gitarre lernen die ERSTEN drei Akkorde | Welche Akkorde für den Anfang und WARUM?",
+     "kanal": "Gitarrenvideounterricht",
+     "url": "https://www.yout-ube.com/watch?v=Jfbncp5weEs"
+    }
+   ]
+  },
+  {
+   "id": "mu13",
+   "nr": 13,
+   "titel": "Erste Töne auf dem Bass",
+   "bereich": "Instrumente und Klang",
+   "klasse": "5/6",
+   "satz": "Du lernst, wie der E-Bass funktioniert, und spielst eine einfache Basslinie, die den Grundschlag trägt.",
+   "baut_auf": [
+    "mu19"
+   ],
+   "quelle": "S. 14, 17 (G)",
+   "erklaerung": "Der E-Bass hat meist vier Saiten, E, A, D und G, und klingt tiefer als eine Gitarre. In einer Band sorgt er zusammen mit dem Schlagzeug für den Grundschlag. Oft spielt der Bass nur einen Ton pro Schlag, das reicht für einen guten Groove.",
+   "beispiele": [
+    "Spiel die leere E-Saite viermal im Takt zu einem Lied.",
+    "Wechsle zwischen E-Saite und A-Saite, jeweils vier Schläge.",
+    "Höre bei einem Popsong nur auf die tiefe Basslinie."
+   ],
+   "suche": "E Bass lernen Anfänger erste Lektion",
+   "videos": [
+    {
+     "titel": "Bass lernen in nur 8 Minuten - ideal für Anfänger.",
+     "kanal": "ebass-lernen. de",
+     "url": "https://www.yout-ube.com/watch?v=2lgDP_P228w"
+    },
+    {
+     "titel": "Bass lernen - Deine erste Bass Lesson - Ideal für Bass Anfänger",
+     "kanal": "ebass-lernen. de",
+     "url": "https://www.yout-ube.com/watch?v=2UmXnaD1lIw"
+    }
+   ]
+  },
+  {
+   "id": "mu14",
+   "nr": 14,
+   "titel": "Erste Grooves am Schlagzeug",
+   "bereich": "Instrumente und Klang",
+   "klasse": "5/6",
+   "satz": "Du lernst die Teile des Schlagzeugs kennen und spielst einen einfachen Rockbeat mit Bassdrum, Snare und Hi-Hat.",
+   "baut_auf": [
+    "mu19"
+   ],
+   "quelle": "S. 14, 17 (G)",
+   "erklaerung": "Ein Schlagzeug besteht aus Bassdrum, Snare, Tom-Toms, Hi-Hat und Becken. Für einen einfachen Rockbeat spielt die Hi-Hat gleichmäßige Achtel, die Bassdrum kommt auf Schlag 1 und 3, die Snare auf 2 und 4. Wer langsam übt, wird schneller sicher.",
+   "beispiele": [
+    "Zähl laut „1 und 2 und 3 und 4 und“ und spiel die Hi-Hat auf jede Silbe.",
+    "Ohne Schlagzeug: Bassdrum mit dem Fuß, Snare mit der Hand auf dem Tisch.",
+    "Dein erster Beat: Bum, Tschak, Bum Bum, Tschak."
+   ],
+   "suche": "Schlagzeug lernen Anfänger erster Beat",
+   "videos": [
+    {
+     "titel": "Schlagzeug lernen für Anfänger: Der erste Groove - Happydrums",
+     "kanal": "HAPPYDRUMSde",
+     "url": "https://www.yout-ube.com/watch?v=HdHBi-AZeRc"
+    },
+    {
+     "titel": "Schlagzeug lernen - Deine erste Schlagzeug Lesson (ideal für Schlagzeuganfänger)",
+     "kanal": "Schlagzeug-Lernen",
+     "url": "https://www.yout-ube.com/watch?v=MR5WEcgdvzs"
+    }
+   ]
+  },
+  {
+   "id": "mu15",
+   "nr": 15,
+   "titel": "Mit Klängen spielen und improvisieren",
+   "bereich": "Instrumente und Klang",
+   "klasse": "5/6",
+   "satz": "Du erfindest spontan Klänge und kleine Melodien, mit Instrumenten oder Alltagsgegenständen.",
+   "baut_auf": [],
+   "quelle": "S. 14 (G)",
+   "erklaerung": "Improvisieren heißt, Musik spontan zu erfinden, ohne Noten. Damit es gut klingt, hilft eine kleine Regel, zum Beispiel nur schwarze Tasten oder nur drei Töne. Auch Alltagsgegenstände wie Töpfe, Gläser oder Papier werden zu Instrumenten.",
+   "beispiele": [
+    "Nur auf den schwarzen Tasten spielen: Alles klingt zusammen gut.",
+    "Frage und Antwort: Einer spielt einen Rhythmus, der andere antwortet.",
+    "Ein Stück nur mit Küchengeräten."
+   ],
+   "suche": "improvisieren Kinder Musik Anfänger",
+   "videos": [
+    {
+     "titel": "Imitation – Improvisieren auf den schwarzen Tasten",
+     "kanal": "spielend Klavier lernen",
+     "url": "https://www.yout-ube.com/watch?v=btf2FqjOcos"
+    },
+    {
+     "titel": "Pentatonik – Klavier spielen auf den schwarzen Tasten",
+     "kanal": "spielend Klavier lernen",
+     "url": "https://www.yout-ube.com/watch?v=vOaOTNFVkVA"
+    }
+   ]
+  },
+  {
+   "id": "mu16",
+   "nr": 16,
+   "titel": "Gemeinsam musizieren",
+   "bereich": "Instrumente und Klang",
+   "klasse": "6",
+   "satz": "Du spielst in einer Gruppe ein Stück zusammen, auch nach Noten, und achtest auf die anderen.",
+   "baut_auf": [
+    "mu28"
+   ],
+   "quelle": "S. 14 (G)",
+   "erklaerung": "Wenn mehrere zusammen spielen, hat jedes Instrument eine Aufgabe: Schlagzeug und Bass halten den Rhythmus, Gitarre und Keyboard spielen die Akkorde, jemand singt oder spielt die Melodie. Wichtig ist, aufeinander zu hören und gemeinsam anzufangen und aufzuhören.",
+   "beispiele": [
+    "Einer zählt laut ein: „1, 2, 3, 4“.",
+    "Bei einem Fehler nicht aufhören, sondern beim nächsten Takt wieder einsteigen.",
+    "Ausprobieren in der Schule: Bass, Gitarre, Keyboard und Schlagzeug zusammen."
+   ],
+   "suche": "Band spielen Schule Klassenmusizieren",
+   "videos": [
+    {
+     "titel": "Musik: Die Band einfach und kurz erklärt",
+     "kanal": "erklaerung-und-mehr",
+     "url": "https://www.yout-ube.com/watch?v=ozokrxyCM40"
+    },
+    {
+     "titel": "10 TIPPS FÜR DEINE BAND • Proben like a pro",
+     "kanal": "Maxmachtmusik",
+     "url": "https://www.yout-ube.com/watch?v=OgAnDfdFqwQ"
+    }
+   ]
+  },
+  {
+   "id": "mu17",
+   "nr": 17,
+   "titel": "Eigene Musik erfinden",
+   "bereich": "Instrumente und Klang",
+   "klasse": "6",
+   "satz": "Du denkst dir nach einer Vorgabe ein eigenes kleines Stück aus und spielst oder singst es.",
+   "baut_auf": [
+    "mu15",
+    "mu35"
+   ],
+   "quelle": "S. 13, 14 (Weiterführung)",
+   "erklaerung": "Ein eigenes Stück entsteht oft aus einer Vorgabe, zum Beispiel einem Rhythmus, vier Akkorden oder einem Thema wie „Gewitter“. Du probierst aus, wählst aus, was dir gefällt, und schreibst es auf oder nimmst es auf. So bleibt die Idee erhalten.",
+   "beispiele": [
+    "Erfinde zu den Akkorden C, G, Am, F eine Melodie.",
+    "Schreib zu einem Beat eine eigene Rapstrophe.",
+    "Nimm deine Idee mit dem Handy auf, damit du sie nicht vergisst."
+   ],
+   "suche": "eigenen Song schreiben Kinder",
+   "videos": [
+    {
+     "titel": "SONGTEXTE schreiben - 5 Schritte für den perfekten Einstieg I SONGWRITING (Live!)",
+     "kanal": "MusikDurchblick",
+     "url": "https://www.yout-ube.com/watch?v=dse9dfKKrSw"
+    },
+    {
+     "titel": "SONGTEXT in MUSIK verwandeln - in 5 Schritten zum EIGENEN SONG (inkl. LIVE-SONGWRITING)",
+     "kanal": "MusikDurchblick",
+     "url": "https://www.yout-ube.com/watch?v=GsMre5T0088"
+    }
+   ]
+  },
+  {
+   "id": "mu18",
+   "nr": 18,
+   "titel": "Vorspielen und vorsingen",
+   "bereich": "Instrumente und Klang",
+   "klasse": "5/6",
+   "satz": "Du zeigst anderen, was du geübt hast, und gehst mit Lampenfieber um.",
+   "baut_auf": [],
+   "quelle": "S. 13, 14",
+   "erklaerung": "Vor anderen zu spielen oder zu singen macht vielen Menschen Herzklopfen, auch Profis. Gut üben, tief atmen und an den Anfang denken hilft. Wenn etwas schiefgeht, spielst du einfach weiter, meistens merkt es niemand.",
+   "beispiele": [
+    "Probe vorher vor der Familie oder einer Freundin.",
+    "Vor dem Auftritt dreimal langsam ausatmen.",
+    "Nach dem Auftritt: Was lief gut? Was übe ich noch?"
+   ],
+   "suche": "Lampenfieber Tipps Auftritt Kinder",
+   "videos": [
+    {
+     "titel": "5 Tipps gegen Lampenfieber! I musstewissen Deutsch",
+     "kanal": "musstewissen Deutsch",
+     "url": "https://www.yout-ube.com/watch?v=IVVrG8Rrq7c"
+    },
+    {
+     "titel": "Nervosität vor dem Auftritt: Drei Tipps, die wirklich helfen",
+     "kanal": "Doro Plutte",
+     "url": "https://www.yout-ube.com/watch?v=2K9vrXU0280"
+    }
+   ]
+  },
+  {
+   "id": "mu19",
+   "nr": 19,
+   "titel": "Den Grundschlag spüren",
+   "bereich": "Rhythmus und Bewegung",
+   "klasse": "5",
+   "satz": "Du findest in einem Lied den gleichmäßigen Puls, das Metrum, und klatschst oder gehst dazu.",
+   "baut_auf": [],
+   "quelle": "S. 18 (G)",
+   "erklaerung": "Das Metrum ist der gleichmäßige Puls der Musik, wie ein Herzschlag. Wenn du bei Musik mitklatschst oder mit dem Fuß wippst, folgst du dem Metrum. Es bleibt gleich, auch wenn der Rhythmus der Melodie sich ändert.",
+   "beispiele": [
+    "Geh im Zimmer zu einem Lied: Jeder Schritt ist ein Schlag.",
+    "Ein Metronom tickt genau das Metrum.",
+    "Klatsch zu „We Will Rock You“: Stampf, Stampf, Klatsch."
+   ],
+   "suche": "Metrum Grundschlag Musik Kinder",
+   "videos": [
+    {
+     "titel": "Metrum, Takt und Rhythmus",
+     "kanal": "SimonPeuker",
+     "url": "https://www.yout-ube.com/watch?v=n0VPWh9Ph0o"
+    },
+    {
+     "titel": "01 - Metrum",
+     "kanal": "Lars Reimers",
+     "url": "https://www.yout-ube.com/watch?v=DOljdMGIeGQ"
+    }
+   ]
+  },
+  {
+   "id": "mu20",
+   "nr": 20,
+   "titel": "Takt und Taktarten",
+   "bereich": "Rhythmus und Bewegung",
+   "klasse": "5/6",
+   "satz": "Du erkennst, ob Musik im Zweier, Dreier oder Vierertakt läuft, zum Beispiel beim Walzer.",
+   "baut_auf": [
+    "mu19"
+   ],
+   "quelle": "S. 18 (G)",
+   "erklaerung": "Im Takt werden Schläge zu Gruppen zusammengefasst, und der erste Schlag ist betont. Beim Vierertakt zählst du 1 2 3 4, beim Dreiertakt 1 2 3. Ein Walzer ist im Dreiertakt, die meisten Popsongs im Vierertakt.",
+   "beispiele": [
+    "Vierertakt: 1 2 3 4, betont auf 1. Viele Popsongs.",
+    "Dreiertakt: 1 2 3, wie beim Walzer und bei „Happy Birthday“.",
+    "Zweiertakt: 1 2, wie ein Marsch."
+   ],
+   "suche": "Taktarten Musik einfach erklärt",
+   "videos": [
+    {
+     "titel": "TAKTARTEN - 3/4, 4/4, 6/8 ...einfach erklärt!",
+     "kanal": "MusikDurchblick",
+     "url": "https://www.yout-ube.com/watch?v=N3e5Jg7mrP0"
+    },
+    {
+     "titel": "Taktarten verstehen mit Hits aus der Klassik",
+     "kanal": "Musiklehrer",
+     "url": "https://www.yout-ube.com/watch?v=Ekx8k5QvsW8"
+    }
+   ]
+  },
+  {
+   "id": "mu21",
+   "nr": 21,
+   "titel": "Notenwerte und Pausen",
+   "bereich": "Rhythmus und Bewegung",
+   "klasse": "5",
+   "satz": "Du kennst ganze, halbe, Viertel und Achtelnoten und die passenden Pausen und klatschst Rhythmen danach.",
+   "baut_auf": [
+    "mu19"
+   ],
+   "quelle": "S. 18 (G)",
+   "erklaerung": "Notenwerte zeigen, wie lange ein Ton dauert. Eine ganze Note dauert vier Schläge, eine halbe zwei, eine Viertel einen und eine Achtel einen halben. Für jede Note gibt es eine Pause, die genauso lang ist.",
+   "beispiele": [
+    "Ganze Note = 4 Viertel, halbe Note = 2 Viertel.",
+    "Zwei Achtel dauern so lang wie eine Viertel.",
+    "Sprechhilfe: Viertel „ta“, zwei Achtel „ti ti“."
+   ],
+   "suche": "Notenwerte Pausen einfach erklärt",
+   "videos": [
+    {
+     "titel": "NOTEN- & PAUSENWERTE! ALLES, was du wissen musst - in weniger als 8 MINUTEN",
+     "kanal": "MusikDurchblick",
+     "url": "https://www.yout-ube.com/watch?v=NPLLXfl8VIg"
+    },
+    {
+     "titel": "Notenwerte aufschreiben & lernen + Rhythmuspyramide und Merkhilfen",
+     "kanal": "Maxmachtmusik",
+     "url": "https://www.yout-ube.com/watch?v=zrq1pN41rYY"
+    }
+   ]
+  },
+  {
+   "id": "mu22",
+   "nr": 22,
+   "titel": "Body Percussion",
+   "bereich": "Rhythmus und Bewegung",
+   "klasse": "5",
+   "satz": "Du spielst Rhythmen nur mit deinem Körper: klatschen, stampfen, schnipsen, auf die Brust klopfen.",
+   "baut_auf": [
+    "mu21"
+   ],
+   "quelle": "S. 14, 15 (G)",
+   "erklaerung": "Bei Body Percussion ist dein Körper das Instrument. Klatschen, Stampfen, Schnipsen und Patschen auf die Oberschenkel klingen alle verschieden. Daraus kann man ganze Rhythmusstücke bauen, allein oder in der Gruppe.",
+   "beispiele": [
+    "Patsch, Patsch, Klatsch, Pause: viermal wiederholen.",
+    "Stampf mit dem Fuß auf 1 und 3, klatsch auf 2 und 4.",
+    "In der Gruppe: Jeder macht einen anderen Teil gleichzeitig."
+   ],
+   "suche": "Body Percussion für Kinder",
+   "videos": [
+    {
+     "titel": "Body Percussion für Kids \"Ein tolles Instrument\" (Richard Filz)",
+     "kanal": "Richard Filz",
+     "url": "https://www.yout-ube.com/watch?v=E1SIF3REWBs"
+    },
+    {
+     "titel": "Body Percussion für die Sekundarstufe | Richard Filz",
+     "kanal": "Richard Filz",
+     "url": "https://www.yout-ube.com/watch?v=vGnIYsaQsDU"
+    }
+   ]
+  },
+  {
+   "id": "mu23",
+   "nr": 23,
+   "titel": "Musik in Bewegung umsetzen",
+   "bereich": "Rhythmus und Bewegung",
+   "klasse": "5/6",
+   "satz": "Du bewegst dich passend zur Musik und drückst mit deinem Körper aus, wie sie klingt.",
+   "baut_auf": [
+    "mu19"
+   ],
+   "quelle": "S. 15 (G)",
+   "erklaerung": "Musik kann man nicht nur hören, sondern auch mit dem Körper zeigen. Bei langsamer Musik bewegst du dich vielleicht fließend, bei schneller hüpfend. Laut und leise, hoch und tief kann man ebenfalls in Bewegung übersetzen.",
+   "beispiele": [
+    "Bei hohen Tönen auf Zehenspitzen, bei tiefen in die Hocke.",
+    "Erstarren, wenn die Musik stoppt (Stopptanz).",
+    "Mit einem Tuch die Melodie in die Luft malen."
+   ],
+   "suche": "Bewegung zur Musik Kinder Musikunterricht",
+   "videos": [
+    {
+     "titel": "LaMu TV \"Musik & Bewegung\", Folge 8, Alle Sinne, mit Christine Wetzel & Philipp Roosz",
+     "kanal": "Landesmusikakademie Ochsenhausen",
+     "url": "https://www.yout-ube.com/watch?v=PV96bEERMw0"
+    }
+   ]
+  },
+  {
+   "id": "mu24",
+   "nr": 24,
+   "titel": "Tänze lernen",
+   "bereich": "Rhythmus und Bewegung",
+   "klasse": "6",
+   "satz": "Du lernst einige Tänze, allein oder in der Gruppe, auch aus anderen Ländern.",
+   "baut_auf": [
+    "mu23"
+   ],
+   "quelle": "S. 15, 20 (G)",
+   "erklaerung": "Viele Tänze haben feste Schritte, die zur Musik passen. Manche tanzt man allein, manche zu zweit oder im Kreis. Aus anderen Ländern kommen zum Beispiel der Sirtaki aus Griechenland oder Line Dance aus den USA.",
+   "beispiele": [
+    "Ein Klassentanz mit vier Schritten nach rechts und vier nach links.",
+    "Sirtaki: Er wird immer schneller.",
+    "Ein Line Dance oder Tanz aus einem Musikvideo nachtanzen."
+   ],
+   "suche": "einfacher Tanz Kinder Schule lernen",
+   "videos": [
+    {
+     "titel": "Sirtaki Tutorial #dance #sirtaki #sirtakitutorial #erklärung #dancetutorial",
+     "kanal": "Tanzschule Rueff",
+     "url": "https://www.yout-ube.com/watch?v=8Ox3HfMEr6k"
+    },
+    {
+     "titel": "\"Kids Dance\" - 194 Länder - Mark Forster",
+     "kanal": "Kids Dance Musikschule plus",
+     "url": "https://www.yout-ube.com/watch?v=7LEkcDfMWOo"
+    }
+   ]
+  },
+  {
+   "id": "mu25",
+   "nr": 25,
+   "titel": "Eine Szene mit Musik und Bewegung",
+   "bereich": "Rhythmus und Bewegung",
+   "klasse": "6",
+   "satz": "Du gestaltest mit anderen eine kleine Szene, in der Musik und Bewegung zusammenpassen.",
+   "baut_auf": [
+    "mu23"
+   ],
+   "quelle": "S. 15 (G)",
+   "erklaerung": "Eine Szene mit Musik verbindet Spielen, Bewegung und Klang. Die Musik zeigt die Stimmung: Spannung, Freude oder Angst. Die Bewegungen passen dazu, zum Beispiel Schleichen bei leiser, spannender Musik.",
+   "beispiele": [
+    "Eine Szene mit einem Schlossgespenst zu unheimlicher Musik.",
+    "Ein Roboter, der sich zu elektronischer Musik bewegt.",
+    "Zeitlupe bei langsamer Musik, Hektik bei schneller."
+   ],
+   "suche": "Szene Musik Bewegung Theater Schule",
+   "videos": []
+  },
+  {
+   "id": "mu26",
+   "nr": 26,
+   "titel": "Hoch und tief, lang und kurz",
+   "bereich": "Noten und Musiklehre",
+   "klasse": "5",
+   "satz": "Du hörst, ob ein Ton hoch oder tief, lang oder kurz ist.",
+   "baut_auf": [],
+   "quelle": "S. 18 (G)",
+   "erklaerung": "Töne unterscheiden sich in ihrer Höhe und Länge. Ein hoher Ton klingt hell wie ein Vogel, ein tiefer brummend wie ein Bär. Manche Töne sind kurz wie ein Tropfen, andere lang wie ein Sirenenton.",
+   "beispiele": [
+    "Hoch: Piccoloflöte. Tief: Tuba.",
+    "Singe „uuu“ von ganz tief nach ganz hoch.",
+    "Kurz: Klatschen. Lang: eine gesummte Note."
+   ],
+   "suche": "Tonhöhe Tondauer Kinder Musik",
+   "videos": [
+    {
+     "titel": "Tonhöhe und Tonstärke (einfach und kurz erklärt)",
+     "kanal": "erklaerung-und-mehr",
+     "url": "https://www.yout-ube.com/watch?v=P_yYD-juhoo"
+    },
+    {
+     "titel": "07 - Tonhöhen",
+     "kanal": "Lars Reimers",
+     "url": "https://www.yout-ube.com/watch?v=suQdMDr1Ls0"
+    }
+   ]
+  },
+  {
+   "id": "mu27",
+   "nr": 27,
+   "titel": "Musik mit Zeichen aufmalen",
+   "bereich": "Noten und Musiklehre",
+   "klasse": "5",
+   "satz": "Du malst Klänge mit eigenen Zeichen auf und liest solche grafischen Noten beim Hören mit.",
+   "baut_auf": [
+    "mu26"
+   ],
+   "quelle": "S. 13, 18 (G)",
+   "erklaerung": "Bevor es Noten gab, und auch heute noch, kann man Musik mit eigenen Zeichen aufmalen. Das nennt man grafische Notation. Punkte können kurze Töne sein, Linien lange, eine Linie nach oben steigt in der Tonhöhe.",
+   "beispiele": [
+    "Eine Wellenlinie: Die Stimme geht auf und ab.",
+    "Große Punkte laut, kleine Punkte leise.",
+    "Mal ein Bild zu einem Musikstück und lass es jemanden mitlesen."
+   ],
+   "suche": "grafische Notation Musikunterricht",
+   "videos": [
+    {
+     "titel": "01 Einführung grafische Notation",
+     "kanal": "Digitaler Lehrer",
+     "url": "https://www.yout-ube.com/watch?v=iWl893Cc-1c"
+    },
+    {
+     "titel": "Nach grafischer Notation musizieren",
+     "kanal": "BildungsTV",
+     "url": "https://www.yout-ube.com/watch?v=BlU-si_e1Ik"
+    }
+   ]
+  },
+  {
+   "id": "mu28",
+   "nr": 28,
+   "titel": "Notennamen im Violinschlüssel",
+   "bereich": "Noten und Musiklehre",
+   "klasse": "5",
+   "satz": "Du liest Noten auf den fünf Notenlinien und weißt, welcher Ton welcher ist.",
+   "baut_auf": [
+    "mu26"
+   ],
+   "quelle": "S. 18 (G)",
+   "erklaerung": "Noten stehen auf fünf Linien. Der Violinschlüssel am Anfang zeigt, dass auf der zweiten Linie von unten das G steht. Je höher eine Note steht, desto höher ist der Ton. Die Töne heißen C, D, E, F, G, A, H und dann wieder C.",
+   "beispiele": [
+    "Das C steht auf einer kleinen Hilfslinie unter den fünf Linien.",
+    "Die Töne in den Zwischenräumen von unten: F, A, C, E.",
+    "Notennamen üben mit einer kostenlosen App zum Notenlernen."
+   ],
+   "suche": "Notennamen Violinschlüssel lernen",
+   "videos": [
+    {
+     "titel": "Die NOTENNAMEN - einfach Noten lesen lernen",
+     "kanal": "MusikDurchblick",
+     "url": "https://www.yout-ube.com/watch?v=D_QbSLiWRQc"
+    },
+    {
+     "titel": "Notenlesen im Violinschlüssel",
+     "kanal": "Musiklehrer",
+     "url": "https://www.yout-ube.com/watch?v=wjOyWG4zLu4"
+    }
+   ]
+  },
+  {
+   "id": "mu29",
+   "nr": 29,
+   "titel": "Der Bassschlüssel",
+   "bereich": "Noten und Musiklehre",
+   "klasse": "6",
+   "satz": "Du liest auch tiefe Töne im Bassschlüssel, wie sie zum Beispiel Bass oder Klavier links spielen.",
+   "baut_auf": [
+    "mu28"
+   ],
+   "quelle": "S. 18 (G)",
+   "erklaerung": "Für tiefe Töne gibt es den Bassschlüssel. Er sieht aus wie ein großes Komma mit zwei Punkten. Die Punkte umschließen die Linie, auf der das F steht. Bass, Cello und die linke Hand am Klavier lesen meist im Bassschlüssel.",
+   "beispiele": [
+    "Die Linien von unten: G, H, D, F, A.",
+    "Die Zwischenräume von unten: A, C, E, G.",
+    "Für Bassisten wichtig: So liest du Basslinien."
+   ],
+   "suche": "Bassschlüssel lernen einfach",
+   "videos": [
+    {
+     "titel": "Der BASSSCHLÜSSEL - so erkennst du JEDE Note! - Noten lesen lernen (inkl. MERKSÄTZE)",
+     "kanal": "MusikDurchblick",
+     "url": "https://www.yout-ube.com/watch?v=JN-Gsq8ePGc"
+    },
+    {
+     "titel": "Bassschlüssel - Notenlesen",
+     "kanal": "Musiklehrer",
+     "url": "https://www.yout-ube.com/watch?v=yc9LN0SFHBc"
+    }
+   ]
+  },
+  {
+   "id": "mu30",
+   "nr": 30,
+   "titel": "Tonleitern: Dur und Moll",
+   "bereich": "Noten und Musiklehre",
+   "klasse": "6",
+   "satz": "Du erfährst, wie eine Tonleiter gebaut ist und warum Dur oft fröhlich und Moll oft traurig klingt.",
+   "baut_auf": [
+    "mu28"
+   ],
+   "quelle": "S. 18 (G)",
+   "erklaerung": "Eine Tonleiter ist eine Treppe aus acht Tönen. Bei Dur und Moll sind die kleinen Stufen, die Halbtonschritte, an verschiedenen Stellen. Darum klingt Dur meist fröhlich und hell, Moll eher traurig oder geheimnisvoll.",
+   "beispiele": [
+    "C-Dur: C D E F G A H C, nur weiße Tasten.",
+    "Halbtonschritte in Dur: zwischen der 3. und 4. und der 7. und 8. Stufe.",
+    "a-Moll: A H C D E F G A, auch nur weiße Tasten, klingt aber anders."
+   ],
+   "suche": "Dur Moll Tonleiter einfach erklärt",
+   "videos": [
+    {
+     "titel": "DUR-Tonleiter und MOLL-Tonleiter - einfach verstehen!",
+     "kanal": "MusikDurchblick",
+     "url": "https://www.yout-ube.com/watch?v=kVUNEdGG9Ns"
+    },
+    {
+     "titel": "Moll-Tonleitern - Was ist der Unterschied zur Dur-Tonleiter? (Harmonielehre #3)",
+     "kanal": "Musikunterricht online",
+     "url": "https://www.yout-ube.com/watch?v=g_gjyBkPNYw"
+    }
+   ]
+  },
+  {
+   "id": "mu31",
+   "nr": 31,
+   "titel": "Intervalle",
+   "bereich": "Noten und Musiklehre",
+   "klasse": "6",
+   "satz": "Du erkennst Abstände zwischen zwei Tönen, zum Beispiel Terz oder Quinte, und nutzt das beim Singen.",
+   "baut_auf": [
+    "mu30"
+   ],
+   "quelle": "S. 13, 18 (G)",
+   "erklaerung": "Ein Intervall ist der Abstand zwischen zwei Tönen. Man zählt die Töne einfach durch: Von C nach E sind es drei Töne, das ist eine Terz. Intervalle haben lateinische Namen, zum Beispiel Sekunde, Terz, Quarte, Quinte und Oktave.",
+   "beispiele": [
+    "C nach D: Sekunde. C nach E: Terz.",
+    "C nach G: Quinte. C nach dem nächsten C: Oktave.",
+    "Merkhilfe: Der Anfang von „Alle meine Entchen“ geht in Sekunden."
+   ],
+   "suche": "Intervalle Musik einfach erklärt",
+   "videos": [
+    {
+     "titel": "INTERVALLE Basics - alle Stammton-Intervalle (PRIME bis OKTAVE)",
+     "kanal": "MusikDurchblick",
+     "url": "https://www.yout-ube.com/watch?v=0Rf1z2IWgWo"
+    },
+    {
+     "titel": "Spielend Noten lernen - Für Kinder leicht erklärt | INTERVALLE | Musikunterricht mit NOTENSCHNUTZIES",
+     "kanal": "Simone Ludwig | Floh im Ohr TV | Musikvermittlung",
+     "url": "https://www.yout-ube.com/watch?v=TqeCPr4plwo"
+    }
+   ]
+  },
+  {
+   "id": "mu32",
+   "nr": 32,
+   "titel": "Dreiklänge und Akkorde",
+   "bereich": "Noten und Musiklehre",
+   "klasse": "6",
+   "satz": "Du baust aus drei Tönen einen Dreiklang und begleitest damit eine Melodie.",
+   "baut_auf": [
+    "mu31"
+   ],
+   "quelle": "S. 18 (G, E1)",
+   "erklaerung": "Ein Dreiklang besteht aus drei Tönen, die jeweils eine Terz auseinanderliegen. Der Dreiklang von C-Dur hat die Töne C, E und G. Spielt man Dreiklänge zu einer Melodie, nennt man das Begleitung. Akkorde auf Gitarre und Keyboard sind oft solche Dreiklänge.",
+   "beispiele": [
+    "C-Dur: C E G. G-Dur: G H D. F-Dur: F A C.",
+    "Mit den drei Akkorden C, F und G kannst du viele Lieder begleiten.",
+    "a-Moll: A C E klingt trauriger als C-Dur."
+   ],
+   "suche": "Dreiklang Akkord einfach erklärt",
+   "videos": [
+    {
+     "titel": "DUR- und MOLL-Akkorde - Dreiklänge als Grundlage zur Liedbegleitung",
+     "kanal": "MusikDurchblick",
+     "url": "https://www.yout-ube.com/watch?v=YaTIfGCkNc4"
+    },
+    {
+     "titel": "DREIKLÄNGE in drei Minuten",
+     "kanal": "Musik mit Matthias",
+     "url": "https://www.yout-ube.com/watch?v=6W1gA78WcBI"
+    }
+   ]
+  },
+  {
+   "id": "mu33",
+   "nr": 33,
+   "titel": "Laut und leise, schnell und langsam",
+   "bereich": "Noten und Musiklehre",
+   "klasse": "5",
+   "satz": "Du erkennst Lautstärke und Tempo und kennst Zeichen wie forte, piano und allegro.",
+   "baut_auf": [],
+   "quelle": "S. 18 (G)",
+   "erklaerung": "Dynamik bedeutet Lautstärke, Tempo bedeutet Geschwindigkeit. In Noten stehen dafür meist italienische Wörter. Forte heißt laut, piano leise, allegro schnell und adagio langsam. Ein Crescendo wird allmählich lauter.",
+   "beispiele": [
+    "f = forte (laut), p = piano (leise).",
+    "ff = sehr laut, pp = sehr leise.",
+    "Allegro: schnell und fröhlich. Adagio: langsam."
+   ],
+   "suche": "Dynamik Tempo Musik einfach erklärt",
+   "videos": [
+    {
+     "titel": "Von PIANO bis FORTE 📣 Lautstärke = DYNAMIK in der Musik",
+     "kanal": "MusikDurchblick",
+     "url": "https://www.yout-ube.com/watch?v=5CCup_c0nzQ"
+    },
+    {
+     "titel": "Das TEMPO - alles von langsam bis schnell | Was bedeutet BPM?",
+     "kanal": "MusikDurchblick",
+     "url": "https://www.yout-ube.com/watch?v=RnRQciRBE78"
+    },
+    {
+     "titel": "Musik: Lautstärke und Tempo einfach und kurz erklärt",
+     "kanal": "erklaerung-und-mehr",
+     "url": "https://www.yout-ube.com/watch?v=Gxve-V3nruQ"
+    }
+   ]
+  },
+  {
+   "id": "mu34",
+   "nr": 34,
+   "titel": "Melodien beschreiben",
+   "bereich": "Noten und Musiklehre",
+   "klasse": "5/6",
+   "satz": "Du beschreibst, ob eine Melodie steigt oder fällt, in kleinen Schritten geht oder springt.",
+   "baut_auf": [
+    "mu26"
+   ],
+   "quelle": "S. 18 (G)",
+   "erklaerung": "Eine Melodie bewegt sich auf und ab. Sie kann in kleinen Schritten gehen, also zum nächsten Ton, oder in Sprüngen über mehrere Töne. Manche Melodien bleiben lange auf einem Ton, andere steigen bis zu einem Höhepunkt.",
+   "beispiele": [
+    "„Alle meine Entchen“ beginnt in Schritten aufwärts.",
+    "Der Anfang von „Over the Rainbow“ springt eine Oktave nach oben.",
+    "Zeichne den Verlauf einer Melodie als Linie."
+   ],
+   "suche": "Melodie beschreiben Musikunterricht",
+   "videos": [
+    {
+     "titel": "Tonschritt - Tonwiederholung - Tonsprung | Melodiebewegung",
+     "kanal": "Musiklehrer",
+     "url": "https://www.yout-ube.com/watch?v=13rPbRb4pnY"
+    },
+    {
+     "titel": "Tonschritte, Tonsprünge und Tonwiederholungen",
+     "kanal": "Musikunterricht",
+     "url": "https://www.yout-ube.com/watch?v=0aQKhL7wbDw"
+    }
+   ]
+  },
+  {
+   "id": "mu35",
+   "nr": 35,
+   "titel": "Melodien und Rhythmen aufschreiben",
+   "bereich": "Noten und Musiklehre",
+   "klasse": "6",
+   "satz": "Du schreibst eine kurze Melodie oder einen Rhythmus selbst in Noten auf.",
+   "baut_auf": [
+    "mu21",
+    "mu28"
+   ],
+   "quelle": "S. 14, 18 (G)",
+   "erklaerung": "Wenn du einen Rhythmus oder eine Melodie aufschreibst, kann jemand anderes sie nachspielen. Zuerst klärst du die Taktart, dann die Notenwerte, dann die Tonhöhen. Kostenlose Programme wie MuseScore helfen dabei.",
+   "beispiele": [
+    "Klatsch einen Rhythmus und schreib ihn mit Vierteln und Achteln auf.",
+    "Schreib die ersten Töne eines bekannten Lieds auf Notenlinien.",
+    "Kontrolle: Spiel es nach und prüf, ob es so klingt wie gedacht."
+   ],
+   "suche": "Noten schreiben lernen Anfänger",
+   "videos": [
+    {
+     "titel": "Noten schreiben lernen: Die wichtigsten Tricks",
+     "kanal": "MusikDurchblick",
+     "url": "https://www.yout-ube.com/watch?v=w3ujxPOuSos"
+    },
+    {
+     "titel": "Das NOTENSYSTEM! Die Basis der Notenschrift",
+     "kanal": "MusikDurchblick",
+     "url": "https://www.yout-ube.com/watch?v=SNhxNecrDYw"
+    }
+   ]
+  },
+  {
+   "id": "mu36",
+   "nr": 36,
+   "titel": "Strophe und Refrain",
+   "bereich": "Musik hören und verstehen",
+   "klasse": "5",
+   "satz": "Du erkennst, wie ein Lied aufgebaut ist, und findest Strophe und Refrain.",
+   "baut_auf": [],
+   "quelle": "S. 19 (G)",
+   "erklaerung": "Die meisten Lieder bestehen aus Strophen und einem Refrain. In jeder Strophe ist der Text anders, die Melodie bleibt gleich. Der Refrain kommt mehrmals mit gleichem Text und gleicher Melodie, er ist oft der bekannteste Teil.",
+   "beispiele": [
+    "Bei Popsongs: Strophe, Refrain, Strophe, Refrain, Bridge, Refrain.",
+    "Der Refrain ist der Teil, den alle mitsingen.",
+    "Hör ein Lieblingslied und zähl die Strophen."
+   ],
+   "suche": "Strophe Refrain Songaufbau einfach",
+   "videos": [
+    {
+     "titel": "WIE IST EIN POP-SONG AUFGEBAUT? - Die Formel vieler HITS! Chorus, Strophe, Bridge & Co erklärt",
+     "kanal": "MusikDurchblick",
+     "url": "https://www.yout-ube.com/watch?v=K-eyX7VtnoY"
+    },
+    {
+     "titel": "musik-wissen – E-Learning – Strophe/Refrain-Lied",
+     "kanal": "Peter Wespi",
+     "url": "https://www.yout-ube.com/watch?v=3afYl74n2lc"
+    }
+   ]
+  },
+  {
+   "id": "mu37",
+   "nr": 37,
+   "titel": "Wiederholung und Veränderung",
+   "bereich": "Musik hören und verstehen",
+   "klasse": "5/6",
+   "satz": "Du hörst, wann ein Teil wiederkommt oder sich verändert, und gliederst Musik zum Beispiel in A, B, A.",
+   "baut_auf": [
+    "mu36"
+   ],
+   "quelle": "S. 19 (G)",
+   "erklaerung": "Musik besteht aus Teilen, die wiederkommen oder sich verändern. Man benennt sie mit Buchstaben: A ist der erste Teil, B ein neuer. Kommt A danach wieder, heißt die Form A B A. Wiederholung gibt Halt, Veränderung macht Musik spannend.",
+   "beispiele": [
+    "A B A: Anfang, etwas Neues, dann wieder der Anfang.",
+    "Ein Teil kommt wieder, aber lauter oder mit anderen Instrumenten.",
+    "Leg zu jedem Teil eine Farbe fest und male beim Hören mit."
+   ],
+   "suche": "musikalische Form ABA Musikunterricht",
+   "videos": [
+    {
+     "titel": "Die dreiteilige Liedform",
+     "kanal": "Digitale Schule",
+     "url": "https://www.yout-ube.com/watch?v=odFhbaR5_28"
+    },
+    {
+     "titel": "Dreiteilige Liedform  - Basiswissen - Musiktheorie Schule einfach und systematisch  www.ccerklärt.de",
+     "kanal": "CCerklärt",
+     "url": "https://www.yout-ube.com/watch?v=818RSnMIH7E"
+    }
+   ]
+  },
+  {
+   "id": "mu38",
+   "nr": 38,
+   "titel": "Wie Text und Musik zusammenpassen",
+   "bereich": "Musik hören und verstehen",
+   "klasse": "5/6",
+   "satz": "Du untersuchst an Liedern, wie die Musik zum Inhalt des Textes passt.",
+   "baut_auf": [
+    "mu36"
+   ],
+   "quelle": "S. 19 (G)",
+   "erklaerung": "In einem guten Lied passen Text und Musik zusammen. Bei traurigen Texten ist die Musik oft langsam und in Moll, bei fröhlichen schnell und in Dur. Manchmal malt die Melodie sogar ein Wort nach, zum Beispiel steigt sie bei „Himmel“.",
+   "beispiele": [
+    "Ein Wiegenlied ist leise und ruhig, weil es beruhigen soll.",
+    "Ein Stadionlied ist laut und einfach, damit alle mitsingen.",
+    "Such in einem Lied eine Stelle, wo die Musik zum Wort passt."
+   ],
+   "suche": "Text und Musik Lied Wirkung",
+   "videos": [
+    {
+     "titel": "Dur versus Moll - Klangbeispiele",
+     "kanal": "Universität Leipzig",
+     "url": "https://www.yout-ube.com/watch?v=yazjXDAFuNQ"
+    }
+   ]
+  },
+  {
+   "id": "mu39",
+   "nr": 39,
+   "titel": "Musik erzählt eine Geschichte",
+   "bereich": "Musik hören und verstehen",
+   "klasse": "5",
+   "satz": "Du hörst Stücke wie Peter und der Wolf oder Karneval der Tiere und erkennst, was die Musik erzählt.",
+   "baut_auf": [],
+   "quelle": "S. 19 (G)",
+   "erklaerung": "Manche Musikstücke erzählen eine Geschichte ohne Worte, das nennt man Programmmusik. In „Peter und der Wolf“ von Prokofjew spielt jedes Instrument eine Figur. Im „Karneval der Tiere“ von Saint-Saëns klingen die Instrumente wie Tiere.",
+   "beispiele": [
+    "Peter und der Wolf: Peter = Streicher, Vogel = Flöte, Wolf = Hörner.",
+    "Karneval der Tiere: Der Elefant tanzt mit dem tiefen Kontrabass.",
+    "Rate beim Hören, welches Tier gerade dran ist."
+   ],
+   "suche": "Peter und der Wolf Kinder",
+   "videos": [
+    {
+     "titel": "★ Peter und der Wolf  ★ ein musikalisches Märchen von Sergej Prokofjew  ★",
+     "kanal": "ZYX Rapunzel Kids",
+     "url": "https://www.yout-ube.com/watch?v=62lOwKbow-I"
+    },
+    {
+     "titel": "Karneval der Tiere | Klassische Musik für Kinder in Kita & Grundschule",
+     "kanal": "Klangbunt Kinderwaldmusik",
+     "url": "https://www.yout-ube.com/watch?v=11rrM-UYkZY"
+    },
+    {
+     "titel": "Peter und der Wolf (Sergei Prokofjew)",
+     "kanal": "JSO Leipzig",
+     "url": "https://www.yout-ube.com/watch?v=NZ0SHFu7gJE"
+    }
+   ]
+  },
+  {
+   "id": "mu40",
+   "nr": 40,
+   "titel": "Eine Klanggeschichte gestalten",
+   "bereich": "Musik hören und verstehen",
+   "klasse": "5/6",
+   "satz": "Du vertonst selbst eine Geschichte oder ein Bild mit Stimme, Instrumenten und Geräuschen.",
+   "baut_auf": [
+    "mu39",
+    "mu15"
+   ],
+   "quelle": "S. 19 (G)",
+   "erklaerung": "Bei einer Klanggeschichte erzählt jemand eine Geschichte, und die anderen machen passende Klänge dazu. Regen, Schritte, Wind oder eine knarrende Tür kannst du mit Stimme, Instrumenten oder Gegenständen nachmachen. Man kann sie auch aufnehmen wie ein Hörspiel.",
+   "beispiele": [
+    "Regen: Finger trommeln auf den Tisch, erst leise, dann laut.",
+    "Gewitter: Ein Blech schütteln für den Donner.",
+    "Nimm deine Klanggeschichte mit dem Handy auf."
+   ],
+   "suche": "Klanggeschichte Kinder Musikunterricht",
+   "videos": [
+    {
+     "titel": "WINTER • KLANGGESCHICHTE | einfach umsetzbar! | Kita & Grundschule | Kindermusik | Floh im Ohr TV",
+     "kanal": "Simone Ludwig | Floh im Ohr TV | Musikvermittlung",
+     "url": "https://www.yout-ube.com/watch?v=jg2GZpdEQHQ"
+    },
+    {
+     "titel": "Dschungelreise | Klanggeschichte | KITA | Grundschule | Musik für Kinder | Dschungel",
+     "kanal": "Simone Ludwig | Floh im Ohr TV | Musikvermittlung",
+     "url": "https://www.yout-ube.com/watch?v=uQwF6VrJoMo"
+    }
+   ]
+  },
+  {
+   "id": "mu41",
+   "nr": 41,
+   "titel": "Musik für besondere Anlässe",
+   "bereich": "Musik in der Welt",
+   "klasse": "5",
+   "satz": "Du überlegst, welche Musik zu Geburtstag, Fest, Stadion oder Feier gehört und warum.",
+   "baut_auf": [],
+   "quelle": "S. 20 (G)",
+   "erklaerung": "Musik begleitet viele Momente im Leben. Zum Geburtstag singen wir, im Stadion feuern Fangesänge an, bei Hochzeiten und Beerdigungen gibt es passende Musik. Jede Musik ist so gemacht, dass sie zum Anlass passt.",
+   "beispiele": [
+    "„Happy Birthday“ ist eines der bekanntesten Lieder der Welt.",
+    "Nationalhymnen werden bei Sportereignissen gespielt.",
+    "Weihnachtslieder hört man nur zu einer Jahreszeit."
+   ],
+   "suche": "Funktionen von Musik Anlässe Kinder",
+   "videos": [
+    {
+     "titel": "Was bewirkt Musik in uns? Einfach erklärt",
+     "kanal": "Verklickern ",
+     "url": "https://www.yout-ube.com/watch?v=WO99Mi3-XOE"
+    },
+    {
+     "titel": "Was ist eigentlich Musik? l WOOZLE GOOZLE",
+     "kanal": "Woozle Goozle",
+     "url": "https://www.yout-ube.com/watch?v=vLHxs7-37Lg"
+    }
+   ]
+  },
+  {
+   "id": "mu42",
+   "nr": 42,
+   "titel": "Musik aus aller Welt",
+   "bereich": "Musik in der Welt",
+   "klasse": "5/6",
+   "satz": "Du hörst Musik aus verschiedenen Regionen der Welt und erkennst Unterschiede.",
+   "baut_auf": [],
+   "quelle": "S. 20 (G)",
+   "erklaerung": "Überall auf der Welt machen Menschen Musik, aber sie klingt verschieden. Es gibt andere Instrumente, andere Tonleitern und andere Rhythmen. Trommelmusik aus Westafrika, Flamenco aus Spanien oder Musik aus Indien haben jeweils ihren eigenen Klang.",
+   "beispiele": [
+    "Djembe: eine Trommel aus Westafrika.",
+    "Flamenco aus Spanien mit Gitarre und Klatschen.",
+    "Didgeridoo: ein langes Blasinstrument aus Australien."
+   ],
+   "suche": "Musik aus aller Welt Kinder Instrumente",
+   "videos": []
+  },
+  {
+   "id": "mu43",
+   "nr": 43,
+   "titel": "Musikerinnen und Musiker kennenlernen",
+   "bereich": "Musik in der Welt",
+   "klasse": "5/6",
+   "satz": "Du lernst das Leben und die Musik von bekannten Musikern kennen, zum Beispiel Mozart oder Beethoven.",
+   "baut_auf": [],
+   "quelle": "S. 20 (G)",
+   "erklaerung": "Hinter jeder Musik stehen Menschen, die sie erfunden oder gespielt haben. Wolfgang Amadeus Mozart komponierte schon als Kind, Ludwig van Beethoven schrieb Musik, obwohl er taub wurde. Auch heutige Musikerinnen und Musiker haben spannende Lebensgeschichten.",
+   "beispiele": [
+    "Mozart (1756 bis 1791) trat schon mit sechs Jahren auf.",
+    "Beethoven (1770 bis 1827) schrieb die Melodie zur „Ode an die Freude“.",
+    "Such dir eine Lieblingsmusikerin und finde drei Dinge über sie heraus."
+   ],
+   "suche": "Mozart für Kinder erklärt",
+   "videos": [
+    {
+     "titel": "2 Minuten Wiener Klassik - Wolfgang Amadeus Mozart",
+     "kanal": "KlassikEinfachErklärt",
+     "url": "https://www.yout-ube.com/watch?v=CV2vquZeZiI"
+    },
+    {
+     "titel": "2 Minuten Wiener Klassik - Ludwig van Beethoven",
+     "kanal": "KlassikEinfachErklärt",
+     "url": "https://www.yout-ube.com/watch?v=qnrL2sQyZu8"
+    },
+    {
+     "titel": "Der Beethoven-Check | Reportage für Kinder | Checker Tobi",
+     "kanal": "CHECKER WELT",
+     "url": "https://www.yout-ube.com/watch?v=C6gN29W8-I0"
+    }
+   ]
+  }
+ ]
+}
