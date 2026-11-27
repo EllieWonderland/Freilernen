@@ -1,0 +1,2164 @@
+{
+ "fach": "englisch",
+ "name": "Englisch",
+ "quelle": "Kerncurriculum Englisch Sekundarbereich I Niedersachsen, Landtagsfassung 23.03.2026 (Kap. 3.3 integrierende Schulformen)",
+ "bereiche": [
+  "Wörter für meine Welt",
+  "Sprechen und Zuhören",
+  "Lesen und Schreiben",
+  "Grammatik",
+  "Land und Leute",
+  "Lerntricks",
+  "Hörverstehen"
+ ],
+ "themen": [
+  {
+   "id": "e01",
+   "nr": 1,
+   "titel": "Zahlen, Farben und das ABC",
+   "bereich": "Wörter für meine Welt",
+   "klasse": "5",
+   "satz": "Du zählst auf Englisch, nennst Farben und buchstabierst deinen Namen.",
+   "erklaerung": "Die Zahlen bis zwölf musst du einzeln lernen. Ab 13 helfen dir Muster: thirteen, fourteen und twenty, thirty. Beim Buchstabieren klingen manche Buchstaben anders als im Deutschen, zum Beispiel e (sprich i), i (sprich ai) und y (sprich wai).",
+   "beispiele": [
+    "one, two, three … eleven, twelve, thirteen, twenty, twenty-one",
+    "red, blue, green, yellow, black, white, pink, purple",
+    "My name is Mia: M, I, A."
+   ],
+   "baut_auf": [],
+   "quelle": "S. 51",
+   "suche": "Zahlen Farben Alphabet Englisch",
+   "videos": [
+    {
+     "titel": "Lektion 1: Die englischen Zahlen von 1 bis 10 | Englisch für Anfänger",
+     "kanal": "Englisch mit Luca",
+     "url": "https://www.youtube.com/watch?v=ZSRlOMLIlmE"
+    },
+    {
+     "titel": "Alphabet auf Englisch – zum Nachsprechen & einfach erklärt",
+     "kanal": "Lehrerin erklärt",
+     "url": "https://www.youtube.com/watch?v=JTW0lvgk4CU"
+    }
+   ]
+  },
+  {
+   "id": "e02",
+   "nr": 2,
+   "titel": "Uhrzeit, Tage und Monate",
+   "bereich": "Wörter für meine Welt",
+   "klasse": "5",
+   "satz": "Du sagst, wie spät es ist, und nennst Wochentage, Monate und ein Datum.",
+   "erklaerung": "Für die Uhrzeit sagst du „It's … o'clock“, „half past“ (halb, aber nach der Stunde!) oder „quarter to“. Wochentage und Monate schreibt man im Englischen immer groß. Ein Datum sagst du so: the third of May.",
+   "beispiele": [
+    "It's seven o'clock. It's half past seven (7:30).",
+    "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
+    "My birthday is on the 5th of June."
+   ],
+   "baut_auf": [
+    "e01"
+   ],
+   "quelle": "S. 51",
+   "suche": "Uhrzeit Englisch half past quarter",
+   "videos": [
+    {
+     "titel": "What time is it? Die Uhr lesen - einfach erklärt | Einfach Englisch",
+     "kanal": "Einfach Englisch",
+     "url": "https://www.youtube.com/watch?v=2ldazt0I6fA"
+    },
+    {
+     "titel": "Uhrzeit auf Englisch (telling the time in English)",
+     "kanal": "Lernsnacks",
+     "url": "https://www.youtube.com/watch?v=3S-DWAZWDsY"
+    }
+   ]
+  },
+  {
+   "id": "e03",
+   "nr": 3,
+   "titel": "Meine Familie",
+   "bereich": "Wörter für meine Welt",
+   "klasse": "5",
+   "satz": "Du stellst deine Familie vor: mother, brother, grandma und wer zu wem gehört.",
+   "erklaerung": "Für deine Familie brauchst du Wörter wie mother, father, sister, brother, grandma und grandpa. Mit „This is my …“ stellst du jemanden vor. Mit dem s nach dem Namen sagst du, zu wem jemand gehört.",
+   "beispiele": [
+    "This is my sister. Her name is Lena.",
+    "I have got two brothers and one sister.",
+    "Tom is my mum's brother. He is my uncle."
+   ],
+   "baut_auf": [
+    "e39"
+   ],
+   "quelle": "S. 9",
+   "suche": "family Wörter Englisch",
+   "videos": [
+    {
+     "titel": "Englisch lernen für Anfänger– Family Basics: In 5 Minuten lernen.",
+     "kanal": "Lehrerin erklärt",
+     "url": "https://www.youtube.com/watch?v=Fq1IHyoBk6c"
+    },
+    {
+     "titel": "How to describe your family: Easy English Conversations 💬 Episode 15",
+     "kanal": "BBC Learning English",
+     "url": "https://www.youtube.com/watch?v=v9EU41cuhHY"
+    }
+   ]
+  },
+  {
+   "id": "e04",
+   "nr": 4,
+   "titel": "Menschen beschreiben",
+   "bereich": "Wörter für meine Welt",
+   "klasse": "5/6",
+   "satz": "Du beschreibst, wie jemand aussieht und wie er oder sie ist.",
+   "erklaerung": "Mit „has got“ beschreibst du, wie jemand aussieht: Haare, Augen, Größe. Mit „is“ sagst du, wie jemand ist, zum Beispiel friendly oder funny. Adjektive stehen im Englischen vor dem Nomen und bekommen keine Endung.",
+   "beispiele": [
+    "She has got long brown hair and green eyes.",
+    "He is tall and very funny.",
+    "My best friend is kind and a bit shy."
+   ],
+   "baut_auf": [
+    "e37",
+    "e38"
+   ],
+   "quelle": "S. 9, 47",
+   "suche": "Personen beschreiben Englisch",
+   "videos": [
+    {
+     "titel": "How to describe people in English! Easy English Conversations Episode 17",
+     "kanal": "BBC Learning English",
+     "url": "https://www.youtube.com/watch?v=9OzIMC6XCiE"
+    },
+    {
+     "titel": "How to talk about personality in English! Easy English Conversations 💬 Episode 16",
+     "kanal": "BBC Learning English",
+     "url": "https://www.youtube.com/watch?v=osDr7To4Ml4"
+    }
+   ]
+  },
+  {
+   "id": "e05",
+   "nr": 5,
+   "titel": "Mein Zimmer und mein Zuhause",
+   "bereich": "Wörter für meine Welt",
+   "klasse": "5",
+   "satz": "Du beschreibst dein Zimmer und dein Zuhause und sagst, wo die Sachen stehen.",
+   "erklaerung": "Mit „There is“ und „There are“ sagst du, was in deinem Zimmer ist. Mit in, on, under und next to sagst du, wo es steht. Wichtige Wörter: bed, desk, chair, shelf, wardrobe, window.",
+   "beispiele": [
+    "There is a bed next to the window.",
+    "My books are on the shelf.",
+    "There are two posters on the wall."
+   ],
+   "baut_auf": [
+    "e41",
+    "e42"
+   ],
+   "quelle": "S. 9, 47",
+   "suche": "my room Englisch there is Präpositionen",
+   "videos": [
+    {
+     "titel": "🐱ON, BESIDE or UNDER?! | Ortspräpositionen einfach erklärt | A1 Englisch lernen",
+     "kanal": "Mr Kay Erklärt Englisch",
+     "url": "https://www.youtube.com/watch?v=624MP2ju-Xo"
+    },
+    {
+     "titel": "There is oder There are einfach erklärt - Verwendung, Beispiele und Übung - There is/There are!",
+     "kanal": "EinfachSchule",
+     "url": "https://www.youtube.com/watch?v=RhcXjPPrwuQ"
+    }
+   ]
+  },
+  {
+   "id": "e06",
+   "nr": 6,
+   "titel": "Meine Schule",
+   "bereich": "Wörter für meine Welt",
+   "klasse": "5",
+   "satz": "Du sprichst über Fächer, Stundenplan und Räume deiner Schule.",
+   "erklaerung": "Schulfächer heißen zum Beispiel Maths, English, German, Art und PE (Sport). Wochentage und Uhrzeiten brauchst du für deinen Stundenplan. Mit „My favourite subject is …“ sagst du dein Lieblingsfach.",
+   "beispiele": [
+    "On Monday we have got Maths at eight o'clock.",
+    "My favourite subject is Art.",
+    "Our classroom is on the first floor."
+   ],
+   "baut_auf": [
+    "e02"
+   ],
+   "quelle": "S. 9",
+   "suche": "school subjects Englisch Schulfächer"
+  },
+  {
+   "id": "e07",
+   "nr": 7,
+   "titel": "Mein Tag",
+   "bereich": "Wörter für meine Welt",
+   "klasse": "5",
+   "satz": "Du erzählst, was du an einem normalen Tag machst, vom Aufstehen bis zum Schlafengehen.",
+   "erklaerung": "Für deinen Tagesablauf nimmst du das Simple Present, weil das jeden Tag so passiert. Wörter wie first, then und after that machen deine Erzählung schön geordnet. Bei he, she und it kommt ein s ans Verb.",
+   "beispiele": [
+    "I get up at half past six.",
+    "First I have breakfast, then I go to school.",
+    "After school I do my homework."
+   ],
+   "baut_auf": [
+    "e02",
+    "e45"
+   ],
+   "quelle": "S. 9",
+   "suche": "daily routine Englisch",
+   "videos": [
+    {
+     "titel": "How to talk about your daily routine: Easy English Conversations 💬 Episode 4",
+     "kanal": "BBC Learning English",
+     "url": "https://www.youtube.com/watch?v=bq6GBbh3uhU"
+    },
+    {
+     "titel": "Talking about routines: 🍽️🛌🚶 Real Easy English",
+     "kanal": "BBC Learning English",
+     "url": "https://www.youtube.com/watch?v=sJ7sRSK2in4"
+    }
+   ]
+  },
+  {
+   "id": "e08",
+   "nr": 8,
+   "titel": "Hobbys und Sport",
+   "bereich": "Wörter für meine Welt",
+   "klasse": "5",
+   "satz": "Du sagst, was du in deiner Freizeit gern machst und was nicht.",
+   "erklaerung": "Mit „I like …“ oder „I love …“ sagst du, was du gern machst. Danach kommt oft das Verb mit ing. Mit „I don't like …“ sagst du, was du nicht magst.",
+   "beispiele": [
+    "I like swimming and reading.",
+    "I play football on Tuesdays.",
+    "I don't like running."
+   ],
+   "baut_auf": [
+    "e45"
+   ],
+   "quelle": "S. 9",
+   "suche": "hobbies Englisch like ing",
+   "videos": [
+    {
+     "titel": "How to talk about likes and dislikes: Easy English Conversations 💬 Episode 7",
+     "kanal": "BBC Learning English",
+     "url": "https://www.youtube.com/watch?v=wUF33157hYI"
+    }
+   ]
+  },
+  {
+   "id": "e09",
+   "nr": 9,
+   "titel": "Essen und Trinken",
+   "bereich": "Wörter für meine Welt",
+   "klasse": "5",
+   "satz": "Du kennst Wörter für Essen und Trinken und sagst, was du magst und was gesund ist.",
+   "erklaerung": "Wörter für Essen kennst du zum Teil schon aus dem Deutschen: pizza, banana, chocolate. Mit „Would you like …?“ bietest du etwas an. Manche Sachen kann man nicht zählen, zum Beispiel milk und bread.",
+   "beispiele": [
+    "For breakfast I have cereal and milk.",
+    "Would you like an apple? Yes, please.",
+    "Vegetables are healthy. Sweets are not."
+   ],
+   "baut_auf": [
+    "e40"
+   ],
+   "quelle": "S. 9",
+   "suche": "food and drinks Englisch",
+   "videos": [
+    {
+     "titel": "Talking about food 🍔🥒🍫 Real Easy English",
+     "kanal": "BBC Learning English",
+     "url": "https://www.youtube.com/watch?v=4C4wlOAscvY"
+    },
+    {
+     "titel": "Our favourite sweet foods 🍦🍭🍫  Practise your listening with Real Easy English",
+     "kanal": "BBC Learning English",
+     "url": "https://www.youtube.com/watch?v=P3jsDVjil2o"
+    }
+   ]
+  },
+  {
+   "id": "e10",
+   "nr": 10,
+   "titel": "Kleidung und Einkaufen",
+   "bereich": "Wörter für meine Welt",
+   "klasse": "6",
+   "satz": "Du kennst Wörter für Kleidung und Geld und weißt, was man im Laden sagt.",
+   "erklaerung": "Kleidung heißt clothes. Wichtige Wörter sind T-shirt, jeans, jumper, shoes und jacket. In Großbritannien bezahlt man mit pounds und pence.",
+   "beispiele": [
+    "How much is this T-shirt? It's ten pounds.",
+    "I'm wearing blue jeans and a red jumper.",
+    "Can I try it on, please?"
+   ],
+   "baut_auf": [
+    "e01",
+    "e40"
+   ],
+   "quelle": "S. 9",
+   "suche": "clothes shopping Englisch",
+   "videos": [
+    {
+     "titel": "Talking about clothes shopping: Easy English Conversations Episode 19",
+     "kanal": "BBC Learning English",
+     "url": "https://www.youtube.com/watch?v=2mnL9jPVzsk"
+    },
+    {
+     "titel": "Shops: 10 Easy English Words 🏬🛒💳",
+     "kanal": "BBC Learning English",
+     "url": "https://www.youtube.com/watch?v=zILBxN25nJs"
+    }
+   ]
+  },
+  {
+   "id": "e11",
+   "nr": 11,
+   "titel": "Mein Ort",
+   "bereich": "Wörter für meine Welt",
+   "klasse": "6",
+   "satz": "Du beschreibst dein Dorf oder deine Stadt und sagst, was es dort gibt.",
+   "erklaerung": "Für deinen Ort brauchst du Wörter wie village, town, church, shop, park, station und library. Mit „There is …“ zählst du auf, was es gibt. Mit „There isn't …“ sagst du, was fehlt.",
+   "beispiele": [
+    "I live in a small village near Leer.",
+    "There is a park and a supermarket.",
+    "There isn't a cinema in my village."
+   ],
+   "baut_auf": [
+    "e41",
+    "e42"
+   ],
+   "quelle": "S. 9",
+   "suche": "my town Englisch places in town",
+   "videos": [
+    {
+     "titel": "How to talk about your home town: Easy English Conversations 💬 Episode 3",
+     "kanal": "BBC Learning English",
+     "url": "https://www.youtube.com/watch?v=on_1sS6Ii8M"
+    }
+   ]
+  },
+  {
+   "id": "e12",
+   "nr": 12,
+   "titel": "Gefühle",
+   "bereich": "Wörter für meine Welt",
+   "klasse": "5/6",
+   "satz": "Du sagst, wie es dir geht, und fragst andere danach.",
+   "erklaerung": "Gefühle beschreibst du mit „I am …“ und einem Adjektiv. Wenn du wissen willst, wie es jemandem geht, fragst du „How are you?“ oder „Are you okay?“.",
+   "beispiele": [
+    "I'm happy. I'm sad. I'm tired. I'm angry.",
+    "How are you today? I'm fine, thanks.",
+    "Are you okay? You look worried."
+   ],
+   "baut_auf": [
+    "e37"
+   ],
+   "quelle": "S. 9, 47",
+   "suche": "feelings Englisch Gefühle",
+   "videos": [
+    {
+     "titel": "How to talk about your feelings! Easy English Conversations 💬 Episode 14",
+     "kanal": "BBC Learning English",
+     "url": "https://www.youtube.com/watch?v=yyClpj_GJDc"
+    },
+    {
+     "titel": "Robot Songs: Feelings are feelings",
+     "kanal": "British Council | LearnEnglish Kids",
+     "url": "https://www.youtube.com/watch?v=UuNrP4Q_y9U"
+    }
+   ]
+  },
+  {
+   "id": "e13",
+   "nr": 13,
+   "titel": "Medien um mich herum",
+   "bereich": "Wörter für meine Welt",
+   "klasse": "6",
+   "satz": "Du sprichst über Handy, Videos, Spiele und Apps und wie du sie nutzt.",
+   "erklaerung": "Viele Wörter aus der Medienwelt sind schon englisch: app, video, game, chat. Du kannst erzählen, wie lange und wofür du Medien nutzt. Mit „I think …“ sagst du deine Meinung dazu.",
+   "beispiele": [
+    "I watch videos on my tablet.",
+    "I play games for half an hour every day.",
+    "I think too much screen time is not good."
+   ],
+   "baut_auf": [
+    "e45"
+   ],
+   "quelle": "S. 9, 57",
+   "suche": "media Englisch Wortschatz"
+  },
+  {
+   "id": "e14",
+   "nr": 14,
+   "titel": "Ferien und Reisen",
+   "bereich": "Wörter für meine Welt",
+   "klasse": "6",
+   "satz": "Du erzählst von einer Reise oder von deinen Ferien.",
+   "erklaerung": "Von Ferien erzählst du im Simple Past, weil sie schon vorbei sind. Wichtige Wörter: holiday, trip, beach, mountains, hotel, tent. Mit „It was …“ sagst du, wie es war.",
+   "beispiele": [
+    "Last summer we went to Denmark.",
+    "We stayed in a tent near the beach.",
+    "It was great!"
+   ],
+   "baut_auf": [
+    "e53"
+   ],
+   "quelle": "S. 9",
+   "suche": "holidays Englisch simple past erzählen",
+   "videos": [
+    {
+     "titel": "Talking about holidays 🌊☀️⛱️ Real Easy English",
+     "kanal": "BBC Learning English",
+     "url": "https://www.youtube.com/watch?v=N2StxicQois"
+    }
+   ]
+  },
+  {
+   "id": "e15",
+   "nr": 15,
+   "titel": "Hallo sagen und sich vorstellen",
+   "bereich": "Sprechen und Zuhören",
+   "klasse": "5",
+   "satz": "Du begrüßt jemanden, sagst deinen Namen, dein Alter und woher du kommst.",
+   "erklaerung": "Zur Begrüßung sagst du Hello oder Hi. Danach stellst du dich mit „My name is …“ oder „I'm …“ vor. Zum Abschied passt Goodbye oder See you.",
+   "beispiele": [
+    "Hello, I'm Lotta. What's your name?",
+    "I'm eleven years old. I'm from Germany.",
+    "Nice to meet you! Goodbye, see you tomorrow."
+   ],
+   "baut_auf": [],
+   "quelle": "S. 45",
+   "suche": "sich vorstellen Englisch",
+   "videos": [
+    {
+     "titel": "How to introduce yourself: Easy English Conversations 💬 Episode 1",
+     "kanal": "BBC Learning English",
+     "url": "https://www.youtube.com/watch?v=I_tRSrPru94"
+    },
+    {
+     "titel": "Saying where you're from: Easy English Conversations 💬 Episode 2",
+     "kanal": "BBC Learning English",
+     "url": "https://www.youtube.com/watch?v=31y2Bq1RYQA"
+    }
+   ]
+  },
+  {
+   "id": "e16",
+   "nr": 16,
+   "titel": "Englisch im Unterricht",
+   "bereich": "Sprechen und Zuhören",
+   "klasse": "5",
+   "satz": "Du verstehst Anweisungen wie „Open your books“ und bittest um Hilfe: „Can you say that again, please?“",
+   "erklaerung": "Im Englischunterricht wird viel auf Englisch gesagt. Ein paar Sätze helfen dir, wenn du etwas nicht verstanden hast oder etwas brauchst. Es ist völlig in Ordnung, nachzufragen.",
+   "beispiele": [
+    "Open your books at page 20.",
+    "Can you say that again, please?",
+    "What does „shelf“ mean? How do you say „Radiergummi“ in English?"
+   ],
+   "baut_auf": [],
+   "quelle": "S. 41, 45",
+   "suche": "classroom English Sätze"
+  },
+  {
+   "id": "e17",
+   "nr": 17,
+   "titel": "Höflich sein",
+   "bereich": "Sprechen und Zuhören",
+   "klasse": "5",
+   "satz": "Du sagst please, thank you, sorry und excuse me an der richtigen Stelle.",
+   "erklaerung": "Im Englischen sagt man sehr oft please und thank you. Wenn du jemanden ansprechen willst, sagst du „Excuse me“. Wenn dir etwas leidtut, sagst du „Sorry“.",
+   "beispiele": [
+    "Can I have some water, please?",
+    "Excuse me, where is the toilet?",
+    "Sorry, I'm late."
+   ],
+   "baut_auf": [
+    "e15"
+   ],
+   "quelle": "S. 45, 54",
+   "suche": "polite English please excuse me",
+   "videos": [
+    {
+     "titel": "How to be polite in English: Ask BBC Learning English",
+     "kanal": "BBC Learning English",
+     "url": "https://www.youtube.com/watch?v=3NM72kTE2oQ"
+    }
+   ]
+  },
+  {
+   "id": "e18",
+   "nr": 18,
+   "titel": "Ein kleines Gespräch führen",
+   "bereich": "Sprechen und Zuhören",
+   "klasse": "5/6",
+   "satz": "Du stellst einfache Fragen über Familie, Hobbys oder Schule und antwortest darauf.",
+   "erklaerung": "Ein Gespräch geht hin und her: Du fragst, der andere antwortet, dann fragt er zurück. Mit „And you?“ gibst du die Frage einfach zurück. Kurze Antworten wie „Yes, I do“ klingen natürlich.",
+   "beispiele": [
+    "Have you got any pets? Yes, I have. A cat. And you?",
+    "Do you like football? No, I don't.",
+    "What's your favourite colour?"
+   ],
+   "baut_auf": [
+    "e15",
+    "e47"
+   ],
+   "quelle": "S. 45",
+   "suche": "small talk Englisch Kinder",
+   "videos": [
+    {
+     "titel": "Englisch lernen für Anfänger: Einfache Sätze für Smalltalk in Englisch",
+     "kanal": "Lehrerin erklärt",
+     "url": "https://www.youtube.com/watch?v=9Ed44GATFEo"
+    }
+   ]
+  },
+  {
+   "id": "e19",
+   "nr": 19,
+   "titel": "Bestellen und einkaufen",
+   "bereich": "Sprechen und Zuhören",
+   "klasse": "6",
+   "satz": "Du bestellst etwas im Café und kaufst in einem Laden ein.",
+   "erklaerung": "Im Café und im Laden hilft dir „Can I have …, please?“. Nach dem Preis fragst du mit „How much is it?“. Am Ende sagst du „Thank you“ und oft „Have a nice day“.",
+   "beispiele": [
+    "Can I have a hot chocolate, please?",
+    "How much is it? It's two pounds fifty.",
+    "Here you are. Thank you!"
+   ],
+   "baut_auf": [
+    "e09",
+    "e10",
+    "e17"
+   ],
+   "quelle": "S. 45",
+   "suche": "ordering food English shopping dialogue",
+   "videos": [
+    {
+     "titel": "Talking about restaurants 🍽️👨‍🍳🥗 Real Easy English",
+     "kanal": "BBC Learning English",
+     "url": "https://www.youtube.com/watch?v=bVRIpmjTSxM"
+    }
+   ]
+  },
+  {
+   "id": "e20",
+   "nr": 20,
+   "titel": "Sich verabreden",
+   "bereich": "Sprechen und Zuhören",
+   "klasse": "6",
+   "satz": "Du lädst jemanden ein, machst eine Verabredung aus oder sagst freundlich ab.",
+   "erklaerung": "Einladen kannst du mit „Would you like to …?“ oder „Let's …“. Zusagen geht mit „Yes, good idea!“. Absagen klingt freundlicher mit einem Grund: „Sorry, I can't. I'm going to …“.",
+   "beispiele": [
+    "Would you like to come to my party on Saturday?",
+    "Let's meet at the park at three o'clock.",
+    "Sorry, I can't. I'm going to visit my grandma."
+   ],
+   "baut_auf": [
+    "e02",
+    "e56"
+   ],
+   "quelle": "S. 45",
+   "suche": "invitation Englisch Verabredung",
+   "videos": [
+    {
+     "titel": "Talking about weekend plans 🏊‍♀️🚴💃 Real Easy English",
+     "kanal": "BBC Learning English",
+     "url": "https://www.youtube.com/watch?v=lrTRNbC3BDQ"
+    }
+   ]
+  },
+  {
+   "id": "e21",
+   "nr": 21,
+   "titel": "Nach dem Weg fragen",
+   "bereich": "Sprechen und Zuhören",
+   "klasse": "6",
+   "satz": "Du fragst nach dem Weg und erklärst jemandem, wie er irgendwo hinkommt.",
+   "erklaerung": "Nach dem Weg fragst du mit „Excuse me, where is …?“ oder „How do I get to …?“. Erklären kannst du mit go straight on, turn left und turn right. Dazu kommen Ortsangaben wie next to oder opposite.",
+   "beispiele": [
+    "Excuse me, how do I get to the station?",
+    "Go straight on, then turn left.",
+    "The bank is next to the post office."
+   ],
+   "baut_auf": [
+    "e11",
+    "e44"
+   ],
+   "quelle": "S. 45",
+   "suche": "Wegbeschreibung Englisch directions",
+   "videos": [
+    {
+     "titel": "Asking for and giving directions: Easy English Conversations 💬 Episode 5",
+     "kanal": "BBC Learning English",
+     "url": "https://www.youtube.com/watch?v=SHXPpsIJTb0"
+    },
+    {
+     "titel": "↪️ Auf Englisch Richtungen angeben - Richtungspräpositionen einfach erklärt",
+     "kanal": "Mr Kay Erklärt Englisch",
+     "url": "https://www.youtube.com/watch?v=nkjsR2GdSjM"
+    }
+   ]
+  },
+  {
+   "id": "e22",
+   "nr": 22,
+   "titel": "Meine Meinung sagen",
+   "bereich": "Sprechen und Zuhören",
+   "klasse": "5/6",
+   "satz": "Du sagst, was du magst oder denkst, und gibst einen kurzen Grund: „I like it because …“",
+   "erklaerung": "Deine Meinung leitest du mit „I think …“ oder „In my opinion …“ ein. Mit because gibst du einen Grund. Zustimmen geht mit „I agree“, nicht zustimmen mit „I don't agree“.",
+   "beispiele": [
+    "I think cats are better than dogs because they are quiet.",
+    "I like this book because it's funny.",
+    "I don't agree. I think football is boring."
+   ],
+   "baut_auf": [
+    "e18"
+   ],
+   "quelle": "S. 45, 47",
+   "suche": "Meinung sagen Englisch I think because",
+   "videos": [
+    {
+     "titel": "Express your opinion - Meinung auf Englisch sagen",
+     "kanal": "Lernsnacks",
+     "url": "https://www.youtube.com/watch?v=pMjNtiNou0Y"
+    }
+   ]
+  },
+  {
+   "id": "e23",
+   "nr": 23,
+   "titel": "Von meinem Wochenende erzählen",
+   "bereich": "Sprechen und Zuhören",
+   "klasse": "6",
+   "satz": "Du erzählst in ein paar Sätzen, was du erlebt hast.",
+   "erklaerung": "Was du erlebt hast, erzählst du im Simple Past. Mit first, then und at the end bringst du Ordnung hinein. Zum Schluss sagst du, wie es war.",
+   "beispiele": [
+    "On Saturday I went to the cinema with my sister.",
+    "Then we had pizza.",
+    "It was a great weekend."
+   ],
+   "baut_auf": [
+    "e53"
+   ],
+   "quelle": "S. 47",
+   "suche": "weekend erzählen Englisch simple past",
+   "videos": [
+    {
+     "titel": "Talk about what you did last weekend: Easy English Conversations 💬 Episode 13",
+     "kanal": "BBC Learning English",
+     "url": "https://www.youtube.com/watch?v=kTf0V4HyFtM"
+    },
+    {
+     "titel": "Das simple past - einfach erklärt | Einfach Englisch",
+     "kanal": "Einfach Englisch",
+     "url": "https://www.youtube.com/watch?v=BdZAjRlt8kI"
+    }
+   ]
+  },
+  {
+   "id": "e24",
+   "nr": 24,
+   "titel": "Eine kleine Präsentation",
+   "bereich": "Sprechen und Zuhören",
+   "klasse": "6",
+   "satz": "Du stellst ein Thema, das dich interessiert, mit Stichwörtern kurz der Klasse vor.",
+   "erklaerung": "Eine kleine Präsentation planst du mit Stichwörtern, nicht mit ganzen Sätzen zum Ablesen. Ein guter Anfang ist „Today I'm going to talk about …“. Am Ende fragst du „Have you got any questions?“.",
+   "beispiele": [
+    "Today I'm going to talk about my favourite animal.",
+    "First … Then … Finally …",
+    "Thank you for listening. Have you got any questions?"
+   ],
+   "baut_auf": [
+    "e04",
+    "e22"
+   ],
+   "quelle": "S. 47, 48",
+   "suche": "Präsentation Englisch Redemittel",
+   "videos": [
+    {
+     "titel": "4 Tipps für bessere Präsentationen in der Schule | Einfach Englisch",
+     "kanal": "Einfach Englisch",
+     "url": "https://www.youtube.com/watch?v=vuTeNMWM2RM"
+    }
+   ]
+  },
+  {
+   "id": "e25",
+   "nr": 25,
+   "titel": "Aussprache: th, w und v",
+   "bereich": "Sprechen und Zuhören",
+   "klasse": "5/6",
+   "satz": "Du übst Laute, die es im Deutschen nicht gibt, und sprichst Wörter wie three, water und very richtig.",
+   "erklaerung": "Das th gibt es im Deutschen nicht: Die Zunge kommt kurz zwischen die Zähne. Das englische w spricht man mit runden Lippen wie in „u-ah“. Das v klingt wie das deutsche w.",
+   "beispiele": [
+    "three, think, the, this",
+    "water, window, we",
+    "very, video, five"
+   ],
+   "baut_auf": [],
+   "quelle": "S. 51",
+   "suche": "th Aussprache Englisch",
+   "videos": [
+    {
+     "titel": "th richtig aussprechen",
+     "kanal": "Einfach Englisch",
+     "url": "https://www.youtube.com/watch?v=0ODpG3KShpc"
+    },
+    {
+     "titel": "Pronunciation of 'th' - English In A Minute",
+     "kanal": "BBC Learning English",
+     "url": "https://www.youtube.com/watch?v=7CeNTtbhYLs"
+    }
+   ]
+  },
+  {
+   "id": "e26",
+   "nr": 26,
+   "titel": "Für andere übersetzen",
+   "bereich": "Sprechen und Zuhören",
+   "klasse": "6",
+   "satz": "Du hilfst, wenn jemand kein Englisch oder kein Deutsch kann, und sagst das Wichtigste in der anderen Sprache.",
+   "erklaerung": "Beim Vermitteln übersetzt du nicht Wort für Wort, sondern sagst das Wichtigste mit deinen eigenen Worten. Manchmal musst du auch etwas erklären, was in dem anderen Land anders ist.",
+   "beispiele": [
+    "Your friend asks: Was hat er gesagt? You say: Er sagt, der Bus kommt um drei.",
+    "Ein Gast fragt nach dem Bäcker: The bakery is next to the church.",
+    "Du erklärst: Schulranzen means school bag."
+   ],
+   "baut_auf": [
+    "e18"
+   ],
+   "quelle": "S. 50",
+   "suche": "Mediation Englisch Sprachmittlung",
+   "videos": [
+    {
+     "titel": "In 5 Schritten zur perfekten mediation | Einfach Englisch",
+     "kanal": "Einfach Englisch",
+     "url": "https://www.youtube.com/watch?v=d3Z3o6G_RJI"
+    },
+    {
+     "titel": "How to write a mediation - Aufbau & Vorgehensweise bei einer Mediation in Englisch / Deutsch",
+     "kanal": "Die Merkhilfe",
+     "url": "https://www.youtube.com/watch?v=GeRnDqfyfi8"
+    }
+   ]
+  },
+  {
+   "id": "e27",
+   "nr": 27,
+   "titel": "Kurze Nachrichten",
+   "bereich": "Lesen und Schreiben",
+   "klasse": "5",
+   "satz": "Du liest und schreibst kurze Nachrichten, Notizen und Chats auf Englisch.",
+   "erklaerung": "Englische Nachrichten sind oft kurz und locker. Man beginnt mit Hi oder Hey und endet zum Beispiel mit See you oder Bye. Abkürzungen wie „u“ für you sind im Chat üblich, in der Schule aber nicht.",
+   "beispiele": [
+    "Hi Sam! Are you at home?",
+    "Can't come today, sorry. See you tomorrow!",
+    "Thanks for the photo :)"
+   ],
+   "baut_auf": [
+    "e15"
+   ],
+   "quelle": "S. 43, 48",
+   "suche": "Nachricht schreiben Englisch"
+  },
+  {
+   "id": "e28",
+   "nr": 28,
+   "titel": "Steckbrief und Formular",
+   "bereich": "Lesen und Schreiben",
+   "klasse": "5",
+   "satz": "Du füllst einen Steckbrief oder ein einfaches Formular über dich aus.",
+   "erklaerung": "In einem Steckbrief stehen kurze Infos über dich, oft ohne ganze Sätze. Die englischen Wörter dafür sind name, age, birthday, address, hobbies und favourite food.",
+   "beispiele": [
+    "Name: Ida Meyer",
+    "Age: 11",
+    "Hobbies: drawing, riding my bike"
+   ],
+   "baut_auf": [
+    "e01",
+    "e15"
+   ],
+   "quelle": "S. 48",
+   "suche": "Steckbrief Englisch profile"
+  },
+  {
+   "id": "e29",
+   "nr": 29,
+   "titel": "Über mich schreiben",
+   "bereich": "Lesen und Schreiben",
+   "klasse": "5",
+   "satz": "Du schreibst ein paar Sätze über dich, deine Familie und deine Hobbys.",
+   "erklaerung": "Für einen Text über dich nimmst du ganze Sätze und verbindest sie mit and, but und because. Ordne deine Sätze nach Themen: erst du selbst, dann Familie, dann Hobbys.",
+   "beispiele": [
+    "My name is Ida and I'm eleven years old.",
+    "I have got a sister, but I haven't got a brother.",
+    "I like drawing because it's relaxing."
+   ],
+   "baut_auf": [
+    "e03",
+    "e08",
+    "e28"
+   ],
+   "quelle": "S. 47, 48",
+   "suche": "text about me Englisch schreiben"
+  },
+  {
+   "id": "e30",
+   "nr": 30,
+   "titel": "E-Mail an eine Brieffreundin",
+   "bereich": "Lesen und Schreiben",
+   "klasse": "6",
+   "satz": "Du schreibst eine E-Mail an ein Kind in einem anderen Land, mit Anrede, Fragen und Gruß.",
+   "erklaerung": "Eine E-Mail an Brieffreunde beginnt mit „Dear …“ oder „Hi …“. Du erzählst etwas von dir und stellst auch Fragen, damit die andere Person antworten kann. Am Ende stehen „Best wishes“ oder „Write soon“.",
+   "beispiele": [
+    "Dear Emma,",
+    "How are you? What do you do in your free time?",
+    "Write soon! Best wishes, Ida"
+   ],
+   "baut_auf": [
+    "e27",
+    "e29"
+   ],
+   "quelle": "S. 43, 48",
+   "suche": "E-Mail schreiben Englisch Brieffreund",
+   "videos": [
+    {
+     "titel": "E-Mail schreiben auf Englisch: Das musst du beachten! - Studyflix",
+     "kanal": "Studyflix",
+     "url": "https://www.youtube.com/watch?v=1rU781-u6KY"
+    },
+    {
+     "titel": "Writing a letter in English - Tipps für förmliche und persönliche Briefe",
+     "kanal": "Lernsnacks",
+     "url": "https://www.youtube.com/watch?v=8Jk8evAac4g"
+    }
+   ]
+  },
+  {
+   "id": "e31",
+   "nr": 31,
+   "titel": "Anleitungen und Rezepte",
+   "bereich": "Lesen und Schreiben",
+   "klasse": "6",
+   "satz": "Du verstehst eine kurze Anleitung oder ein Rezept und machst es nach.",
+   "erklaerung": "Anleitungen und Rezepte nutzen Aufforderungen: Das Verb steht am Satzanfang. Wörter wie first, next und finally zeigen die Reihenfolge.",
+   "beispiele": [
+    "First, put the flour in a bowl.",
+    "Next, add two eggs and mix.",
+    "Finally, bake it for 20 minutes."
+   ],
+   "baut_auf": [
+    "e43",
+    "e09"
+   ],
+   "quelle": "S. 43",
+   "suche": "recipe Englisch imperative",
+   "videos": [
+    {
+     "titel": "The Imperative - Imperativ Englisch einfach erklärt - Aufforderungen und Befehle in Englisch erklärt",
+     "kanal": "EinfachSchule",
+     "url": "https://www.youtube.com/watch?v=Yx3tneFJ5KI"
+    }
+   ]
+  },
+  {
+   "id": "e32",
+   "nr": 32,
+   "titel": "Infos im Internet finden",
+   "bereich": "Lesen und Schreiben",
+   "klasse": "6",
+   "satz": "Du findest auf einer englischen Webseite oder in einem Prospekt genau die Info, die du suchst.",
+   "erklaerung": "Auf englischen Webseiten musst du nicht alles lesen. Überleg dir vorher, was du suchst, zum Beispiel Öffnungszeiten oder Preise. Dann suchst du gezielt nach Zahlen, Namen oder Überschriften.",
+   "beispiele": [
+    "Opening hours: Mon to Fri 9 am to 5 pm",
+    "Tickets: adults £10, children £5",
+    "Find the answer: When does the museum open on Saturday?"
+   ],
+   "baut_auf": [
+    "e69"
+   ],
+   "quelle": "S. 43, 58",
+   "suche": "scanning Englisch Informationen finden",
+   "videos": [
+    {
+     "titel": "Skimming, Scanning & detailliertes Lesen - Unterschied einfach erklärt & Beispiele - Englisch Tipps",
+     "kanal": "Die Merkhilfe",
+     "url": "https://www.youtube.com/watch?v=UwBH_SvHMGU"
+    }
+   ]
+  },
+  {
+   "id": "e33",
+   "nr": 33,
+   "titel": "Reime, Lieder und Gedichte",
+   "bereich": "Lesen und Schreiben",
+   "klasse": "5",
+   "satz": "Du liest, hörst und sprichst englische Reime, Raps und Lieder.",
+   "erklaerung": "Reime und Lieder helfen dir, die Aussprache zu üben und Wörter zu behalten. Oft wiederholen sich Zeilen, sodass du schnell mitsprechen kannst. Klatsch ruhig den Rhythmus mit.",
+   "beispiele": [
+    "Twinkle, twinkle, little star, how I wonder what you are.",
+    "Rain, rain, go away, come again another day.",
+    "One, two, buckle my shoe; three, four, knock at the door."
+   ],
+   "baut_auf": [],
+   "quelle": "S. 44, 54",
+   "suche": "English rhymes songs for kids",
+   "videos": [
+    {
+     "titel": "There was an old lady who swallowed a fly - Nursery Rhymes - LearnEnglish Kids British Council",
+     "kanal": "British Council | LearnEnglish Kids",
+     "url": "https://www.youtube.com/watch?v=eXQPD6OcugY"
+    },
+    {
+     "titel": "Hickory dickory dock - Nursery Rhymes & Kids Songs - LearnEnglish Kids British Council",
+     "kanal": "British Council | LearnEnglish Kids",
+     "url": "https://www.youtube.com/watch?v=Bsip6RWeZFw"
+    }
+   ]
+  },
+  {
+   "id": "e34",
+   "nr": 34,
+   "titel": "Geschichten und Comics lesen",
+   "bereich": "Lesen und Schreiben",
+   "klasse": "5/6",
+   "satz": "Du liest eine kurze Geschichte oder einen Comic und verstehst, was passiert.",
+   "erklaerung": "Beim Lesen einer Geschichte musst du nicht jedes Wort kennen. Bilder, Überschriften und das, was davor passiert ist, helfen dir. Frag dich: Wer? Wo? Was passiert?",
+   "beispiele": [
+    "Who is the main character?",
+    "Where does the story happen?",
+    "What is the problem, and how does it end?"
+   ],
+   "baut_auf": [
+    "e68"
+   ],
+   "quelle": "S. 44",
+   "suche": "short stories English kids reading"
+  },
+  {
+   "id": "e35",
+   "nr": 35,
+   "titel": "Ein ganzes kleines Buch lesen",
+   "bereich": "Lesen und Schreiben",
+   "klasse": "6",
+   "satz": "Du liest ein einfaches englisches Buch (Easy Reader) bis zum Ende.",
+   "erklaerung": "Ein Easy Reader ist ein Buch in einfachem Englisch, oft mit Bildern und Worterklärungen. Lies jeden Tag ein paar Seiten. Wenn du ein Wort dreimal nicht verstehst, schlag es nach, sonst lies einfach weiter.",
+   "beispiele": [
+    "Such dir ein Buch zu einem Thema aus, das dich interessiert.",
+    "Lies jeden Tag zehn Minuten.",
+    "Erzähl jemandem auf Deutsch oder Englisch, worum es geht."
+   ],
+   "baut_auf": [
+    "e34"
+   ],
+   "quelle": "S. 44",
+   "suche": "Easy Reader Englisch lesen Tipps"
+  },
+  {
+   "id": "e36",
+   "nr": 36,
+   "titel": "Eine kleine Geschichte schreiben",
+   "bereich": "Lesen und Schreiben",
+   "klasse": "6",
+   "satz": "Du schreibst zu Bildern eine kurze Geschichte.",
+   "erklaerung": "Eine Geschichte erzählst du im Simple Past. Sie hat einen Anfang, ein Problem in der Mitte und ein Ende. Wörter wie suddenly, then und in the end machen sie spannend.",
+   "beispiele": [
+    "One day Tom found a strange box in the garden.",
+    "Suddenly the box started to move!",
+    "In the end it was only his little cat."
+   ],
+   "baut_auf": [
+    "e54",
+    "e29"
+   ],
+   "quelle": "S. 49, 50 (vertiefend)",
+   "suche": "story writing Englisch"
+  },
+  {
+   "id": "e37",
+   "nr": 37,
+   "titel": "to be: I am, you are",
+   "bereich": "Grammatik",
+   "klasse": "5",
+   "satz": "Du sagst Sätze wie I am, she is, we are, auch verneint und als Frage.",
+   "erklaerung": "„to be“ heißt sein und ändert sich je nach Person: I am, you are, he/she/it is, we/you/they are. Verneint wird mit not, Fragen beginnen mit am, is oder are.",
+   "beispiele": [
+    "I am eleven. She is my friend. We are in class 5.",
+    "He isn't (is not) at home.",
+    "Are you tired? Yes, I am."
+   ],
+   "baut_auf": [],
+   "quelle": "S. 51",
+   "suche": "to be Englisch am is are",
+   "videos": [
+    {
+     "titel": "das Verb \"(to) be\" - einfach erklärt | Einfach Englisch",
+     "kanal": "Einfach Englisch",
+     "url": "https://www.youtube.com/watch?v=I6eps24U3FE"
+    },
+    {
+     "titel": "to be Formen AM, IS, ARE / Erklärung, Beispiele + Übungen | Englisch Klasse 5",
+     "kanal": "Mr Kay Erklärt Englisch",
+     "url": "https://www.youtube.com/watch?v=0LYdaaO1Sv8"
+    }
+   ]
+  },
+  {
+   "id": "e38",
+   "nr": 38,
+   "titel": "have got",
+   "bereich": "Grammatik",
+   "klasse": "5",
+   "satz": "Du sagst, was du hast: I have got a cat. She has got blue eyes.",
+   "erklaerung": "„have got“ heißt haben oder besitzen. Bei he, she und it heißt es „has got“. Verneint wird mit haven't got oder hasn't got.",
+   "beispiele": [
+    "I have got a dog.",
+    "She has got a new bike.",
+    "We haven't got a garden. Have you got a pet?"
+   ],
+   "baut_auf": [
+    "e37"
+   ],
+   "quelle": "S. 51",
+   "suche": "have got has got Englisch",
+   "videos": [
+    {
+     "titel": "HAVE GOT or HAS GOT - Erklärung, Beispiele + Übungen (+ FREE PDF) | Englisch Klasse 5",
+     "kanal": "Mr Kay Erklärt Englisch",
+     "url": "https://www.youtube.com/watch?v=lJH-NhQA_3A"
+    }
+   ]
+  },
+  {
+   "id": "e39",
+   "nr": 39,
+   "titel": "Wem gehört was?",
+   "bereich": "Grammatik",
+   "klasse": "5",
+   "satz": "Du sagst my, your, his, her und Toms Fahrrad heißt Tom's bike.",
+   "erklaerung": "my, your, his, her, its, our und their zeigen, wem etwas gehört. Bei Namen hängst du 's an: Tom's bike. Bei Mehrzahl auf s kommt nur der Apostroph: my parents' car.",
+   "beispiele": [
+    "This is my book. That is your pencil.",
+    "Lisa's cat is black.",
+    "Her brother is twelve. His name is Ben."
+   ],
+   "baut_auf": [
+    "e37"
+   ],
+   "quelle": "S. 51",
+   "suche": "possessive pronouns s-genitive Englisch",
+   "videos": [
+    {
+     "titel": "my, your, his, her - Possessivbegleiter einfach erklärt | Einfach Englisch",
+     "kanal": "Einfach Englisch",
+     "url": "https://www.youtube.com/watch?v=G_lWxG58-7A"
+    },
+    {
+     "titel": "s-genitive einfach erklärt | Einfach Englisch",
+     "kanal": "Einfach Englisch",
+     "url": "https://www.youtube.com/watch?v=y-rZym3_4I8"
+    }
+   ]
+  },
+  {
+   "id": "e40",
+   "nr": 40,
+   "titel": "Einzahl, Mehrzahl, a und an",
+   "bereich": "Grammatik",
+   "klasse": "5",
+   "satz": "Du bildest die Mehrzahl (one book, two books) und weißt, wann a oder an kommt.",
+   "erklaerung": "Die Mehrzahl bildest du meist mit s: one book, two books. Manche Wörter sind unregelmäßig, zum Beispiel child, children oder man, men. „an“ steht vor einem Vokal-Laut: an apple, an hour.",
+   "beispiele": [
+    "one cat, two cats; one box, two boxes",
+    "one child, three children; one mouse, two mice",
+    "a banana, an apple, an egg"
+   ],
+   "baut_auf": [],
+   "quelle": "S. 51",
+   "suche": "plural Englisch a an",
+   "videos": [
+    {
+     "titel": "MEHRZAHL S / PLURALFORM erklärt - Erläuterung + Übungen | Englisch Klasse 5",
+     "kanal": "Mr Kay Erklärt Englisch",
+     "url": "https://www.youtube.com/watch?v=atoEvruARh8"
+    },
+    {
+     "titel": "a oder an - einfach erklärt | Einfach Englisch",
+     "kanal": "Einfach Englisch",
+     "url": "https://www.youtube.com/watch?v=TKJYOxDKWfY"
+    }
+   ]
+  },
+  {
+   "id": "e41",
+   "nr": 41,
+   "titel": "there is und there are",
+   "bereich": "Grammatik",
+   "klasse": "5",
+   "satz": "Du sagst, was es irgendwo gibt: There is a bed. There are two chairs.",
+   "erklaerung": "„There is“ nimmst du für ein Ding, „There are“ für mehrere. Die Frage heißt „Is there …?“ oder „Are there …?“. Auf Deutsch sagt man dazu „es gibt“.",
+   "beispiele": [
+    "There is a cat in the garden.",
+    "There are three apples on the table.",
+    "Is there a park near your house?"
+   ],
+   "baut_auf": [
+    "e40"
+   ],
+   "quelle": "S. 51",
+   "suche": "there is there are Englisch",
+   "videos": [
+    {
+     "titel": "There is oder There are einfach erklärt - Verwendung, Beispiele und Übung - There is/There are!",
+     "kanal": "EinfachSchule",
+     "url": "https://www.youtube.com/watch?v=RhcXjPPrwuQ"
+    },
+    {
+     "titel": "THERE IS THERE ARE - Erklärung, Beispiele + Übungen | Englisch lernen | Englisch Klasse 5",
+     "kanal": "Mr Kay Erklärt Englisch",
+     "url": "https://www.youtube.com/watch?v=KMDMJgrAkVA"
+    }
+   ]
+  },
+  {
+   "id": "e42",
+   "nr": 42,
+   "titel": "Wo ist was? in, on, under",
+   "bereich": "Grammatik",
+   "klasse": "5",
+   "satz": "Du sagst mit in, on, under, next to und behind, wo etwas ist.",
+   "erklaerung": "Präpositionen sagen, wo etwas ist. Die wichtigsten sind in, on, under, next to, behind, in front of und between. Sie stehen vor dem Ort.",
+   "beispiele": [
+    "The ball is under the bed.",
+    "My bag is next to the desk.",
+    "The cat is behind the sofa."
+   ],
+   "baut_auf": [],
+   "quelle": "S. 51",
+   "suche": "Präpositionen Ort Englisch in on under",
+   "videos": [
+    {
+     "titel": "🐱ON, BESIDE or UNDER?! | Ortspräpositionen einfach erklärt | A1 Englisch lernen",
+     "kanal": "Mr Kay Erklärt Englisch",
+     "url": "https://www.youtube.com/watch?v=624MP2ju-Xo"
+    }
+   ]
+  },
+  {
+   "id": "e43",
+   "nr": 43,
+   "titel": "Aufforderungen",
+   "bereich": "Grammatik",
+   "klasse": "5",
+   "satz": "Du sagst anderen, was sie tun sollen: Open the door! Don't run!",
+   "erklaerung": "Für eine Aufforderung nimmst du die Grundform des Verbs ganz am Anfang, ohne you. Verboten wird mit „Don't …“. Mit please klingt es freundlicher.",
+   "beispiele": [
+    "Close the window, please.",
+    "Listen and repeat.",
+    "Don't touch that!"
+   ],
+   "baut_auf": [],
+   "quelle": "S. 51",
+   "suche": "imperative Englisch Aufforderung",
+   "videos": [
+    {
+     "titel": "The Imperative - Imperativ Englisch einfach erklärt - Aufforderungen und Befehle in Englisch erklärt",
+     "kanal": "EinfachSchule",
+     "url": "https://www.youtube.com/watch?v=Yx3tneFJ5KI"
+    },
+    {
+     "titel": "🚨Verbote mit DON'T (but watch this video)! - DON'T + Imperativ richtig anwenden | Englisch Klasse 5",
+     "kanal": "Mr Kay Erklärt Englisch",
+     "url": "https://www.youtube.com/watch?v=UP0-nL8YW9o"
+    }
+   ]
+  },
+  {
+   "id": "e44",
+   "nr": 44,
+   "titel": "can und can't",
+   "bereich": "Grammatik",
+   "klasse": "5",
+   "satz": "Du sagst, was du kannst und was erlaubt ist: I can swim. Can I go?",
+   "erklaerung": "can heißt können oder dürfen und bleibt bei allen Personen gleich, also ohne s. Verneint heißt es can't. Für eine Frage stellst du can an den Anfang.",
+   "beispiele": [
+    "I can swim, but I can't ski.",
+    "She can play the guitar.",
+    "Can I go to the toilet, please?"
+   ],
+   "baut_auf": [
+    "e37"
+   ],
+   "quelle": "S. 51",
+   "suche": "can can't Englisch",
+   "videos": [
+    {
+     "titel": "can und cannot - einfach erklärt | Einfach Englisch",
+     "kanal": "Einfach Englisch",
+     "url": "https://www.youtube.com/watch?v=IIDQBSqi038"
+    },
+    {
+     "titel": "can und cannot einfach erklärt  - Hilfsverb can - Verwendung von Can und Can`t - Erklärung, Übung!",
+     "kanal": "EinfachSchule",
+     "url": "https://www.youtube.com/watch?v=LUZLjcoRo74"
+    }
+   ]
+  },
+  {
+   "id": "e45",
+   "nr": 45,
+   "titel": "Simple Present",
+   "bereich": "Grammatik",
+   "klasse": "5",
+   "satz": "Du erzählst, was immer oder oft passiert, und denkst an das s: she plays.",
+   "erklaerung": "Das Simple Present nimmst du für Dinge, die immer, oft oder regelmäßig passieren. Bei he, she und it kommt ein s ans Verb: „he, she, it, das s muss mit“.",
+   "beispiele": [
+    "I play football every Monday.",
+    "She plays the piano.",
+    "My dad works in a hospital."
+   ],
+   "baut_auf": [
+    "e37"
+   ],
+   "quelle": "S. 51",
+   "suche": "simple present Englisch",
+   "videos": [
+    {
+     "titel": "Das simple present - einfach erklärt | Einfach Englisch",
+     "kanal": "Einfach Englisch",
+     "url": "https://www.youtube.com/watch?v=YhALPdmNlmg"
+    },
+    {
+     "titel": "Simple Present einfach erklärt - Verwendung, Bildung, Verneinung, Fragen, Übung erklärt!",
+     "kanal": "EinfachSchule",
+     "url": "https://www.youtube.com/watch?v=B9J_fy9TuwU"
+    }
+   ]
+  },
+  {
+   "id": "e46",
+   "nr": 46,
+   "titel": "Simple Present: Fragen und nein sagen",
+   "bereich": "Grammatik",
+   "klasse": "5",
+   "satz": "Du fragst mit do und does und verneinst mit don't und doesn't.",
+   "erklaerung": "Fragen im Simple Present bildest du mit do oder does. Verneint wird mit don't oder doesn't. Wenn does oder doesn't im Satz steht, verliert das Verb sein s.",
+   "beispiele": [
+    "Do you like pizza? Yes, I do.",
+    "Does she play tennis? No, she doesn't.",
+    "He doesn't like spinach."
+   ],
+   "baut_auf": [
+    "e45"
+   ],
+   "quelle": "S. 51",
+   "suche": "simple present questions negation do does",
+   "videos": [
+    {
+     "titel": "DO oder DOES Fragen stellen im Simple Present / Erklärung, Beispiele + Übungen",
+     "kanal": "Mr Kay Erklärt Englisch",
+     "url": "https://www.youtube.com/watch?v=JRiI2RJtyE4"
+    },
+    {
+     "titel": "DON´T oder DOESN´T | Simple Present Verneinung / Unterschiede, Beispiele + Übungen",
+     "kanal": "Mr Kay Erklärt Englisch",
+     "url": "https://www.youtube.com/watch?v=cJhcmRSQsP4"
+    }
+   ]
+  },
+  {
+   "id": "e47",
+   "nr": 47,
+   "titel": "Fragewörter",
+   "bereich": "Grammatik",
+   "klasse": "5",
+   "satz": "Du fragst mit who, what, where, when, why und how.",
+   "erklaerung": "Fragewörter stehen am Anfang der Frage. who fragt nach Personen, what nach Dingen, where nach dem Ort, when nach der Zeit, why nach dem Grund und how nach der Art.",
+   "beispiele": [
+    "Where do you live?",
+    "When is your birthday?",
+    "Why are you sad? How old are you?"
+   ],
+   "baut_auf": [
+    "e37"
+   ],
+   "quelle": "S. 45, 51",
+   "suche": "question words Englisch Fragewörter",
+   "videos": [
+    {
+     "titel": "Englisch W Fragewörter What, Who, When, Where, Why, How / Unterschiede und Bedeutungen",
+     "kanal": "Mr Kay Erklärt Englisch",
+     "url": "https://www.youtube.com/watch?v=La_zal8rvQc"
+    }
+   ]
+  },
+  {
+   "id": "e48",
+   "nr": 48,
+   "titel": "always, often, never",
+   "bereich": "Grammatik",
+   "klasse": "5",
+   "satz": "Du sagst, wie oft du etwas machst, und stellst das Wort an die richtige Stelle.",
+   "erklaerung": "Wörter wie always, usually, often, sometimes und never sagen, wie oft etwas passiert. Sie stehen vor dem Verb, aber nach am, is und are.",
+   "beispiele": [
+    "I always brush my teeth in the evening.",
+    "She often reads comics.",
+    "He is never late."
+   ],
+   "baut_auf": [
+    "e45"
+   ],
+   "quelle": "S. 51",
+   "suche": "adverbs of frequency Englisch",
+   "videos": [
+    {
+     "titel": "adverbs of frequency / Häufigkeitsadverbien - einfach erklärt | Einfach Englisch",
+     "kanal": "Einfach Englisch",
+     "url": "https://www.youtube.com/watch?v=WfvpQLW5rRM"
+    },
+    {
+     "titel": "Adverbs of Frequency einfach erklärt - Häufigkeitsadverbien im Englischen - Erklärung und Beispiele!",
+     "kanal": "EinfachSchule",
+     "url": "https://www.youtube.com/watch?v=6E0BchCJzv4"
+    }
+   ]
+  },
+  {
+   "id": "e49",
+   "nr": 49,
+   "titel": "Present Progressive",
+   "bereich": "Grammatik",
+   "klasse": "5/6",
+   "satz": "Du sagst, was gerade jetzt passiert: I am reading.",
+   "erklaerung": "Das Present Progressive nimmst du für etwas, das gerade jetzt passiert. Du bildest es mit am, is oder are und dem Verb mit ing. Signalwörter sind now und look!",
+   "beispiele": [
+    "I am reading a book now.",
+    "Look! The dog is running away.",
+    "We are watching a film."
+   ],
+   "baut_auf": [
+    "e37"
+   ],
+   "quelle": "S. 51",
+   "suche": "present progressive Englisch",
+   "videos": [
+    {
+     "titel": "Das present progressive - einfach erklärt | Einfach Englisch",
+     "kanal": "Einfach Englisch",
+     "url": "https://www.youtube.com/watch?v=3kMAus9X_8U"
+    },
+    {
+     "titel": "Present Progressive einfach erklärt - mit Übung - Bildung, Verwendung und Beispiele erklärt",
+     "kanal": "EinfachSchule",
+     "url": "https://www.youtube.com/watch?v=GrhW3uFBKuk"
+    }
+   ]
+  },
+  {
+   "id": "e50",
+   "nr": 50,
+   "titel": "Simple Present oder Present Progressive",
+   "bereich": "Grammatik",
+   "klasse": "6",
+   "satz": "Du entscheidest, ob etwas immer passiert oder gerade jetzt.",
+   "erklaerung": "Simple Present: Das passiert immer oder regelmäßig. Present Progressive: Das passiert gerade jetzt. Achte auf Signalwörter wie every day oder now.",
+   "beispiele": [
+    "I usually walk to school. Today I am going by bus.",
+    "He plays football every Saturday. Now he is playing in the garden.",
+    "What are you doing? I'm doing my homework."
+   ],
+   "baut_auf": [
+    "e46",
+    "e49"
+   ],
+   "quelle": "S. 51",
+   "suche": "simple present present progressive Unterschied",
+   "videos": [
+    {
+     "titel": "simple present oder present progressive? | Einfach Englisch",
+     "kanal": "Einfach Englisch",
+     "url": "https://www.youtube.com/watch?v=sFESPDKOiBM"
+    },
+    {
+     "titel": "Unterschied Simple Present und Present Progressive erklärt - Bildung, Gegenwart und Zukunft erklärt!",
+     "kanal": "EinfachSchule",
+     "url": "https://www.youtube.com/watch?v=wVZExZby8MA"
+    }
+   ]
+  },
+  {
+   "id": "e51",
+   "nr": 51,
+   "titel": "me, him, her",
+   "bereich": "Grammatik",
+   "klasse": "5/6",
+   "satz": "Du sagst Sätze wie Call me! oder I like him.",
+   "erklaerung": "Nach einem Verb oder nach Wörtern wie with und for steht die Objektform: me, you, him, her, it, us, them. Im Deutschen entspricht das mir, mich, ihm, ihn und so weiter.",
+   "beispiele": [
+    "Call me tomorrow!",
+    "I like him. Do you know her?",
+    "Come with us!"
+   ],
+   "baut_auf": [
+    "e39"
+   ],
+   "quelle": "S. 51",
+   "suche": "object pronouns Englisch me him her",
+   "videos": [
+    {
+     "titel": "Objektformen der Personalpronomen in Englisch einfach erklärt - Verwendung und Bildung erklärt!",
+     "kanal": "EinfachSchule",
+     "url": "https://www.youtube.com/watch?v=ET900QCFsMY"
+    },
+    {
+     "titel": "⭐ Wieso eigentlich HIM und nicht HE? 🙄 Personalpronomen erklärt (A1)",
+     "kanal": "Mr Kay Erklärt Englisch",
+     "url": "https://www.youtube.com/watch?v=TXjuKbx8djU"
+    }
+   ]
+  },
+  {
+   "id": "e52",
+   "nr": 52,
+   "titel": "Vergangenheit mit was und were",
+   "bereich": "Grammatik",
+   "klasse": "6",
+   "satz": "Du sagst, wo jemand war oder wie es war: I was at home. It was great.",
+   "erklaerung": "Die Vergangenheit von to be heißt was und were. I, he, she und it bekommen was, you, we und they bekommen were.",
+   "beispiele": [
+    "I was at home yesterday.",
+    "We were at the zoo last Sunday.",
+    "It was really cold."
+   ],
+   "baut_auf": [
+    "e37"
+   ],
+   "quelle": "S. 51",
+   "suche": "was were Englisch simple past to be",
+   "videos": [
+    {
+     "titel": "WAS vs WERE | Anwendung erklärt, Beispiele + Übungen | Englisch lernen",
+     "kanal": "Mr Kay Erklärt Englisch",
+     "url": "https://www.youtube.com/watch?v=Yd-TDNQQmNE"
+    }
+   ]
+  },
+  {
+   "id": "e53",
+   "nr": 53,
+   "titel": "Simple Past",
+   "bereich": "Grammatik",
+   "klasse": "6",
+   "satz": "Du erzählst, was passiert ist, mit regelmäßigen Verben (played) und den wichtigsten unregelmäßigen (went, saw).",
+   "erklaerung": "Mit dem Simple Past erzählst du, was in der Vergangenheit passiert ist. Bei regelmäßigen Verben hängst du ed an: play, played. Unregelmäßige Verben musst du lernen: go, went; see, saw; have, had.",
+   "beispiele": [
+    "Yesterday I played football.",
+    "Last week we went to the beach.",
+    "I saw a big dog in the park."
+   ],
+   "baut_auf": [
+    "e45",
+    "e52"
+   ],
+   "quelle": "S. 51",
+   "suche": "simple past Englisch regelmäßig unregelmäßig",
+   "videos": [
+    {
+     "titel": "Das simple past - einfach erklärt | Einfach Englisch",
+     "kanal": "Einfach Englisch",
+     "url": "https://www.youtube.com/watch?v=BdZAjRlt8kI"
+    },
+    {
+     "titel": "goed oder went? 🤔 Simple Past Irregular Verbs / Unregelmäßige Verben - Erklärungen, Beispiele ",
+     "kanal": "Mr Kay Erklärt Englisch",
+     "url": "https://www.youtube.com/watch?v=4ghIEgtqrZ4"
+    }
+   ]
+  },
+  {
+   "id": "e54",
+   "nr": 54,
+   "titel": "Simple Past: Fragen und nein sagen",
+   "bereich": "Grammatik",
+   "klasse": "6",
+   "satz": "Du fragst mit did und verneinst mit didn't.",
+   "erklaerung": "Fragen im Simple Past bildest du mit did, verneint wird mit didn't. Danach steht das Verb wieder in der Grundform, also ohne ed.",
+   "beispiele": [
+    "Did you watch the film? Yes, I did.",
+    "I didn't go to school yesterday.",
+    "Where did you go on holiday?"
+   ],
+   "baut_auf": [
+    "e53",
+    "e46"
+   ],
+   "quelle": "S. 51",
+   "suche": "simple past questions negation did",
+   "videos": [
+    {
+     "titel": "Fragen mit DID Simple Past - Erklärungen, Beispiele + Übungen",
+     "kanal": "Mr Kay Erklärt Englisch",
+     "url": "https://www.youtube.com/watch?v=6jvdZmFo36U"
+    },
+    {
+     "titel": "DIDN'T Simple Past - Erklärungen, Beispiele + Übungen",
+     "kanal": "Mr Kay Erklärt Englisch",
+     "url": "https://www.youtube.com/watch?v=NhnnR6X9SDc"
+    }
+   ]
+  },
+  {
+   "id": "e55",
+   "nr": 55,
+   "titel": "Zukunft mit going to",
+   "bereich": "Grammatik",
+   "klasse": "6",
+   "satz": "Du sagst, was du vorhast: I'm going to visit my grandma.",
+   "erklaerung": "Mit going to sagst du, was du vorhast oder schon geplant hast. Du bildest es mit am, is oder are, going to und der Grundform.",
+   "beispiele": [
+    "I'm going to visit my grandma at the weekend.",
+    "We are going to play football after school.",
+    "Are you going to come to the party?"
+   ],
+   "baut_auf": [
+    "e49"
+   ],
+   "quelle": "S. 51",
+   "suche": "going to future Englisch",
+   "videos": [
+    {
+     "titel": "going to future - einfach erklärt | Einfach Englisch",
+     "kanal": "Einfach Englisch",
+     "url": "https://www.youtube.com/watch?v=y7bzvA8zQso"
+    },
+    {
+     "titel": "Going to-future einfach erklärt - Bildung, Verwendung, Besonderheiten und Übungen - Zusammenfassung!",
+     "kanal": "EinfachSchule",
+     "url": "https://www.youtube.com/watch?v=mt6QiAFXBek"
+    }
+   ]
+  },
+  {
+   "id": "e56",
+   "nr": 56,
+   "titel": "Zukunft mit will",
+   "bereich": "Grammatik",
+   "klasse": "6",
+   "satz": "Du sagst, was passieren wird oder was du spontan beschließt: I will help you.",
+   "erklaerung": "Mit will sagst du, was in der Zukunft passieren wird, was du vermutest oder was du spontan beschließt. will bleibt bei allen Personen gleich. Verneint heißt es won't.",
+   "beispiele": [
+    "I think it will rain tomorrow.",
+    "The phone is ringing. I'll answer it!",
+    "I won't tell anybody."
+   ],
+   "baut_auf": [
+    "e45"
+   ],
+   "quelle": "S. 51",
+   "suche": "will future Englisch",
+   "videos": [
+    {
+     "titel": "Das will future - einfach erklärt | Einfach Englisch",
+     "kanal": "Einfach Englisch",
+     "url": "https://www.youtube.com/watch?v=x7QfQZZv87Y"
+    },
+    {
+     "titel": "Will Future einfach erklärt - Bildung, Verwendung, Besonderheiten und Übungen - Zusammenfassung!",
+     "kanal": "EinfachSchule",
+     "url": "https://www.youtube.com/watch?v=SXBCBw1A7js"
+    }
+   ]
+  },
+  {
+   "id": "e57",
+   "nr": 57,
+   "titel": "must und mustn't",
+   "bereich": "Grammatik",
+   "klasse": "6",
+   "satz": "Du sagst, was man tun muss und was verboten ist.",
+   "erklaerung": "must heißt müssen. mustn't heißt nicht dürfen, also ein Verbot. Wenn etwas nicht nötig ist, sagt man needn't oder don't have to.",
+   "beispiele": [
+    "You must wear a helmet.",
+    "You mustn't run in the corridor.",
+    "You needn't bring a pencil. I have got one."
+   ],
+   "baut_auf": [
+    "e44"
+   ],
+   "quelle": "S. 51",
+   "suche": "must mustn't Englisch",
+   "videos": [
+    {
+     "titel": "can, must, needn't etc. - Modalverben einfach erklärt | Einfach Englisch",
+     "kanal": "Einfach Englisch",
+     "url": "https://www.youtube.com/watch?v=PxdNMaHleII"
+    },
+    {
+     "titel": "Modalverben MUST oder MUSTN'T - Beispiele + Übungen | Englisch lernen",
+     "kanal": "Mr Kay Erklärt Englisch",
+     "url": "https://www.youtube.com/watch?v=5D1tOcAO03A"
+    }
+   ]
+  },
+  {
+   "id": "e58",
+   "nr": 58,
+   "titel": "some und any",
+   "bereich": "Grammatik",
+   "klasse": "6",
+   "satz": "Du sagst, ob es etwas gibt oder nicht: some apples, any milk.",
+   "erklaerung": "some nimmst du in bejahten Sätzen und wenn du etwas anbietest. any nimmst du in Fragen und verneinten Sätzen.",
+   "beispiele": [
+    "I have got some apples.",
+    "Have you got any milk?",
+    "There isn't any bread left."
+   ],
+   "baut_auf": [
+    "e40",
+    "e46"
+   ],
+   "quelle": "S. 51",
+   "suche": "some any Englisch",
+   "videos": [
+    {
+     "titel": "some und any - einfach erklärt | Einfach Englisch",
+     "kanal": "Einfach Englisch",
+     "url": "https://www.youtube.com/watch?v=cIyeyW2L0HU"
+    },
+    {
+     "titel": "some und any einfach erklärt - Verwendung, Bildung, Beispiele -Zusammenfassung some und any erklärt!",
+     "kanal": "EinfachSchule",
+     "url": "https://www.youtube.com/watch?v=8w_Rnf4_TDE"
+    }
+   ]
+  },
+  {
+   "id": "e59",
+   "nr": 59,
+   "titel": "Adjektive steigern",
+   "bereich": "Grammatik",
+   "klasse": "6",
+   "satz": "Du vergleichst: big, bigger, the biggest und more interesting.",
+   "erklaerung": "Kurze Adjektive steigerst du mit er und est: small, smaller, the smallest. Lange Adjektive steigerst du mit more und the most. Ausnahmen sind zum Beispiel good, better, the best.",
+   "beispiele": [
+    "A dog is bigger than a cat.",
+    "This is the most interesting book.",
+    "My drawing is good, but yours is better."
+   ],
+   "baut_auf": [
+    "e37"
+   ],
+   "quelle": "S. 51 (indirekt)",
+   "suche": "comparison adjectives Englisch Steigerung",
+   "videos": [
+    {
+     "titel": "adjectives - die Steigerung der Adjektive einfach erklärt | Einfach Englisch",
+     "kanal": "Einfach Englisch",
+     "url": "https://www.youtube.com/watch?v=MmZJpw9vJvY"
+    },
+    {
+     "titel": "Komparativ & Superlativ - Steigerungsformen im Englischen - Grundlagen, Ausnahmen & Beispiele",
+     "kanal": "Die Merkhilfe",
+     "url": "https://www.youtube.com/watch?v=w1PUDz_VTJQ"
+    }
+   ]
+  },
+  {
+   "id": "e60",
+   "nr": 60,
+   "titel": "Satzbau: wer, tut, was, wo, wann",
+   "bereich": "Grammatik",
+   "klasse": "5/6",
+   "satz": "Du baust englische Sätze in der richtigen Reihenfolge, auch wenn sie anders sind als im Deutschen.",
+   "erklaerung": "Im englischen Satz steht fast immer zuerst wer, dann das Verb, dann was. Danach kommen Ort und Zeit: erst wo, dann wann. Ein Merkspruch: S, V, O, Ort vor Zeit.",
+   "beispiele": [
+    "I play football in the park on Sundays.",
+    "We eat pizza at home every Friday.",
+    "Deutsch: Am Montag spiele ich. Englisch: I play on Monday."
+   ],
+   "baut_auf": [
+    "e45"
+   ],
+   "quelle": "S. 51, 56",
+   "suche": "Satzstellung Englisch SVO",
+   "videos": [
+    {
+     "titel": "Satzbau im Englischen - einfach erklärt | Einfach Englisch",
+     "kanal": "Einfach Englisch",
+     "url": "https://www.youtube.com/watch?v=shMYV-qK5pw"
+    },
+    {
+     "titel": "Englischer Satzbau (Subjekt, Verb, Objekt, Ort, Zeit) erklärt + Übung | Englisch Klasse 5",
+     "kanal": "Mr Kay Erklärt Englisch",
+     "url": "https://www.youtube.com/watch?v=so_Dt9oH9tk"
+    }
+   ]
+  },
+  {
+   "id": "e61",
+   "nr": 61,
+   "titel": "Wo man Englisch spricht",
+   "bereich": "Land und Leute",
+   "klasse": "5",
+   "satz": "Du entdeckst, in welchen Ländern Menschen Englisch sprechen.",
+   "erklaerung": "Englisch ist in vielen Ländern Muttersprache oder Amtssprache, zum Beispiel in Großbritannien, Irland, den USA, Kanada, Australien, Neuseeland und Südafrika. Darum kannst du dich damit fast überall auf der Welt verständigen.",
+   "beispiele": [
+    "English is spoken in the UK, the USA and Australia.",
+    "In India, English is one of the official languages.",
+    "Bluey kommt aus Australien."
+   ],
+   "baut_auf": [],
+   "quelle": "S. 9",
+   "suche": "englischsprachige Länder"
+  },
+  {
+   "id": "e62",
+   "nr": 62,
+   "titel": "Großbritannien und London",
+   "bereich": "Land und Leute",
+   "klasse": "5/6",
+   "satz": "Du lernst Großbritannien kennen und siehst dir London mit seinen bekannten Orten an.",
+   "erklaerung": "Großbritannien besteht aus England, Schottland und Wales, dazu kommt Nordirland im Vereinigten Königreich. London ist die Hauptstadt mit Sehenswürdigkeiten wie Big Ben, Tower Bridge und dem London Eye.",
+   "beispiele": [
+    "London is the capital of the UK.",
+    "Big Ben is a famous clock tower.",
+    "In London you can ride on a red double-decker bus."
+   ],
+   "baut_auf": [
+    "e61"
+   ],
+   "quelle": "S. 9",
+   "suche": "London Sehenswürdigkeiten Kinder",
+   "videos": [
+    {
+     "titel": "Behind the Scenes at London's Big Ben | Newsround",
+     "kanal": "BBC Newsround",
+     "url": "https://www.youtube.com/watch?v=nC4YrkhA8-M"
+    },
+    {
+     "titel": "Behind the Scenes at the London Underground 🚇 | Newsround",
+     "kanal": "BBC Newsround",
+     "url": "https://www.youtube.com/watch?v=HZ0b4IwEhLw"
+    }
+   ]
+  },
+  {
+   "id": "e63",
+   "nr": 63,
+   "titel": "Feste und besondere Tage",
+   "bereich": "Land und Leute",
+   "klasse": "5/6",
+   "satz": "Du erfährst, wie man Geburtstag, Halloween, Bonfire Night oder Christmas in englischsprachigen Ländern feiert.",
+   "erklaerung": "In englischsprachigen Ländern gibt es Feste, die es bei uns so nicht gibt. Bonfire Night am 5. November erinnert an Guy Fawkes. Zu Weihnachten bringt Father Christmas die Geschenke in der Nacht zum 25. Dezember.",
+   "beispiele": [
+    "Happy birthday! Here is a present for you.",
+    "On Halloween children go trick-or-treating.",
+    "On Christmas Day people eat turkey and pull crackers."
+   ],
+   "baut_auf": [
+    "e02"
+   ],
+   "quelle": "S. 9",
+   "suche": "Halloween Bonfire Night Christmas England",
+   "videos": [
+    {
+     "titel": "Bonfire Night Explained: The Gunpowder Plot! 🎆 | Newsround | News For Kids",
+     "kanal": "BBC Newsround",
+     "url": "https://www.youtube.com/watch?v=x_gwNYFDbBI"
+    },
+    {
+     "titel": "Trick or Treat? 🎃 A Brief History of Halloween Traditions | Newsround",
+     "kanal": "BBC Newsround",
+     "url": "https://www.youtube.com/watch?v=azmMDIAkQ9s"
+    },
+    {
+     "titel": "🎄🎅🎁 What are Christmas crackers?",
+     "kanal": "BBC Learning English",
+     "url": "https://www.youtube.com/watch?v=aM_v8j9x4u8"
+    }
+   ]
+  },
+  {
+   "id": "e64",
+   "nr": 64,
+   "titel": "Schule in England",
+   "bereich": "Land und Leute",
+   "klasse": "6",
+   "satz": "Du vergleichst eine Schule in England mit deiner Schule, zum Beispiel Schuluniform und Schultag.",
+   "erklaerung": "In England tragen viele Kinder eine school uniform. Der Schultag geht oft bis etwa 15 Uhr, mit Mittagessen in der Schule. Die Schuljahre heißen year 7, year 8 und so weiter.",
+   "beispiele": [
+    "Pupils wear a school uniform with a tie.",
+    "They have lunch at school.",
+    "Year 7 is like Klasse 6 in Germany."
+   ],
+   "baut_auf": [
+    "e06"
+   ],
+   "quelle": "S. 9",
+   "suche": "Schule in England school uniform",
+   "videos": [
+    {
+     "titel": "School uniforms: 'I don't want any kid to feel embarrassed' | Newsround",
+     "kanal": "BBC Newsround",
+     "url": "https://www.youtube.com/watch?v=_AuZwXbpWiY"
+    }
+   ]
+  },
+  {
+   "id": "e65",
+   "nr": 65,
+   "titel": "Britisches und amerikanisches Englisch",
+   "bereich": "Land und Leute",
+   "klasse": "6",
+   "satz": "Du merkst, dass es verschiedene Wörter gibt, etwa biscuit und cookie oder flat und apartment.",
+   "erklaerung": "In Großbritannien und in den USA sagt man manche Dinge mit verschiedenen Wörtern. Auch die Schreibung ist manchmal anders: colour und color.",
+   "beispiele": [
+    "British: biscuit, American: cookie",
+    "British: flat, American: apartment",
+    "British: holiday, American: vacation"
+   ],
+   "baut_auf": [
+    "e61"
+   ],
+   "quelle": "S. 56",
+   "suche": "British American English Unterschiede",
+   "videos": [
+    {
+     "titel": "Wie unterscheiden sich American English und British English? | Einfach Englisch",
+     "kanal": "Einfach Englisch",
+     "url": "https://www.youtube.com/watch?v=3AAHeDvaqQU"
+    }
+   ]
+  },
+  {
+   "id": "e66",
+   "nr": 66,
+   "titel": "Vokabeln lernen",
+   "bereich": "Lerntricks",
+   "klasse": "5",
+   "satz": "Du probierst Tricks aus, wie du dir neue Wörter gut merkst, mit Karteikarten oder einer App.",
+   "erklaerung": "Vokabeln merkst du dir besser, wenn du sie oft und in kleinen Portionen wiederholst. Lerne Wörter mit einem Beispielsatz und sprich sie laut. Karteikarten oder eine Lernapp helfen dir, schwierige Wörter öfter zu üben.",
+   "beispiele": [
+    "Jeden Tag 10 Minuten statt einmal pro Woche eine Stunde.",
+    "Schreib auf die Karte: shelf, Regal, The books are on the shelf.",
+    "Kleb Zettel mit englischen Wörtern an Dinge in deinem Zimmer."
+   ],
+   "baut_auf": [],
+   "quelle": "S. 56",
+   "suche": "Vokabeln lernen Tipps",
+   "videos": [
+    {
+     "titel": "Wie du Vokabeln lernst und nicht mehr vergisst - einfach erklärt | Einfach Englisch",
+     "kanal": "Einfach Englisch",
+     "url": "https://www.youtube.com/watch?v=qKy5_MUjrv4"
+    },
+    {
+     "titel": "5 Tipps & Methoden zum Vokabeln lernen - Vokabeln richtig, entspannt & effektiv lernen",
+     "kanal": "Die Merkhilfe",
+     "url": "https://www.youtube.com/watch?v=gtBq2KYI_sE"
+    }
+   ]
+  },
+  {
+   "id": "e67",
+   "nr": 67,
+   "titel": "Im Wörterbuch nachschlagen",
+   "bereich": "Lerntricks",
+   "klasse": "5/6",
+   "satz": "Du findest Wörter im Wörterbuch oder Online-Wörterbuch und wählst die passende Bedeutung.",
+   "erklaerung": "Im Wörterbuch findest du ein Wort über das Alphabet. Oft hat ein Wort mehrere Bedeutungen, dann musst du die passende wählen. Online-Wörterbücher zeigen auch die Aussprache.",
+   "beispiele": [
+    "„Bank“ kann bank oder bench heißen. Welches passt?",
+    "Achte auf die Abkürzungen n (Nomen) und v (Verb).",
+    "Hör dir die Aussprache im Online-Wörterbuch an."
+   ],
+   "baut_auf": [],
+   "quelle": "S. 50, 59",
+   "suche": "Wörterbuch benutzen Englisch",
+   "videos": [
+    {
+     "titel": "Wörterbuch ✅ richtig benutzen | Erklärung und Übungen",
+     "kanal": "lernfoerderung",
+     "url": "https://www.youtube.com/watch?v=X3_-GKFqtL0"
+    }
+   ]
+  },
+  {
+   "id": "e68",
+   "nr": 68,
+   "titel": "Unbekannte Wörter erraten",
+   "bereich": "Lerntricks",
+   "klasse": "5/6",
+   "satz": "Du errätst die Bedeutung neuer Wörter mit Bildern, dem Zusammenhang oder weil sie ähnlich wie im Deutschen klingen.",
+   "erklaerung": "Viele englische Wörter sind mit deutschen verwandt: house, water, hand. Bilder und der Rest des Satzes verraten oft, was ein Wort heißt. Mit diesen Tricks musst du nicht bei jedem Wort nachschlagen.",
+   "beispiele": [
+    "garden, apple, mouse klingen fast wie im Deutschen.",
+    "The dog is barking loudly. Was macht ein Hund laut?",
+    "unhappy: un heißt nicht, also unglücklich."
+   ],
+   "baut_auf": [],
+   "quelle": "S. 42, 44",
+   "suche": "Wörter erschließen Englisch"
+  },
+  {
+   "id": "e69",
+   "nr": 69,
+   "titel": "Lesetricks: überfliegen und suchen",
+   "bereich": "Lerntricks",
+   "klasse": "6",
+   "satz": "Du überfliegst einen Text, um zu wissen, worum es geht, oder suchst gezielt nach einer Info.",
+   "erklaerung": "Beim Überfliegen (skimming) liest du nur Überschrift, Anfang und Bilder, um zu wissen, worum es geht. Beim Suchen (scanning) hüpfst du mit den Augen durch den Text, bis du eine bestimmte Info findest.",
+   "beispiele": [
+    "Skimming: Worum geht es in dem Text? Eine Minute Zeit.",
+    "Scanning: Wann wurde der Tower gebaut? Such nach einer Jahreszahl.",
+    "Markiere die Stelle, wo du die Antwort gefunden hast."
+   ],
+   "baut_auf": [
+    "e68"
+   ],
+   "quelle": "S. 44",
+   "suche": "skimming scanning Englisch",
+   "videos": [
+    {
+     "titel": "Skimming, Scanning & detailliertes Lesen - Unterschied einfach erklärt & Beispiele - Englisch Tipps",
+     "kanal": "Die Merkhilfe",
+     "url": "https://www.youtube.com/watch?v=UwBH_SvHMGU"
+    }
+   ]
+  },
+  {
+   "id": "e70",
+   "nr": 70,
+   "titel": "Umschreiben, wenn ein Wort fehlt",
+   "bereich": "Lerntricks",
+   "klasse": "6",
+   "satz": "Du erklärst ein Wort, das dir fehlt, mit anderen Wörtern: „It's a thing for …“",
+   "erklaerung": "Wenn dir ein Wort fehlt, beschreibst du es einfach. Sätze wie „It's a thing for …“ oder „It's like …“ helfen dir. Auch Zeigen und Gesten sind erlaubt.",
+   "beispiele": [
+    "It's a thing for cutting paper. (scissors)",
+    "It's a person who helps sick animals. (vet)",
+    "It's like a cake, but small. (muffin)"
+   ],
+   "baut_auf": [
+    "e18"
+   ],
+   "quelle": "S. 48, 50",
+   "suche": "umschreiben Englisch paraphrasing",
+   "videos": [
+    {
+     "titel": "How to paraphrase - Paraphrasieren in Englisch - Technik, Hintergründe & Anleitung einfach erklärt",
+     "kanal": "Die Merkhilfe",
+     "url": "https://www.youtube.com/watch?v=-mdc9Wx0ugk"
+    }
+   ]
+  },
+  {
+   "id": "e71",
+   "nr": 71,
+   "titel": "Englisch, Deutsch und Spanisch vergleichen",
+   "bereich": "Lerntricks",
+   "klasse": "6",
+   "satz": "Du entdeckst, was in den drei Sprachen gleich ist und was anders, und nutzt das beim Lernen.",
+   "erklaerung": "Englisch, Deutsch und Spanisch haben viele ähnliche Wörter, weil sie verwandt sind oder Wörter voneinander übernommen haben. Manche Wörter sehen gleich aus, bedeuten aber etwas anderes. Die heißen falsche Freunde.",
+   "beispiele": [
+    "Englisch: animal, Spanisch: animal, Deutsch: Tier",
+    "Englisch: chocolate, Spanisch: chocolate, Deutsch: Schokolade",
+    "Falscher Freund: become heißt werden, nicht bekommen."
+   ],
+   "baut_auf": [],
+   "quelle": "S. 48, 56",
+   "suche": "false friends Englisch Deutsch",
+   "videos": [
+    {
+     "titel": "20 typische FALSE FRIENDS | Wörter die oft verwechselt werden + Beispiele | Englisch verbessern",
+     "kanal": "Mr Kay Erklärt Englisch",
+     "url": "https://www.youtube.com/watch?v=H2gTVpboPG8"
+    }
+   ]
+  },
+  {
+   "id": "e72",
+   "nr": 72,
+   "titel": "Übersetzer und KI klug nutzen",
+   "bereich": "Lerntricks",
+   "klasse": "6",
+   "satz": "Du probierst aus, wann ein Übersetzer hilft und wann er Fehler macht.",
+   "erklaerung": "Übersetzer und KI können dir helfen, sie machen aber auch Fehler, vor allem bei Redewendungen. Übersetze lieber kurze Sätze und prüf das Ergebnis mit dem Wörterbuch. Für die Schule schreibst du deine Texte selbst.",
+   "beispiele": [
+    "Schreib „Ich verstehe nur Bahnhof“ in einen Übersetzer. Passt das Ergebnis?",
+    "Übersetze den Satz zurück ins Deutsche. Stimmt er noch?",
+    "Nutze den Übersetzer, um ein einzelnes Wort zu prüfen."
+   ],
+   "baut_auf": [
+    "e67"
+   ],
+   "quelle": "S. 57, 59",
+   "suche": "Übersetzer KI richtig nutzen Englisch"
+  },
+  {
+   "id": "e73",
+   "nr": 73,
+   "titel": "Hörtipps für englische Videos",
+   "bereich": "Hörverstehen",
+   "klasse": "5/6",
+   "satz": "Du verstehst Videos und Hörtexte besser, weil du weißt, worauf du achten musst, und nicht jedes Wort brauchst.",
+   "erklaerung": "Du musst nicht jedes Wort verstehen. Achte auf Bilder, Stimmen und Wörter, die sich wiederholen. Schau ein Video ruhig zweimal an, beim zweiten Mal verstehst du mehr. Englische Untertitel helfen beim Mitlesen.",
+   "beispiele": [
+    "Erst schauen: Wer spricht, wo sind sie, was passiert?",
+    "Untertitel: Zahnrad, Untertitel, Englisch.",
+    "Wenn YouTube eine deutsche Tonspur abspielt: Zahnrad, Audiotrack, Englisch."
+   ],
+   "baut_auf": [],
+   "quelle": "S. 41, 42",
+   "suche": "listening tips English"
+  },
+  {
+   "id": "e74",
+   "nr": 74,
+   "titel": "Peppa Wutz auf Englisch",
+   "bereich": "Hörverstehen",
+   "klasse": "5",
+   "satz": "Du schaust Peppa Pig im Original und verstehst schon viel, weil die Sätze kurz und klar sind.",
+   "erklaerung": "Peppa Pig spricht britisches Englisch, langsam und mit kurzen Sätzen. Die Geschichten sind einfach und du kennst viele vielleicht schon auf Deutsch. Das ist ein guter Anfang zum Englisch hören.",
+   "beispiele": [
+    "Achte auf Sätze, die oft vorkommen, zum Beispiel „Muddy puddles!“",
+    "Peppa sagt Mummy und Daddy, typisch britisch.",
+    "Probier eine Folge mit englischen Untertiteln."
+   ],
+   "baut_auf": [],
+   "quelle": "S. 41",
+   "suche": "Peppa Pig english",
+   "videos": [
+    {
+     "titel": "Peppa Pig Season 1 Episode 3 - Best Friend - Cartoons for Children",
+     "kanal": "George Pig - Official Channel",
+     "url": "https://www.youtube.com/watch?v=E2MPOr2g0zg"
+    },
+    {
+     "titel": "The LONGEST Water Slide EVER 💦 | Peppa Pig Official Full Episodes",
+     "kanal": "Peppa Pig - Official Channel",
+     "url": "https://www.youtube.com/watch?v=9qShcQMq1cA"
+    }
+   ]
+  },
+  {
+   "id": "e75",
+   "nr": 75,
+   "titel": "Bluey auf Englisch",
+   "bereich": "Hörverstehen",
+   "klasse": "5/6",
+   "satz": "Du schaust Bluey im Original und hörst dabei australisches Englisch.",
+   "erklaerung": "Bluey kommt aus Australien. Die Familie spricht australisches Englisch, das etwas anders klingt als britisches. Viele Folgen sind nur 7 Minuten lang, das ist gut zum Üben.",
+   "beispiele": [
+    "„G'day“ heißt in Australien Hallo.",
+    "Bluey sagt mum, nicht mom wie in Amerika.",
+    "Schau eine Folge zweimal: einmal zum Genießen, einmal genauer."
+   ],
+   "baut_auf": [],
+   "quelle": "S. 41",
+   "suche": "Bluey english episode",
+   "videos": [
+    {
+     "titel": "Letter 💙 📝 | FULL BLUEY MINISODE | Bluey",
+     "kanal": "Bluey - Official Channel",
+     "url": "https://www.youtube.com/watch?v=TU0-HHvUz7M"
+    },
+    {
+     "titel": "FULL EPISODES 💙 🖍️ Creating a Hotel with Bluey and Bingo ✨ | Bluey",
+     "kanal": "Bluey - Official Channel",
+     "url": "https://www.youtube.com/watch?v=mNt8QH-fyyY"
+    }
+   ]
+  },
+  {
+   "id": "e76",
+   "nr": 76,
+   "titel": "Doc McStuffins auf Englisch",
+   "bereich": "Hörverstehen",
+   "klasse": "5/6",
+   "satz": "Du schaust Doc McStuffins im Original und lernst Wörter rund um Körper und Gesundheit.",
+   "erklaerung": "Doc McStuffins spricht amerikanisches Englisch. Doc behandelt Spielzeuge, darum hörst du viele Wörter rund um Körper und Gesundheit. Viele Sätze wiederholen sich in jeder Folge.",
+   "beispiele": [
+    "„Time for your check-up!“",
+    "Wörter: doctor, hurt, arm, leg, better",
+    "Hör auf den Satz, mit dem Doc die Diagnose stellt."
+   ],
+   "baut_auf": [],
+   "quelle": "S. 41",
+   "suche": "Doc McStuffins english",
+   "videos": [
+    {
+     "titel": "The Doc is 10! | Doc McStuffins | Full Episode Special  | Disney Jr.",
+     "kanal": "Disney Jr.",
+     "url": "https://www.youtube.com/watch?v=Lh2nKp-t3NY"
+    },
+    {
+     "titel": "Pet Rescue | 30 Minute Compilation | Doc McStuffins | Disney Jr.",
+     "kanal": "Disney Jr.",
+     "url": "https://www.youtube.com/watch?v=FwjIctlLXgY"
+    }
+   ]
+  },
+  {
+   "id": "e77",
+   "nr": 77,
+   "titel": "Hilda auf Englisch",
+   "bereich": "Hörverstehen",
+   "klasse": "6",
+   "satz": "Du schaust Ausschnitte aus Hilda im Original und folgst einer spannenden Geschichte.",
+   "erklaerung": "Hilda ist ein Mädchen, das in einer Welt voller Trolle und Fabelwesen Abenteuer erlebt. Es wird britisches Englisch gesprochen, schneller als bei Peppa. Ganze Folgen gibt es nur bei Netflix, auf YouTube findest du offizielle Ausschnitte.",
+   "beispiele": [
+    "Wenn ihr Netflix habt: Sprache auf Englisch stellen.",
+    "Wörter: troll, giant, forest, adventure",
+    "Erst Ausschnitte schauen, dann eine ganze Folge."
+   ],
+   "baut_auf": [],
+   "quelle": "S. 41",
+   "suche": "Hilda Netflix",
+   "videos": [
+    {
+     "titel": "Hilda | Official Trailer [HD] | Netflix",
+     "kanal": "Netflix Family",
+     "url": "https://www.youtube.com/watch?v=XCojP2Ubuto"
+    },
+    {
+     "titel": "Collect Every Magical Creature from Hilda! 🦊✨ Netflix After School",
+     "kanal": "Netflix Family",
+     "url": "https://www.youtube.com/watch?v=p_XUp97vpkc"
+    }
+   ]
+  },
+  {
+   "id": "e78",
+   "nr": 78,
+   "titel": "Kurze Geschichten zum Zuhören",
+   "bereich": "Hörverstehen",
+   "klasse": "5",
+   "satz": "Du hörst kurze englische Geschichten mit Bildern und verstehst, was passiert.",
+   "erklaerung": "Die Geschichten von LearnEnglish Kids (British Council) sind extra für Kinder gemacht, die Englisch lernen. Sie dauern nur wenige Minuten und haben Bilder, die beim Verstehen helfen.",
+   "beispiele": [
+    "Hör erst nur zu und schau die Bilder an.",
+    "Dann noch einmal: Welche Wörter hast du erkannt?",
+    "Erzähl die Geschichte in drei Sätzen nach."
+   ],
+   "baut_auf": [],
+   "quelle": "S. 41, 44",
+   "suche": "LearnEnglish Kids stories",
+   "videos": [
+    {
+     "titel": "No dogs! - Kids Stories - LearnEnglish Kids British Council",
+     "kanal": "British Council | LearnEnglish Kids",
+     "url": "https://www.youtube.com/watch?v=a3P5bX8gGYI"
+    },
+    {
+     "titel": "Little Red Riding Hood - Kids Stories - LearnEnglish Kids British Council",
+     "kanal": "British Council | LearnEnglish Kids",
+     "url": "https://www.youtube.com/watch?v=GbzMC6qAzVU"
+    },
+    {
+     "titel": "My secret team - Kids Stories - LearnEnglish Kids British Council",
+     "kanal": "British Council | LearnEnglish Kids",
+     "url": "https://www.youtube.com/watch?v=Un4NWwcObRA"
+    }
+   ]
+  }
+ ]
+}

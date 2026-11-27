@@ -1,10 +1,10 @@
 "use strict";
 
-/* Fächer: Mathe und Deutsch sind fertig, die anderen folgen. */
+/* Fächer: Mathe, Deutsch und Englisch sind fertig, die anderen folgen. */
 const FAECHER = [
   { id: "mathe", name: "Mathe", sym: "🔢", farbe: "#3b7dd8", datei: "data/mathe.json" },
   { id: "deutsch", name: "Deutsch", sym: "📖", farbe: "#d0533f", datei: "data/deutsch.json" },
-  { id: "englisch", name: "Englisch", sym: "🇬🇧", farbe: "#7a5bd6" },
+  { id: "englisch", name: "Englisch", sym: "🇬🇧", farbe: "#7a5bd6", datei: "data/englisch.json" },
   { id: "spanisch", name: "Spanisch", sym: "🇪🇸", farbe: "#e2a316" },
   { id: "nawi", name: "NaWi", sym: "🔬", farbe: "#2e9e5b" },
   { id: "gl", name: "Gesellschaftslehre", sym: "🌍", farbe: "#2a9bb0" },
@@ -56,7 +56,7 @@ async function ladeFach(id) {
   const json = await res.json();
   const byId = {};
   const dependents = {};
-  json.themen.forEach(t => { byId[t.id] = t; dependents[t.id] = []; });
+  json.themen.forEach(t => { byId[t.id] = t; dependents[t.id] = []; t.fach = id; });
   json.themen.forEach(t => t.baut_auf.forEach(p => { if (dependents[p]) dependents[p].push(t.id); }));
   const stufen = {};
   const stufe = (tid, seen = new Set()) => {
@@ -94,17 +94,20 @@ function marker(fach, t, gross = false) {
 }
 const klasseText = k => k === "ab 7" ? "oft ab Klasse 7" : `oft in Klasse ${k}`;
 
+// Kanäle für die Suchlinks, wenn ein Thema noch keine fest ausgewählten Videos hat
+const SUCHKANAELE = {
+  standard: ["Lehrerschmidt", "einfach Schule", "Die Merkhilfe"],
+  englisch: ["Einfach Englisch", "BBC Learning English", "Mr Kay Erklärt Englisch"]
+};
+
 function videoLinks(t) {
   // Bevorzugt fest ausgewählte Videos; Suchlinks nur, wenn ein Thema noch keine hat
   if (t.videos && t.videos.length) {
     return t.videos.map(v => ({ titel: v.titel, kanal: v.kanal, url: v.url }));
   }
   const q = encodeURIComponent;
-  return [
-    { titel: "Suche bei Lehrerschmidt", url: `https://www.youtube.com/results?search_query=${q("Lehrerschmidt " + t.suche)}` },
-    { titel: "Suche bei einfach Schule", url: `https://www.youtube.com/results?search_query=${q("einfach Schule " + t.suche)}` },
-    { titel: "Suche bei Die Merkhilfe", url: `https://www.youtube.com/results?search_query=${q("Die Merkhilfe " + t.suche)}` }
-  ];
+  const kanaele = SUCHKANAELE[t.fach] || SUCHKANAELE.standard;
+  return kanaele.map(k => ({ titel: `Suche bei ${k}`, url: `https://www.youtube.com/results?search_query=${q(k + " " + t.suche)}` }));
 }
 
 /* ---------- Sheet ---------- */
