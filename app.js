@@ -95,11 +95,15 @@ function marker(fach, t, gross = false) {
 const klasseText = k => k === "ab 7" ? "oft ab Klasse 7" : `oft in Klasse ${k}`;
 
 function videoLinks(t) {
+  // Bevorzugt fest ausgewählte Videos; Suchlinks nur, wenn ein Thema noch keine hat
+  if (t.videos && t.videos.length) {
+    return t.videos.map(v => ({ titel: v.titel, kanal: v.kanal, url: v.url }));
+  }
   const q = encodeURIComponent;
   return [
-    { titel: "Lehrerschmidt", url: `https://www.youtube.com/results?search_query=${q("Lehrerschmidt " + t.suche)}` },
-    { titel: "einfach Schule", url: `https://www.youtube.com/results?search_query=${q("einfach Schule " + t.suche)}` },
-    { titel: "Die Merkhilfe", url: `https://www.youtube.com/results?search_query=${q("Die Merkhilfe " + t.suche)}` }
+    { titel: "Suche bei Lehrerschmidt", url: `https://www.youtube.com/results?search_query=${q("Lehrerschmidt " + t.suche)}` },
+    { titel: "Suche bei einfach Schule", url: `https://www.youtube.com/results?search_query=${q("einfach Schule " + t.suche)}` },
+    { titel: "Suche bei Die Merkhilfe", url: `https://www.youtube.com/results?search_query=${q("Die Merkhilfe " + t.suche)}` }
   ];
 }
 
@@ -248,7 +252,7 @@ async function seiteThema(fid, tid) {
     <h2>Kurz erklärt</h2><p>${esc(t.erklaerung)}</p>
     <h2>Beispiele</h2><ul class="ex">${t.beispiele.map(b => `<li>${esc(b)}</li>`).join("")}</ul>
     <h2>Videos</h2>
-    <div class="links videos">${videoLinks(t).map(v => `<a href="${v.url}" target="_blank" rel="noopener">${esc(v.titel)} auf YouTube</a>`).join("")}</div>
+    <div class="links videos">${videoLinks(t).map(v => `<a href="${esc(v.url)}" target="_blank" rel="noopener">${esc(v.titel)}${v.kanal ? ` <span class="muted">(${esc(v.kanal)})</span>` : " auf YouTube"}</a>`).join("")}</div>
     ${vor.length ? `<h2>Baut auf</h2><div class="links">${vor.map(link).join("")}</div>` : ""}
     ${nach.length ? `<h2>Darauf baut auf</h2><div class="links">${nach.map(link).join("")}</div>` : ""}
     <p class="source">Quelle: ${esc(fach.quelle)}, ${esc(t.quelle)}</p>

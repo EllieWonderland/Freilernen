@@ -19,7 +19,10 @@
         "Auf dem Zahlenstrahl liegt 2 500 000 genau in der Mitte zwischen 2 Millionen und 3 Millionen.",
         "Welche Zahl ist größer, 908 765 oder 1 002 000? Die zweite, denn sie hat mehr Stellen."
       ],
-      "baut_auf": [], "quelle": "S. 41, 45", "suche": "große Zahlen Stellenwerttafel Klasse 5"
+      "baut_auf": [], "quelle": "S. 41, 45", "suche": "große Zahlen Stellenwerttafel Klasse 5",
+      "videos": [
+        {"titel": "Stellenwerttafel: große Zahlen lesen und schreiben", "kanal": "Lehrerschmidt", "url": "https://www.youtube.com/watch?v=KxAdX5eGnYI"}
+      ]
     },
     {
       "id": "m02", "nr": 2, "titel": "Runden und Überschlagen", "bereich": "Zahlen und Rechnen", "klasse": "5/6",
@@ -30,7 +33,11 @@
         "Überschlag: 49 · 21 ist ungefähr 50 · 20 = 1 000.",
         "Wenn du für 98 · 3 genau 2 940 herausbekommst, zeigt der Überschlag 100 · 3 = 300, dass etwas nicht stimmt."
       ],
-      "baut_auf": ["m01"], "quelle": "S. 27, 41", "suche": "runden überschlagen Klasse 5"
+      "baut_auf": ["m01"], "quelle": "S. 27, 41", "suche": "runden überschlagen Klasse 5",
+      "videos": [
+        {"titel": "Überschlagrechnung", "kanal": "Lehrerschmidt", "url": "https://www.youtube.com/watch?v=vPqvDAPOytI"},
+        {"titel": "Runden mit ganzen Zahlen", "kanal": "MatheMind", "url": "https://www.youtube.com/watch?v=cY3EN291mNs"}
+      ]
     },
     {
       "id": "m03", "nr": 3, "titel": "Schriftlich rechnen", "bereich": "Zahlen und Rechnen", "klasse": "5/6",
@@ -41,7 +48,12 @@
         "512 · 34 = 17 408",
         "1 248 : 12 = 104"
       ],
-      "baut_auf": ["m01"], "quelle": "S. 27, 41", "suche": "schriftlich dividieren zweistellig"
+      "baut_auf": ["m01"], "quelle": "S. 27, 41", "suche": "schriftlich dividieren zweistellig",
+      "videos": [
+        {"titel": "Schriftliches Subtrahieren (Ergänzungsverfahren)", "kanal": "Lehrerschmidt", "url": "https://www.youtube.com/watch?v=U7H76rpe1p8"},
+        {"titel": "Schriftliches Multiplizieren", "kanal": "Lehrerschmidt", "url": "https://www.youtube.com/watch?v=MZQSGKKCioU"},
+        {"titel": "Schriftliches Dividieren", "kanal": "Lehrerschmidt", "url": "https://www.youtube.com/watch?v=2A-9_-GCXrA"}
+      ]
     },
     {
       "id": "m04", "nr": 4, "titel": "Sachaufgaben lösen", "bereich": "Zahlen und Rechnen", "klasse": "5/6",
@@ -51,7 +63,10 @@
         "Eine Klasse hat 28 Kinder. Jedes Kind zahlt 6 € für den Ausflug. Gesucht: 28 · 6 € = 168 €.",
         "96 Bonbons werden an 8 Kinder verteilt. Jedes Kind bekommt 96 : 8 = 12 Bonbons."
       ],
-      "baut_auf": ["m03"], "quelle": "S. 27, 41", "suche": "Sachaufgaben lösen Klasse 5"
+      "baut_auf": ["m03"], "quelle": "S. 27, 41", "suche": "Sachaufgaben lösen Klasse 5",
+      "videos": [
+        {"titel": "Textaufgaben berechnen", "kanal": "Lehrerschmidt", "url": "https://www.youtube.com/watch?v=x3PsPgt_bvs"}
+      ]
     },
     {
       "id": "m05", "nr": 5, "titel": "Geschickt rechnen", "bereich": "Zahlen und Rechnen", "klasse": "5/6",
@@ -62,7 +77,11 @@
         "4 · 37 · 25 = 4 · 25 · 37 = 100 · 37 = 3 700",
         "6 · 99 = 6 · 100 − 6 = 594"
       ],
-      "baut_auf": ["m03"], "quelle": "S. 27, 41", "suche": "Rechengesetze Kommutativgesetz Assoziativgesetz Klasse 5"
+      "baut_auf": ["m03"], "quelle": "S. 27, 41", "suche": "Rechengesetze Kommutativgesetz Assoziativgesetz Klasse 5",
+      "videos": [
+        {"titel": "Rechengesetze: Kommutativ, Assoziativ, Distributiv", "kanal": "Lehrerschmidt", "url": "https://www.youtube.com/watch?v=HFdZrZKxKl0"},
+        {"titel": "Grundrechenarten und Rechengesetze", "kanal": "Die Merkhilfe", "url": "https://www.youtube.com/watch?v=9dK663s0_Gs"}
+      ]
     },
     {
       "id": "m06", "nr": 6, "titel": "Potenzen", "bereich": "Zahlen und Rechnen", "klasse": "5",
@@ -73,7 +92,11 @@
         "10⁴ = 10 000",
         "5² = 25, man sagt auch: fünf zum Quadrat."
       ],
-      "baut_auf": ["m03"], "quelle": "S. 27, 41", "suche": "Potenzen Klasse 5"
+      "baut_auf": ["m03"], "quelle": "S. 27, 41", "suche": "Potenzen Klasse 5",
+      "videos": [
+        {"titel": "Was ist eine Potenz?", "kanal": "einfach Schule", "url": "https://www.youtube.com/watch?v=VuRSvkPHudU"},
+        {"titel": "Potenz als Produkt schreiben", "kanal": "Lehrerschmidt", "url": "https://www.youtube.com/watch?v=Ws4YNO3hNvc"}
+      ]
     },
     {
       "id": "m07", "nr": 7, "titel": "Teiler und Vielfache", "bereich": "Zahlen und Rechnen", "klasse": "5",
@@ -84,7 +107,11 @@
         "Die ersten Vielfachen von 7 sind 7, 14, 21, 28.",
         "471 ist durch 3 teilbar, denn 4 + 7 + 1 = 12."
       ],
-      "baut_auf": ["m03"], "quelle": "S. 27, 41", "suche": "Teiler Vielfache Teilbarkeitsregeln"
+      "baut_auf": ["m03"], "quelle": "S. 27, 41", "suche": "Teiler Vielfache Teilbarkeitsregeln",
+      "videos": [
+        {"titel": "Teilbarkeitsregeln: Wann ist eine Zahl teilbar?", "kanal": "Lehrerschmidt", "url": "https://www.youtube.com/watch?v=COe6sDmcFEo"},
+        {"titel": "Kleinstes gemeinsames Vielfaches", "kanal": "Lehrerschmidt", "url": "https://www.youtube.com/watch?v=tGDCF575v2o"}
+      ]
     },
     {
       "id": "m08", "nr": 8, "titel": "Rechenausdrücke", "bereich": "Zahlen und Rechnen", "klasse": "6",
@@ -94,7 +121,11 @@
         "Drei Hefte zu je 2,50 € und ein Stift für 4 €: 3 · 2,50 € + 4 € = 11,50 €.",
         "Zu (20 − 5) : 3 passt: 20 Äpfel, 5 werden gegessen, der Rest wird auf 3 Körbe verteilt."
       ],
-      "baut_auf": ["m04", "m05"], "quelle": "S. 28, 45", "suche": "Terme aufstellen Klasse 6"
+      "baut_auf": ["m04", "m05"], "quelle": "S. 28, 45", "suche": "Terme aufstellen Klasse 6",
+      "videos": [
+        {"titel": "Terme: Was ist das?", "kanal": "Lehrerschmidt", "url": "https://www.youtube.com/watch?v=HIfIpLay8BM"},
+        {"titel": "Terme berechnen", "kanal": "Lehrerschmidt", "url": "https://www.youtube.com/watch?v=pOMQNP5S8IE"}
+      ]
     },
     {
       "id": "m09", "nr": 9, "titel": "Platzhalter", "bereich": "Zahlen und Rechnen", "klasse": "5/6",
@@ -105,7 +136,11 @@
         "□ · 6 = 42, also ist □ = 7.",
         "Umfang eines Quadrats: U = 4 · □, wobei □ die Seitenlänge ist."
       ],
-      "baut_auf": ["m08"], "quelle": "S. 28, 41, 45", "suche": "Platzhalteraufgaben"
+      "baut_auf": ["m08"], "quelle": "S. 28, 41, 45", "suche": "Platzhalteraufgaben",
+      "videos": [
+        {"titel": "Platzhalteraufgaben zur Addition", "kanal": "einfach Schule", "url": "https://www.youtube.com/watch?v=DCOr4q3pKNg"},
+        {"titel": "Platzhalteraufgaben zur Subtraktion", "kanal": "einfach Schule", "url": "https://www.youtube.com/watch?v=wXsCFwyNlu0"}
+      ]
     },
     {
       "id": "m10", "nr": 10, "titel": "Brüche als Anteile", "bereich": "Brüche und Dezimalzahlen", "klasse": "5",
@@ -116,7 +151,11 @@
         "½ von 20 Gummibärchen sind 10 Gummibärchen.",
         "⅓ einer Stunde sind 20 Minuten."
       ],
-      "baut_auf": [], "quelle": "S. 29, 43", "suche": "Brüche Anteile Klasse 5"
+      "baut_auf": [], "quelle": "S. 29, 43", "suche": "Brüche Anteile Klasse 5",
+      "videos": [
+        {"titel": "Bruchrechnen ganz einfach erklärt", "kanal": "Lehrerschmidt", "url": "https://www.youtube.com/watch?v=2MvyITxrU-g"},
+        {"titel": "Bruchteile von Brüchen oder ganzen Zahlen berechnen", "kanal": "Lehrerschmidt", "url": "https://www.youtube.com/watch?v=-48NU9ifMOQ"}
+      ]
     },
     {
       "id": "m11", "nr": 11, "titel": "Brüche vergleichen", "bereich": "Brüche und Dezimalzahlen", "klasse": "5/6",
@@ -127,7 +166,11 @@
         "⅓ ist größer als ⅕, denn Drittel sind größere Stücke als Fünftel.",
         "Auf dem Zahlenstrahl liegt ½ genau in der Mitte zwischen 0 und 1."
       ],
-      "baut_auf": ["m10"], "quelle": "S. 29", "suche": "Brüche vergleichen"
+      "baut_auf": ["m10"], "quelle": "S. 29", "suche": "Brüche vergleichen",
+      "videos": [
+        {"titel": "Brüche vergleichen", "kanal": "Lehrerschmidt", "url": "https://www.youtube.com/watch?v=5o9bf4G8SkI"},
+        {"titel": "Brüche vergleichen mit dem Schmetterlingstrick", "kanal": "einfach Schule", "url": "https://www.youtube.com/watch?v=rIlygKwMYeg"}
+      ]
     },
     {
       "id": "m12", "nr": 12, "titel": "Erweitern und Kürzen", "bereich": "Brüche und Dezimalzahlen", "klasse": "6",
@@ -138,7 +181,11 @@
         "6/8 mit 2 gekürzt ergibt ¾.",
         "Um ⅔ und ¾ zu vergleichen, erweiterst du beide auf Zwölftel: 8/12 und 9/12."
       ],
-      "baut_auf": ["m10", "m07"], "quelle": "S. 29, 43", "suche": "Brüche erweitern kürzen"
+      "baut_auf": ["m10", "m07"], "quelle": "S. 29, 43", "suche": "Brüche erweitern kürzen",
+      "videos": [
+        {"titel": "Brüche erweitern und kürzen", "kanal": "Lehrerschmidt", "url": "https://www.youtube.com/watch?v=GpTK8NbM_m0"},
+        {"titel": "Brüche erweitern an 4 Beispielen", "kanal": "einfach Schule", "url": "https://www.youtube.com/watch?v=17GNgIp_f1U"}
+      ]
     },
     {
       "id": "m13", "nr": 13, "titel": "Brüche addieren und subtrahieren", "bereich": "Brüche und Dezimalzahlen", "klasse": "6",
@@ -149,7 +196,12 @@
         "½ + ⅓ = 3/6 + 2/6 = 5/6",
         "¾ − ½ = ¾ − 2/4 = ¼"
       ],
-      "baut_auf": ["m12"], "quelle": "S. 29, 48", "suche": "Brüche addieren subtrahieren ungleichnamig"
+      "baut_auf": ["m12"], "quelle": "S. 29, 48", "suche": "Brüche addieren subtrahieren ungleichnamig",
+      "videos": [
+        {"titel": "Brüche addieren mit gleichem Nenner", "kanal": "Lehrerschmidt", "url": "https://www.youtube.com/watch?v=1CixUUzrk4Q"},
+        {"titel": "Brüche addieren mit unterschiedlichen Nennern", "kanal": "Lehrerschmidt", "url": "https://www.youtube.com/watch?v=ZJapyjjAW8Q"},
+        {"titel": "Brüche subtrahieren", "kanal": "Lehrerschmidt", "url": "https://www.youtube.com/watch?v=2DG_yfjt8aQ"}
+      ]
     },
     {
       "id": "m14", "nr": 14, "titel": "Dezimalzahlen", "bereich": "Brüche und Dezimalzahlen", "klasse": "6",
@@ -160,7 +212,11 @@
         "¾ = 75/100 = 0,75",
         "In der Stellenwerttafel steht bei 3,25 die 2 bei den Zehnteln und die 5 bei den Hundertsteln."
       ],
-      "baut_auf": ["m12"], "quelle": "S. 29, 45", "suche": "Dezimalzahlen Brüche umwandeln Klasse 6"
+      "baut_auf": ["m12"], "quelle": "S. 29, 45", "suche": "Dezimalzahlen Brüche umwandeln Klasse 6",
+      "videos": [
+        {"titel": "Bruch in Dezimalzahl umwandeln", "kanal": "Lehrerschmidt", "url": "https://www.youtube.com/watch?v=OvGIKPSjbaE"},
+        {"titel": "Kommazahl in einen Bruch umwandeln", "kanal": "Lehrerschmidt", "url": "https://www.youtube.com/watch?v=9x21-I_JEsk"}
+      ]
     },
     {
       "id": "m15", "nr": 15, "titel": "Mit Dezimalzahlen rechnen", "bereich": "Brüche und Dezimalzahlen", "klasse": "6",
@@ -171,7 +227,12 @@
         "1,2 · 0,3 = 0,36",
         "4,8 : 2 = 2,4"
       ],
-      "baut_auf": ["m14", "m03"], "quelle": "S. 29, 45", "suche": "Dezimalzahlen multiplizieren dividieren Klasse 6"
+      "baut_auf": ["m14", "m03"], "quelle": "S. 29, 45", "suche": "Dezimalzahlen multiplizieren dividieren Klasse 6",
+      "videos": [
+        {"titel": "Dezimalbrüche addieren", "kanal": "Lehrerschmidt", "url": "https://www.youtube.com/watch?v=FZJ6kX1JqEk"},
+        {"titel": "Multiplizieren mit Kommazahlen", "kanal": "Lehrerschmidt", "url": "https://www.youtube.com/watch?v=3rjD1HkbZKg"},
+        {"titel": "Dezimalbruch dividieren", "kanal": "Lehrerschmidt", "url": "https://www.youtube.com/watch?v=4IosoF-ldMs"}
+      ]
     },
     {
       "id": "m34", "nr": 34, "titel": "Prozent als Bruch", "bereich": "Brüche und Dezimalzahlen", "klasse": "5",
@@ -182,7 +243,11 @@
         "Der Akku zeigt 25 %: Ein Viertel ist noch übrig.",
         "50 % Rabatt auf eine Jacke für 40 € heißt: Sie kostet nur noch 20 €."
       ],
-      "baut_auf": ["m10"], "quelle": "S. 29, 43", "suche": "Prozent als Bruch Grundvorstellung"
+      "baut_auf": ["m10"], "quelle": "S. 29, 43", "suche": "Prozent als Bruch Grundvorstellung",
+      "videos": [
+        {"titel": "Brüche in Prozente umwandeln", "kanal": "Lehrerschmidt", "url": "https://www.youtube.com/watch?v=FbSG_MwL760"},
+        {"titel": "Prozente im Kopf mit glatten Zahlen", "kanal": "Lehrerschmidt", "url": "https://www.youtube.com/watch?v=8GLO5ZH2yHo"}
+      ]
     },
     {
       "id": "m16", "nr": 16, "titel": "Einheiten umrechnen", "bereich": "Größen, Flächen und Körper", "klasse": "5",
@@ -193,7 +258,12 @@
         "1 kg = 1000 g",
         "90 Minuten = 1 Stunde 30 Minuten"
       ],
-      "baut_auf": [], "quelle": "S. 30, 41", "suche": "Größen Einheiten umrechnen Klasse 5"
+      "baut_auf": [], "quelle": "S. 30, 41", "suche": "Größen Einheiten umrechnen Klasse 5",
+      "videos": [
+        {"titel": "Längen umrechnen: km, m, dm, cm, mm", "kanal": "Lehrerschmidt", "url": "https://www.youtube.com/watch?v=iRh4wA6TVy4"},
+        {"titel": "Gewichte umrechnen: t, kg, g, mg", "kanal": "Lehrerschmidt", "url": "https://www.youtube.com/watch?v=fxD5937olmU"},
+        {"titel": "Zeiten umrechnen: Jahr, Tag, Stunde, Minute", "kanal": "Lehrerschmidt", "url": "https://www.youtube.com/watch?v=wDnvjW-sDLc"}
+      ]
     },
     {
       "id": "m17", "nr": 17, "titel": "Schätzen und Messen", "bereich": "Größen, Flächen und Körper", "klasse": "5/6",
@@ -214,7 +284,10 @@
         "Rechteck 5 cm lang und 3 cm breit: Umfang 16 cm, Fläche 15 cm².",
         "Ein L-förmiges Zimmer zerlegst du in zwei Rechtecke und addierst ihre Flächen."
       ],
-      "baut_auf": ["m16"], "quelle": "S. 31, 50", "suche": "Umfang Flächeninhalt Rechteck Klasse 6"
+      "baut_auf": ["m16"], "quelle": "S. 31, 50", "suche": "Umfang Flächeninhalt Rechteck Klasse 6",
+      "videos": [
+        {"titel": "Rechteck: Flächeninhalt und Umfang", "kanal": "Lehrerschmidt", "url": "https://www.youtube.com/watch?v=aWWf6E9-jmQ"}
+      ]
     },
     {
       "id": "m19", "nr": 19, "titel": "Oberfläche und Volumen", "bereich": "Größen, Flächen und Körper", "klasse": "6",
@@ -225,7 +298,11 @@
         "Oberfläche desselben Quaders: 2 · (4 · 3 + 4 · 2 + 3 · 2) = 52 cm².",
         "1 Liter = 1 dm³ = 1000 cm³"
       ],
-      "baut_auf": ["m18", "m24"], "quelle": "S. 31, 50", "suche": "Oberfläche Volumen Quader Klasse 6"
+      "baut_auf": ["m18", "m24"], "quelle": "S. 31, 50", "suche": "Oberfläche Volumen Quader Klasse 6",
+      "videos": [
+        {"titel": "Quader: Volumen berechnen", "kanal": "Lehrerschmidt", "url": "https://www.youtube.com/watch?v=yCORC007Ytc"},
+        {"titel": "Quader: Oberfläche berechnen", "kanal": "Lehrerschmidt", "url": "https://www.youtube.com/watch?v=G4AsydQwZPE"}
+      ]
     },
     {
       "id": "m35", "nr": 35, "titel": "Maßstab", "bereich": "Größen, Flächen und Körper", "klasse": "6",
@@ -236,7 +313,11 @@
         "Auf einer Wanderkarte 1 : 25 000 ist 1 cm in Wirklichkeit 250 m.",
         "Zeichne dein Zimmer im Maßstab 1 : 50."
       ],
-      "baut_auf": ["m16", "m03"], "quelle": "S. 29, 30, 50", "suche": "Maßstab berechnen Klasse 6"
+      "baut_auf": ["m16", "m03"], "quelle": "S. 29, 30, 50", "suche": "Maßstab berechnen Klasse 6",
+      "videos": [
+        {"titel": "Maßstab berechnen und umrechnen", "kanal": "Lehrerschmidt", "url": "https://www.youtube.com/watch?v=GisW8YDnD4s"},
+        {"titel": "Maßstab berechnen", "kanal": "einfach Schule", "url": "https://www.youtube.com/watch?v=wv7KdytgylQ"}
+      ]
     },
     {
       "id": "m20", "nr": 20, "titel": "Grundbegriffe", "bereich": "Geometrie", "klasse": "5/6",
@@ -247,7 +328,12 @@
         "Die Kanten einer Buchseite stehen senkrecht aufeinander.",
         "Mit dem Geodreieck kannst du senkrechte und parallele Linien zeichnen."
       ],
-      "baut_auf": [], "quelle": "S. 32", "suche": "parallel senkrecht Geodreieck Klasse 5"
+      "baut_auf": [], "quelle": "S. 32", "suche": "parallel senkrecht Geodreieck Klasse 5",
+      "videos": [
+        {"titel": "Parallel und senkrecht", "kanal": "Lehrerschmidt", "url": "https://www.youtube.com/watch?v=34QpZUi54UU"},
+        {"titel": "Strecke, Gerade, Strahl", "kanal": "Lehrerschmidt", "url": "https://www.youtube.com/watch?v=AOQzgW7OjdE"},
+        {"titel": "Geodreieck richtig benutzen", "kanal": "Lehrerschmidt", "url": "https://www.youtube.com/watch?v=lIS03WYDC5U"}
+      ]
     },
     {
       "id": "m21", "nr": 21, "titel": "Koordinatensystem", "bereich": "Geometrie", "klasse": "5/6",
@@ -257,7 +343,11 @@
         "Der Punkt A(3|2) liegt 3 nach rechts und 2 nach oben.",
         "Verbinde A(1|1), B(5|1) und C(3|4) zu einem Dreieck."
       ],
-      "baut_auf": ["m20"], "quelle": "S. 32", "suche": "Koordinatensystem Punkte eintragen Klasse 5"
+      "baut_auf": ["m20"], "quelle": "S. 32", "suche": "Koordinatensystem Punkte eintragen Klasse 5",
+      "videos": [
+        {"titel": "Koordinatensystem: Punkt einzeichnen und ablesen", "kanal": "Lehrerschmidt", "url": "https://www.youtube.com/watch?v=NAaR4nL0Joo"},
+        {"titel": "Koordinatensystem: Punkt (x|y) eintragen", "kanal": "Lehrerschmidt", "url": "https://www.youtube.com/watch?v=LcImU4dohqs"}
+      ]
     },
     {
       "id": "m22", "nr": 22, "titel": "Winkel", "bereich": "Geometrie", "klasse": "6",
@@ -268,7 +358,11 @@
         "Die Zeiger einer Uhr um 2 Uhr bilden einen spitzen Winkel von 60°.",
         "Mit dem Geodreieck misst du Winkel, indem du den Nullpunkt genau auf den Scheitel legst."
       ],
-      "baut_auf": ["m20"], "quelle": "S. 30, 32, 46", "suche": "Winkel messen zeichnen Geodreieck"
+      "baut_auf": ["m20"], "quelle": "S. 30, 32, 46", "suche": "Winkel messen zeichnen Geodreieck",
+      "videos": [
+        {"titel": "Winkel messen und zeichnen", "kanal": "Lehrerschmidt", "url": "https://www.youtube.com/watch?v=uLB-FehRJGU"},
+        {"titel": "Überstumpfe Winkel messen", "kanal": "einfach Schule", "url": "https://www.youtube.com/watch?v=Iqn5RRVsBAQ"}
+      ]
     },
     {
       "id": "m23", "nr": 23, "titel": "Figuren und Körper", "bereich": "Geometrie", "klasse": "5/6",
@@ -279,7 +373,11 @@
         "Eine Konservendose ist ein Zylinder.",
         "Ein Schuhkarton ist ein Quader."
       ],
-      "baut_auf": ["m20"], "quelle": "S. 32", "suche": "geometrische Körper Ecken Kanten Flächen"
+      "baut_auf": ["m20"], "quelle": "S. 32", "suche": "geometrische Körper Ecken Kanten Flächen",
+      "videos": [
+        {"titel": "Geometrische Körper: eine Übersicht", "kanal": "Lehrerschmidt", "url": "https://www.youtube.com/watch?v=OjL6ZEK7sC8"},
+        {"titel": "Eigenschaften geometrischer Körper - mit Test", "kanal": "Lehrerschmidt", "url": "https://www.youtube.com/watch?v=gYqXN0JPp1w"}
+      ]
     },
     {
       "id": "m24", "nr": 24, "titel": "Schrägbilder und Netze", "bereich": "Geometrie", "klasse": "5/6",
@@ -289,7 +387,12 @@
         "Beim Schrägbild eines Würfels zeichnest du die nach hinten laufenden Kanten schräg und halb so lang.",
         "Ein Würfelnetz in Kreuzform lässt sich falten, sechs Quadrate in einer Reihe nicht."
       ],
-      "baut_auf": ["m23"], "quelle": "S. 33", "suche": "Würfelnetz Schrägbild Quader"
+      "baut_auf": ["m23"], "quelle": "S. 33", "suche": "Würfelnetz Schrägbild Quader",
+      "videos": [
+        {"titel": "Quader: Schrägbild erstellen", "kanal": "Lehrerschmidt", "url": "https://www.youtube.com/watch?v=G-NbCY8YfWQ"},
+        {"titel": "Quader: Körpernetz erstellen", "kanal": "Lehrerschmidt", "url": "https://www.youtube.com/watch?v=5oIGcsi-wIE"},
+        {"titel": "Würfel: Körpernetz erstellen", "kanal": "Lehrerschmidt", "url": "https://www.youtube.com/watch?v=_8qTI8Mi9_8"}
+      ]
     },
     {
       "id": "m25", "nr": 25, "titel": "Achsensymmetrie", "bereich": "Geometrie", "klasse": "5",
@@ -300,7 +403,11 @@
         "Ein Quadrat hat vier Symmetrieachsen.",
         "Der Buchstabe A ist achsensymmetrisch, der Buchstabe F nicht."
       ],
-      "baut_auf": [], "quelle": "S. 32, 44", "suche": "Achsensymmetrie Symmetrieachse Klasse 5"
+      "baut_auf": [], "quelle": "S. 32, 44", "suche": "Achsensymmetrie Symmetrieachse Klasse 5",
+      "videos": [
+        {"titel": "Achsensymmetrie: Spiegelachsen einzeichnen", "kanal": "Lehrerschmidt", "url": "https://www.youtube.com/watch?v=n6jIIZMc0hI"},
+        {"titel": "Spiegelachse finden", "kanal": "einfach Schule", "url": "https://www.youtube.com/watch?v=0DyOk_6axKg"}
+      ]
     },
     {
       "id": "m26", "nr": 26, "titel": "Spiegeln, Drehen, Verschieben", "bereich": "Geometrie", "klasse": "5/6",
@@ -311,7 +418,12 @@
         "Ein Windrad entsteht, wenn du einen Flügel dreimal um 90° drehst.",
         "Ein Parkettmuster entsteht durch Verschieben."
       ],
-      "baut_auf": ["m25"], "quelle": "S. 32", "suche": "spiegeln drehen verschieben Figuren"
+      "baut_auf": ["m25"], "quelle": "S. 32", "suche": "spiegeln drehen verschieben Figuren",
+      "videos": [
+        {"titel": "Achsenspiegelung mit Zirkel und Geodreieck", "kanal": "Lehrerschmidt", "url": "https://www.youtube.com/watch?v=pej1BH3i6Yw"},
+        {"titel": "Drehung um einen Punkt Z", "kanal": "einfach Schule", "url": "https://www.youtube.com/watch?v=nd_SmAur7xg"},
+        {"titel": "Figuren verschieben", "kanal": "Lehrerschmidt", "url": "https://www.youtube.com/watch?v=kIDIUO5zDGc"}
+      ]
     },
     {
       "id": "m27", "nr": 27, "titel": "Kreis und symmetrische Figuren", "bereich": "Geometrie", "klasse": "6",
@@ -321,7 +433,11 @@
         "Radius 3 cm heißt: Durchmesser 6 cm.",
         "Zeichnest du sechs Kreise mit gleichem Radius um die Punkte eines Kreises, entsteht eine Blüte."
       ],
-      "baut_auf": ["m25", "m20"], "quelle": "S. 49", "suche": "Kreis zeichnen Zirkel Radius Durchmesser"
+      "baut_auf": ["m25", "m20"], "quelle": "S. 49", "suche": "Kreis zeichnen Zirkel Radius Durchmesser",
+      "videos": [
+        {"titel": "Kreis: Radius, Durchmesser, Kreislinie", "kanal": "Lehrerschmidt", "url": "https://www.youtube.com/watch?v=9m4k4O2Vi2Y"},
+        {"titel": "Kreis mit dem Zirkel zeichnen", "kanal": "Lehrerschmidt", "url": "https://www.youtube.com/watch?v=qcaj6sxGD78"}
+      ]
     },
     {
       "id": "m37", "nr": 37, "titel": "Dreiecke und Vierecke einteilen", "bereich": "Geometrie", "klasse": "ab 7",
@@ -331,7 +447,11 @@
         "Ein Dreieck mit drei gleich langen Seiten ist gleichseitig.",
         "Ein Parallelogramm hat zwei Paare paralleler Seiten."
       ],
-      "baut_auf": ["m23", "m22"], "quelle": "S. 32, 52", "suche": "Dreiecke Vierecke Arten Haus der Vierecke"
+      "baut_auf": ["m23", "m22"], "quelle": "S. 32, 52", "suche": "Dreiecke Vierecke Arten Haus der Vierecke",
+      "videos": [
+        {"titel": "Dreiecke: rechtwinklig, gleichseitig, gleichschenklig", "kanal": "Lehrerschmidt", "url": "https://www.youtube.com/watch?v=TaOvMNWvZbA"},
+        {"titel": "Vierecke: eine Übersicht", "kanal": "Lehrerschmidt", "url": "https://www.youtube.com/watch?v=PDa6UaZOHmY"}
+      ]
     },
     {
       "id": "m38", "nr": 38, "titel": "Dreiecke konstruieren", "bereich": "Geometrie", "klasse": "ab 7",
@@ -340,7 +460,11 @@
       "beispiele": [
         "Dreieck mit a = 5 cm, b = 4 cm, c = 6 cm: Zeichne c, schlage Kreise mit 4 cm und 5 cm um die Endpunkte."
       ],
-      "baut_auf": ["m37"], "quelle": "S. 32", "suche": "Dreieck konstruieren SSS"
+      "baut_auf": ["m37"], "quelle": "S. 32", "suche": "Dreieck konstruieren SSS",
+      "videos": [
+        {"titel": "Dreiecke konstruieren: SSS, SWS, WSW, SSW", "kanal": "Lehrerschmidt", "url": "https://www.youtube.com/watch?v=QiCtSIUDjGI"},
+        {"titel": "Dreieck konstruieren nach SSS", "kanal": "einfach Schule", "url": "https://www.youtube.com/watch?v=ngGeTfLo7SM"}
+      ]
     },
     {
       "id": "m39", "nr": 39, "titel": "Satz des Thales", "bereich": "Geometrie", "klasse": "ab 7",
@@ -349,7 +473,11 @@
       "beispiele": [
         "Mit dem Thaleskreis kannst du rechtwinklige Dreiecke zeichnen, ohne den Winkel zu messen."
       ],
-      "baut_auf": ["m38", "m27"], "quelle": "S. 33", "suche": "Satz des Thales einfach erklärt"
+      "baut_auf": ["m38", "m27"], "quelle": "S. 33", "suche": "Satz des Thales einfach erklärt",
+      "videos": [
+        {"titel": "Satz des Thales", "kanal": "Lehrerschmidt", "url": "https://www.youtube.com/watch?v=dsAiVuii80M"},
+        {"titel": "Satz des Thales", "kanal": "MatheMind", "url": "https://www.youtube.com/watch?v=CemrJshDJ-0"}
+      ]
     },
     {
       "id": "m28", "nr": 28, "titel": "Zuordnungen und Graphen", "bereich": "Zuordnungen, Daten und Zufall", "klasse": "5/6",
@@ -359,7 +487,11 @@
         "1 Brötchen kostet 0,40 €, 5 Brötchen kosten 2 €.",
         "Am Temperaturgraph siehst du, um welche Uhrzeit es am wärmsten war."
       ],
-      "baut_auf": ["m21"], "quelle": "S. 34", "suche": "Zuordnungen Graphen ablesen Klasse 6"
+      "baut_auf": ["m21"], "quelle": "S. 34", "suche": "Zuordnungen Graphen ablesen Klasse 6",
+      "videos": [
+        {"titel": "Zuordnung und Wertetabelle", "kanal": "Mathe by Daniel Jung", "url": "https://www.youtube.com/watch?v=HCl5PCBd9c8"},
+        {"titel": "Proportionale Zuordnung", "kanal": "Lehrerschmidt", "url": "https://www.youtube.com/watch?v=MT3hVo_BfT0"}
+      ]
     },
     {
       "id": "m29", "nr": 29, "titel": "Umfragen und Diagramme", "bereich": "Zuordnungen, Daten und Zufall", "klasse": "5",
@@ -369,7 +501,11 @@
         "Frage in deiner Klasse: Wie kommst du zur Schule? Zu Fuß, Rad, Bus oder Auto.",
         "Eine Strichliste mit ||||| bedeutet 5."
       ],
-      "baut_auf": [], "quelle": "S. 36, 39", "suche": "Strichliste Säulendiagramm Klasse 5"
+      "baut_auf": [], "quelle": "S. 36, 39", "suche": "Strichliste Säulendiagramm Klasse 5",
+      "videos": [
+        {"titel": "Urliste, Strichliste und Häufigkeitstabelle", "kanal": "Lehrerschmidt", "url": "https://www.youtube.com/watch?v=notqFpwVAts"},
+        {"titel": "Säulendiagramm erstellen", "kanal": "Lehrerschmidt", "url": "https://www.youtube.com/watch?v=N3w-hBbgLqY"}
+      ]
     },
     {
       "id": "m30", "nr": 30, "titel": "Diagramme auswerten", "bereich": "Zuordnungen, Daten und Zufall", "klasse": "5/6",
@@ -379,7 +515,11 @@
         "Im Säulendiagramm ist die Säule für Fahrrad am höchsten: Die meisten kommen mit dem Rad.",
         "Beginnt die Achse bei 90 statt bei 0, wirken kleine Unterschiede riesig."
       ],
-      "baut_auf": ["m29"], "quelle": "S. 36", "suche": "Diagramme lesen auswerten"
+      "baut_auf": ["m29"], "quelle": "S. 36", "suche": "Diagramme lesen auswerten",
+      "videos": [
+        {"titel": "Liniendiagramm", "kanal": "Lehrerschmidt", "url": "https://www.youtube.com/watch?v=3IgnaKAOOQw"},
+        {"titel": "Kreisdiagramm", "kanal": "Lehrerschmidt", "url": "https://www.youtube.com/watch?v=CAw08JjgaB8"}
+      ]
     },
     {
       "id": "m31", "nr": 31, "titel": "Durchschnitt", "bereich": "Zuordnungen, Daten und Zufall", "klasse": "6",
@@ -389,7 +529,11 @@
         "Wurfweiten 20 m, 24 m und 28 m: (20 + 24 + 28) : 3 = 24 m.",
         "Drei Kinder haben 2, 5 und 8 Murmeln. Gerecht verteilt hätte jedes 5."
       ],
-      "baut_auf": ["m30", "m03"], "quelle": "S. 36, 45", "suche": "Mittelwert Durchschnitt berechnen Klasse 6"
+      "baut_auf": ["m30", "m03"], "quelle": "S. 36, 45", "suche": "Mittelwert Durchschnitt berechnen Klasse 6",
+      "videos": [
+        {"titel": "Durchschnitt berechnen mit Beispielen", "kanal": "Lehrerschmidt", "url": "https://www.youtube.com/watch?v=fu-Ezs8pyCc"},
+        {"titel": "Das arithmetische Mittel", "kanal": "einfach Schule", "url": "https://www.youtube.com/watch?v=5QkMzEUfyWk"}
+      ]
     },
     {
       "id": "m36", "nr": 36, "titel": "Zentralwert und Spannweite", "bereich": "Zuordnungen, Daten und Zufall", "klasse": "ab 7",
@@ -398,7 +542,11 @@
       "beispiele": [
         "Werte 3, 5, 6, 9, 12: Der Zentralwert ist 6, die Spannweite ist 12 − 3 = 9."
       ],
-      "baut_auf": ["m31"], "quelle": "S. 36, 39", "suche": "Zentralwert Median Spannweite"
+      "baut_auf": ["m31"], "quelle": "S. 36, 39", "suche": "Zentralwert Median Spannweite",
+      "videos": [
+        {"titel": "Zentralwert", "kanal": "Lehrerschmidt", "url": "https://www.youtube.com/watch?v=Bx0YqU9wUTo"},
+        {"titel": "Spannweite berechnen", "kanal": "Lehrerschmidt", "url": "https://www.youtube.com/watch?v=9iHgm97OiEU"}
+      ]
     },
     {
       "id": "m32", "nr": 32, "titel": "Zufall im Alltag", "bereich": "Zuordnungen, Daten und Zufall", "klasse": "6",
@@ -409,7 +557,11 @@
         "Mit einem normalen Würfel eine 7 zu würfeln, ist unmöglich.",
         "Eine Münze zeigt mit gleicher Chance Kopf oder Zahl."
       ],
-      "baut_auf": [], "quelle": "S. 36, 47", "suche": "Wahrscheinlichkeit Alltag sicher unmöglich Klasse 6"
+      "baut_auf": [], "quelle": "S. 36, 47", "suche": "Wahrscheinlichkeit Alltag sicher unmöglich Klasse 6",
+      "videos": [
+        {"titel": "Sicher, wahrscheinlich, unmöglich", "kanal": "MatheMind", "url": "https://www.youtube.com/watch?v=rK9J0zD32Fo"},
+        {"titel": "Einstufiger Zufallsversuch", "kanal": "Lehrerschmidt", "url": "https://www.youtube.com/watch?v=rkLmLaFHodo"}
+      ]
     },
     {
       "id": "m33", "nr": 33, "titel": "Zufallsexperimente", "bereich": "Zuordnungen, Daten und Zufall", "klasse": "6",
@@ -419,7 +571,11 @@
         "Würfle 60 Mal und zähle: Jede Zahl kommt ungefähr 10 Mal.",
         "In einem Beutel liegen 3 rote und 1 blaue Kugel. Rot zu ziehen ist wahrscheinlicher."
       ],
-      "baut_auf": ["m32"], "quelle": "S. 47", "suche": "Zufallsexperiment Würfel Klasse 6"
+      "baut_auf": ["m32"], "quelle": "S. 47", "suche": "Zufallsexperiment Würfel Klasse 6",
+      "videos": [
+        {"titel": "Einstufiger Zufallsversuch", "kanal": "Lehrerschmidt", "url": "https://www.youtube.com/watch?v=rkLmLaFHodo"},
+        {"titel": "Absolute und relative Häufigkeit", "kanal": "Lehrerschmidt", "url": "https://www.youtube.com/watch?v=PBRoDcPymec"}
+      ]
     }
   ]
 }
