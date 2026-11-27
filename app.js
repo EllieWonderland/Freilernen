@@ -1,13 +1,13 @@
 "use strict";
 
-/* Fächer: Mathe, Deutsch, Englisch, Spanisch und Musik sind fertig, die anderen folgen. */
+/* Fächer: alle sieben Fächer haben Themen. */
 const FAECHER = [
   { id: "mathe", name: "Mathe", sym: "🔢", farbe: "#3b7dd8", datei: "data/mathe.json" },
   { id: "deutsch", name: "Deutsch", sym: "📖", farbe: "#d0533f", datei: "data/deutsch.json" },
   { id: "englisch", name: "Englisch", sym: "🇬🇧", farbe: "#7a5bd6", datei: "data/englisch.json" },
   { id: "spanisch", name: "Spanisch", sym: "🇪🇸", farbe: "#e2a316", datei: "data/spanisch.json" },
   { id: "nawi", name: "NaWi", sym: "🔬", farbe: "#2e9e5b", datei: "data/nawi.json" },
-  { id: "gl", name: "Gesellschaftslehre", sym: "🌍", farbe: "#2a9bb0" },
+  { id: "gl", name: "Gesellschaftslehre", sym: "🌍", farbe: "#2a9bb0", datei: "data/gewi.json" },
   { id: "musik", name: "Musik", sym: "🎵", farbe: "#c2508f", datei: "data/musik.json" }
 ];
 
@@ -100,7 +100,8 @@ const SUCHKANAELE = {
   englisch: ["Einfach Englisch", "BBC Learning English", "Mr Kay Erklärt Englisch"],
   spanisch: ["Die Merkhilfe Spanisch", "BesserEinfachErklärt", "Spanisch mit Vicky"],
   musik: ["MusikDurchblick", "Musiklehrer", "erklaerung-und-mehr"],
-  nawi: ["Lehrerschmidt", "Woozle Goozle", "SRF Kids"]
+  nawi: ["Lehrerschmidt", "Woozle Goozle", "SRF Kids"],
+  gl: ["SRF Kids", "Woozle Goozle", "CHECKER WELT"]
 };
 
 function videoLinks(t) {
