@@ -1,0 +1,2318 @@
+{
+ "fach": "spanisch",
+ "name": "Spanisch",
+ "quelle": "Kerncurriculum Spanisch für die Schulformen des Sekundarbereichs I, Schuljahrgänge 6 bis 10, Niedersachsen, verbindlich ab 01.08.2024",
+ "bereiche": [
+  "Aussprache und Schrift",
+  "Sprechen und Zuhören",
+  "Wörter für meine Welt",
+  "Grammatik",
+  "Lesen und Schreiben",
+  "Die spanischsprachige Welt",
+  "Lerntricks",
+  "Hörverstehen"
+ ],
+ "themen": [
+  {
+   "id": "sp01",
+   "nr": 1,
+   "titel": "Das spanische ABC",
+   "bereich": "Aussprache und Schrift",
+   "klasse": "5/6",
+   "satz": "Du lernst die Buchstaben auf Spanisch, auch das ñ, und buchstabierst deinen Namen.",
+   "erklaerung": "Das spanische Alphabet hat fast dieselben Buchstaben wie das deutsche, dazu das ñ (sprich enje). Viele Buchstaben heißen anders: h heißt hache, j heißt jota, v heißt uve und z heißt zeta. Wenn du deinen Namen buchstabieren kannst, kannst du dich am Telefon oder bei einer Anmeldung verständlich machen.",
+   "beispiele": [
+    "a, be, ce, de, e, efe, ge, hache, i, jota …",
+    "¿Cómo se escribe tu nombre? Wie schreibt man deinen Namen?",
+    "Mia: eme, i, a."
+   ],
+   "baut_auf": [],
+   "quelle": "S. 55",
+   "suche": "spanisches Alphabet",
+   "videos": [
+    {
+     "titel": "ABC... Das Spanische Alphabet | Spanisch für Anfänger",
+     "kanal": "Spanisch mit Vicky",
+     "url": "https://www.yout-ube.com/watch?v=EpxP7nCnBFk"
+    },
+    {
+     "titel": "La pronunciación - Aussprache & Betonung in Spanisch - Alphabet & Buchstaben einfach erklärt",
+     "kanal": "Die Merkhilfe Spanisch",
+     "url": "https://www.yout-ube.com/watch?v=mz4nU05GA2s"
+    }
+   ]
+  },
+  {
+   "id": "sp02",
+   "nr": 2,
+   "titel": "So klingt Spanisch",
+   "bereich": "Aussprache und Schrift",
+   "klasse": "5/6",
+   "satz": "Du sprichst die fünf Vokale und die Buchstaben, die anders klingen als im Deutschen: j, ll, z, c, h.",
+   "erklaerung": "Spanisch spricht man fast so, wie man es schreibt. Die fünf Vokale a, e, i, o, u klingen immer gleich, kurz und klar. Anders als im Deutschen: das h ist stumm, j klingt wie ch in „Bach“, ll klingt wie j in „ja“, und z sowie c vor e und i spricht man in Spanien wie das englische th.",
+   "beispiele": [
+    "hola (sprich ola), el hermano (sprich ermano)",
+    "jugar (sprich chugar), la calle (sprich kaje)",
+    "la plaza, cinco: z und c wie th in „think“"
+   ],
+   "baut_auf": [
+    "sp01"
+   ],
+   "quelle": "S. 55",
+   "suche": "spanische Aussprache Anfänger",
+   "videos": [
+    {
+     "titel": "Spanische Aussprache - Einfach und schnell auf Deutsch erklärt - Spanisch für Anfänger",
+     "kanal": "Spanisch mit Vicky",
+     "url": "https://www.yout-ube.com/watch?v=rbF2eGIeTxA"
+    },
+    {
+     "titel": "La pronunciación - Aussprache & Betonung in Spanisch - Alphabet & Buchstaben einfach erklärt",
+     "kanal": "Die Merkhilfe Spanisch",
+     "url": "https://www.yout-ube.com/watch?v=mz4nU05GA2s"
+    }
+   ]
+  },
+  {
+   "id": "sp03",
+   "nr": 3,
+   "titel": "Das rollende R",
+   "bereich": "Aussprache und Schrift",
+   "klasse": "5/6",
+   "satz": "Du übst das kurze r und das gerollte rr, wie in pero und perro.",
+   "erklaerung": "Das spanische r ist ein kurzer Zungenschlag vorne am Gaumen, kein Kratzen im Hals wie im Deutschen. Steht rr in der Mitte oder r am Wortanfang, wird es gerollt, also mehrmals hintereinander. Das braucht Übung, und es ist normal, wenn es nicht sofort klappt.",
+   "beispiele": [
+    "pero (aber) und perro (Hund): kurzes und gerolltes r",
+    "Rosa, el río, la radio: r am Anfang wird gerollt",
+    "Übung: schnell „tdtdtd“ sagen, daraus wird langsam ein r."
+   ],
+   "baut_auf": [
+    "sp02"
+   ],
+   "quelle": "S. 55",
+   "suche": "spanisches R rollen lernen",
+   "videos": [
+    {
+     "titel": "Das R rollen: der ultimative Crashkurs | Karambolage España | ARTE",
+     "kanal": "Irgendwas mit ARTE und Kultur",
+     "url": "https://www.yout-ube.com/watch?v=3wAaZ6udV2E"
+    },
+    {
+     "titel": "Das R ROLLEN - Spanisch SPRECHEN und schreiben",
+     "kanal": "Spanisch mit Tomás",
+     "url": "https://www.yout-ube.com/watch?v=1OIE6XUbV98"
+    }
+   ]
+  },
+  {
+   "id": "sp04",
+   "nr": 4,
+   "titel": "Betonung und Akzent",
+   "bereich": "Aussprache und Schrift",
+   "klasse": "5/6",
+   "satz": "Du weißt, welche Silbe betont wird und was der Strich auf café oder música bedeutet.",
+   "erklaerung": "Endet ein Wort auf einen Vokal, n oder s, betont man die vorletzte Silbe. Endet es auf einen anderen Buchstaben, betont man die letzte Silbe. Wenn ein Wort sich nicht an diese Regel hält, bekommt die betonte Silbe einen Akzent, also einen kleinen Strich.",
+   "beispiele": [
+    "ca-sa, ha-blan: vorletzte Silbe betont",
+    "ha-blar, re-loj: letzte Silbe betont",
+    "ca-fé, mú-si-ca, a-quí: der Akzent zeigt die Betonung"
+   ],
+   "baut_auf": [
+    "sp02"
+   ],
+   "quelle": "S. 55",
+   "suche": "spanisch Betonung Akzent Regeln",
+   "videos": [
+    {
+     "titel": "Spanische AUSSPRACHE für Anfänger | Akzent und Betonung - Einfach und schnell auf Deutsch erklärt",
+     "kanal": "Spanisch mit Vicky",
+     "url": "https://www.yout-ube.com/watch?v=pU3jiTA4ts4"
+    },
+    {
+     "titel": "Akzente im Spanischen | Karambolage España | ARTE",
+     "kanal": "Irgendwas mit ARTE und Kultur",
+     "url": "https://www.yout-ube.com/watch?v=XtcxZY0Z19A"
+    }
+   ]
+  },
+  {
+   "id": "sp05",
+   "nr": 5,
+   "titel": "Frage- und Ausrufezeichen auf dem Kopf",
+   "bereich": "Aussprache und Schrift",
+   "klasse": "5/6",
+   "satz": "Du schreibst Fragen und Ausrufe richtig: ¿Qué tal? und ¡Hola!",
+   "erklaerung": "Im Spanischen steht vor einer Frage ein umgedrehtes Fragezeichen und vor einem Ausruf ein umgedrehtes Ausrufezeichen. So weiß man schon beim Lesen, wie der Satz klingen soll. Am Ende stehen dann die normalen Zeichen.",
+   "beispiele": [
+    "¿Cómo te llamas?",
+    "¡Qué bien!",
+    "Auf dem Handy: lange auf ? oder ! drücken, dann erscheinen ¿ und ¡."
+   ],
+   "baut_auf": [],
+   "quelle": "S. 55",
+   "suche": "spanisch umgedrehtes Fragezeichen",
+   "videos": [
+    {
+     "titel": "Das umgekehrte Fragezeichen | Karambolage España | ARTE",
+     "kanal": "Irgendwas mit ARTE und Kultur",
+     "url": "https://www.yout-ube.com/watch?v=zYmX-UEPWr0"
+    }
+   ]
+  },
+  {
+   "id": "sp06",
+   "nr": 6,
+   "titel": "¡Hola! Begrüßen und verabschieden",
+   "bereich": "Sprechen und Zuhören",
+   "klasse": "5/6",
+   "satz": "Du sagst hallo und tschüss, guten Morgen und bis später.",
+   "erklaerung": "Mit „hola“ begrüßt du jemanden zu jeder Tageszeit. Je nach Tageszeit sagt man auch buenos días, buenas tardes oder buenas noches. Zum Abschied sagst du adiós, hasta luego oder einfach chao.",
+   "beispiele": [
+    "¡Hola! ¿Qué tal?",
+    "Buenos días (morgens), buenas tardes (nachmittags), buenas noches (abends)",
+    "¡Adiós! ¡Hasta mañana!"
+   ],
+   "baut_auf": [],
+   "quelle": "S. 26, 51",
+   "suche": "spanisch begrüßen verabschieden",
+   "videos": [
+    {
+     "titel": "Spanisch lernen für Anfänger: Spanischkurs auf DEUTSCH | Erste Worte - begrüßen & verabschieden",
+     "kanal": "Vamos Español",
+     "url": "https://www.yout-ube.com/watch?v=q7L0peSPZXw"
+    },
+    {
+     "titel": "10 Verabschiedungsformen auf Spanisch, die du kennen solltest!",
+     "kanal": "Conjaki",
+     "url": "https://www.yout-ube.com/watch?v=CAp-hNwmM10"
+    }
+   ]
+  },
+  {
+   "id": "sp07",
+   "nr": 7,
+   "titel": "Sich vorstellen",
+   "bereich": "Sprechen und Zuhören",
+   "klasse": "5/6",
+   "satz": "Du sagst deinen Namen, dein Alter und woher du kommst: Me llamo …, tengo 11 años.",
+   "erklaerung": "Mit wenigen festen Sätzen kannst du dich schon vorstellen. Du musst die Grammatik dahinter noch nicht verstehen, lerne die Sätze einfach als Ganzes. Später erkennst du, warum es tengo und soy heißt.",
+   "beispiele": [
+    "Me llamo Lena. Ich heiße Lena.",
+    "Tengo once años. Ich bin elf Jahre alt.",
+    "Soy de Alemania. Vivo en Hannover."
+   ],
+   "baut_auf": [
+    "sp06",
+    "sp17"
+   ],
+   "quelle": "S. 24, 26, 51",
+   "suche": "spanisch sich vorstellen Anfänger",
+   "videos": [
+    {
+     "titel": "Wie heißt du? Woher kommst du? - Vorstellen auf Spanisch",
+     "kanal": "Conjaki",
+     "url": "https://www.yout-ube.com/watch?v=jyQ1OjoZKP8"
+    },
+    {
+     "titel": "Auf Spanisch sich einander vorstellen und begrüßen 👋🏻 🇪🇸",
+     "kanal": "Vamos Español",
+     "url": "https://www.yout-ube.com/watch?v=g2Y-8s21o5Q"
+    }
+   ]
+  },
+  {
+   "id": "sp08",
+   "nr": 8,
+   "titel": "¿Qué tal? Wie es dir geht",
+   "bereich": "Sprechen und Zuhören",
+   "klasse": "5/6",
+   "satz": "Du fragst, wie es jemandem geht, und sagst, wie es dir geht.",
+   "erklaerung": "Mit „¿Qué tal?“ oder „¿Cómo estás?“ fragst du, wie es jemandem geht. Antworten kannst du mit bien, muy bien, regular oder mal. Danach fragst du höflich zurück.",
+   "beispiele": [
+    "¿Qué tal? Muy bien, gracias. ¿Y tú?",
+    "Estoy cansada. Ich bin müde.",
+    "Estoy un poco triste. Ich bin ein bisschen traurig."
+   ],
+   "baut_auf": [
+    "sp06"
+   ],
+   "quelle": "S. 26, 51",
+   "suche": "spanisch wie geht es dir",
+   "videos": [
+    {
+     "titel": "Das erste Gespräch auf Spanisch führen! Spanisch in der Schule einfach erklärt.",
+     "kanal": "schulspanisch",
+     "url": "https://www.yout-ube.com/watch?v=fIL7il26Unk"
+    }
+   ]
+  },
+  {
+   "id": "sp09",
+   "nr": 9,
+   "titel": "Bitte, danke, Entschuldigung",
+   "bereich": "Sprechen und Zuhören",
+   "klasse": "5/6",
+   "satz": "Du sagst por favor, gracias und perdón an der richtigen Stelle.",
+   "erklaerung": "Höfliche Wörter öffnen Türen, auch wenn du noch wenig Spanisch kannst. Por favor heißt bitte, gracias heißt danke. Mit perdón oder lo siento entschuldigst du dich.",
+   "beispiele": [
+    "Un agua, por favor.",
+    "Muchas gracias. De nada (gern geschehen).",
+    "Perdón. Lo siento mucho."
+   ],
+   "baut_auf": [
+    "sp06"
+   ],
+   "quelle": "S. 26, 51",
+   "suche": "spanisch bitte danke Entschuldigung",
+   "videos": [
+    {
+     "titel": "20 Spanische Alternativen zu “gracias” – Danke sagen auf Spanisch #spanischlernen",
+     "kanal": "Vamos Español",
+     "url": "https://www.yout-ube.com/watch?v=YWQxqLAnVgw"
+    },
+    {
+     "titel": "3 Arten, wie man „Entschuldigung“ auf Spanisch sagen kann! 🙏",
+     "kanal": "Vamos Español",
+     "url": "https://www.yout-ube.com/watch?v=gONBuO5Gdsw"
+    }
+   ]
+  },
+  {
+   "id": "sp10",
+   "nr": 10,
+   "titel": "Wenn du etwas nicht verstehst",
+   "bereich": "Sprechen und Zuhören",
+   "klasse": "5/6",
+   "satz": "Du bittest um Wiederholung oder fragst, wie man etwas sagt: ¿Puedes repetir? ¿Cómo se dice …?",
+   "erklaerung": "Gerade am Anfang verstehst du vieles nicht, das ist ganz normal. Mit ein paar Sätzen kannst du nachfragen statt aufzugeben. So halten Gespräche länger, und du lernst dabei neue Wörter.",
+   "beispiele": [
+    "No entiendo. Ich verstehe nicht.",
+    "¿Puedes repetir, por favor? Más despacio, por favor.",
+    "¿Cómo se dice „Hund“ en español?"
+   ],
+   "baut_auf": [
+    "sp06"
+   ],
+   "quelle": "S. 17, 51",
+   "suche": "spanisch nachfragen nicht verstehen",
+   "videos": []
+  },
+  {
+   "id": "sp11",
+   "nr": 11,
+   "titel": "Ein kleines Gespräch über dich",
+   "bereich": "Sprechen und Zuhören",
+   "klasse": "5/6",
+   "satz": "Du stellst einfache Fragen zu Familie, Schule und Hobbys und antwortest darauf.",
+   "erklaerung": "Ein kleines Gespräch besteht aus Fragen und Antworten über dich und dein Gegenüber. Du brauchst dafür Fragewörter und ein paar Sätze über Familie, Schule und Hobbys. Übe es zu zweit, ihr könnt euch gegenseitig fragen.",
+   "beispiele": [
+    "¿Tienes hermanos? Sí, tengo una hermana.",
+    "¿Qué te gusta hacer? Me gusta leer.",
+    "¿Dónde vives? Vivo en un pueblo."
+   ],
+   "baut_auf": [
+    "sp07",
+    "sp42",
+    "sp53"
+   ],
+   "quelle": "S. 26",
+   "suche": "spanisch einfaches Gespräch Anfänger",
+   "videos": [
+    {
+     "titel": "Einfache Konversation auf Spanisch für Beginner | Vamos Español",
+     "kanal": "Vamos Español",
+     "url": "https://www.yout-ube.com/watch?v=1Uwg1eTAZFc"
+    },
+    {
+     "titel": "Spanisch Sätze für Anfänger - die musst du kennen!",
+     "kanal": "Vamos Español",
+     "url": "https://www.yout-ube.com/watch?v=RS4vF0UW9x8"
+    }
+   ]
+  },
+  {
+   "id": "sp12",
+   "nr": 12,
+   "titel": "Sich verabreden",
+   "bereich": "Sprechen und Zuhören",
+   "klasse": "5/6",
+   "satz": "Du schlägst etwas vor, sagst zu oder sagst freundlich ab: ¿Vamos …? ¡Vale! Lo siento, no puedo.",
+   "erklaerung": "Wenn du dich verabreden willst, machst du einen Vorschlag und nennst eine Zeit. Die andere Person sagt zu oder sagt freundlich ab. Wichtig sind dafür die Uhrzeit und Wörter wie querer und poder.",
+   "beispiele": [
+    "¿Vamos al parque el sábado? ¡Vale, buena idea!",
+    "¿Quedamos a las cuatro?",
+    "Lo siento, no puedo. Tengo que estudiar."
+   ],
+   "baut_auf": [
+    "sp11",
+    "sp21",
+    "sp52"
+   ],
+   "quelle": "S. 26, 51",
+   "suche": "spanisch sich verabreden",
+   "videos": [
+    {
+     "titel": "Spanische Konversation im Alltag (Teil 4) | Vamos Español",
+     "kanal": "Vamos Español",
+     "url": "https://www.yout-ube.com/watch?v=3ahhIeNnTIU"
+    }
+   ]
+  },
+  {
+   "id": "sp13",
+   "nr": 13,
+   "titel": "Einkaufen auf dem Markt",
+   "bereich": "Sprechen und Zuhören",
+   "klasse": "5/6",
+   "satz": "Du fragst nach dem Preis und kaufst Obst, Brot und andere Dinge ein.",
+   "erklaerung": "Auf dem Markt fragst du nach dem Preis, sagst, wie viel du möchtest, und bezahlst. Dafür brauchst du Zahlen, Lebensmittel und höfliche Wörter. Mengen sagst du mit un kilo de, medio kilo de oder una barra de pan.",
+   "beispiele": [
+    "¿Cuánto cuesta? Dos euros.",
+    "Quiero un kilo de tomates, por favor.",
+    "Nada más, gracias. ¿Cuánto es?"
+   ],
+   "baut_auf": [
+    "sp18",
+    "sp31",
+    "sp09"
+   ],
+   "quelle": "S. 26, 51",
+   "suche": "spanisch einkaufen Markt Dialog",
+   "videos": [
+    {
+     "titel": "Einkaufen auf Spanisch 1 - Geschäfte & Mengenangaben - Hacer la compra / comprar alimentos (Deutsch)",
+     "kanal": "Die Merkhilfe Spanisch",
+     "url": "https://www.yout-ube.com/watch?v=gp7p1RiP0TE"
+    },
+    {
+     "titel": "Einkaufen auf Spanisch 2 - Einkaufsdialog - Hacer la compra / comprar alimentos",
+     "kanal": "Die Merkhilfe Spanisch",
+     "url": "https://www.yout-ube.com/watch?v=LNc8HWOrE1A"
+    }
+   ]
+  },
+  {
+   "id": "sp14",
+   "nr": 14,
+   "titel": "Im Café bestellen",
+   "bereich": "Sprechen und Zuhören",
+   "klasse": "5/6",
+   "satz": "Du bestellst etwas zu essen und zu trinken und fragst nach der Rechnung.",
+   "erklaerung": "Im Café oder Restaurant bestellst du mit „quiero“ oder höflicher mit „para mí“. Am Ende fragst du nach der Rechnung. In Spanien ruft man die Bedienung oft mit „perdone“.",
+   "beispiele": [
+    "Para mí, un zumo de naranja, por favor.",
+    "Quiero un bocadillo de queso.",
+    "La cuenta, por favor."
+   ],
+   "baut_auf": [
+    "sp31",
+    "sp09",
+    "sp52"
+   ],
+   "quelle": "S. 26, 51",
+   "suche": "spanisch im Restaurant bestellen",
+   "videos": [
+    {
+     "titel": "⚡ [FAST-TRACK] Spanisch für Anfänger🥘 Im Restaurant bestellen",
+     "kanal": "Spanisch mit Vicky",
+     "url": "https://www.yout-ube.com/watch?v=2qFI1rs3pGg"
+    },
+    {
+     "titel": "So bestellst du Getränke im Restaurant und Café wie ein Spanisch-Profi!",
+     "kanal": "Conjaki",
+     "url": "https://www.yout-ube.com/watch?v=Y1Fz-fdu-Ew"
+    }
+   ]
+  },
+  {
+   "id": "sp15",
+   "nr": 15,
+   "titel": "Ein Bild beschreiben",
+   "bereich": "Sprechen und Zuhören",
+   "klasse": "5/6",
+   "satz": "Du sagst, was und wer auf einem Bild zu sehen ist: En la foto hay …",
+   "erklaerung": "Ein Bild beschreibst du von groß nach klein: Wo ist es, wer ist zu sehen, was machen die Personen? Mit „en la foto hay“ sagst du, was es gibt. Mit a la izquierda und a la derecha sagst du, wo etwas ist.",
+   "beispiele": [
+    "En la foto hay dos chicos y un perro.",
+    "A la izquierda hay un árbol.",
+    "El cielo es azul y hace sol."
+   ],
+   "baut_auf": [
+    "sp19",
+    "sp41"
+   ],
+   "quelle": "S. 24, 51",
+   "suche": "spanisch Bildbeschreibung",
+   "videos": [
+    {
+     "titel": "Wie beschreibe ich ein Bild auf Spanisch?",
+     "kanal": "schulspanisch",
+     "url": "https://www.yout-ube.com/watch?v=eB6WE5Eeog4"
+    }
+   ]
+  },
+  {
+   "id": "sp16",
+   "nr": 16,
+   "titel": "Das bin ich: eine kleine Präsentation",
+   "bereich": "Sprechen und Zuhören",
+   "klasse": "5/6",
+   "satz": "Du erzählst ein bis zwei Minuten über dich, deine Familie und deine Hobbys.",
+   "erklaerung": "Bei einer kleinen Präsentation erzählst du ein bis zwei Minuten am Stück. Schreib dir Stichwörter auf, keine ganzen Sätze, und übe ein paar Mal laut. Du kannst dich dabei auch filmen und es dir danach anschauen.",
+   "beispiele": [
+    "Hola, me llamo Ana y tengo doce años.",
+    "Vivo con mi madre, mi padre y mi hermano.",
+    "Me gusta mucho nadar y dibujar. ¡Gracias!"
+   ],
+   "baut_auf": [
+    "sp11",
+    "sp22",
+    "sp29"
+   ],
+   "quelle": "S. 24",
+   "suche": "spanisch sich vorstellen Präsentation",
+   "videos": [
+    {
+     "titel": "Wie heißt du? Woher kommst du? - Vorstellen auf Spanisch",
+     "kanal": "Conjaki",
+     "url": "https://www.yout-ube.com/watch?v=jyQ1OjoZKP8"
+    }
+   ]
+  },
+  {
+   "id": "sp17",
+   "nr": 17,
+   "titel": "Zahlen bis 20",
+   "bereich": "Wörter für meine Welt",
+   "klasse": "5/6",
+   "satz": "Du zählst auf Spanisch bis 20 und sagst, wie alt du bist.",
+   "erklaerung": "Die Zahlen von 0 bis 15 lernst du einzeln. Ab 16 hilft ein Muster: dieciséis heißt eigentlich „zehn und sechs“. So kannst du auch sagen, wie alt du bist.",
+   "beispiele": [
+    "uno, dos, tres, cuatro, cinco, seis, siete, ocho, nueve, diez",
+    "once, doce, trece, catorce, quince, dieciséis … veinte",
+    "Tengo once años."
+   ],
+   "baut_auf": [],
+   "quelle": "S. 51",
+   "suche": "spanische Zahlen 1 bis 20",
+   "videos": [
+    {
+     "titel": "Zahlen auf Spanisch - Spanisch lernen für Anfänger",
+     "kanal": "Conjaki",
+     "url": "https://www.yout-ube.com/watch?v=Rb58NysiOg8"
+    },
+    {
+     "titel": "Die Zahlen 1-100 auf Spanisch lernen (für Anfänger) - plus drei, die du immer vergisst",
+     "kanal": "Spanisch mit Tomás",
+     "url": "https://www.yout-ube.com/watch?v=hUrWlxZJsLo"
+    }
+   ]
+  },
+  {
+   "id": "sp18",
+   "nr": 18,
+   "titel": "Zahlen bis 100 und weiter",
+   "bereich": "Wörter für meine Welt",
+   "klasse": "5/6",
+   "satz": "Du zählst bis 100 und verstehst Preise und Telefonnummern.",
+   "erklaerung": "Die Zehner heißen treinta, cuarenta, cincuenta und so weiter. Dazwischen setzt du einfach „y“: treinta y dos. Bis 29 schreibt man die Zahlen zusammen, zum Beispiel veintitrés. Hundert heißt cien.",
+   "beispiele": [
+    "veintiuno, veintidós … treinta",
+    "cuarenta y cinco, sesenta y ocho, noventa y nueve",
+    "cien euros, ciento veinte"
+   ],
+   "baut_auf": [
+    "sp17"
+   ],
+   "quelle": "S. 51",
+   "suche": "spanische Zahlen bis 100",
+   "videos": [
+    {
+     "titel": "Los números / Zahlen 0 bis 100 - Spanisch Grundzahlen / Kardinalzahlen auf Deutsch einfach erklärt",
+     "kanal": "Die Merkhilfe Spanisch",
+     "url": "https://www.yout-ube.com/watch?v=5rAra8cTCP8"
+    },
+    {
+     "titel": "Spanisch: Zahlen 20-100 | Spanische Zahlen von 20 bis 100 einfach lernen | 21 bis 29 | 100 Spanisch",
+     "kanal": "BesserEinfachErklärt",
+     "url": "https://www.yout-ube.com/watch?v=me1FUX0Wvlg"
+    }
+   ]
+  },
+  {
+   "id": "sp19",
+   "nr": 19,
+   "titel": "Farben",
+   "bereich": "Wörter für meine Welt",
+   "klasse": "5/6",
+   "satz": "Du nennst Farben und sagst, welche Farbe etwas hat.",
+   "erklaerung": "Farben sind Adjektive und stehen im Spanischen meistens nach dem Nomen. Viele Farben haben eine männliche und eine weibliche Form, zum Beispiel rojo und roja. Einige bleiben gleich, etwa verde und azul.",
+   "beispiele": [
+    "rojo, azul, verde, amarillo, negro, blanco, rosa, gris",
+    "un coche rojo, una casa roja",
+    "¿De qué color es? Es verde."
+   ],
+   "baut_auf": [],
+   "quelle": "S. 51",
+   "suche": "spanisch Farben lernen",
+   "videos": [
+    {
+     "titel": "Spanische Adjektive mit Farben lernen",
+     "kanal": "Spanisch mit Tomás",
+     "url": "https://www.yout-ube.com/watch?v=eT4ZbECC6Nc"
+    },
+    {
+     "titel": "Lerne spanische Grundlagen in 10 Minuten! | Monate, Farben, Wochentage u.v.m.!",
+     "kanal": "Conjaki",
+     "url": "https://www.yout-ube.com/watch?v=Ouo3ys0Su1I"
+    }
+   ]
+  },
+  {
+   "id": "sp20",
+   "nr": 20,
+   "titel": "Tage, Monate und Datum",
+   "bereich": "Wörter für meine Welt",
+   "klasse": "5/6",
+   "satz": "Du nennst Wochentage und Monate und sagst, wann du Geburtstag hast.",
+   "erklaerung": "Wochentage und Monate schreibt man im Spanischen klein. Ein Datum sagst du mit „el“ vorne: el cinco de mayo. Die Woche beginnt wie bei uns am Montag.",
+   "beispiele": [
+    "lunes, martes, miércoles, jueves, viernes, sábado, domingo",
+    "enero, febrero, marzo … diciembre",
+    "Mi cumpleaños es el doce de abril."
+   ],
+   "baut_auf": [
+    "sp17"
+   ],
+   "quelle": "S. 51",
+   "suche": "spanisch Wochentage Monate Datum",
+   "videos": [
+    {
+     "titel": "Der spanische Kalender - Wochentage Monate und Jahreszeiten auf Spanisch || vamos espanol",
+     "kanal": "Vamos Español",
+     "url": "https://www.yout-ube.com/watch?v=ZdTyArdGW5U"
+    },
+    {
+     "titel": "die Wochentage und Planeten auf Spanisch lernen",
+     "kanal": "Spanisch mit Tomás",
+     "url": "https://www.yout-ube.com/watch?v=FydBOVaQVF4"
+    }
+   ]
+  },
+  {
+   "id": "sp21",
+   "nr": 21,
+   "titel": "Die Uhrzeit",
+   "bereich": "Wörter für meine Welt",
+   "klasse": "5/6",
+   "satz": "Du sagst, wie spät es ist und wann etwas anfängt: a las cinco y media.",
+   "erklaerung": "Für die Uhrzeit fragst du „¿Qué hora es?“. Die Antwort beginnt mit „Es la una“ oder „Son las …“. Nach der vollen Stunde sagst du y cuarto, y media, und vor der Stunde menos cuarto.",
+   "beispiele": [
+    "Son las tres. Es la una.",
+    "Son las cinco y media (5:30).",
+    "Son las ocho menos cuarto (7:45). A las nueve: um neun."
+   ],
+   "baut_auf": [
+    "sp17"
+   ],
+   "quelle": "S. 51",
+   "suche": "spanisch Uhrzeit lernen",
+   "videos": [
+    {
+     "titel": "Die Uhrzeit auf Spanisch | La hora – einfach erklärt | Spanisch lernen A1 | schulspanisch.de",
+     "kanal": "schulspanisch",
+     "url": "https://www.yout-ube.com/watch?v=q9kB80j8lls"
+    },
+    {
+     "titel": "La hora 1: Uhrzeit auf Spanisch ausdrücken - Zeitangaben, nach Uhrzeit fragen, Vokabeln & Wortschatz",
+     "kanal": "Die Merkhilfe Spanisch",
+     "url": "https://www.yout-ube.com/watch?v=8FnGvBCoyoQ"
+    }
+   ]
+  },
+  {
+   "id": "sp22",
+   "nr": 22,
+   "titel": "Meine Familie",
+   "bereich": "Wörter für meine Welt",
+   "klasse": "5/6",
+   "satz": "Du stellst deine Familie vor: madre, padre, hermana, abuelo.",
+   "erklaerung": "Für die Familie brauchst du Wörter wie madre, padre, hermano und abuela. Mit mi und mis sagst du, dass es deine Familie ist. Achtung: padres heißt Eltern und hermanos kann Geschwister heißen.",
+   "beispiele": [
+    "Mi madre se llama Julia.",
+    "Tengo un hermano y dos hermanas.",
+    "Mis abuelos viven en Hamburgo."
+   ],
+   "baut_auf": [
+    "sp07",
+    "sp45"
+   ],
+   "quelle": "S. 56",
+   "suche": "spanisch Familie Wörter",
+   "videos": [
+    {
+     "titel": "Lerne Spanisch - Familienstammbaum | Nützliche Sätze und Wortschatz",
+     "kanal": "Conjaki",
+     "url": "https://www.yout-ube.com/watch?v=VYzkp_rGivA"
+    },
+    {
+     "titel": "Auf Spanisch die Beziehung angeben - Familie und Verwandtschaft",
+     "kanal": "Vamos Español",
+     "url": "https://www.yout-ube.com/watch?v=vKUA9w6CNYM"
+    }
+   ]
+  },
+  {
+   "id": "sp23",
+   "nr": 23,
+   "titel": "Haustiere und Lieblingstiere",
+   "bereich": "Wörter für meine Welt",
+   "klasse": "5/6",
+   "satz": "Du nennst Tiere und erzählst von einem Haustier oder deinem Lieblingstier.",
+   "erklaerung": "Tiere sind ein gutes Thema für den Anfang, weil viele Wörter leicht sind. Mit tener sagst du, ob du ein Haustier hast. Mit dem Plural und den Farben kannst du es auch beschreiben.",
+   "beispiele": [
+    "el perro, el gato, el conejo, el caballo, el pájaro",
+    "Tengo un gato negro.",
+    "Mi animal favorito es el delfín."
+   ],
+   "baut_auf": [
+    "sp19",
+    "sp38"
+   ],
+   "quelle": "S. 56",
+   "suche": "spanisch Tiere lernen",
+   "videos": [
+    {
+     "titel": "Spanische Tierbezeichnungen - Wörter lernen",
+     "kanal": "Vamos Español",
+     "url": "https://www.yout-ube.com/watch?v=QMTzGlxNOxw"
+    }
+   ]
+  },
+  {
+   "id": "sp24",
+   "nr": 24,
+   "titel": "Menschen beschreiben",
+   "bereich": "Wörter für meine Welt",
+   "klasse": "5/6",
+   "satz": "Du beschreibst, wie jemand aussieht und wie er oder sie ist.",
+   "erklaerung": "Wie jemand aussieht und wie jemand ist, beschreibst du mit ser. Für Haare und Augen nimmst du tener. Die Adjektive passen sich der Person an, also alto für einen Jungen und alta für ein Mädchen.",
+   "beispiele": [
+    "Mi amiga es alta y simpática.",
+    "Tiene el pelo largo y los ojos marrones.",
+    "Mi hermano es un poco tímido."
+   ],
+   "baut_auf": [
+    "sp22",
+    "sp39",
+    "sp44"
+   ],
+   "quelle": "S. 56",
+   "suche": "spanisch Personen beschreiben",
+   "videos": [
+    {
+     "titel": "die Personenbeschreibung auf Spanisch lernen (Thema für die Klausur)",
+     "kanal": "Spanisch mit Tomás",
+     "url": "https://www.yout-ube.com/watch?v=5bFBXCFRLXY"
+    },
+    {
+     "titel": "Spanisch: Adjektive - einfach erklärt | #spanischfüranfänger #spanisch #spanischunterricht #español",
+     "kanal": "BesserEinfachErklärt",
+     "url": "https://www.yout-ube.com/watch?v=ynNtSMoMIvE"
+    }
+   ]
+  },
+  {
+   "id": "sp25",
+   "nr": 25,
+   "titel": "Freundinnen und Freunde",
+   "bereich": "Wörter für meine Welt",
+   "klasse": "5/6",
+   "satz": "Du erzählst von deinen Freunden und was ihr zusammen macht.",
+   "erklaerung": "Über Freunde erzählst du, wie sie heißen, wie sie sind und was ihr gemeinsam macht. Mi mejor amiga heißt meine beste Freundin. Dafür brauchst du Personenbeschreibungen und ein paar Hobbys.",
+   "beispiele": [
+    "Mi mejor amiga se llama Sofía.",
+    "Es muy divertida y le gusta bailar.",
+    "Los fines de semana jugamos juntas."
+   ],
+   "baut_auf": [
+    "sp24"
+   ],
+   "quelle": "S. 56",
+   "suche": "spanisch Freunde beschreiben",
+   "videos": [
+    {
+     "titel": "die Personenbeschreibung auf Spanisch lernen (Thema für die Klausur)",
+     "kanal": "Spanisch mit Tomás",
+     "url": "https://www.yout-ube.com/watch?v=5bFBXCFRLXY"
+    }
+   ]
+  },
+  {
+   "id": "sp26",
+   "nr": 26,
+   "titel": "Mein Zimmer und mein Zuhause",
+   "bereich": "Wörter für meine Welt",
+   "klasse": "5/6",
+   "satz": "Du beschreibst dein Zimmer und sagst, wo die Sachen sind: encima de, al lado de.",
+   "erklaerung": "Was es in deinem Zimmer gibt, sagst du mit hay. Wo die Dinge sind, sagst du mit estar und kleinen Ortswörtern. Wichtige Wörter sind la cama, la mesa, la silla, el armario und la estantería.",
+   "beispiele": [
+    "En mi habitación hay una cama y un escritorio.",
+    "La lámpara está encima de la mesa.",
+    "El armario está al lado de la ventana."
+   ],
+   "baut_auf": [
+    "sp41",
+    "sp43"
+   ],
+   "quelle": "S. 56",
+   "suche": "spanisch mein Zimmer beschreiben",
+   "videos": [
+    {
+     "titel": "Zimmer beschreiben und Adjektive auf Spanisch || vamos espanol",
+     "kanal": "Vamos Español",
+     "url": "https://www.yout-ube.com/watch?v=o_iJ8cuq9JY"
+    },
+    {
+     "titel": "Auf Spanisch den Ort angeben - vor, hinter, neben, rechts, links || Vamos Español",
+     "kanal": "Vamos Español",
+     "url": "https://www.yout-ube.com/watch?v=bSmxx4YfjMA"
+    }
+   ]
+  },
+  {
+   "id": "sp27",
+   "nr": 27,
+   "titel": "Mein Ort und wie ich hinkomme",
+   "bereich": "Wörter für meine Welt",
+   "klasse": "5/6",
+   "satz": "Du beschreibst dein Dorf oder deine Stadt und nennst Verkehrsmittel.",
+   "erklaerung": "Du beschreibst, ob du in einem Dorf (un pueblo) oder in einer Stadt (una ciudad) wohnst und was es dort gibt. Für den Weg nennst du Verkehrsmittel mit „en“. Nur zu Fuß heißt „a pie“.",
+   "beispiele": [
+    "Vivo en un pueblo pequeño.",
+    "En mi pueblo hay una piscina y un supermercado.",
+    "Voy al colegio en bici. Mi padre va en coche."
+   ],
+   "baut_auf": [
+    "sp26"
+   ],
+   "quelle": "S. 56",
+   "suche": "spanisch Stadt Dorf Verkehrsmittel",
+   "videos": []
+  },
+  {
+   "id": "sp28",
+   "nr": 28,
+   "titel": "Schule: Fächer und Stundenplan",
+   "bereich": "Wörter für meine Welt",
+   "klasse": "5/6",
+   "satz": "Du sprichst über deine Fächer, deinen Stundenplan und dein Lieblingsfach.",
+   "erklaerung": "Schulfächer heißen zum Beispiel Matemáticas, Lengua, Inglés und Educación Física. Mit gustar sagst du, welches Fach du magst. In Spanien heißt die Schule für Kinder el colegio.",
+   "beispiele": [
+    "Mi asignatura favorita es Música.",
+    "Los lunes tenemos Inglés a las ocho.",
+    "No me gustan las Matemáticas."
+   ],
+   "baut_auf": [
+    "sp20",
+    "sp21",
+    "sp46"
+   ],
+   "quelle": "S. 57",
+   "suche": "spanisch Schulfächer Stundenplan",
+   "videos": []
+  },
+  {
+   "id": "sp29",
+   "nr": 29,
+   "titel": "Hobbys und Sport",
+   "bereich": "Wörter für meine Welt",
+   "klasse": "5/6",
+   "satz": "Du sagst, was du in deiner Freizeit gern machst und was nicht.",
+   "erklaerung": "Mit „me gusta“ sagst du, was du gern machst. Für viele Sportarten sagst du „jugar al“, für andere „hacer“. Wie oft, sagst du mit a veces, siempre oder nunca.",
+   "beispiele": [
+    "Me gusta nadar y leer.",
+    "Juego al fútbol los martes.",
+    "No me gusta nada correr."
+   ],
+   "baut_auf": [
+    "sp46"
+   ],
+   "quelle": "S. 57",
+   "suche": "spanisch Hobbys Freizeit",
+   "videos": [
+    {
+     "titel": "Lerne spanische Vokabeln zu den Aktivitäten und Hobbys || vamos espanol",
+     "kanal": "Vamos Español",
+     "url": "https://www.yout-ube.com/watch?v=kTTYH_k0n7M"
+    },
+    {
+     "titel": "Diese Sätze dürfen in deinem spanischen Wortschatz nicht fehlen! | Über Hobbys sprechen",
+     "kanal": "Conjaki",
+     "url": "https://www.yout-ube.com/watch?v=xr82x8sh_dc"
+    }
+   ]
+  },
+  {
+   "id": "sp30",
+   "nr": 30,
+   "titel": "Mein Tag",
+   "bereich": "Wörter für meine Welt",
+   "klasse": "5/6",
+   "satz": "Du erzählst, was du an einem normalen Tag machst, vom Aufstehen bis zum Schlafengehen.",
+   "erklaerung": "Deinen Tag erzählst du der Reihe nach, mit Uhrzeiten. Viele Verben dafür haben ein „se“, zum Beispiel levantarse. Mit primero, luego und después verbindest du die Schritte.",
+   "beispiele": [
+    "Me levanto a las siete.",
+    "Primero desayuno, luego voy al colegio.",
+    "Por la noche me ducho y me acuesto a las nueve."
+   ],
+   "baut_auf": [
+    "sp21",
+    "sp49"
+   ],
+   "quelle": "S. 56",
+   "suche": "spanisch Tagesablauf",
+   "videos": [
+    {
+     "titel": "Routine auf Spanisch beschreiben",
+     "kanal": "Vamos Español",
+     "url": "https://www.yout-ube.com/watch?v=vVfNfL7tVFY"
+    },
+    {
+     "titel": "1 Tag in Spanien – So ist der spanische Tagesablauf",
+     "kanal": "Vamos Español",
+     "url": "https://www.yout-ube.com/watch?v=hAD9f-LgIXg"
+    }
+   ]
+  },
+  {
+   "id": "sp31",
+   "nr": 31,
+   "titel": "Essen und Trinken",
+   "bereich": "Wörter für meine Welt",
+   "klasse": "5/6",
+   "satz": "Du kennst Wörter für Essen, Trinken und Mahlzeiten und sagst, was du magst.",
+   "erklaerung": "Für Essen und Trinken gibt es viele Wörter, die du schon fast kennst, etwa el chocolate oder la pizza. In Spanien heißen die Mahlzeiten el desayuno, la comida und la cena. Mit gustar sagst du, was dir schmeckt.",
+   "beispiele": [
+    "el pan, la leche, el queso, la fruta, el agua",
+    "Me gusta mucho la paella.",
+    "Para desayunar tomo tostadas y un zumo."
+   ],
+   "baut_auf": [
+    "sp46"
+   ],
+   "quelle": "S. 57",
+   "suche": "spanisch Essen Trinken Wörter",
+   "videos": [
+    {
+     "titel": "Vokabeln ESSEN und TRINKEN | Spanisch für Anfänger |  Deutsch / Spanisch",
+     "kanal": "Spanisch mit Vicky",
+     "url": "https://www.yout-ube.com/watch?v=CrtO0ULtCWM"
+    }
+   ]
+  },
+  {
+   "id": "sp32",
+   "nr": 32,
+   "titel": "Kleidung",
+   "bereich": "Wörter für meine Welt",
+   "klasse": "5/6",
+   "satz": "Du nennst Kleidungsstücke und sagst, was du gern trägst.",
+   "erklaerung": "Kleidungsstücke sind gute Übungswörter für Farben und Adjektive. Die Farbe passt sich dem Kleidungsstück an. Mit llevar sagst du, was du trägst.",
+   "beispiele": [
+    "la camiseta, los pantalones, la falda, los zapatos, la chaqueta",
+    "Llevo una camiseta azul y unos vaqueros.",
+    "Me gusta la ropa cómoda."
+   ],
+   "baut_auf": [
+    "sp19",
+    "sp44"
+   ],
+   "quelle": "S. 57",
+   "suche": "spanisch Kleidung lernen",
+   "videos": [
+    {
+     "titel": "Spanisch lernen: Kleidung leicht gemacht! (Ropa en Español) 👕👗👟",
+     "kanal": "Spanisch mit Tomás",
+     "url": "https://www.yout-ube.com/watch?v=OujXbWistHc"
+    },
+    {
+     "titel": "Spanische Wörter beim Einkaufen - im Kleiderladen: Pulli, Hose...",
+     "kanal": "Vamos Español",
+     "url": "https://www.yout-ube.com/watch?v=M_OlIsVsCrM"
+    }
+   ]
+  },
+  {
+   "id": "sp33",
+   "nr": 33,
+   "titel": "Das Wetter",
+   "bereich": "Wörter für meine Welt",
+   "klasse": "5/6",
+   "satz": "Du sagst, wie das Wetter ist: hace sol, llueve, hace frío.",
+   "erklaerung": "Für das Wetter benutzt man oft hace: hace sol, hace calor. Für Regen und Schnee gibt es eigene Verben: llueve und nieva. Die Frage dazu ist „¿Qué tiempo hace?“.",
+   "beispiele": [
+    "¿Qué tiempo hace hoy?",
+    "Hace sol y hace calor.",
+    "Hoy llueve y hace frío."
+   ],
+   "baut_auf": [
+    "sp20"
+   ],
+   "quelle": "S. 51, 57",
+   "suche": "spanisch Wetter lernen",
+   "videos": [
+    {
+     "titel": "das WETTER und die Jahreszeiten auf SPANISCH lernen",
+     "kanal": "Spanisch mit Tomás",
+     "url": "https://www.yout-ube.com/watch?v=9Qdh6_aAPFk"
+    },
+    {
+     "titel": "Wie ist das Wetter? | Das Wetter auf Spanisch beschreiben",
+     "kanal": "Conjaki",
+     "url": "https://www.yout-ube.com/watch?v=SSAUvbaNdRM"
+    }
+   ]
+  },
+  {
+   "id": "sp34",
+   "nr": 34,
+   "titel": "Wochenende und Ferien",
+   "bereich": "Wörter für meine Welt",
+   "klasse": "5/6",
+   "satz": "Du erzählst, was du am Wochenende oder in den Ferien vorhast.",
+   "erklaerung": "Was du am Wochenende oder in den Ferien vorhast, sagst du mit ir a und einem Verb. Dazu kommen Hobbys, Orte und Wetter. So kannst du auch Pläne mit Freunden besprechen.",
+   "beispiele": [
+    "El sábado voy a visitar a mi abuela.",
+    "En verano voy a ir a la playa.",
+    "Este fin de semana voy a descansar."
+   ],
+   "baut_auf": [
+    "sp29",
+    "sp50"
+   ],
+   "quelle": "S. 57",
+   "suche": "spanisch Wochenende Ferien Pläne",
+   "videos": [
+    {
+     "titel": "Spanisch für den Urlaub",
+     "kanal": "Vamos Español",
+     "url": "https://www.yout-ube.com/watch?v=lG8Bz-e81Io"
+    }
+   ]
+  },
+  {
+   "id": "sp35",
+   "nr": 35,
+   "titel": "Handy, Videos und Spiele",
+   "bereich": "Wörter für meine Welt",
+   "klasse": "5/6",
+   "satz": "Du sprichst darüber, welche Apps, Videos und Spiele du nutzt.",
+   "erklaerung": "Viele Wörter rund ums Handy sind aus dem Englischen übernommen. Du kannst sagen, was du gern schaust oder spielst und wie lange. El móvil heißt Handy, und Videos schaut man mit ver.",
+   "beispiele": [
+    "Tengo un móvil, pero no tengo redes sociales.",
+    "Me gusta ver vídeos de animales.",
+    "Juego a los videojuegos una hora al día."
+   ],
+   "baut_auf": [
+    "sp29"
+   ],
+   "quelle": "S. 57",
+   "suche": "spanisch Handy Medien Wörter",
+   "videos": [
+    {
+     "titel": "\"El móvil\" oder \"el celular\"? Latino versus castellano",
+     "kanal": "Vamos Español",
+     "url": "https://www.yout-ube.com/watch?v=SsGyXfaX9_U"
+    }
+   ]
+  },
+  {
+   "id": "sp36",
+   "nr": 36,
+   "titel": "Geburtstag feiern",
+   "bereich": "Wörter für meine Welt",
+   "klasse": "5/6",
+   "satz": "Du gratulierst, lädst zu einer Feier ein und sagst, was es dort gibt.",
+   "erklaerung": "Zum Geburtstag sagst du „¡Feliz cumpleaños!“. Mit einer Einladung sagst du, wann und wo gefeiert wird. Das Geburtstagslied singt man in Spanien auf die bekannte Melodie mit „Cumpleaños feliz“.",
+   "beispiele": [
+    "¡Feliz cumpleaños! ¿Cuántos años cumples?",
+    "¿Quieres venir a mi fiesta el viernes?",
+    "Hay tarta, refrescos y música."
+   ],
+   "baut_auf": [
+    "sp20",
+    "sp31"
+   ],
+   "quelle": "S. 57",
+   "suche": "spanisch Geburtstag feiern",
+   "videos": []
+  },
+  {
+   "id": "sp37",
+   "nr": 37,
+   "titel": "el, la, un, una: die Artikel",
+   "bereich": "Grammatik",
+   "klasse": "5/6",
+   "satz": "Du weißt, welche Wörter männlich und welche weiblich sind, und setzt den passenden Artikel.",
+   "erklaerung": "Jedes spanische Nomen ist entweder männlich oder weiblich, ein drittes Geschlecht wie „das“ gibt es nicht. Wörter auf -o sind meistens männlich und bekommen el oder un. Wörter auf -a sind meistens weiblich und bekommen la oder una.",
+   "beispiele": [
+    "el libro, un chico",
+    "la mesa, una chica",
+    "Ausnahmen merken: el día, la mano"
+   ],
+   "baut_auf": [],
+   "quelle": "S. 51",
+   "suche": "spanisch Artikel el la un una",
+   "videos": [
+    {
+     "titel": "Bestimmte Artikel el, la, los, las - Singular, Plural, Endung einfach erklärt - Spanisch Grammatik",
+     "kanal": "Die Merkhilfe Spanisch",
+     "url": "https://www.yout-ube.com/watch?v=XoSdNcKgDwo"
+    },
+    {
+     "titel": "Unbestimmte Artikel un, una, unos, unas - Singular, Plural, Endungen einfach erklärt - Spanisch",
+     "kanal": "Die Merkhilfe Spanisch",
+     "url": "https://www.yout-ube.com/watch?v=2-yocQsA5aI"
+    }
+   ]
+  },
+  {
+   "id": "sp38",
+   "nr": 38,
+   "titel": "Einer oder viele: der Plural",
+   "bereich": "Grammatik",
+   "klasse": "5/6",
+   "satz": "Du machst aus einem Wort mehrere: el gato, los gatos.",
+   "erklaerung": "Endet ein Wort auf einen Vokal, hängst du ein -s an. Endet es auf einen Konsonanten, hängst du -es an. Die Artikel werden zu los und las.",
+   "beispiele": [
+    "el gato, los gatos",
+    "la flor, las flores",
+    "un libro, unos libros"
+   ],
+   "baut_auf": [
+    "sp37"
+   ],
+   "quelle": "S. 51",
+   "suche": "spanisch Plural Nomen",
+   "videos": [
+    {
+     "titel": "Endungen bei Nomen im Singular & Plural - Geschlecht, Bildung, Beispiele einfach erklärt - Spanisch",
+     "kanal": "Die Merkhilfe Spanisch",
+     "url": "https://www.yout-ube.com/watch?v=uWmmI-jsjRA"
+    },
+    {
+     "titel": "Spanisch: Nomen - einfach erklärt | #spanischfüranfänger #spanisch #spanischunterricht #español",
+     "kanal": "BesserEinfachErklärt",
+     "url": "https://www.yout-ube.com/watch?v=oA2OnCB9jwo"
+    }
+   ]
+  },
+  {
+   "id": "sp39",
+   "nr": 39,
+   "titel": "yo, tú, él: wer etwas tut",
+   "bereich": "Grammatik",
+   "klasse": "5/6",
+   "satz": "Du kennst die Wörter für ich, du, er, sie, wir, ihr und sie.",
+   "erklaerung": "Die Personalpronomen sagen, wer etwas tut: yo, tú, él, ella, nosotros, vosotros, ellos. Im Spanischen lässt man sie oft weg, weil die Verbendung schon zeigt, wer gemeint ist. Mit usted spricht man jemanden höflich an.",
+   "beispiele": [
+    "yo (ich), tú (du), él/ella (er/sie)",
+    "nosotros (wir), vosotros (ihr), ellos/ellas (sie)",
+    "Hablo español: „yo“ braucht man nicht."
+   ],
+   "baut_auf": [],
+   "quelle": "S. 51",
+   "suche": "spanisch Personalpronomen",
+   "videos": [
+    {
+     "titel": "Spanische Personalpronomen - pronombres personales auf Deutsch einfach erklärt - Spanisch Grammatik",
+     "kanal": "Die Merkhilfe Spanisch",
+     "url": "https://www.yout-ube.com/watch?v=DNppMSpf2A8"
+    },
+    {
+     "titel": "Spanisch: Personalpronomen - Subjektpronomen - pronombres personales auf Deutsch einfach erklärt",
+     "kanal": "BesserEinfachErklärt",
+     "url": "https://www.yout-ube.com/watch?v=FCVtC0RUj7Y"
+    }
+   ]
+  },
+  {
+   "id": "sp40",
+   "nr": 40,
+   "titel": "ser: wer oder wie jemand ist",
+   "bereich": "Grammatik",
+   "klasse": "5/6",
+   "satz": "Du sagst, wer du bist, woher du kommst und wie du bist: soy, eres, es.",
+   "erklaerung": "Ser heißt „sein“ und beschreibt, wer jemand ist, woher jemand kommt und wie jemand ist. Ser ist unregelmäßig, die Formen lernst du am besten auswendig. Du kennst schon „soy de Alemania“.",
+   "beispiele": [
+    "soy, eres, es, somos, sois, son",
+    "Soy alemana. Es mi amigo.",
+    "Mis hermanos son muy simpáticos."
+   ],
+   "baut_auf": [
+    "sp39"
+   ],
+   "quelle": "S. 51",
+   "suche": "spanisch ser konjugieren erklärt",
+   "videos": [
+    {
+     "titel": "Verb SER in 60 Sekunden erklärt - Konjugation und Beispiele",
+     "kanal": "Spanisch mit Vicky",
+     "url": "https://www.yout-ube.com/watch?v=XLeuRjTSZ7E"
+    },
+    {
+     "titel": "Ser - Estar - Hay - Wann verwendet man was? Unterschiede, Bildung & Beispiele - Spanische Grammatik",
+     "kanal": "Die Merkhilfe Spanisch",
+     "url": "https://www.yout-ube.com/watch?v=sN4ydIBFjCg"
+    }
+   ]
+  },
+  {
+   "id": "sp41",
+   "nr": 41,
+   "titel": "Es gibt: hay",
+   "bereich": "Grammatik",
+   "klasse": "5/6",
+   "satz": "Du sagst, was es irgendwo gibt: En mi pueblo hay un parque.",
+   "erklaerung": "Hay heißt „es gibt“ und bleibt immer gleich, egal ob eins oder viele. Nach hay steht meist un, una oder eine Zahl, aber kein el oder la. So sagst du, was es irgendwo gibt.",
+   "beispiele": [
+    "En mi calle hay una panadería.",
+    "Hay tres sillas en la cocina.",
+    "¿Hay un baño aquí?"
+   ],
+   "baut_auf": [
+    "sp37"
+   ],
+   "quelle": "S. 51",
+   "suche": "spanisch hay es gibt",
+   "videos": [
+    {
+     "titel": "Spanisch für Anfänger: Das Verb HAY | Was heißt auf Spanisch hay? Verwendung einfach erklärt | HABER",
+     "kanal": "BesserEinfachErklärt",
+     "url": "https://www.yout-ube.com/watch?v=9MLBFtyu4CA"
+    },
+    {
+     "titel": "Ser - Estar - Hay - Wann verwendet man was? Unterschiede, Bildung & Beispiele - Spanische Grammatik",
+     "kanal": "Die Merkhilfe Spanisch",
+     "url": "https://www.yout-ube.com/watch?v=sN4ydIBFjCg"
+    }
+   ]
+  },
+  {
+   "id": "sp42",
+   "nr": 42,
+   "titel": "tener: haben",
+   "bereich": "Grammatik",
+   "klasse": "5/6",
+   "satz": "Du sagst, was du hast und wie alt du bist: tengo, tienes, tiene.",
+   "erklaerung": "Tener heißt „haben“. Im Spanischen sagt man damit auch das Alter: Man „hat“ Jahre. Auch Hunger und Durst „hat“ man: tengo hambre.",
+   "beispiele": [
+    "tengo, tienes, tiene, tenemos, tenéis, tienen",
+    "Tengo doce años.",
+    "Tenemos un perro. Tengo hambre."
+   ],
+   "baut_auf": [
+    "sp39"
+   ],
+   "quelle": "S. 51",
+   "suche": "spanisch tener konjugieren",
+   "videos": []
+  },
+  {
+   "id": "sp43",
+   "nr": 43,
+   "titel": "estar: wo und wie es dir geht",
+   "bereich": "Grammatik",
+   "klasse": "5/6",
+   "satz": "Du sagst, wo etwas ist und wie es dir gerade geht: estoy, estás, está.",
+   "erklaerung": "Estar heißt auch „sein“, aber für Orte und für Zustände, die sich ändern können. Wo etwas ist und wie es dir gerade geht, sagst du mit estar. Wer oder wie jemand grundsätzlich ist, sagst du mit ser.",
+   "beispiele": [
+    "estoy, estás, está, estamos, estáis, están",
+    "Madrid está en España.",
+    "Estoy cansada. Ana está en casa."
+   ],
+   "baut_auf": [
+    "sp40"
+   ],
+   "quelle": "S. 51",
+   "suche": "spanisch ser estar Unterschied",
+   "videos": [
+    {
+     "titel": "Ser - Estar - Hay - Wann verwendet man was? Unterschiede, Bildung & Beispiele - Spanische Grammatik",
+     "kanal": "Die Merkhilfe Spanisch",
+     "url": "https://www.yout-ube.com/watch?v=sN4ydIBFjCg"
+    },
+    {
+     "titel": "Spanisch: Wann verwendet man ser und estar (sein)? Unterschiede, Bildung, Beispiele, Konjugation",
+     "kanal": "BesserEinfachErklärt",
+     "url": "https://www.yout-ube.com/watch?v=V3d7mWPbRMQ"
+    }
+   ]
+  },
+  {
+   "id": "sp44",
+   "nr": 44,
+   "titel": "Adjektive passen sich an",
+   "bereich": "Grammatik",
+   "klasse": "5/6",
+   "satz": "Du verstehst, warum es alto, alta, altos und altas heißt.",
+   "erklaerung": "Adjektive passen sich im Spanischen dem Nomen an, in Geschlecht und Anzahl. Aus alto wird alta, altos oder altas. Adjektive auf -e oder einen Konsonanten haben für männlich und weiblich dieselbe Form.",
+   "beispiele": [
+    "un chico alto, una chica alta",
+    "los perros pequeños, las casas pequeñas",
+    "un libro interesante, una película interesante"
+   ],
+   "baut_auf": [
+    "sp38"
+   ],
+   "quelle": "S. 51",
+   "suche": "spanisch Adjektive Angleichung",
+   "videos": [
+    {
+     "titel": "Spanisch: Adjektive - einfach erklärt | #spanischfüranfänger #spanisch #spanischunterricht #español",
+     "kanal": "BesserEinfachErklärt",
+     "url": "https://www.yout-ube.com/watch?v=ynNtSMoMIvE"
+    },
+    {
+     "titel": "los adjetivos - Stellung der Adjektive in Spanisch - Endungen, Anpassung, Ausnahmen & Beispiele",
+     "kanal": "Die Merkhilfe Spanisch",
+     "url": "https://www.yout-ube.com/watch?v=QtRzQg6h5uQ"
+    }
+   ]
+  },
+  {
+   "id": "sp45",
+   "nr": 45,
+   "titel": "mi, tu, su: wem etwas gehört",
+   "bereich": "Grammatik",
+   "klasse": "5/6",
+   "satz": "Du sagst mein, dein, sein: mi hermano, tus amigos.",
+   "erklaerung": "Mit mi, tu und su sagst du, wem etwas gehört. Bei mehreren Dingen hängst du ein -s an: mis, tus, sus. Su kann „sein“, „ihr“ oder höflich „Ihr“ heißen.",
+   "beispiele": [
+    "mi hermano, mis hermanos",
+    "tu casa, tus libros",
+    "su perro: sein oder ihr Hund"
+   ],
+   "baut_auf": [
+    "sp38"
+   ],
+   "quelle": "S. 51",
+   "suche": "spanisch Possessivbegleiter mi tu su",
+   "videos": [
+    {
+     "titel": "Spanisch: die Possessivbegleiter im Singular - mein, dein sein einfach erklärt /pronombres posesivos",
+     "kanal": "BesserEinfachErklärt",
+     "url": "https://www.yout-ube.com/watch?v=ldyHKiOcMLU"
+    },
+    {
+     "titel": "Unbetonte Possessivbegleiter in Spanisch - pronombres posesivos einfach erklärt",
+     "kanal": "Die Merkhilfe Spanisch",
+     "url": "https://www.yout-ube.com/watch?v=viORX4rr6s8"
+    }
+   ]
+  },
+  {
+   "id": "sp46",
+   "nr": 46,
+   "titel": "Ich mag: gustar",
+   "bereich": "Grammatik",
+   "klasse": "5/6",
+   "satz": "Du sagst, was du magst und was nicht: me gusta, no me gustan.",
+   "erklaerung": "Gustar funktioniert anders als „mögen“: Wörtlich heißt me gusta „mir gefällt“. Gefällt dir eine Sache, sagst du me gusta, gefallen dir mehrere, sagst du me gustan. Mit te gusta fragst du jemanden.",
+   "beispiele": [
+    "Me gusta el chocolate.",
+    "Me gustan los perros.",
+    "¿Te gusta bailar? No, no me gusta."
+   ],
+   "baut_auf": [
+    "sp37"
+   ],
+   "quelle": "S. 51",
+   "suche": "spanisch gustar erklärt",
+   "videos": [
+    {
+     "titel": "Verb gustar im Spanischen richtig verwenden - sagen was man mag | a mí me gusta | einfach erklärt!",
+     "kanal": "BesserEinfachErklärt",
+     "url": "https://www.yout-ube.com/watch?v=E_w1l1K3yCQ"
+    },
+    {
+     "titel": "Was magst du auf Spanisch einfach lernen? - das Verb Gustar Presente und Condicional",
+     "kanal": "Spanisch mit Tomás",
+     "url": "https://www.yout-ube.com/watch?v=JvysgPgYgUI"
+    }
+   ]
+  },
+  {
+   "id": "sp47",
+   "nr": 47,
+   "titel": "Verben auf -ar",
+   "bereich": "Grammatik",
+   "klasse": "5/6",
+   "satz": "Du veränderst Verben wie hablar so, dass sie zu ich, du, er passen.",
+   "erklaerung": "Die meisten spanischen Verben enden auf -ar, zum Beispiel hablar. Du nimmst -ar weg und hängst je nach Person eine Endung an. Diese Endungen gelten für alle regelmäßigen -ar Verben.",
+   "beispiele": [
+    "hablo, hablas, habla, hablamos, habláis, hablan",
+    "Escucho música. Bailamos mucho.",
+    "Andere -ar Verben: estudiar, cantar, nadar, jugar (unregelmäßig)"
+   ],
+   "baut_auf": [
+    "sp39"
+   ],
+   "quelle": "S. 51",
+   "suche": "spanisch Verben ar konjugieren",
+   "videos": [
+    {
+     "titel": "Spanisch: regelmäßige Verben auf -ar einfach erklärt | Bildung, Konjugation, Beispiele | #spanisch",
+     "kanal": "BesserEinfachErklärt",
+     "url": "https://www.yout-ube.com/watch?v=w_jwQeRrjWc"
+    },
+    {
+     "titel": "Verben auf -ar im Spanischen | Konjugation einfach erklärt | Spanisch lernen A1 | schulspanisch.de",
+     "kanal": "schulspanisch",
+     "url": "https://www.yout-ube.com/watch?v=VoS3OPlF8b4"
+    }
+   ]
+  },
+  {
+   "id": "sp48",
+   "nr": 48,
+   "titel": "Verben auf -er und -ir",
+   "bereich": "Grammatik",
+   "klasse": "5/6",
+   "satz": "Du veränderst Verben wie comer und vivir genauso wie die auf -ar.",
+   "erklaerung": "Verben auf -er und -ir funktionieren wie die auf -ar, nur mit anderen Endungen. Bei -er und -ir sind die Endungen fast gleich. Nur bei wir und ihr unterscheiden sie sich.",
+   "beispiele": [
+    "como, comes, come, comemos, coméis, comen",
+    "vivo, vives, vive, vivimos, vivís, viven",
+    "Leo un libro. Escribimos una carta."
+   ],
+   "baut_auf": [
+    "sp47"
+   ],
+   "quelle": "S. 51",
+   "suche": "spanisch Verben er ir konjugieren",
+   "videos": [
+    {
+     "titel": "Spanisch: Wie konjugiere ich Verben richtig? | regelmäßige Verben auf -er und -ir einfach erklärt",
+     "kanal": "BesserEinfachErklärt",
+     "url": "https://www.yout-ube.com/watch?v=kucqoU3lMBg"
+    },
+    {
+     "titel": "Spanisch in der Schule: VERBEN auf -ER und -IR einfach erklärt.Spanisch lernen!",
+     "kanal": "schulspanisch",
+     "url": "https://www.yout-ube.com/watch?v=YtnT-0JPLzA"
+    }
+   ]
+  },
+  {
+   "id": "sp49",
+   "nr": 49,
+   "titel": "Verben mit se: me levanto",
+   "bereich": "Grammatik",
+   "klasse": "5/6",
+   "satz": "Du benutzt Verben wie levantarse und llamarse für deinen Tagesablauf.",
+   "erklaerung": "Manche Verben haben ein „se“ am Ende, zum Beispiel levantarse (aufstehen). Das se wird zu me, te, se und steht vor dem Verb. Du kennst schon eins: me llamo.",
+   "beispiele": [
+    "me levanto, te levantas, se levanta",
+    "Me ducho por la mañana.",
+    "¿Cómo te llamas?"
+   ],
+   "baut_auf": [
+    "sp47"
+   ],
+   "quelle": "S. 51",
+   "suche": "spanisch reflexive Verben",
+   "videos": [
+    {
+     "titel": "Spanisch: reflexive Verben | Verben mit se im Präsens | Bildung Beispiele einfach erklärt|#spanisch",
+     "kanal": "BesserEinfachErklärt",
+     "url": "https://www.yout-ube.com/watch?v=GGOKrBc0WKc"
+    },
+    {
+     "titel": "Reflexive Verben konjugieren in Spanisch im Präsens (El presente) - Bildung, Gebrauch, Beispiele",
+     "kanal": "Die Merkhilfe Spanisch",
+     "url": "https://www.yout-ube.com/watch?v=Sf87N8kbVDg"
+    }
+   ]
+  },
+  {
+   "id": "sp50",
+   "nr": 50,
+   "titel": "Was ich vorhabe: ir a …",
+   "bereich": "Grammatik",
+   "klasse": "5/6",
+   "satz": "Du sagst, was du bald machst: Voy a jugar al fútbol.",
+   "erklaerung": "Was du bald vorhast, sagst du mit ir a und einem Verb in der Grundform. Dafür brauchst du nur die Formen von ir: voy, vas, va. Das ist die einfachste Art, über die Zukunft zu sprechen.",
+   "beispiele": [
+    "Voy a jugar al fútbol.",
+    "¿Qué vas a hacer mañana?",
+    "Vamos a comer pizza."
+   ],
+   "baut_auf": [
+    "sp51"
+   ],
+   "quelle": "S. 51",
+   "suche": "spanisch ir a Infinitiv Zukunft",
+   "videos": [
+    {
+     "titel": "SPANISCH IR + A + INFINITIV: Futuro Próximo lernen A1",
+     "kanal": "Spanisch mit Tomás",
+     "url": "https://www.yout-ube.com/watch?v=1tk9NXbcHTg"
+    },
+    {
+     "titel": "Futur mit ir a - el futuro próximo / inmediato con ir a - Spanisch Zeiten einfach erklärt",
+     "kanal": "Die Merkhilfe Spanisch",
+     "url": "https://www.yout-ube.com/watch?v=l6D2JTb3e2k"
+    }
+   ]
+  },
+  {
+   "id": "sp51",
+   "nr": 51,
+   "titel": "Wichtige unregelmäßige Verben",
+   "bereich": "Grammatik",
+   "klasse": "5/6",
+   "satz": "Du lernst Verben, die aus der Reihe tanzen und oft vorkommen: ir, hacer, ver, decir.",
+   "erklaerung": "Einige sehr häufige Verben halten sich nicht an die Regeln. Die lernst du am besten in kleinen Sätzen, die du oft benutzt. Ir (gehen) ist besonders wichtig.",
+   "beispiele": [
+    "ir: voy, vas, va, vamos, vais, van",
+    "hacer: hago; ver: veo; decir: digo",
+    "Voy al colegio. Hago los deberes."
+   ],
+   "baut_auf": [
+    "sp48"
+   ],
+   "quelle": "S. 51",
+   "suche": "spanisch unregelmäßige Verben Präsens",
+   "videos": [
+    {
+     "titel": "El presente - Unregelmäßige Verben konjugieren im Präsens - Bildung & Beispiele | Spanisch Grammatik",
+     "kanal": "Die Merkhilfe Spanisch",
+     "url": "https://www.yout-ube.com/watch?v=nFPZEhoRxHU"
+    }
+   ]
+  },
+  {
+   "id": "sp52",
+   "nr": 52,
+   "titel": "Wollen, können, müssen",
+   "bereich": "Grammatik",
+   "klasse": "5/6",
+   "satz": "Du sagst, was du willst, kannst oder musst: quiero, puedo, tengo que.",
+   "erklaerung": "Mit querer (wollen), poder (können) und tener que (müssen) plus Grundform sagst du viel mit wenig Grammatik. Bei querer und poder ändert sich der Vokal im Stamm. Das lernst du einfach mit.",
+   "beispiele": [
+    "Quiero ir al cine.",
+    "¿Puedes venir? No puedo.",
+    "Tengo que hacer los deberes."
+   ],
+   "baut_auf": [
+    "sp48",
+    "sp42"
+   ],
+   "quelle": "S. 51",
+   "suche": "spanisch querer poder tener que",
+   "videos": [
+    {
+     "titel": "QUERER / PODER / TENER QUE: die Modalverben einfach für die Schule erklärt!",
+     "kanal": "schulspanisch",
+     "url": "https://www.yout-ube.com/watch?v=eIaDs9XuQwE"
+    },
+    {
+     "titel": "Spanisch: Modalverben - verbos modales (tener que, poder,..) Bildung, Beispiele, Übungen| #spanisch",
+     "kanal": "BesserEinfachErklärt",
+     "url": "https://www.yout-ube.com/watch?v=s-4WkzlcEX0"
+    }
+   ]
+  },
+  {
+   "id": "sp53",
+   "nr": 53,
+   "titel": "Fragen stellen",
+   "bereich": "Grammatik",
+   "klasse": "5/6",
+   "satz": "Du fragst mit qué, dónde, cuándo, cómo, quién und cuántos.",
+   "erklaerung": "Fragewörter haben immer einen Akzent und stehen am Anfang der Frage. Ob ein Satz ohne Fragewort eine Frage ist, hörst du an der Stimme, die am Ende hochgeht. Beim Schreiben helfen ¿ und ?.",
+   "beispiele": [
+    "¿Qué? ¿Dónde? ¿Cuándo? ¿Cómo? ¿Quién? ¿Cuántos?",
+    "¿Dónde vives?",
+    "¿Tienes un perro? (Stimme geht hoch)"
+   ],
+   "baut_auf": [
+    "sp47"
+   ],
+   "quelle": "S. 51",
+   "suche": "spanisch Fragewörter",
+   "videos": [
+    {
+     "titel": "Spanisch: Fragewörter/Fragepronomen - pronombres interrogativos einfach erklärt | Fragen stellen",
+     "kanal": "BesserEinfachErklärt",
+     "url": "https://www.yout-ube.com/watch?v=ua3Yu43sFkE"
+    },
+    {
+     "titel": "Fragewörter / Fragepronomen in Spanisch - pronombres interrogativos einfach erklärt - Grammatik",
+     "kanal": "Die Merkhilfe Spanisch",
+     "url": "https://www.yout-ube.com/watch?v=8BkOeKwVVXk"
+    }
+   ]
+  },
+  {
+   "id": "sp54",
+   "nr": 54,
+   "titel": "Nein sagen: no",
+   "bereich": "Grammatik",
+   "klasse": "5/6",
+   "satz": "Du verneinst einen Satz mit no: No tengo hermanos.",
+   "erklaerung": "Zum Verneinen stellst du einfach no vor das Verb. Auf eine Frage antwortest du oft mit zwei no: „No, no tengo.“ Nunca und nada sind weitere Wörter fürs Verneinen.",
+   "beispiele": [
+    "No hablo ruso.",
+    "¿Tienes hermanos? No, no tengo.",
+    "No me gusta nada."
+   ],
+   "baut_auf": [
+    "sp47"
+   ],
+   "quelle": "S. 51",
+   "suche": "spanisch Verneinung no",
+   "videos": [
+    {
+     "titel": "Die Verneinung ❌ mit \"NO\" einfach erklärt | La negación con NO ❌ | Spanisch für Anfänger #spanisch",
+     "kanal": "BesserEinfachErklärt",
+     "url": "https://www.yout-ube.com/watch?v=gMQFQkZtQSY"
+    },
+    {
+     "titel": "Die Verneinung - spanische Sätze bilden",
+     "kanal": "Spanisch mit Tomás",
+     "url": "https://www.yout-ube.com/watch?v=RTaq6pEgTGQ"
+    }
+   ]
+  },
+  {
+   "id": "sp55",
+   "nr": 55,
+   "titel": "Sätze verbinden",
+   "bereich": "Grammatik",
+   "klasse": "5/6",
+   "satz": "Du verbindest Sätze mit y, o, pero, porque, también und tampoco.",
+   "erklaerung": "Mit kleinen Bindewörtern werden aus kurzen Sätzen längere. Y heißt und, o heißt oder, pero heißt aber, porque heißt weil. Mit también und tampoco sagst du „auch“ und „auch nicht“.",
+   "beispiele": [
+    "Me gusta nadar y bailar.",
+    "Tengo un gato, pero no tengo perro.",
+    "No me gusta el fútbol. A mí tampoco."
+   ],
+   "baut_auf": [
+    "sp54"
+   ],
+   "quelle": "S. 51",
+   "suche": "spanisch Konnektoren y pero porque",
+   "videos": [
+    {
+     "titel": "conectores básicos - Spanische Konnektoren (Verbindungswörter): bessere & flüssigere Texte, Struktur",
+     "kanal": "Die Merkhilfe Spanisch",
+     "url": "https://www.yout-ube.com/watch?v=sw7JBiFcFfI"
+    }
+   ]
+  },
+  {
+   "id": "sp56",
+   "nr": 56,
+   "titel": "Damit und der, der …: para und que",
+   "bereich": "Grammatik",
+   "klasse": "5/6",
+   "satz": "Du sagst, wozu du etwas machst, und verbindest Sätze mit que.",
+   "erklaerung": "Mit para und einem Verb sagst du, wozu du etwas machst. Mit que verbindest du zwei Sätze, ähnlich wie „der“, „die“ oder „das“ im Deutschen. So werden deine Sätze länger und genauer.",
+   "beispiele": [
+    "Estudio español para hablar con mis amigos.",
+    "Tengo una amiga que vive en Madrid.",
+    "Es el libro que me gusta."
+   ],
+   "baut_auf": [
+    "sp55"
+   ],
+   "quelle": "S. 51",
+   "suche": "spanisch para que Relativsatz",
+   "videos": [
+    {
+     "titel": "\"Qué\" oder \"que\"? Wann verwendet man was?",
+     "kanal": "Vamos Español",
+     "url": "https://www.yout-ube.com/watch?v=M8fyh7I3OE4"
+    }
+   ]
+  },
+  {
+   "id": "sp57",
+   "nr": 57,
+   "titel": "Kurze Texte verstehen",
+   "bereich": "Lesen und Schreiben",
+   "klasse": "5/6",
+   "satz": "Du liest Schilder, Plakate und kurze Nachrichten und verstehst das Wichtigste.",
+   "erklaerung": "Kurze Texte wie Schilder oder Nachrichten musst du nicht Wort für Wort verstehen. Schau zuerst auf Bilder, Zahlen und Wörter, die du kennst. Oft erkennst du dann schon, worum es geht.",
+   "beispiele": [
+    "Abierto (geöffnet), cerrado (geschlossen), salida (Ausgang)",
+    "Prohibido bañarse: Baden verboten",
+    "Nachricht: „¿Quedamos a las 5?“"
+   ],
+   "baut_auf": [
+    "sp07"
+   ],
+   "quelle": "S. 20",
+   "suche": "spanisch Leseverstehen Anfänger",
+   "videos": []
+  },
+  {
+   "id": "sp58",
+   "nr": 58,
+   "titel": "Comics und Bildergeschichten lesen",
+   "bereich": "Lesen und Schreiben",
+   "klasse": "5/6",
+   "satz": "Du liest kurze Geschichten mit Bildern und folgst dem, was passiert.",
+   "erklaerung": "Comics und Bildergeschichten sind gute erste Lesetexte, weil die Bilder viel erklären. Lies zuerst nur die Bilder, dann die Sprechblasen. Unbekannte Wörter kannst du oft aus dem Bild erraten.",
+   "beispiele": [
+    "Bekannte Comics auf Spanisch: Mafalda, Mortadelo y Filemón",
+    "Zuerst fragen: Wer? Wo? Was passiert?",
+    "Pro Seite nur zwei oder drei Wörter nachschlagen."
+   ],
+   "baut_auf": [
+    "sp57"
+   ],
+   "quelle": "S. 20",
+   "suche": "spanisch Comic lesen Anfänger",
+   "videos": []
+  },
+  {
+   "id": "sp59",
+   "nr": 59,
+   "titel": "Ein Steckbrief über mich",
+   "bereich": "Lesen und Schreiben",
+   "klasse": "5/6",
+   "satz": "Du schreibst einen kurzen Steckbrief mit Name, Alter, Familie und Hobbys.",
+   "erklaerung": "Ein Steckbrief ist ein kurzer Text mit den wichtigsten Infos über dich. Du kannst dafür deine Sätze zum Vorstellen benutzen. Schreib in kurzen, einfachen Sätzen.",
+   "beispiele": [
+    "Nombre: Lena. Edad: 11 años.",
+    "Vivo en Hannover con mi familia.",
+    "Me gusta dibujar. Mi comida favorita es la pasta."
+   ],
+   "baut_auf": [
+    "sp07",
+    "sp22"
+   ],
+   "quelle": "S. 30",
+   "suche": "spanisch Steckbrief schreiben",
+   "videos": []
+  },
+  {
+   "id": "sp60",
+   "nr": 60,
+   "titel": "Eine Nachricht schreiben",
+   "bereich": "Lesen und Schreiben",
+   "klasse": "5/6",
+   "satz": "Du schreibst eine kurze Nachricht oder Einladung an eine Freundin.",
+   "erklaerung": "Eine Nachricht beginnt mit einem Gruß und endet mit einem Abschied. Dazwischen schreibst du kurz, was du willst. Für Einladungen brauchst du Zeit und Ort.",
+   "beispiele": [
+    "¡Hola Carla! ¿Qué tal?",
+    "¿Quieres venir a mi casa el sábado a las tres?",
+    "¡Hasta pronto! Un beso, Mia"
+   ],
+   "baut_auf": [
+    "sp59",
+    "sp12"
+   ],
+   "quelle": "S. 30",
+   "suche": "spanisch Nachricht schreiben Einladung",
+   "videos": [
+    {
+     "titel": "Eine Einladung...",
+     "kanal": "Spanisch mit Tomás",
+     "url": "https://www.yout-ube.com/watch?v=INVLQ9fbgGU"
+    }
+   ]
+  },
+  {
+   "id": "sp61",
+   "nr": 61,
+   "titel": "Eine Postkarte aus den Ferien",
+   "bereich": "Lesen und Schreiben",
+   "klasse": "5/6",
+   "satz": "Du schreibst eine Postkarte: wo du bist, wie das Wetter ist und was du machst.",
+   "erklaerung": "Auf einer Postkarte schreibst du, wo du bist, wie das Wetter ist und was du machst oder vorhast. Sie beginnt mit „Querida“ oder „Querido“ und endet mit einem Gruß. Kurz und fröhlich reicht völlig.",
+   "beispiele": [
+    "Querida abuela:",
+    "Estoy en Málaga. Hace mucho calor.",
+    "Mañana voy a ir a la playa. Besos, Lena"
+   ],
+   "baut_auf": [
+    "sp33",
+    "sp34"
+   ],
+   "quelle": "S. 30",
+   "suche": "spanisch Postkarte schreiben",
+   "videos": [
+    {
+     "titel": "Wie kann man einen Brief / eine E-mail auf Spanisch schreiben?",
+     "kanal": "Spanisch mit Tomás",
+     "url": "https://www.yout-ube.com/watch?v=T_UruhrSCQo"
+    }
+   ]
+  },
+  {
+   "id": "sp62",
+   "nr": 62,
+   "titel": "Auf Deutsch sagen, was dasteht",
+   "bereich": "Lesen und Schreiben",
+   "klasse": "5/6",
+   "satz": "Du erklärst deiner Familie, was auf einer Speisekarte oder einem Schild steht.",
+   "erklaerung": "Sprachmittlung heißt, dass du jemandem auf Deutsch sagst, was auf Spanisch dasteht. Du übersetzt nicht jedes Wort, sondern nur, was die Person wissen will. Das ist im Urlaub sehr praktisch.",
+   "beispiele": [
+    "Auf der Speisekarte steht, dass es Hähnchen mit Pommes gibt.",
+    "Auf dem Schild steht: Der Laden öffnet um 17 Uhr.",
+    "Frag dich zuerst: Was will die Person wissen?"
+   ],
+   "baut_auf": [
+    "sp57"
+   ],
+   "quelle": "S. 33",
+   "suche": "spanisch Sprachmittlung Anfänger",
+   "videos": []
+  },
+  {
+   "id": "sp63",
+   "nr": 63,
+   "titel": "Wo spricht man Spanisch?",
+   "bereich": "Die spanischsprachige Welt",
+   "klasse": "5/6",
+   "satz": "Du findest auf der Karte die Länder, in denen Spanisch gesprochen wird.",
+   "erklaerung": "Spanisch ist Amtssprache in 20 Ländern, in Europa vor allem in Spanien, die meisten Länder liegen aber in Mittel- und Südamerika. Fast 500 Millionen Menschen sprechen es als Muttersprache. Auch in den USA sprechen viele Menschen Spanisch.",
+   "beispiele": [
+    "España, México, Colombia, Argentina, Perú, Chile …",
+    "Das Land mit den meisten Spanischsprechern ist Mexiko.",
+    "Auch in Äquatorialguinea in Afrika spricht man Spanisch."
+   ],
+   "baut_auf": [],
+   "quelle": "S. 57",
+   "suche": "wo spricht man spanisch Länder",
+   "videos": [
+    {
+     "titel": "Die spanische Sprache in der Welt | Karambolage España | ARTE",
+     "kanal": "Irgendwas mit ARTE und Kultur",
+     "url": "https://www.yout-ube.com/watch?v=RlwkTyyllk0"
+    },
+    {
+     "titel": "Spanisch: 1 Sprache, 5 Unterschiede in der Welt",
+     "kanal": "Spanisch mit Tomás",
+     "url": "https://www.yout-ube.com/watch?v=Xf6Sgiiz49E"
+    }
+   ]
+  },
+  {
+   "id": "sp64",
+   "nr": 64,
+   "titel": "Spanien entdecken",
+   "bereich": "Die spanischsprachige Welt",
+   "klasse": "5/6",
+   "satz": "Du lernst Städte, Landschaften und Sehenswürdigkeiten in Spanien kennen.",
+   "erklaerung": "Spanien liegt im Südwesten Europas und hat Strände, Berge und große Städte. Die Hauptstadt ist Madrid. In manchen Regionen spricht man neben Spanisch noch andere Sprachen, zum Beispiel Katalanisch oder Baskisch.",
+   "beispiele": [
+    "Madrid, Barcelona, Sevilla, Valencia",
+    "La Sagrada Familia in Barcelona, die Alhambra in Granada",
+    "Die Kanarischen Inseln und die Balearen (Mallorca)"
+   ],
+   "baut_auf": [
+    "sp63"
+   ],
+   "quelle": "S. 57",
+   "suche": "Spanien für Kinder erklärt",
+   "videos": [
+    {
+     "titel": "Spannendes über Spanien - Warum heißt Spanien überhaupt Spanien?",
+     "kanal": "Kinderweltreise",
+     "url": "https://www.yout-ube.com/watch?v=7qV7mcEYlaM"
+    }
+   ]
+  },
+  {
+   "id": "sp65",
+   "nr": 65,
+   "titel": "Lateinamerika entdecken",
+   "bereich": "Die spanischsprachige Welt",
+   "klasse": "5/6",
+   "satz": "Du lernst Länder wie Mexiko, Kolumbien und Argentinien kennen.",
+   "erklaerung": "Lateinamerika reicht von Mexiko bis an die Südspitze von Südamerika. Es gibt Regenwald, Wüsten, die Anden und riesige Städte. In fast allen Ländern dort spricht man Spanisch, in Brasilien aber Portugiesisch.",
+   "beispiele": [
+    "México: die Pyramiden von Teotihuacán",
+    "Perú: Machu Picchu in den Anden",
+    "Argentina: Buenos Aires und der Tango"
+   ],
+   "baut_auf": [
+    "sp63"
+   ],
+   "quelle": "S. 57",
+   "suche": "Lateinamerika für Kinder erklärt",
+   "videos": [
+    {
+     "titel": "Peru für Kinder erklärt - eine Reise nach Peru!",
+     "kanal": "Kinderweltreise",
+     "url": "https://www.yout-ube.com/watch?v=H6ey6BJfXw8"
+    },
+    {
+     "titel": "Argentinien - für Kinder erklärt! Eine Reise nach Südamerika | Erdkunde (nicht nur) für Kinder!",
+     "kanal": "Kinderweltreise",
+     "url": "https://www.yout-ube.com/watch?v=kghoEH0sxJQ"
+    }
+   ]
+  },
+  {
+   "id": "sp66",
+   "nr": 66,
+   "titel": "Feste im Jahr",
+   "bereich": "Die spanischsprachige Welt",
+   "klasse": "5/6",
+   "satz": "Du lernst Feste wie die Heiligen Drei Könige, den Día de Muertos und Las Fallas kennen.",
+   "erklaerung": "Viele Feste in der spanischsprachigen Welt sind anders als bei uns. In Spanien bringen die Heiligen Drei Könige am 6. Januar die Geschenke. In Mexiko erinnert man sich am Día de Muertos fröhlich an verstorbene Familienmitglieder.",
+   "beispiele": [
+    "El Día de Reyes (6. Januar) mit dem Roscón de Reyes",
+    "Las Fallas in Valencia: riesige Figuren werden verbrannt",
+    "El Día de Muertos in Mexiko: bunte Totenköpfe aus Zucker"
+   ],
+   "baut_auf": [
+    "sp63"
+   ],
+   "quelle": "S. 57",
+   "suche": "spanische Feste für Kinder",
+   "videos": [
+    {
+     "titel": "Weihnachten in Spanien 🎁 - Fakten zur Kultur, Bräuche & Traditionen einfach erklärt",
+     "kanal": "Die Merkhilfe Spanisch",
+     "url": "https://www.yout-ube.com/watch?v=iyGYvlrNv7o"
+    },
+    {
+     "titel": "Der Tag der unschuldigen Kinder | Karambolage España | ARTE",
+     "kanal": "Irgendwas mit ARTE und Kultur",
+     "url": "https://www.yout-ube.com/watch?v=J6gj98yauT4"
+    }
+   ]
+  },
+  {
+   "id": "sp67",
+   "nr": 67,
+   "titel": "Essen in Spanien und Lateinamerika",
+   "bereich": "Die spanischsprachige Welt",
+   "klasse": "5/6",
+   "satz": "Du lernst typisches Essen kennen und warum in Spanien so spät zu Abend gegessen wird.",
+   "erklaerung": "In Spanien isst man später als bei uns: Mittagessen gibt es oft um 14 Uhr, Abendessen um 21 Uhr. Typisch sind Tapas, kleine Portionen zum Teilen. In Lateinamerika sind Mais, Bohnen und Avocados wichtig.",
+   "beispiele": [
+    "Spanien: la paella, la tortilla de patatas, los churros",
+    "México: los tacos, el guacamole",
+    "Argentina: las empanadas, el dulce de leche"
+   ],
+   "baut_auf": [
+    "sp63"
+   ],
+   "quelle": "S. 57",
+   "suche": "spanisches Essen typisch Kinder",
+   "videos": [
+    {
+     "titel": "Tortilla de Patatas: gar nicht so einfach | Karambolage España | ARTE",
+     "kanal": "Irgendwas mit ARTE und Kultur",
+     "url": "https://www.yout-ube.com/watch?v=V2bD-bjUne0"
+    },
+    {
+     "titel": "Was frühstückt man in Spanien? Wie bestelle ich meinen Kaffee auf Spanisch? || vamos espanol",
+     "kanal": "Vamos Español",
+     "url": "https://www.yout-ube.com/watch?v=qm2xvQnKmRU"
+    }
+   ]
+  },
+  {
+   "id": "sp68",
+   "nr": 68,
+   "titel": "Andere Länder, andere Gewohnheiten",
+   "bereich": "Die spanischsprachige Welt",
+   "klasse": "5/6",
+   "satz": "Du erfährst, wie man sich begrüßt und wann man tú oder usted sagt.",
+   "erklaerung": "In Spanien begrüßt man Freunde und Familie oft mit zwei Küsschen auf die Wangen. Erwachsene, die man nicht kennt, spricht man manchmal mit usted an, das ist wie „Sie“. Im Alltag sagt man in Spanien aber sehr schnell tú.",
+   "beispiele": [
+    "dos besos: rechts und links ein Küsschen",
+    "¿Cómo está usted? (höflich) und ¿Cómo estás? (Freunde)",
+    "In Lateinamerika sagt man öfter usted als in Spanien."
+   ],
+   "baut_auf": [
+    "sp06"
+   ],
+   "quelle": "S. 47",
+   "suche": "Begrüßung Spanien Küsschen usted",
+   "videos": [
+    {
+     "titel": "Verwendet man auf Spanisch Sie oder du? Siezen und Duzen // Vamos Español",
+     "kanal": "Vamos Español",
+     "url": "https://www.yout-ube.com/watch?v=le4zCuJo_iU"
+    }
+   ]
+  },
+  {
+   "id": "sp69",
+   "nr": 69,
+   "titel": "Spanisch klingt nicht überall gleich",
+   "bereich": "Die spanischsprachige Welt",
+   "klasse": "5/6",
+   "satz": "Du hörst Unterschiede zwischen Spanien und Lateinamerika, zum Beispiel beim z und bei vosotros.",
+   "erklaerung": "Spanisch klingt in Spanien anders als zum Beispiel in Mexiko oder Argentinien, so wie Deutsch in Bayern anders klingt als in Hamburg. In Lateinamerika spricht man das z wie ein s, und statt vosotros sagt man ustedes. Verstehen kann man sich trotzdem gut.",
+   "beispiele": [
+    "Spanien: gracias mit th, Lateinamerika: mit s",
+    "Spanien: vosotros tenéis, Lateinamerika: ustedes tienen",
+    "Handy heißt in Spanien el móvil, in Lateinamerika el celular."
+   ],
+   "baut_auf": [
+    "sp02",
+    "sp63"
+   ],
+   "quelle": "S. 47, 55",
+   "suche": "Spanisch Spanien Lateinamerika Unterschiede",
+   "videos": [
+    {
+     "titel": "Spanisch Lateinamerika vs. Spanien 🇲🇽🇪🇸 | Die wichtigsten Unterschiede mit 20 Wörtern lernen",
+     "kanal": "Spanisch mit Tomás",
+     "url": "https://www.yout-ube.com/watch?v=CHWX1YQUoSU"
+    },
+    {
+     "titel": "España México Argentina Perú",
+     "kanal": "Vamos Español",
+     "url": "https://www.yout-ube.com/watch?v=n19OmN7bpZA"
+    }
+   ]
+  },
+  {
+   "id": "sp70",
+   "nr": 70,
+   "titel": "Wörter lernen, die bleiben",
+   "bereich": "Lerntricks",
+   "klasse": "5/6",
+   "satz": "Du probierst Karteikarten, Bilder und kleines tägliches Wiederholen aus.",
+   "erklaerung": "Neue Wörter bleiben besser hängen, wenn du sie oft und in kleinen Portionen wiederholst. Lerne lieber jeden Tag fünf Minuten als einmal pro Woche eine Stunde. Wörter mit Bild oder in einem Satz merkst du dir leichter.",
+   "beispiele": [
+    "Karteikarten: vorne Spanisch, hinten Deutsch und ein Bild",
+    "Bei Nomen immer den Artikel mitlernen: la mesa",
+    "Zettel an Dinge kleben: la puerta, la ventana"
+   ],
+   "baut_auf": [],
+   "quelle": "S. 54",
+   "suche": "Vokabeln lernen Tipps",
+   "videos": [
+    {
+     "titel": "Vokabeln lernen - schnell und dauerhaft mit Karteikarten",
+     "kanal": "Lehrerschmidt",
+     "url": "https://www.yout-ube.com/watch?v=USWdgUkbgYQ"
+    }
+   ]
+  },
+  {
+   "id": "sp71",
+   "nr": 71,
+   "titel": "Spanisch, das du schon kennst",
+   "bereich": "Lerntricks",
+   "klasse": "5/6",
+   "satz": "Du entdeckst Wörter, die wie im Deutschen oder Englischen klingen: chocolate, animal, música.",
+   "erklaerung": "Viele spanische Wörter kennst du schon aus dem Deutschen oder Englischen. Achte auf Endungen: Aus „-tion“ wird oft „-ción“. Aber Vorsicht, manche Wörter sehen gleich aus und bedeuten etwas anderes.",
+   "beispiele": [
+    "el chocolate, el animal, la música, el hotel",
+    "la información, la nación, la estación",
+    "Falle: embarazada heißt schwanger, nicht peinlich!"
+   ],
+   "baut_auf": [],
+   "quelle": "S. 44, 54",
+   "suche": "spanisch Wörter die man schon kennt",
+   "videos": []
+  },
+  {
+   "id": "sp72",
+   "nr": 72,
+   "titel": "Ein Wörterbuch benutzen",
+   "bereich": "Lerntricks",
+   "klasse": "5/6",
+   "satz": "Du schlägst Wörter in einem Online-Wörterbuch nach und hörst dir die Aussprache an.",
+   "erklaerung": "Ein Online-Wörterbuch zeigt dir Übersetzungen und spielt oft die Aussprache ab. Schau bei einem Wort immer, ob es männlich oder weiblich ist. Kostenlos und gut sind zum Beispiel dict.leo.org und pons.com.",
+   "beispiele": [
+    "Suche „Tisch“: la mesa (f = weiblich)",
+    "Bei Verben steht die Grundform: hablar",
+    "Auf das Lautsprechersymbol drücken und nachsprechen."
+   ],
+   "baut_auf": [
+    "sp01"
+   ],
+   "quelle": "S. 54",
+   "suche": "Wörterbuch benutzen spanisch",
+   "videos": []
+  },
+  {
+   "id": "sp73",
+   "nr": 73,
+   "titel": "Laut sprechen, auch allein",
+   "bereich": "Lerntricks",
+   "klasse": "5/6",
+   "satz": "Du sprichst Sätze nach, nimmst dich auf und hörst dich an.",
+   "erklaerung": "Sprechen lernt man nur durch Sprechen, das geht auch allein. Sprich Sätze aus Videos direkt nach, so wie ein Echo. Nimm dich mit dem Handy auf und vergleiche mit dem Original.",
+   "beispiele": [
+    "Ein Video pausieren und den Satz laut nachsprechen",
+    "Beim Zähneputzen auf Spanisch denken: ¿Qué hago hoy?",
+    "Deine Schwester ist die perfekte Gesprächspartnerin!"
+   ],
+   "baut_auf": [
+    "sp02"
+   ],
+   "quelle": "S. 55",
+   "suche": "Spanisch sprechen üben allein",
+   "videos": []
+  },
+  {
+   "id": "sp74",
+   "nr": 74,
+   "titel": "Grammatik selbst herausfinden",
+   "bereich": "Lerntricks",
+   "klasse": "5/6",
+   "satz": "Du findest eine Regel aus Beispielen heraus und prüfst sie mit einem Erklärvideo.",
+   "erklaerung": "Oft kannst du eine Regel selbst herausfinden, wenn du dir ein paar Beispiele genau anschaust. Was ist gleich, was ändert sich? Danach prüfst du mit einem Erklärvideo, ob du richtig lagst.",
+   "beispiele": [
+    "hablo, hablas, habla: Was bleibt, was ändert sich?",
+    "Regel in eigenen Worten aufschreiben",
+    "Mit einem Video oder einer Grammatikseite vergleichen"
+   ],
+   "baut_auf": [
+    "sp47"
+   ],
+   "quelle": "S. 54",
+   "suche": "spanisch Grammatik selbst lernen",
+   "videos": []
+  },
+  {
+   "id": "sp75",
+   "nr": 75,
+   "titel": "Wenn dir ein Wort fehlt",
+   "bereich": "Lerntricks",
+   "klasse": "5/6",
+   "satz": "Du umschreibst, was du meinst: Es una cosa para …, oder zeigst es.",
+   "erklaerung": "Wenn dir ein Wort fehlt, kannst du es umschreiben, statt aufzuhören. Sag, wofür man die Sache benutzt oder wie sie aussieht. Auch Zeigen und Gesten helfen.",
+   "beispiele": [
+    "Es una cosa para escribir. (ein Stift)",
+    "Es un animal grande y gris. (ein Elefant)",
+    "¿Cómo se dice …? Wie sagt man …?"
+   ],
+   "baut_auf": [
+    "sp10"
+   ],
+   "quelle": "S. 54",
+   "suche": "spanisch umschreiben Wort fehlt",
+   "videos": []
+  },
+  {
+   "id": "sp76",
+   "nr": 76,
+   "titel": "Zuhören, ohne alles zu verstehen",
+   "bereich": "Hörverstehen",
+   "klasse": "5/6",
+   "satz": "Du nutzt Bilder, Gesten und bekannte Wörter, um trotzdem zu verstehen, worum es geht.",
+   "erklaerung": "Am Anfang verstehst du beim Zuhören nur einzelne Wörter, und das reicht schon. Achte auf Bilder, Gesichter, Stimmen und Geräusche, sie verraten viel. Schau ein Video ruhig zweimal, beim zweiten Mal verstehst du mehr.",
+   "beispiele": [
+    "Vorher fragen: Worum könnte es gehen?",
+    "Auf Wörter achten, die du kennst, und den Rest erraten",
+    "Untertitel auf Spanisch statt auf Deutsch einschalten"
+   ],
+   "baut_auf": [],
+   "quelle": "S. 16 bis 18",
+   "suche": "spanisch Hörverstehen Tipps",
+   "videos": [
+    {
+     "titel": "Spanisch Hörverstehen A1 - A2 | Wie viel kannst Du verstehen?",
+     "kanal": "Spanisch mit Tomás",
+     "url": "https://www.yout-ube.com/watch?v=8gEwW8BGBKE"
+    }
+   ]
+  },
+  {
+   "id": "sp77",
+   "nr": 77,
+   "titel": "Dreaming Spanish für ganz Neue",
+   "bereich": "Hörverstehen",
+   "klasse": "5/6",
+   "satz": "Du schaust kurze Videos, die extra für Anfänger gemacht sind und mit Bildern erklären.",
+   "erklaerung": "Dreaming Spanish macht Videos für Menschen, die Spanisch durch Zuhören lernen wollen. In den Videos für ganz Neue (Superbeginner) spricht jemand sehr langsam und zeichnet oder zeigt alles. Du musst nichts übersetzen, nur zuschauen und mitdenken.",
+   "beispiele": [
+    "In der Playlist nach „Superbeginner“ suchen",
+    "Jeden Tag ein kurzes Video ist besser als viele auf einmal",
+    "Die Videos sind auf YouTube kostenlos."
+   ],
+   "baut_auf": [
+    "sp76"
+   ],
+   "quelle": "S. 16",
+   "suche": "Dreaming Spanish superbeginner",
+   "videos": [
+    {
+     "titel": "Superbeginner Videos (Suche im Kanal)",
+     "kanal": "Dreaming Spanish",
+     "url": "https://www.youtube.com/@DreamingSpanish/search?query=superbeginner"
+    }
+   ]
+  },
+  {
+   "id": "sp78",
+   "nr": 78,
+   "titel": "Pocoyó auf Spanisch",
+   "bereich": "Hörverstehen",
+   "klasse": "5/6",
+   "satz": "Du schaust Pocoyó: ein Erzähler spricht langsam, klar und mit vielen Wiederholungen.",
+   "erklaerung": "Pocoyó ist eine Serie aus Spanien. Ein Erzähler spricht langsam und deutlich mit Pocoyó, und vieles wiederholt sich. Sie ist für jüngere Kinder gemacht, aber gerade deshalb gut zum Einhören.",
+   "beispiele": [
+    "Hör auf Wörter wie „¡Hola!“, „¿Qué es esto?“ und Farben.",
+    "Eine Folge dauert nur etwa sieben Minuten.",
+    "Sprich die Sätze des Erzählers nach."
+   ],
+   "baut_auf": [
+    "sp76"
+   ],
+   "quelle": "S. 16",
+   "suche": "Pocoyo español episodios completos",
+   "videos": [
+    {
+     "titel": "Pocoyó en español: La Llave Maestra",
+     "kanal": "Pocoyó Español Canal Oficial",
+     "url": "https://www.yout-ube.com/watch?v=V2s32m5oEcw"
+    },
+    {
+     "titel": "📖 POCOYÓ en ESPAÑOL - Especial 2020: El cuento de colores |CARICATURAS y DIBUJOS ANIMADOS para niños",
+     "kanal": "Pocoyó 🇪🇸 Español - Canal Oficial",
+     "url": "https://www.yout-ube.com/watch?v=g8KuwGC0QYQ"
+    }
+   ]
+  },
+  {
+   "id": "sp79",
+   "nr": 79,
+   "titel": "Peppa Pig auf Spanisch",
+   "bereich": "Hörverstehen",
+   "klasse": "5/6",
+   "satz": "Du schaust Peppa Pig auf Spanisch und kennst die Geschichten vielleicht schon.",
+   "erklaerung": "Peppa Pig gibt es auch offiziell auf Spanisch aus Spanien. Die Folgen sind kurz, und die Sätze sind einfach. Vielleicht kennst du die Geschichten schon auf Deutsch, dann verstehst du noch mehr.",
+   "beispiele": [
+    "„¡Me encanta saltar en los charcos!“",
+    "Wörter: mamá, papá, el hermano, la abuela",
+    "Hör darauf, wie Peppa sich vorstellt."
+   ],
+   "baut_auf": [
+    "sp78"
+   ],
+   "quelle": "S. 16",
+   "suche": "Peppa Pig español capítulos completos",
+   "videos": [
+    {
+     "titel": "Peppa Pig Castellano: Episodios Completos Compilación",
+     "kanal": "Peppa Pig Español Canal Oficial",
+     "url": "https://www.yout-ube.com/watch?v=8EtuM5xgpno"
+    },
+    {
+     "titel": "Peppa Pig Español: Episodios Completos Compilación",
+     "kanal": "Peppa Pig Español Canal Oficial",
+     "url": "https://www.yout-ube.com/watch?v=SqZbpMgsE4g"
+    }
+   ]
+  },
+  {
+   "id": "sp80",
+   "nr": 80,
+   "titel": "Kinderlieder zum Mitsingen",
+   "bereich": "Hörverstehen",
+   "klasse": "5/6",
+   "satz": "Du hörst spanische Kinderlieder und singst mit, das hilft bei der Aussprache.",
+   "erklaerung": "In Kinderliedern hörst du einfache Wörter oft hintereinander, und die Melodie hilft beim Merken. Beim Mitsingen übst du nebenbei die Aussprache. Es gibt Lieder zu Zahlen, Farben, Wochentagen und Tieren.",
+   "beispiele": [
+    "„Los días de la semana“: ein Lied zu den Wochentagen",
+    "„Cumpleaños feliz“ zum Geburtstag",
+    "Erst zuhören, dann mitsummen, dann mitsingen"
+   ],
+   "baut_auf": [
+    "sp76"
+   ],
+   "quelle": "S. 16, 55",
+   "suche": "canciones infantiles en español aprender",
+   "videos": [
+    {
+     "titel": "CantaJuego: Los Días De La Semana",
+     "kanal": "CantaJuego Canal Oficial",
+     "url": "https://www.yout-ube.com/watch?v=9Dsn7DUkr8o"
+    },
+    {
+     "titel": "¡Hola! | Canciones Infantiles | Super Simple Español",
+     "kanal": "Super Simple Español - Canciones Infantiles Y Más",
+     "url": "https://www.yout-ube.com/watch?v=4deUxsQOGps"
+    },
+    {
+     "titel": "Si Estás Feliz | Canciones Infantiles | Super Simple Español",
+     "kanal": "Super Simple Español - Canciones Infantiles Y Más",
+     "url": "https://www.yout-ube.com/watch?v=lU8zZjBV53M"
+    }
+   ]
+  },
+  {
+   "id": "sp81",
+   "nr": 81,
+   "titel": "Bluey auf Spanisch",
+   "bereich": "Hörverstehen",
+   "klasse": "5/6",
+   "satz": "Du schaust Bluey: hier wird schneller gesprochen, also eher etwas für später.",
+   "erklaerung": "Bluey ist eine Serie über eine Hundefamilie, die es offiziell auf Spanisch aus Spanien gibt. Hier wird schneller und alltäglicher gesprochen als bei Pocoyó oder Peppa. Probier sie aus, wenn die anderen schon gut klappen.",
+   "beispiele": [
+    "Hör auf Wörter für Familie und Spiele: jugar, papá, mamá",
+    "Lieber eine Folge zweimal als zwei verschiedene",
+    "Spanische Untertitel einschalten, falls vorhanden"
+   ],
+   "baut_auf": [
+    "sp79"
+   ],
+   "quelle": "S. 16",
+   "suche": "Bluey en español",
+   "videos": [
+    {
+     "titel": "Bluey: La tortilla (Episodio completo)",
+     "kanal": "Disney Junior España",
+     "url": "https://www.yout-ube.com/watch?v=a-5gM3a_8n8"
+    },
+    {
+     "titel": "Bluey: Casita (Episodio completo)",
+     "kanal": "Disney Junior España",
+     "url": "https://www.yout-ube.com/watch?v=f-BJY8Ol3sk"
+    }
+   ]
+  },
+  {
+   "id": "sp82",
+   "nr": 82,
+   "titel": "Zahlen und Zeiten heraushören",
+   "bereich": "Hörverstehen",
+   "klasse": "5/6",
+   "satz": "Du hörst gezielt auf Preise, Uhrzeiten und Orte in kurzen Aufnahmen.",
+   "erklaerung": "Beim gezielten Zuhören achtest du nur auf eine Sache, zum Beispiel einen Preis oder eine Uhrzeit. Alles andere darfst du überhören. Überlege vorher, welche Zahlen oder Wörter kommen könnten.",
+   "beispiele": [
+    "Am Bahnhof: „El tren sale a las diez y cuarto.“",
+    "Auf dem Markt: „Son tres euros con cincuenta.“",
+    "Schreib die Zahl sofort auf, die du hörst."
+   ],
+   "baut_auf": [
+    "sp18",
+    "sp21",
+    "sp76"
+   ],
+   "quelle": "S. 17",
+   "suche": "spanisch Zahlen Uhrzeit Hörverstehen",
+   "videos": [
+    {
+     "titel": "Spanisch Hörverstehen A1 - A2 | Wie viel kannst Du verstehen?",
+     "kanal": "Spanisch mit Tomás",
+     "url": "https://www.yout-ube.com/watch?v=8gEwW8BGBKE"
+    },
+    {
+     "titel": "Lerne die Uhrzeit auf Spanisch + Quiz!",
+     "kanal": "Conjaki",
+     "url": "https://www.yout-ube.com/watch?v=ZIkey2X1nnI"
+    }
+   ]
+  }
+ ]
+}

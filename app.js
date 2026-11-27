@@ -1,11 +1,11 @@
 "use strict";
 
-/* Fächer: Mathe, Deutsch, Englisch und Musik sind fertig, die anderen folgen. */
+/* Fächer: Mathe, Deutsch, Englisch, Spanisch und Musik sind fertig, die anderen folgen. */
 const FAECHER = [
   { id: "mathe", name: "Mathe", sym: "🔢", farbe: "#3b7dd8", datei: "data/mathe.json" },
   { id: "deutsch", name: "Deutsch", sym: "📖", farbe: "#d0533f", datei: "data/deutsch.json" },
   { id: "englisch", name: "Englisch", sym: "🇬🇧", farbe: "#7a5bd6", datei: "data/englisch.json" },
-  { id: "spanisch", name: "Spanisch", sym: "🇪🇸", farbe: "#e2a316" },
+  { id: "spanisch", name: "Spanisch", sym: "🇪🇸", farbe: "#e2a316", datei: "data/spanisch.json" },
   { id: "nawi", name: "NaWi", sym: "🔬", farbe: "#2e9e5b" },
   { id: "gl", name: "Gesellschaftslehre", sym: "🌍", farbe: "#2a9bb0" },
   { id: "musik", name: "Musik", sym: "🎵", farbe: "#c2508f", datei: "data/musik.json" }
@@ -98,6 +98,7 @@ const klasseText = k => k === "ab 7" ? "oft ab Klasse 7" : `oft in Klasse ${k}`;
 const SUCHKANAELE = {
   standard: ["Lehrerschmidt", "einfach Schule", "Die Merkhilfe"],
   englisch: ["Einfach Englisch", "BBC Learning English", "Mr Kay Erklärt Englisch"],
+  spanisch: ["Die Merkhilfe Spanisch", "BesserEinfachErklärt", "Spanisch mit Vicky"],
   musik: ["MusikDurchblick", "Musiklehrer", "erklaerung-und-mehr"]
 };
 
